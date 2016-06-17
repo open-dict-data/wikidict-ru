@@ -1,0 +1,923 @@
+Afelika	Африка
+Japan	Япония
+Norge	Норвегия
+Hongrie	Венгрия
+Espania	Испания
+Belezi	Бельгия
+Luxembourg	Люксембург
+Ntoto	Земля
+Muntu	Человек разумный
+Finlandi	Финляндия
+Suedi	Швеция
+Danemark	Дания
+Pologne	Польша
+Lietuva	Литва
+Italia	Италия
+Suisi	Швейцария
+Autriche	Австрия
+Gelesi	Греция
+Turki	Турция
+Mputulukesi	Португалия
+Mputu	Европа
+Azia	Азия
+Pays-Bas	Нидерланды
+Berlin	Берлин
+Ludinatelo	Компьютер
+Paris	Париж
+Kenya	Кения
+Itiopia	Эфиопия
+Gana	Гана
+Nkosi	Лев
+Fwalansa	Франция
+Royaume-Uni	Великобритания
+Nyawu	Кошка
+Sina	Китайская Народная Республика
+Kifalanse	Французский язык
+Brazil	Бразилия
+François Hollande	Олланд, Франсуа
+Rusia	Россия
+Kalunga	Море
+Alemanyi	Германия
+Belarusia	Белоруссия
+Kidoitce	Немецкий язык
+Islande	Исландия
+Estonia	Эстония
+Ndèke	Самолёт
+Vita	Война
+4 (ntalu)	4 (число)
+Latvia	Латвия
+Uklenyi	Украина
+République tchèque	Чехия
+Slovakia	Словакия
+Slovenia	Словения
+Vilnius	Вильнюс
+Moldova	Молдавия
+Romania	Румыния
+Balgaria	Болгария
+Roma	Рим
+Makedonia	Республика Македония
+Albania	Албания
+Kroatia	Хорватия
+Bosna	Босния и Герцеговина
+Azerbaidjan	Азербайджан
+Andora	Андорра
+Kipros	Республика Кипр
+Kazakhstan	Казахстан
+Malta	Мальта
+Monako	Монако
+Monte Negro	Черногория
+Vatican	Ватикан
+Saint-Marin	Сан-Марино
+Repubilika ya Afelika ya Sudi	Южно-Африканская Республика
+Algeria	Алжир
+Uzbekistan	Узбекистан
+Maza	Вода
+Chile	Чили
+Yesu	Иисус Христос
+Ndinga	Язык
+Kizabu	Наука
+Liechtenstein	Лихтенштейн
+Ubuntu	Ubuntu
+Skopje	Скопье
+Kilatini	Латинский язык
+Bahrain	Бахрейн
+Armenia	Армения
+Serbie	Сербия
+Australia	Австралия
+Fizika	Физика
+Kisilamu	Ислам
+Dinu	Зуб (биология)
+Mweta	Планета
+Moskva	Москва
+Saint Petersburg	Санкт-Петербург
+Tasadi	Чад
+Nôde	Север
+India	Индия
+Kibende	Железо
+Kibulu	Животные
+Mutako	Медь
+Ayiti	Республика Гаити
+Iran	Иран
+Israel	Израиль
+Jordan	Иордания
+Kuwait	Кувейт
+Amelika	Америка
+Oman	Оман
+Qatar	Катар
+Lukalu	Поезд
+Vietnam	Вьетнам
+Wolo	Золото
+Mali	Мали
+Ngola	Ангола
+Tanzania	Танзания
+Repubilika ya Afelika ya Kati	Центральноафриканская Республика
+Togo	Того
+Tunisia	Тунис
+Zambia	Замбия
+Zimbabwe	Зимбабве
+Beijing (kizunga)	Пекин
+Sudan ya Sudi	Южный Судан
+Benin	Бенин
+Botswana	Ботсвана
+Burkina Faso	Буркина-Фасо
+Burundi	Бурунди
+Komoro	Коморы
+Repubilika ya Kôngo	Республика Конго
+Repubilika ya Kôngo ya Dimokalasi	Демократическая Республика Конго
+Djibuti	Джибути
+Bavaria	Бавария
+Ginea ya Ekwatelo	Экваториальная Гвинея
+Baden-Württemberg	Баден-Вюртемберг
+Eritrea	Эритрея
+Ngabu	Габон
+Gambia	Гамбия
+Ginea	Гвинея
+Ginea-Bisau	Гвинея-Бисау
+Côte d'Ivoire	Кот-д’Ивуар
+Kamerun	Камерун
+Kap Verde	Кабо-Верде
+Lesotho	Лесото
+Liberia	Либерия
+Libia	Ливия
+Malagasi	Мадагаскар
+Malawi	Малави
+Stuttgart	Штутгарт
+Moritania	Мавритания
+Mauritius	Маврикий
+Maroko	Марокко
+Musambiki	Мозамбик
+Namibia	Намибия
+Nijer	Нигер
+Nizeria	Нигерия
+Uganda	Уганда
+Rwanda	Руанда
+Santu Tome na Prinsipe	Сан-Томе и Принсипи
+Senangale	Сенегал
+Seychell	Сейшельские Острова
+Sierra Leone	Сьерра-Леоне
+Sômâlia	Сомали
+Sudan	Судан
+Swati	Свазиленд
+Hamburg	Гамбург
+Langi	Цвет
+Prague	Прага
+Bule	Синий цвет
+Schleswig-Holstein	Шлезвиг-Гольштейн
+Mecklenburg-Vorpommern	Мекленбург-Передняя Померания
+Niedersachsen	Нижняя Саксония
+Nordrhein-Westfalen	Северный Рейн-Вестфалия
+Hessen	Гессен
+Rheinland-Pfalz	Рейнланд-Пфальц
+Saarland	Саар
+Sachsen	Саксония (земля)
+Thüringen	Тюрингия
+Sachsen-Anhalt	Саксония-Анхальт
+Brandenburg	Бранденбург
+Bremen (kizunga)	Бремен (земля)
+Kalasi:Categories	Категория:Всё
+Kispanya	Испанский язык
+Mbuma	Плод
+Uetersen	Итерзен
+Tomabîlu	Автомобиль
+Bordo	Бордо
+Barcelona	Барселона
+Nanasi	Ананас крупнохохолковый
+Kihindi	Хинди
+Potsdam	Потсдам
+Munich	Мюнхен
+Stockholm	Стокгольм
+Vaduz	Вадуц
+Biblia	Библия
+Ho Chi Minh City	Хошимин
+Dibundu ya Kieleka ya Yesu	Церковь истинного Иисуса
+Kingelezi	Английский язык
+Đồng Hới	Донгхой
+Concepción	Консепсьон (город, Чили)
+Końskowola	Коньсковоля
+1917	1917 год
+Kurów	Курув
+1971	1971 год
+1969	1969 год
+Santiago de Chile	Сантьяго
+Loire-Atlantique	Атлантическая Луара
+Ain (kizunga)	Эн (департамент)
+Aisne (kizunga)	Эна (департамент)
+Vosges (kizunga)	Вогезы (департамент)
+Allier (kizunga)	Алье
+Jura (kizunga)	Юра (департамент)
+Hautes-Alpes	Верхние Альпы
+Alpes-de-Haute-Provence	Альпы Верхнего Прованса
+Alpes-Maritimes	Приморские Альпы (департамент)
+Ardèche (kizunga)	Ардеш
+Ardennes (kizunga)	Арденны (департамент)
+Ariège (kizunga)	Арьеж
+Aube (kizunga)	Об (департамент)
+Aude (kizunga)	Од (департамент)
+Aveyron (kizunga)	Аверон
+Bouches-du-Rhône	Буш-дю-Рон
+Calvados (kizunga)	Кальвадос (департамент)
+Cantal (kizunga)	Канталь
+Charente (kizunga)	Шаранта
+Charente-Maritime	Приморская Шаранта
+Cher (kizunga)	Шер (департамент)
+Corrèze (kizunga)	Коррез
+Haute-Corse	Верхняя Корсика
+Corse-du-Sud	Южная Корсика
+Côte-d'Or	Кот-д’Ор
+Côtes-d'Armor	Кот-д’Армор
+Creuse (kizunga)	Крёз (департамент)
+Dordogne (kizunga)	Дордонь
+Doubs (kizunga)	Ду (департамент)
+Drôme (kizunga)	Дром (департамент)
+Essonne (kizunga)	Эсон (департамент)
+Eure (kizunga)	Эр (департамент)
+Eure-et-Loir	Эр и Луар
+Finistère	Финистер
+Nilo	Нил
+Nzâdi Kôngo	Конго (река)
+Adis Abeba	Аддис-Абеба
+Ndjamena	Нджамена
+Bamako	Бамако
+Chiguayante	Чигуаянте
+Guyane	Французская Гвиана
+Chillán	Чильян
+Abuja	Абуджа
+Tübingen	Тюбинген
+Libreville	Либревиль
+Kinsasa	Киншаса
+Balazavile	Браззавиль
+Dodoma	Додома
+Lwanda	Луанда
+Windhoek	Виндхук
+Mubu	Река
+Osasko	Озаску
+Kuritiba	Куритиба
+Afelika ya Lumonso	Западная Африка
+Georgia (country)	Джорджия (значения)
+Kiyesu	Христианство
+Kontina	Континент
+Mbanza ya kimfumu	Столица
+Monzón	Монсон
+Kimputulukesi	Португальский язык
+Ngonda (manaka)	Месяц
+Almazán	Альмасан
+Mukânda ya ngudi	Заглавная страница
+Saratov	Саратов
+Troyes	Труа
+Kalasi:Candidates for speedy deletion	Категория:Википедия:К быстрому удалению
+Montpellier	Монпелье
+Carcassonne	Каркасон
+Poitiers	Пуатье
+Agen	Ажен
+Kimvuka ya Afelika	Африканский союз
+Dimokalasi	Демократия
+Bayuda	Евреи
+Nyama ya mabele	Млекопитающие
+Nzau	Слон
+Kiswahili	Суахили
+Kitsunkwo	Китайский язык
+Kalasi:Falanse	Категория:Франция
+Kalasi:Musique	Категория:Музыка
+Bumpika	Рабство
+Shanghai (kizunga)	Шанхай
+Málaga	Малага
+Lukwikilu	Религия
+Kibang'la	Бенгальский язык
+Ronald Reagan	Рейган, Рональд
+Kizulu	Зулу
+Sasa	Зазаки
+Kutanga	Арифметика
+Dikâlu (velo)	Велосипед
+Chongqing (kizunga)	Чунцин
+Tianjin (kizunga)	Тяньцзинь
+Yinsi	Алфавитный список стран и территорий
+Mukaba ya ntangu	Часовой пояс
+Sida	ВИЧ-инфекция
+Gard	Гар (департамент)
+Gers (kizunga)	Жер (департамент)
+Gironde (kizunga)	Жиронда
+Haute-Garonne	Верхняя Гаронна
+Hauts-de-Seine	О-де-Сен
+Hérault (kizunga)	Эро (департамент)
+Ille-et-Vilaine	Иль и Вилен
+Indre (kizunga)	Эндр (департамент)
+Indre-et-Loire	Эндр и Луара
+Isère (kizunga)	Изер (департамент)
+Landes (kizunga)	Ланды (департамент)
+Loir-et-Cher	Луар и Шер
+Loire (kizunga)	Луара (департамент)
+Haute-Loire	Верхняя Луара
+Loiret (kizunga)	Луаре
+Lot (kizunga)	Ло (департамент)
+Lot-et-Garonne	Ло и Гаронна
+Lozère (kizunga)	Лозер
+Maine-et-Loire	Мен и Луара
+Manche (kizunga)	Манш
+Marne (kizunga)	Марна (департамент)
+Haute-Marne	Верхняя Марна
+Mayenne (kizunga)	Майен (департамент)
+Meurthe-et-Moselle	Мёрт и Мозель
+Meuse (kizunga)	Мёз (департамент)
+Morbihan	Морбиан
+Moselle (kizunga)	Мозель (департамент)
+Nièvre (kizunga)	Ньевр
+Nord (kizunga)	Нор (департамент)
+Oise (kizunga)	Уаза (департамент)
+Orne (kizunga)	Орн (департамент)
+Pas-de-Calais	Па-де-Кале (департамент)
+Puy-de-Dôme	Пюи-де-Дом
+Hautes-Pyrénées	Верхние Пиренеи
+Pyrénées-Atlantiques	Атлантические Пиренеи
+Pyrénées-Orientales	Восточные Пиренеи
+Bas-Rhin	Нижний Рейн
+Haut-Rhin	Верхний Рейн
+Haute-Saône	Верхняя Сона
+Saône-et-Loire	Сона и Луара
+Sarthe (kizunga)	Сарта (департамент)
+Savoie (kizunga)	Савойя (департамент)
+Haute-Savoie	Верхняя Савойя
+Seine-et-Marne	Сена и Марна
+Seine-Maritime	Приморская Сена
+Seine-Saint-Denis	Сен-Сен-Дени
+Deux-Sèvres	Дё-Севр
+Somme (kizunga)	Сомма (департамент)
+Tarn (kizunga)	Тарн
+Tarn-et-Garonne	Тарн и Гаронна
+Territoire de Belfort	Территория Бельфор
+Val-d'Oise	Валь-д’Уаз
+Val-de-Marne	Валь-де-Марн
+Var (kizunga)	Вар (департамент)
+Vaucluse (kizunga)	Воклюз
+Vendée (kizunga)	Вандея
+Vienne (kizunga)	Вьенна (департамент)
+Haute-Vienne	Верхняя Вьенна
+Yonne (kizunga)	Йонна
+Yvelines	Ивелин
+Hualqui	Уальки
+Nerja	Нерха (Испания)
+Torrox	Торрокс
+Moclinejo	Моклинехо
+Ronda	Ронда
+Alcaucín	Алькаусин
+Cañete la Real	Каньете-ла-Реаль
+Kixhosa	Коса (язык)
+Kilabu	Арабский язык
+Kapoti	Презерватив
+Kiunsita	Окситанский язык
+Lebu	Лебу
+Guangdong	Гуандун
+Guangxi Zhuang	Гуанси-Чжуанский автономный район
+Los Ángeles (Chile)	Лос-Анхелес (Чили)
+Jiangsu	Цзянсу
+Zhejiang	Чжэцзян
+Guadeloupe	Гваделупа
+Madinina	Мартиника
+Mayota	Майотта
+La Réunion	Реюньон
+Xizang	Тибетский автономный район
+Heilongjiang	Хэйлунцзян
+San Pedro de la Paz	Сан-Педро-де-ла-Пас
+Nha Trang	Нячанг
+Rafael Correa	Корреа, Рафаэль
+Motorhead	Motörhead
+Mbuluku	Домашний осёл
+Sichuan	Сычуань
+Juan Carlos I	Хуан Карлос I
+Vung Tau	Вунгтау
+API	Международный фонетический алфавит
+Hebei	Хэбэй
+Kibaha	Бахаи
+Irlande	Ирландия (остров)
+Mposo	Неделя
+Lordi	Lordi
+Marseille	Марсель
+Moshchena	Мощёная
+Paltoga	Палтога
+Entrena	Энтрена
+Podgorica	Подгорица
+Ntu	Голова
+Muyimbu ya nsi	Государственный гимн
+Nzila ya busula	Стороны света
+Rammstein	Rammstein
+Ca Mau	Камау
+Da Lat	Далат
+Da Nang	Дананг
+Racibórz	Рацибуж
+Phan Thiet	Фантхьет
+Université Niccolò Cusano	Университет Николая Кузанского
+Afelika ya Node	Северная Африка
+Afelika ya Sudi	Южная Африка
+Afelika ya Lunene	Восточная Африка
+Modern Talking	Modern Talking
+Afelika ya Kati	Центральная Африка
+Magribia	Магриб
+Nyosi	Медоносная пчела
+Mbele	Нож
+Bandinga ya kibantu	Банту (языки)
+Patua	Диалект
+Kisikôngo	Конго (язык)
+Nice	Ницца
+Kishona	Шона (язык)
+Nsangu ya mbote	Евангелие
+Yingo	Леопард
+Kifalu	Носороговые
+Busula	Компас
+Bambangi ya Yehowa	Свидетели Иеговы
+Kinobenia	Овернский диалект
+Kigasuku	Гасконский язык
+Kikôngo	Китуба
+Kimbundu	Северный мбунду
+Kongo	Конго
+Kiluba	Луба-катанга
+Dingala	Лингала
+Kibubu	Гориллы
+Arancón	Аранкон
+Zandu	Рынок
+Tosa Inu	Тоса-ину
+Soka	Топор
+Ágreda	Агреда
+.cg	.cg
+Sizo	Ножницы
+Anhui	Аньхой
+Nei Mongol	Внутренняя Монголия
+Świnoujście	Свиноуйсьце
+Fujian	Фуцзянь
+Talcahuano	Талькауано
+Clermont-Ferrand	Клермон-Ферран
+Hainan	Хайнань
+Gansu	Ганьсу
+Dikûmbi	Транспортное средство
+Mafuta	Масло
+Yunnan	Юньнань
+Shandong	Шаньдун
+Henan	Хэнань
+Liaoning	Ляонин
+Dikongo	Копьё
+Jilin	Гирин
+Hunan	Хунань
+Qinghai	Цинхай
+Rhône (kizunga)	Рона (департамент)
+Hubei	Хубэй
+Shanxi	Шаньси
+Guizhou	Гуйчжоу
+Charleville-Mézières	Шарлевиль-Мезьер
+Shaanxi	Шэньси
+Template:Commonscat	Шаблон:Commonscat
+Kitupi	Тупи (язык)
+Jiangxi	Цзянси
+Joseph Kabila	Кабила, Жозеф
+Deni Sasu Ngeso	Сассу-Нгессо, Дени
+Ningxia Hui	Нинся-Хуэйский автономный район
+Kimpenzi	Шимпанзе
+Nzeniele	Инженер
+La Rochelle	Ла-Рошель
+Mandioko	Маниок съедобный
+Dalapo ya Ngabu	Флаг Габона
+Kuvete ya Wesete	Западный Кювет
+Maniema	Маниема
+Kôngo ya Kati	Центральное Конго (провинция)
+Kivu ya Node	Северное Киву
+Nkwezo	Резина
+Bourges	Бурж
+Albi	Альби
+Bourg-en-Bresse	Бурк-ан-Брес
+Angoulême	Ангулем
+Bansi ya balabu	Арабский мир
+Tulle	Тюль (Франция)
+Nzila ya lukalu	Железнодорожный путь
+Dalapo ya Repubilika ya Kôngo	Флаг Республики Конго
+Dalapo ya Repubilika ya Kongo Demokratiki	Флаг Демократической Республики Конго
+Laon	Лан (город)
+Kabinda (kizunga)	Кабинда
+Bambenga	Пигмеи
+Babantu	Банту (группа народов)
+Châteauroux	Шатору
+Villa Alemana	Вилья-Алемана
+Gap	Гап (город)
+Caltojar	Кальтохар
+Vodu	Вуду
+Berlanga de Duero	Берланга-де-Дуэро
+Digne	Динь-ле-Бен
+Saint-Lô	Сен-Ло
+Foix	Фуа (город)
+Moulins	Мулен (Алье)
+Kenge	Кенге
+Mont-de-Marsan	Мон-де-Марсан
+Guéret	Гере (Крёз)
+Berat (kizunga)	Берат (область)
+La Roche-sur-Yon	Ла-Рош-сюр-Йон
+Bengo	Бенго
+Mende	Манд
+Vlorë (kizunga)	Влёра (область)
+Durrës (kizunga)	Дуррес (область)
+Dibër	Дибра (область)
+Privas	Прива
+Lezhë (kizunga)	Лежа (область)
+Shkodër (kizunga)	Шкодер (область)
+Gjirokastër (kizunga)	Гирокастра (область)
+Korçë (kizunga)	Корча (область)
+Elbasan (kizunga)	Эльбасан (область)
+Łobez	Лобез
+Kizûnga Nzâdi	Заире
+Goma	Гома
+Joseph Kasa Vubu	Касавубу, Жозеф
+Bandinga ya Afrika	Языки Африки
+Bidimbu ya Repubilika ya Kongo Demokratiki	Эмблема Демократической Республики Конго
+Gaitana	Гайтана
+Mbandaka	Мбандака
+Matadi	Матади
+Kizûnga Wizi	Уиже
+Telama besi Kongo	Гимн Демократической Республики Конго
+Lubitu	Лобиту
+Mboma	Бома
+Ndindi	Пуэнт-Нуар
+Angola Avante	Гимн Анголы
+Tirana (kizunga)	Тирана (область)
+Muamba	Пальмовое масло
+Kukës (kizunga)	Кукес (область)
+Fier (kizunga)	Фиери (область)
+Wanzio	Ангел
+Kimpubensawu	Провансальский диалект
+Mobilisa	Мобилизация
+Dolizi	Лубомо
+Bambanza ya Kongo-Kinsasa	Города Демократической Республики Конго
+Álora	Алора
+Kasâyi (kizûnga)	Касаи (провинция)
+Kikwit	Киквит
+Antoine Gizenga	Гизенга, Антуан
+Serebro	Serebro
+La Congolaise	Гимн Республики Конго
+Adolphe Muzito	Музито, Адольф
+Almaluez	Альмалуэс
+Faraján	Фарахан
+Cútar	Кутар
+Tshuapa	Чуапа
+Kilemusi	Лимузенский диалект
+Tsiowa	Кабинда (Ангола)
+Masuku	Франсвиль
+Bambundu	Северные мбунду
+Kaudai	Каодай
+Paramore	Paramore
+Aliud	Альюд
+Baraona	Бараона
+Medinaceli	Мединасели
+Marbella	Марбелья
+Láchar	Лачар
+Burgo de Osma-Ciudad de Osma	Бурго-де-Осма-Сьюдад-де-Осма
+Kivu ya Sudi	Южное Киву
+Benalmádena	Бенальмадена
+Comares	Комарес
+Fuengirola	Фуэнхирола
+Torremolinos	Торремолинос
+Vélez-Málaga	Велес-Малага
+Mijas	Михас
+Estepona	Эстепона
+Mbânza Kôngo	Мбанза-Конго
+Navaleno (Soria)	Навалено
+Atajate	Атахате
+Kwilu (Kikwit)	Квилу
+Antequera	Антекера
+Kamina	Камина
+Dévanos	Деванос
+FLEC	Фронт за освобождение анклава Кабинда
+Repubilika ya Kongo ya Kati	Республика Конго (Леопольдвиль)
+Bakôngo	Конго (народ)
+Arenas	Аренас (футбольный клуб, Гечо)
+Villanueva del Rosario	Вильянуэва-дель-Росарио
+Magaña	Маганья
+Karibe	Вест-Индия
+Centenera de Andaluz	Сентенера-де-Андалус
+Periana	Перьяна
+Bandundu	Бандунду
+Simoni Kimbangu	Кимбангу, Симон
+Tolox	Толокс
+Dizanga Malebo	Заводь Малебо
+CAKE	Cake (группа)
+Kizunga Kwango	Кванго (провинция)
+Bernard Kolélas	Колелас, Бернар Бакана
+Kuvete	Кювет (департамент)
+Bayaka	Ака (пигмеи)
+Kôngo ya Ntotila	Королевство Конго
+Baluba	Луба (народ)
+Banana	Банана (Демократическая Республика Конго)
+Bateke	Батеке (народ)
+Kisinto	Синтоизм
+Benahavís	Бенаавис
+Benalauría	Беналаурия
+Benaoján	Бенаохан
+Benarrabá	Бенарраба
+Buenza	Буэнза
+Almarza	Альмарса
+Aldealices	Альдеалисес
+Aldealafuente	Альдеалафуэнте
+Alentisque	Алентиске
+Adradas	Адрадас
+Alconaba	Альконаба
+Abejar	Абехар
+Almajano	Альмахано
+Arenillas	Аренильяс
+Aldealpozo	Альдеальпосо
+Alcubilla de las Peñas	Алькубилья-де-лас-Пеньяс
+Aldealseñor	Альдеальсеньор
+Alcubilla de Avellaneda	Алькубилья-де-Авельянеда
+Covaleda	Коваледа
+Casarejos	Касарехос
+Cerbón	Сербон
+Calatañazor	Калатаньясор
+Almazul	Альмасуль
+Cidones	Сидонес
+Alpanseque	Альпансеке
+Arcos de Jalón	Аркос-де-Халон
+Aldehuela de Periáñez	Альдеуэла-де-Перианьес
+Beratón	Бератон
+Almenar de Soria	Альменар-де-Сория
+Maján	Махан (Сория)
+Coscurita	Коскурита
+Barcones	Барконес
+Castilfrío de la Sierra	Кастильфрио-де-ла-Сьерра
+Castilruiz	Кастильруис
+Miño de Medinaceli	Миньо-де-Мединасели
+Cigudosa	Сигудоса
+Candilichera	Кандиличера
+Ausejo de la Sierra	Аусехо-де-ла-Сьерра
+Arévalo de la Sierra	Аревало-де-ла-Сьерра
+Pozalmuro	Посальмуро
+Cabrejas del Pinar	Кабрехас-дель-Пинар
+Cubilla	Кубилья
+Castillejo de Robledo	Кастильехо-де-Робледо
+Escobosa de Almazán	Эскобоса-де-Альмасан
+Estepa de San Juan	Эстепа-де-Сан-Хуан
+Carrascosa de la Sierra	Карраскоса-де-ла-Сьерра
+Las Aldehuelas	Лас-Альдеуэлас
+Bayubas de Arriba	Баюбас-де-Арриба
+Bliecos	Бльекос
+Muriel Viejo	Мурьель-Вьехо
+Fuentecambrón	Фуэнтекамброн
+Cabrejas del Campo	Кабрехас-дель-Кампо
+Frechilla de Almazán	Фречилья-де-Альмасан
+Ciria	Сирия (Сория)
+Fuentes de Magaña	Фуэнтес-де-Маганья
+Duruelo de la Sierra	Дуруэло-де-ла-Сьерра
+Bayubas de Abajo	Баюбас-де-Абахо
+Fuentearmegil	Фуэнтеармехиль
+Fuentelmonge	Фуэнтельмонхе
+Momblona	Момблона
+Fresno de Caracena	Фресно-де-Карасена
+Fuentecantos	Фуэнтекантос
+Pinilla del Campo	Пинилья-дель-Кампо
+Blacos	Блакос
+Narros (Soria)	Наррос
+Fuentelsaz de Soria	Фуэнтельсас-де-Сория
+Muriel de la Fuente (Soria)	Мурьель-де-ла-Фуэнте
+Espejón	Эспехон
+Liceras	Лисерас
+Matalebreras	Маталебрерас
+Quintana Redonda	Кинтана-Редонда
+Nafría de Ucero	Нафрия-де-Усеро
+Langa de Duero (Soria)	Ланга-де-Дуэро
+Quiñonería	Киньонерия
+Portillo de Soria	Портильо-де-Сория
+Gormaz	Гормас
+Cueva de Ágreda	Куэва-де-Агреда
+Cirujales del Río	Сирухалес-дель-Рио
+Cubo de la Solana	Кубо-де-ла-Солана
+Miño de San Esteban	Миньо-де-Сан-Эстебан
+Fuentestrún	Фуэнтеструн
+Espeja de San Marcelino	Эспеха-де-Сан-Марселино
+Matamala de Almazán	Матамала-де-Альмасан
+La Póveda de Soria	Ла-Поведа-де-Сория
+Los Rábanos	Лос-Рабанос
+Quintanas de Gormaz	Кинтанас-де-Гормас
+Renieblas	Реньеблас
+Morón de Almazán (Soria)	Морон-де-Альмасан
+Herrera de Soria	Эррера-де-Сория
+Deza	Деса
+Monteagudo de las Vicarías (Soria)	Монтеагудо-де-лас-Викариас
+Montejo de Tiermes (Soria)	Монтехо-де-Тьермес
+La Losilla	Ла-Лосилья
+Fuentepinilla	Фуэнтепинилья
+Golmayo	Гольмайо
+Gómara	Гомара
+Montejaque	Монтехаке
+Alhaurín el Grande	Алаурин-эль-Гранде
+Ilebo	Илебо
+Kuilu (Repubilika ya Kongo)	Куилу
+Mbanza-Ngungu	Мбанза-Нгунгу
+Pool	Пул (департамент)
+Wiji	Уиже (город)
+Júzcar	Хускар
+Casares	Касарес
+Manilva	Манильва
+Archidona	Арчидона
+Fuente de Piedra	Фуэнте-де-Пьедра
+Algarrobo	Альгарробо
+Cártama	Картама
+Kilengadusi	Лангедокский диалект
+Campillos	Кампильос
+Gaucín	Гаусин
+Frigiliana	Фрихильяна
+Ojén	Охен
+Villanueva de Tapia	Вильянуэва-де-Тапия
+Niari	Ниари
+Benamargosa	Бенамаргоса
+Totalán	Тоталан
+Alhaurín de la Torre	Алаурин-де-ла-Торре
+Molinos de Duero	Молинос-де-Дуэро
+Hinojosa del Campo	Инохоса-дель-Кампо
+Muanda (Ngabu)	Моанда (Габон)
+Mbanza Soyo	Сойо
+Colmenar	Кольменар
+Muanda (RKD)	Моанда (Демократическая Республика Конго)
+Garray	Гаррай
+Coín	Коин
+Jimera de Líbar	Химера-де-Либар
+Kizunga Luwalaba	Луалаба (провинция)
+Kizunga Mayi-Ndombe	Маи-Ндомбе (провинция)
+Owando	Овандо
+Rincón de la Victoria	Ринкон-де-ла-Виктория
+Kalasi:Alemanyi	Категория:Германия
+Kalasi:Italia	Категория:Италия
+Kalasi:Rusia	Категория:Россия
+Kalasi:Espania	Категория:Испания
+Kalasi:Sina	Категория:Китай
+Kalasi:Australia	Категория:Австралия
+Cortes de la Frontera	Кортес-де-ла-Фронтера
+Kalasi:Repubilika ya Kongo ya Dimokalasi	Категория:Демократическая Республика Конго
+Kalasi:Republika ya Itiopia	Категория:Эфиопия
+Kalasi:Repubilika ya Tanzania	Категория:Танзания
+Kalasi:Vietnam	Категория:Вьетнам
+Kalasi:Lukwikilu	Категория:Религия
+Kalasi:Bizabu	Категория:Наука
+Kalasi:Ntoto	Категория:Земля
+Nsi ya Luangu	Королевство Лоанго
+Mashina vremeni	Машина времени (группа)
+Nzinga Nkuwu	Нзинга Нкуву
+Dibûndu ya Kimbangu	Кимбангизм
+Alameda	Аламеда (Малага)
+Alfarnatejo	Альфарнатехо
+El Burgo	Эль-Бурго
+Cómpeta	Компета
+Ardales	Ардалес
+Alfarnate	Альфарнате
+Monda	Монда
+Villanueva del Trabuco	Вильянуэва-дель-Трабуко
+Pujerra	Пухерра
+Benamocarra	Бенамокарра
+Arriate	Арриате
+Alpandeire	Альпандейре
+Igualeja	Игуалеха
+Sayalonga	Саялонга
+Benadalid	Бенадалид
+Sedella	Седелья
+Cartajima	Картахима
+Parauta	Параута
+El Borge	Эль-Борхе
+Alozaina	Алосайна
+Teba	Теба (Малага)
+Cuevas Bajas	Куэвас-Бахас
+Genalguacil	Хенальгуасиль
+Riogordo	Риогордо
+Humilladero	Умильядеро
+Almargen	Альмархен
+Casarabonela	Касарабонела
+Mollina	Мольина
+Jubrique	Хубрике
+Casabermeja	Касабермеха
+Istán	Истан
+Iznate	Иснате
+Algatocín	Альгатосин
+Macharaviaya	Мачаравиая
+Bandînga ya Repubilika ya Kôngo	Языки Республики Конго
+Canillas de Aceituno	Канильяс-де-Асейтуно
+Villanueva de Algaidas	Вильянуэва-де-Альгайдас
+Almáchar	Альмачар
+Valle de Abdalajís	Валье-де-Абдалахис
+Cuevas del Becerro	Куэвас-дель-Бесерро
+Viñuela	Виньуэла
+Salares	Саларес
+Cuevas de San Marcos	Куэвас-де-Сан-Маркос
+Canillas de Albaida	Канильяс-де-Альбайда
+Sierra de Yeguas	Сьерра-де-Егуас
+Yunquera	Юнкера (Малага)
+Kibibaloapi	Виваро-альпийский диалект
+Guaro	Гуаро
+Carratraca	Карратрака
+Pizarra	Писарра (Испания)
+Árchez	Арчес
+Almogía	Альмохия
+Kabinda	Кабинда (значения)
+Madingu	Мадингу
+Kalasi:Kikristo	Категория:Христианство
+Repubilika ya Kabinda	Республика Кабинда
+Thomas Kanza	Канза, Томас
+Template:Tl	Шаблон:Tl
+Template:Userbox	Шаблон:Userbox
+Wikipedia:Administrators	Википедия:Администраторы
+Misiri	Египет
+Template:Bot	Шаблон:Bot
+Kalasi:Hongrie	Категория:Венгрия
+Kalasi:Bansi ya Mputu	Категория:Страны Европы
+Kalasi:Mputu	Категория:Европа
+Template:Documentation	Шаблон:Doc
+Wikipedia:Community Portal	Википедия:Портал сообщества
+Kalasi:Users by language	Категория:Википедия:Участники по языкам
+Sung Jae-ki	Сон Джэги
+Ngombe	Крупный рогатый скот
+Template:Softredirect	Шаблон:Soft redirect
+Template:Delete	Шаблон:К быстрому удалению
+Kalasi:Ndinga	Категория:Языки
+Kalasi:Wikipedia	Категория:Википедия
+Wikipedia:Privacy policy	Википедия:Политика конфиденциальности
+Template:!-	Шаблон:!-
+Template:E	Шаблон:E
+Template:Clear	Шаблон:Clear
+Wikipedia:Vital articles	Википедия:Список статей, которые должны быть во всех языковых версиях
+Kalasi:Afelika	Категория:Африка
+Kalasi:Bantalu	Категория:Числа
+Template:Babel	Шаблон:Babel
+Template:Babel de	Шаблон:User de
+Template:Babel en-2	Шаблон:User en-2
+Template:Babel en-4	Шаблон:User en-4
+Template:Babel en-0	Шаблон:User en-0
+Template:Babel fr-1	Шаблон:User fr-1
+Template:Babel it-3	Шаблон:User it-3
+Template:User sk	Шаблон:User sk
+Template:Babel tr	Шаблон:User tr
+Kalasi:Azia	Категория:Азия
+Kalasi:Castilla y León	Категория:Кастилия и Леон
+Template:Mod	Шаблон:Mod
+Template:Afrika	Шаблон:Страны Африки
+Template:Music	Шаблон:Музыкант
+Kalasi:User en-4	Категория:User en-4
+Kalasi:User en	Категория:User en
+Kalasi:User en-2	Категория:User en-2
+Template:Template other	Шаблон:Template other
+Template:Pp-template	MediaWiki:Protectedpagetext
+Template:·	Шаблон:·
+Template:Babel-4	Шаблон:Babel-4
+Kalasi:Amelika	Категория:Америка
+Template:Kanda	Шаблон:Народ
+Template:Fmbox	Шаблон:Fmbox
+Template:Babel oc-4	Шаблон:User oc-4
+Template:Bisongidila	Шаблон:Неоднозначность
+Kalasi:Bizunga ya Ngola	Категория:Провинции Анголы
+Template:Mputu	Шаблон:Страны Европы
+Kalasi:Bapolitiki ya Repubilika ya Kongo ya Dimokalasi	Категория:Политики Демократической Республики Конго
+Kalasi:User sk	Категория:User sk
+Kalasi:User fr	Категория:User fr
+Kalasi:User la	Категория:User la
+Kalasi:User oc	Категория:User oc
+Kalasi:User sh	Категория:User sh
+Kalasi:User cs-3	Категория:User cs-3
+Kalasi:User it-3	Категория:User it-3
+Kalasi:User oc-4	Категория:User oc-4
+Kalasi:User sk-2	Категория:User sk-2
+Kalasi:User sh-2	Категория:User sh-2
+Kalasi:User fr-N	Категория:User fr-N
+Kalasi:User ca	Категория:User ca
+Kalasi:User ca-3	Категория:User ca-3
+Kalasi:User cs	Категория:User cs
+Kalasi:User sk-N	Категория:User sk-N
+Kalasi:User de	Категория:User de
+Kalasi:User en-0	Категория:User en-0
+Kalasi:User es	Категория:User es
+Kalasi:User es-3	Категория:User es-3
+Template:Babel la-3	Шаблон:User la-3
+Kalasi:User it	Категория:User it
+Kalasi:User la-3	Категория:User la-3
+Kalasi:Babwala ya Falansa	Категория:Города Франции
+Kalasi:La Rioja	Категория:Риоха
+Kalasi:Bansi ya Afelika	Категория:Страны Африки
+Template:Babel es-3	Шаблон:User es-3
+Kalasi:User tr	Категория:User tr
+Kalasi:User tr-N	Категория:User tr-N
+Kalasi:Kizunga ya Alemanyi	Категория:Земли Германии
+Kalasi:Repubilika ya Ngola	Категория:Ангола
+Kalasi:Ngabu	Категория:Габон
+Kalasi:Namibia	Категория:Намибия
+Kalasi:Repubilika ya Kongo	Категория:Республика Конго
+Template:Babel ca-3	Шаблон:User ca-3
+Template:Babel cs-3	Шаблон:User cs-3
+Kalasi:Bapolitiki ya Espania	Категория:Политики Испании
+Kalasi:Bapolitiki ya Repubilika ya Kongo	Категория:Политики Республики Конго
+Kalasi:Bapolitiki ya Fwalansa	Категория:Политики Франции
+Kalasi:Albania	Категория:Албания
+Kalasi:Université en Italia	Категория:Университеты Италии
+Kalasi:Babwala ya Ngola	Категория:Населённые пункты Анголы
+Kalasi:Andalucía	Категория:Андалусия
+Kalasi:Dalapo	Категория:Флаги
+Kalasi:Babwala ya Ngabu	Категория:Населённые пункты Габона
+The Prodigy	The Prodigy
+Kalasi:Babwala ya Namibia	Категория:Города Намибии
+Kalasi:Babwala ya Repubilika ya Kongo	Категория:Города Республики Конго
+Mwela	Воздух
+Kalasi:Bizunga ya Repubilika ya Kongo	Категория:Департаменты Республики Конго
+Trojany	Трояны (Мазовецкое воеводство)
+Kalasi:Bizunga ya Repubilika ya Kongo ya Dimokalasi	Категория:Провинции Демократической Республики Конго
+Kalasi:Soria	Категория:Города Сории
+Kalasi:Kizunga ya Albania	Категория:Области Албании
+Kalasi:Kabinda	Категория:Кабинда
+Kalasi:Babantu	Категория:Города
+Kipele-pele	Булавоусые чешуекрылые
+Special:RecentChanges	Служебная:Свежие правки
+Ranque Franque	Ранке Франке, Луиш

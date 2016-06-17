@@ -1,0 +1,855 @@
+Afrịka	Африка
+South Amerika	Южная Америка
+Spain	Испания
+Njikota Obodo Amerika	Соединённые Штаты Америки
+Àlà	Земля
+Mádu	Человек разумный
+Finland	Финляндия
+Poland	Польша
+Turkéy	Турция
+Obodo Békè	Европа
+Asia	Азия
+Olile anyanwu Amerika	Северная Америка
+Antarctica	Антарктида
+Wikipedia	Википедия
+New York City	Нью-Йорк
+Orunotu	Компьютер
+Intanet	Интернет
+Barack Obama	Обама, Барак
+MediaWiki	MediaWiki
+London	Лондон
+Òrìmìlì Atlantic	Атлантический океан
+Òrìmìlì Pacific	Тихий океан
+California	Калифорния
+Önwa mbu	Январь
+February	Февраль
+March	Март
+Ethiopia	Эфиопия
+Ghana	Гана
+Önwa ànó	Апрель
+May	Май
+Önwa ishií	Июнь
+July	Июль
+August	Август
+September	Сентябрь
+October	Октябрь
+Önwa iri na otụ	Ноябрь
+Disemba	Декабрь
+Odúm	Лев
+Obodoézè Nà Ofú	Великобритания
+Wiktionary	Викисловарь
+Brazil	Бразилия
+Mpaghara Russia	Россия
+Wiki	Вики
+Alabama	Алабама
+Jimmy Wales	Уэйлс, Джимми
+Jémanị	Германия
+Larry Sanger	Сэнгер, Ларри
+Otu	1 (число)
+Abụo	2 (число)
+Atọ	3 (число)
+Anọ	4 (число)
+Ise	5 (число)
+0 (Ónúọgụgụ)	0 (число)
+Yukrain	Украина
+Barbados	Барбадос
+Algeria	Алжир
+Wikisource	Викитека
+Ńkú	Древесина
+Jisọs Kraịst	Иисус Христос
+Ákíkó mbu	История
+Ihunanya	Любовь
+Wikipedia nke ndị bekee	Английская Википедия
+Amamihe	Наука
+Wikibooks	Викиучебник
+Wikiquote	Викицитатник
+Ubuntu	Ubuntu
+Ọmúmú-ónúọgụgụ	Математика
+Ostraliya	Австралия
+Bob Marley	Марли, Боб
+Physics	Физика
+Áláküba	Ислам
+Lech Wałęsa	Валенса, Лех
+Ábu	Поэзия
+Ìfulū	Цветок
+Ama ukwu	Город
+Ogbè	Село
+Wikimedia Commons	Викисклад
+Chad	Чад
+Ndia	Индия
+Mën	Мэн (штат)
+Ǹkà	Искусство
+Osisi	Растения
+Hampshire Ohúrú	Нью-Гэмпшир
+Jamaikạ	Ямайка
+Másáchusẹts	Массачусетс
+Kónétíkùt	Коннектикут
+Hawaii	Гавайи
+Dominika	Доминика
+Arctic Ocean	Северный Ледовитый океан
+Àláskà	Аляска
+Israel	Израиль
+Flórídạ	Флорида
+Arizona	Аризона
+Oregon	Орегон
+Amerikas	Америка
+Yútạh	Юта
+Charlie Chaplin	Чаплин, Чарльз
+Angola	Ангола
+Albert Einstein	Эйнштейн, Альберт
+Togo	Того
+Benin	Бенин
+Botswana	Ботсвана
+Burkina Faso	Буркина-Фасо
+Burundi	Бурунди
+Eritrea	Эритрея
+Pope John Paul II	Иоанн Павел II
+Gabon	Габон
+Kameroon	Камерун
+Cape Verde	Кабо-Верде
+Niger	Нигер
+Naigeria	Нигерия
+Julius Caesar	Гай Юлий Цезарь
+Sudan	Судан
+Ọmúmú-àlà	География
+Àgwà	Цвет
+Michigan	Мичиган
+Ilinoi	Иллинойс
+North Dakota	Северная Дакота
+Sawt Dakótạ	Южная Дакота
+Montana	Монтана
+Waịómịn	Вайоминг
+Jerusalem	Иерусалим
+Idaho	Айдахо
+Washington (nkeji obodo)	Вашингтон (штат)
+Náevadạ	Невада
+Òrìmìlì India	Индийский океан
+Colorado	Колорадо
+Òtù:Ébé ihe nọr	Категория:Всё
+Chicago	Чикаго
+Végíníyà	Виргиния
+West Virginia	Западная Виргиния
+Nú Yọk	Нью-Йорк (штат)
+Àlá mmírí Rhode	Род-Айленд
+Mérílạnd	Мэриленд
+Déláwè	Делавэр
+Ohaïyo	Огайо
+Pensílvéníyạ	Пенсильвания
+Uetersen	Итерзен
+Nú Jezị	Нью-Джерси
+Ndiánà	Индиана
+Jorjiạ	Джорджия
+Texas	Техас
+Nort Kárólínạ	Северная Каролина
+Nleda anyanwu Kàròlina	Южная Каролина
+Mississippi	Миссисипи (штат)
+Tennessee	Теннесси
+Nú Mézíkọ	Нью-Мексико
+Minésótạ	Миннесота
+Coordinated Universal Time	Всемирное координированное время
+Wiskonsin	Висконсин
+Áyowạ	Айова
+Nebraska	Небраска
+Kánzạs	Канзас
+Mizurị	Миссури (штат)
+Luwisiánà	Луизиана
+Kentórkị	Кентукки
+Arkinsọ	Арканзас
+Oklahoma	Оклахома
+Akwụkwọ Nsọ	Библия
+Ho Chi Minh City	Хошимин
+Ezigbo ulo uka Jesu	Церковь истинного Иисуса
+Asụsụ Inglish	Английский язык
+Đồng Hới	Донгхой
+Końskowola	Коньсковоля
+2000	2000 год
+2003	2003 год
+2001	2001 год
+2005	2005 год
+2007	2007 год
+1909	1909 год
+1991	1991 год
+1993	1993 год
+1996	1996 год
+1998	1998 год
+1999	1999 год
+Önwa mbu 1	1 января
+Önwa mbu 2	2 января
+Önwa mbu 3	3 января
+Önwa mbu 4	4 января
+Önwa mbu 5	5 января
+Önwa mbu 6	6 января
+Önwa mbu 7	7 января
+Önwa mbu 8	8 января
+Önwa mbu 9	9 января
+10 Jenụwarị	10 января
+11 Jenụwarị	11 января
+Önwa mbu 12	12 января
+Önwa mbu 13	13 января
+Önwa mbu 14	14 января
+Önwa mbu 15	15 января
+Önwa mbu 16	16 января
+Önwa mbu 17	17 января
+Önwa mbu 18	18 января
+Önwa mbu 19	19 января
+Önwa mbu 20	20 января
+Önwa mbu 21	21 января
+Önwa mbu 22	22 января
+Önwa mbu 23	23 января
+Önwa mbu 24	24 января
+Önwa mbu 25	25 января
+Önwa mbu 26	26 января
+Önwa mbu 27	27 января
+Önwa mbu 28	28 января
+Önwa mbu 29	29 января
+Önwa mbu 30	30 января
+Önwa mbu 31	31 января
+Önwa iri na abụọ 1	1 декабря
+3 Disemba	3 декабря
+1 Febrụwarị	1 февраля
+2 Febrụwarị	2 февраля
+3 Febrụwarị	3 февраля
+Kurów	Курув
+4 Febrụwarị	4 февраля
+5 Febrụwarị	5 февраля
+6 Febrụwarị	6 февраля
+7 Febrụwarị	7 февраля
+8 Febrụwarị	8 февраля
+9 Febrụwarị	9 февраля
+10 Febrụwarị	10 февраля
+14 Febrụwarị	14 февраля
+13 Febrụwarị	13 февраля
+15 Febrụwarị	15 февраля
+11 Febrụwarị	11 февраля
+12 Febrụwarị	12 февраля
+19 Febrụwarị	19 февраля
+17 Febrụwarị	17 февраля
+16 Febrụwarị	16 февраля
+18 Febrụwarị	18 февраля
+20 Febrụwarị	20 февраля
+21 Febrụwarị	21 февраля
+22 Febrụwarị	22 февраля
+23 Febrụwarị	23 февраля
+24 Febrụwarị	24 февраля
+25 Febrụwarị	25 февраля
+26 Febrụwarị	26 февраля
+27 Febrụwarị	27 февраля
+28 Febrụwarị	28 февраля
+29 Febrụwarị	29 февраля
+2 Maachị	2 марта
+3 Maachị	3 марта
+5 Maachị	5 марта
+1 Maachị	1 марта
+7 Maachị	7 марта
+8 Maachị	8 марта
+4 Maachị	4 марта
+10 Maachị	10 марта
+11 Maachị	11 марта
+6 Maachị	6 марта
+13 Maachị	13 марта
+9 Maachị	9 марта
+12 Maachị	12 марта
+15 Maachị	15 марта
+14 Maachị	14 марта
+16 Maachị	16 марта
+17 Maachị	17 марта
+18 Maachị	18 марта
+19 Maachị	19 марта
+20 Maachị	20 марта
+1985	1985 год
+21 Maachị	21 марта
+22 Maachị	22 марта
+1981	1981 год
+23 Maachị	23 марта
+24 Maachị	24 марта
+25 Maachị	25 марта
+20 Disemba	20 декабря
+26 Maachị	26 марта
+27 Maachị	27 марта
+28 Maachị	28 марта
+29 Maachị	29 марта
+30 Maachị	30 марта
+31 Maachị	31 марта
+1976	1976 год
+Pope Benedict XVI	Бенедикт XVI
+15 Eprel	15 апреля
+13 Eprel	13 апреля
+12 Eprel	12 апреля
+14 Eprel	14 апреля
+11 Eprel	11 апреля
+10 Eprel	10 апреля
+8 Eprel	8 апреля
+9 Eprel	9 апреля
+7 Eprel	7 апреля
+6 Eprel	6 апреля
+5 Eprel	5 апреля
+4 Eprel	4 апреля
+3 Eprel	3 апреля
+1 Eprel	1 апреля
+2 Eprel	2 апреля
+16 Eprel	16 апреля
+17 Eprel	17 апреля
+18 Eprel	18 апреля
+19 Eprel	19 апреля
+20 Eprel	20 апреля
+21 Eprel	21 апреля
+22 Eprel	22 апреля
+23 Eprel	23 апреля
+24 Eprel	24 апреля
+25 Eprel	25 апреля
+26 Eprel	26 апреля
+27 Eprel	27 апреля
+28 Eprel	28 апреля
+29 Eprel	29 апреля
+30 Eprel	30 апреля
+1 Mee	1 мая
+2 Mee	2 мая
+3 Mee	3 мая
+4 Mee	4 мая
+5 Mee	5 мая
+6 Mee	6 мая
+7 Mee	7 мая
+8 Mee	8 мая
+9 Mee	9 мая
+10 Mee	10 мая
+11 Mee	11 мая
+12 Mee	12 мая
+13 Mee	13 мая
+14 Mee	14 мая
+15 Mee	15 мая
+16 Mee	16 мая
+17 Mee	17 мая
+18 Mee	18 мая
+19 Mee	19 мая
+20 Mee	20 мая
+21 Mee	21 мая
+22 Mee	22 мая
+23 Mee	23 мая
+24 Mee	24 мая
+25 Mee	25 мая
+26 Mee	26 мая
+27 Mee	27 мая
+28 Mee	28 мая
+29 Mee	29 мая
+30 Mee	30 мая
+31 Mee	31 мая
+Önwa ishií 14	14 июня
+Önwa ishií 15	15 июня
+Önwa ishií 13	13 июня
+Önwa ishií 10	10 июня
+Önwa ishií 7	7 июня
+Önwa ishií 11	11 июня
+Önwa ishií 9	9 июня
+Önwa ishií 12	12 июня
+Önwa ishií 6	6 июня
+Önwa ishií 8	8 июня
+Önwa ishií 5	5 июня
+Önwa ishií 3	3 июня
+Önwa ishií 2	2 июня
+Önwa ishií 1	1 июня
+Önwa ishií 4	4 июня
+1967	1967 год
+Önwa ishií 16	16 июня
+Önwa ishií 30	30 июня
+Önwa ishií 29	29 июня
+Önwa ishií 28	28 июня
+Önwa ishií 26	26 июня
+Önwa ishií 25	25 июня
+Önwa ishií 22	22 июня
+Önwa ishií 27	27 июня
+Önwa ishií 24	24 июня
+Önwa ishií 20	20 июня
+Önwa ishií 23	23 июня
+Önwa ishií 19	19 июня
+Önwa ishií 18	18 июня
+Önwa ishií 21	21 июня
+Önwa ishií 17	17 июня
+15 Julaị	15 июля
+13 Julaị	13 июля
+12 Julaị	12 июля
+10 Julaị	10 июля
+9 Julaị	9 июля
+14 Julaị	14 июля
+8 Julaị	8 июля
+7 Julaị	7 июля
+6 Julaị	6 июля
+5 Julaị	5 июля
+2 Julaị	2 июля
+4 Julaị	4 июля
+3 Julaị	3 июля
+1 Julaị	1 июля
+11 Julaị	11 июля
+30 Julaị	30 июля
+29 Julaị	29 июля
+27 Julaị	27 июля
+19 Julaị	19 июля
+20 Julaị	20 июля
+17 Julaị	17 июля
+18 Julaị	18 июля
+16 Julaị	16 июля
+Footbọl	Футбол
+3 Ọgọọst	3 августа
+1 Ọgọọst	1 августа
+27 Disemba	27 декабря
+Önwa asaa atọ 29	29 августа
+30 Ọgọọst	30 августа
+27 Ọgọọst	27 августа
+20 Ọgọọst	20 августа
+Michael Jackson	Джексон, Майкл
+Ịgbó	Марихуана
+1 Septemba	1 сентября
+3 Septemba	3 сентября
+29 Disemba	29 декабря
+30 Septemba	30 сентября
+29 Septemba	29 сентября
+27 Septemba	27 сентября
+20 Septemba	20 сентября
+30 Disemba	30 декабря
+1 Ọktoba	1 октября
+3 Ọktoba	3 октября
+30 Ọktoba	30 октября
+29 Ọktoba	29 октября
+27 Ọktoba	27 октября
+20 Ọktoba	20 октября
+11 Novemba	11 ноября
+3 Novemba	3 ноября
+1 Novemba	1 ноября
+30 Novemba	30 ноября
+29 Novemba	29 ноября
+27 Novemba	27 ноября
+20 Novemba	20 ноября
+Göttingen	Гёттинген
+Ūfie	Красный цвет
+Oshimiri Orimiri	Нигер (река)
+Addis Ababa	Аддис-Абеба
+Òtù:Templates	Категория:Википедия:Шаблоны
+Abuja	Абуджа
+Galisa	Галисия
+Wikipedia:Ama Egwuregwu	Википедия:Песочница
+Osasco	Озаску
+Curitiba	Куритиба
+Jonathan Winters	Уинтерс, Джонатан
+Sean Connery	Коннери, Шон
+Konfúkius	Конфуций
+Corbin Bleu	Блю, Корбин
+Òtù:Ọmúmú-ónúọgụgụ	Категория:Математика
+Efefe Kraịst	Христианство
+Seattle	Сиэтл
+Oskàpà	Рис (продукт питания)
+Monzón	Монсон
+Almazán	Альмасан
+Ihü Mbu	Заглавная страница
+Vincent van Gogh	Ван Гог, Винсент
+Frank Lloyd Wright	Райт, Фрэнк Ллойд
+Gabriel García Márquez	Гарсиа Маркес, Габриэль
+Ákọ na Uche	Философия
+Òtù:Candidates for speedy deletion	Категория:Википедия:К быстрому удалению
+Liberalism	Либерализм
+Égwu ahiri	Гитара
+Conservatism	Консерватизм
+Ọchíchí nke umunna Han	Хань (династия)
+Jew	Евреи
+Southern Ocean	Южный океан
+Ntị	Ухо
+Ányá	Глаз
+Achicha	Хлеб
+Nelson Mandela	Мандела, Нельсон
+Martin Luther King, Jr.	Кинг, Мартин Лютер
+Ómárí	Логика
+Ȯgbà	Общество
+Azụ	Семья
+Hong Kong	Гонконг
+Lagos	Лагос
+Walt Disney	Дисней, Уолт
+José Mujica	Мухика, Хосе
+Taj Mahal	Тадж-Махал
+Abram	Авраам
+Judaism	Иудаизм
+Oke Òrìmìlì	Океан
+Muhammad	Мухаммед
+Onu	Рот
+Ronald Reagan	Рейган, Рональд
+Óshíshí	Дерево
+Ńnú odẹne	Сахар
+Nka na Uzu	Технология
+Ọrià Parkinson	Болезнь Паркинсона
+Ndetu obodo	Алфавитный список стран и территорий
+Kevin Costner	Костнер, Кевин
+Google Maps	Карты Google
+Tutankhamun	Тутанхамон
+Detroit	Детройт
+Njè Ághá Jésu	Крестовые походы
+Oche	Стул
+Queen	Queen
+Kanyé West	Уэст, Канье
+Vermont	Вермонт
+Ulo uka	Церковь (сооружение)
+Nupedia	Нупедия
+Itolu	9 (число)
+Nha Trang	Нячанг
+Public domain	Общественное достояние
+Josh Duhamel	Дюамель, Джош
+Lady Gaga	Леди Гага
+Breinigerberg	Брайнигерберг
+Samsung	Samsung
+Vung Tau	Вунгтау
+GNU Free Documentation License	GNU FDL
+Population density	Плотность населения
+1	1 год
+Asaa	7 (число)
+Asatọ	8 (число)
+Taylor Lautner	Лотнер, Тэйлор
+Jeremy Renner	Реннер, Джереми
+Chris Pine	Пайн, Крис
+Isii	6 (число)
+Asụsụ obodo	Официальный язык
+Moshchena	Мощёная
+George H. W. Bush	Буш, Джордж Герберт Уокер
+Paltoga	Палтога
+Entrena	Энтрена
+Iri	10 (число)
+Andrew Garfield	Гарфилд, Эндрю
+Ca Mau	Камау
+ISO 3166-1	ISO 3166-1
+Da Nang	Дананг
+Arktik	Арктика
+Amerikạ	Amerika
+Mahadum Niccolò Cusano	Университет Николая Кузанского
+Owuwa Anyanwu Obodo Beke	Восточная Европа
+Mba Mmiri	Дельта Нигера
+Density	Плотность
+Nwanna	Сиблинги
+Ásụ̀sụ̀ Ị̀gbò	Игбо (язык)
+Áká	Кисть (анатомия)
+Ndi Haụsa	Хауса (народ)
+Marlon Brando	Брандо, Марлон
+Latitude	Широта
+Justin Bieber	Бибер, Джастин
+Mkpisi-aka	Палец
+Kingston	Кингстон (Ямайка)
+Ágụ	Леопард
+Ílú	Пословица
+Charles Bronson	Бронсон, Чарльз
+Beyoncé Knowles	Бейонсе
+Thanh Hoa	Тханьхоа
+Longitude	Долгота
+Iri na abụo	12 (число)
+Toshiro Mifune	Мифунэ, Тосиро
+Iri na otu	11 (число)
+Iri na atọ	13 (число)
+Mmuo Nso	Святой Дух
+Iri na anọ	14 (число)
+Iri na ise	15 (число)
+Iri na asatọ	18 (число)
+Iri na iteghete	19 (число)
+Iri na asaa	17 (число)
+Iri na isii	16 (число)
+Iri abụo	20 (число)
+Björk	Бьорк
+Johnny Cash	Кэш, Джонни
+Omaha, Nebraska	Омаха
+Malcolm X	Малкольм Икс
+Nwanyi	Самка
+Nwoke	Самец
+The Doors	The Doors
+Ndi áláküba	Мусульманин
+Idi Amin	Амин, Иди
+Iri abụo na atọ	23 (число)
+Ndi Afrika nke Amerika	Афроамериканцы
+Nje ọrịa Ebola	Геморрагическая лихорадка Эбола
+Goodluck Jonathan	Джонатан, Гудлак
+Siegfried & Roy	Зигфрид и Рой
+Otto Sander	Зандер, Отто
+Iri abụo na ise	25 (число)
+Iri abụo na anọ	24 (число)
+Etemete mmírí	Круговорот воды в природе
+Ibrahim Shekarau	Шекарау, Ибрагим
+James Dean	Дин, Джеймс
+Ahà nnà	Фамилия
+Harriet Tubman	Табмен, Гарриет
+Donald Sutherland	Сазерленд, Дональд
+Peter O'Toole	О’Тул, Питер
+Sidney Poitier	Пуатье, Сидни
+Umaru Yar'Adua	Яр-Адуа, Умару
+Onye Kraịst	Христианин
+Òbòdò àgwè	Островное государство
+Joey King	Кинг, Джоуи
+Malcolm McDowell	Макдауэлл, Малкольм
+Ȯra Anambra	Анамбра
+Dziecinów (no na Otwock County)	Дзецинув (Отвоцкий повят)
+Russell Crowe	Кроу, Рассел
+Glória Pires	Пирес, Глория
+Chinụa Achebe	Ачебе, Чинуа
+Dammam	Эд-Даммам
+Gini coefficient	Коэффициент Джини
+Daniel Day-Lewis	Дэй-Льюис, Дэниел
+Ahú	Тело (биология)
+Sixto Durán Ballén	Дюран-Бальен, Сиксто
+Okpara	Сын
+Bịafra	Биафра
+Nkárí asụsụ China nke óménàlà	Традиционные китайские иероглифы
+Christopher Lee	Ли, Кристофер
+Philip Seymour Hoffman	Хоффман, Филип Сеймур
+Nnamdi Azikiwe	Азикиве, Ннамди
+Ta’if	Эт-Таиф
+Asafa Powell	Пауэлл, Асафа
+Forest Whitaker	Уитакер, Форест
+Kano	Кано (город)
+Ndi Yoruba	Йоруба (народ)
+Wikipedia nke ndị Norway	Норвежские Википедии
+Nancy Reagan	Рейган, Нэнси
+Digimon	Digimon
+Egbughị egbu	Неприятие убийства
+Olusegun Obasanjo	Обасанджо, Олусегун
+Abá	Аба (город)
+Ọrịa ihi ụra nke ukwuu	Африканский трипаносомоз
+Umuahia	Умуахия
+Sani Abacha	Абача, Сани
+Roger Ebert	Эберт, Роджер
+Adolfo Suárez	Суарес, Адольфо
+David Letterman	Леттерман, Дэвид
+Ugwu Ọcha	Порт-Харкорт
+Anggun	Анггун
+Erykah Badu	Баду, Эрика
+Ruby Dee	Ди, Руби
+Ndi ocha	Белые люди
+Arise O Compatriots, Nigeria's Call Obey	Гимн Нигерии
+Dixie Carter	Картер, Дикси
+Ndị Igbo	Игбо (народ)
+Pete Seeger	Сигер, Пит
+Skin Diamond	Скин Даймонд
+Abdulsalami Abubakar	Абубакар, Абдусалам
+Marcia Wallace	Уоллес, Марсия
+808s & Heartbreak	808s & Heartbreak
+Azealia Banks	Бэнкс, Азилия
+Marcus Garvey	Гарви, Маркус
+Paul Robeson	Робсон, Поль
+Małgorzata Braunek	Браунек, Малгожата
+Lacey Duvalle	Дюваль, Лейси
+George Gaynes	Гейнс, Джордж
+Martin Landau	Ландау, Мартин
+Miranda Otto	Отто, Миранда
+Kelis	Келис
+Richard Chamberlain	Чемберлен, Ричард
+Ẹkẹlẹkbọ	Гермафродит (биология)
+Abakaléké	Абакалики
+Adá	Дочь
+James Gandolfini	Гандольфини, Джеймс
+Hal Holbrook	Холбрук, Хэл
+Richard Griffiths	Гриффитс, Ричард
+Donald Pleasence	Плезенс, Дональд
+Ȯra Abia	Абия (штат)
+Richard Matheson	Мэтисон, Ричард
+Ibrahim Babangida	Бабангида, Ибрагим
+Stereolab	Stereolab
+Fernanda Montenegro	Монтенегру, Фернанда
+Ndi ojié	Негроидная раса
+Richard Schiff	Шифф, Ричард
+Marek Grechuta	Грехута, Марек
+Olaudah Equiano	Эквиано, Олауда
+Genaral Johnson Aguiyi-Ironsi	Агийи-Иронси, Джонсон
+Chukwuemeka Odumegwu Ojukwu	Одумегву Оджукву
+Edward Wilmot Blyden	Блайден, Эдуард Уилмот
+Pope Francis	Франциск (папа римский)
+Akwụkwọ nke Momọn	Книга Мормона
+Genevieve Nnaji	Наджи, Женевьева
+Stephen Root	Рут, Стивен
+Enúgwu	Энугу
+León Febres Cordero	Фебрес-Кордеро Рибаденейра, Леон
+Ernest Shonekan	Шонекан, Эрнест
+Coritiba Foot Ball Club	Коритиба
+Baraona	Бараона
+Medinaceli	Мединасели
+James Avery	Эйвери, Джеймс
+Ishi ochíchì Naigeria	Президент Нигерии
+Chris Pratt	Прэтт, Крис
+Ȯra Ebonyi	Эбоньи
+Efrem Zimbalist, Jr.	Цимбалист, Ефрем (младший)
+Owẹrrẹ	Оверри
+Baskin-Robbins	Baskin-Robbins
+Asaá Göttingen	Гёттингенская семёрка
+Ọgụ Towton	Битва при Таутоне
+Chineke	Бог-Творец
+Theoren Fleury	Флёри, Теорен
+Nkeji Ochíchííwu Kano	Кано (штат)
+Brandy	Норвуд, Брэнди
+Flocke	Флоке (медведица)
+Iri abụo na otu	21 (число)
+Iri abụo na abụo	22 (число)
+Òrìmìlì uwa	Мировой океан
+Yeghishe Charents	Егише Чаренц
+Wikipedia:Meta	Википедия:Мета-вики
+Atiku Abubakar	Абубакар, Атику
+Óká	Авка
+Ȯra Lagos	Лагос (штат)
+Alcubilla de las Peñas	Алькубилья-де-лас-Пеньяс
+Alpanseque	Альпансеке
+Arcos de Jalón	Аркос-де-Халон
+Miño de Medinaceli	Миньо-де-Мединасели
+Villasayas	Вильясаяс
+Yelo	Ело (Испания)
+Ȯra Imo	Имо
+Onịchạ	Онича
+VietJet Air	VietJet Air
+Buddy Ebsen	Эбсен, Бадди
+Budka Suflera	Budka Suflera
+Afọ	Желудок человека
+Casey Kasem	Кейсем, Кейси
+Àsàbà	Асаба
+The Pit and the Pendulum (fim 1961)	Колодец и маятник (фильм, 1961)
+Ogbunabali	Бог смерти
+Lólọ	Queen (значения)
+3 (disambiguation)	3 (значения)
+RedTube	Redtube
+Agnes Monica	Агнес Моника
+Òtù:Jémanị	Категория:Германия
+Òtù:Njikota Obodo Amerika	Категория:США
+Òtù:Mpaghara Russia	Категория:Россия
+Òtù:Spain	Категория:Испания
+Òtù:Ndia	Категория:Индия
+Òtù:Ethiopia	Категория:Эфиопия
+Òtù:Naigeria	Категория:Нигерия
+Òtù:Poland	Категория:Польша
+Òtù:Yukrain	Категория:Украина
+Òtù:Vietnam	Категория:Вьетнам
+Òtù:Ákíkó mbu	Категория:История
+Òtù:Geography	Категория:География
+Òtù:Àlà	Категория:Земля
+Nsibiri	Нсибиди
+5 (disambiguation)	5 (значения)
+Òtù:Disambiguation	Категория:Многозначные термины
+9 (disambiguation)	9 (значения)
+Ba Ria	Бариа
+Igbo	Игбо
+4 (disambiguation)	4 (значения)
+Vice President of Nigeria	Список вице-президентов Нигерии
+Ohi	Кража
+Conrad Bain	Бэйн, Конрад
+1 (disambiguation)	1 (значения)
+2 (disambiguation)	2 (значения)
+7 (disambiguation)	7 (значения)
+Òtù:Édémédé mkpu mkpu	Категория:Незавершённые статьи
+Òtù:Continents	Категория:Континенты
+Pran	Пран
+Odòdo	Пурпурный цвет
+Ora no na ime Naigeria	Административное деление Нигерии
+8 (disambiguation)	8 (значения)
+Òtù:Wikipedia bots	Категория:Участники:Боты
+XVideos	XVideos
+Ȯra Enugu	Энугу (штат)
+10 (disambiguation)	10 (значения)
+6 (disambiguation)	6 (значения)
+Wikipedia:Administrators	Википедия:Администраторы
+Wikipedia:Requests for adminship	Википедия:Заявки на статус администратора
+Wikipedia:Bureaucrats	Википедия:Бюрократы
+Wikipedia:Oversight	Википедия:Ревизоры
+Àtụ:Bot	Шаблон:Bot
+Kánada	Канада
+Òtù:Wikipedia policies and guidelines	Категория:Википедия:Правила и руководства
+Àtụ:Documentation	Шаблон:Doc
+Wikipedia:Nzọr ogbako	Википедия:Портал сообщества
+Wikipedia:Neutral point of view	Википедия:Нейтральная точка зрения
+Wikipedia:Criteria for speedy deletion	Википедия:Критерии быстрого удаления
+Sung Jae-gi	Сон Джэги
+Àtụ:Softredirect	Шаблон:Soft redirect
+Àtụ:Delete	Шаблон:К быстрому удалению
+Òtù:Wikipedia	Категория:Википедия
+Wikipedia:General disclaimer	Википедия:Отказ от ответственности
+Wikipedia:Privacy policy	Википедия:Политика конфиденциальности
+Àtụ:Ngwaọtú	Шаблон:Navbox
+Don Keefer	Кифер, Дон
+Nina Andrycz	Андрыч, Нина
+Àtụ:Tnavbar	Шаблон:Tnavbar
+Òtù:Formatting templates	Категория:Шаблоны:Форматирование
+Àtụ:Clear	Шаблон:Clear
+Àtụ:Érèkọbalà	Шаблон:Nobr
+Òtù:Afrịka	Категория:Африка
+Òtù:Önwa ishií	Категория:Июнь
+Àtụ:Babel	Шаблон:Babel
+Àtụ:References	Шаблон:Примечания
+Àtụ:ÉdéNtạ	Шаблон:Заготовка
+Àtụ:See also	Шаблон:См. также
+Àtụ:User en-0	Шаблон:User en-0
+Àtụ:User en	Шаблон:User en
+Àtụ:User sk	Шаблон:User sk
+Àtụ:User ja	Шаблон:User ja
+Àtụ:Intricate template	Шаблон:Эзотерика
+Àtụ:Mod	Шаблон:Mod
+Òtù:Encyclopedias	Категория:Энциклопедии
+Àtụ:Íshí Nzọr Inglish	Шаблон:Приветствие
+Àtụ:NwannenwanyiWikipedia	Шаблон:Сообщество Википедии
+Àtụ:Íshí nke önwa	Шаблон:Месяцы
+Òtù:Coordinates templates	Категория:Шаблоны с географическими координатами
+Àtụ:Ala no n'ime Africa	Шаблон:Страны Африки
+Àtụ:Meta	Шаблон:Meta
+Àtụ:Wikimedia Foundation	Шаблон:Фонд Викимедиа
+Àtụ:Collapsible list	Шаблон:Collapsible list
+Àtụ:Steady	Шаблон:Нет изменений
+Àtụ:Ngwómárí Obodo	Шаблон:Государство
+Àtụ:Audio	Шаблон:Audio
+Àtụ:Selfref	Шаблон:Selfref
+Àtụ:Ngwómárí pharaoh	Шаблон:Фараон
+Òtù:User en	Категория:User en
+Àtụ:Infobox	Шаблон:Карточка
+Àtụ:TOCright	Шаблон:TOC right
+Àtụ:Pp-template	MediaWiki:Protectedpagetext
+Àtụ:IPA	Шаблон:IPA1
+Àtụ:Birth date and age	Шаблон:Родился
+Àtụ:Infobox Ndi mbà	Шаблон:Народ
+Àtụ:Border	Шаблон:Граница
+Àtụ:Infobox website	Шаблон:Карточка сайта
+Àtụ:PD-ineligible	Шаблон:PD-trivial
+Àtụ:Documentation subpage	Шаблон:Docpage
+Àtụ:User	Шаблон:User
+Àtụ:Year nav 1st century CE	Шаблон:Навигация для года
+Àtụ:Clearright	Шаблон:Clearright
+Àtụ:PD-user	Шаблон:PD-user
+Àtụ:GFDL-with-disclaimers	Шаблон:GFDL-with-disclaimers
+Àtụ:Resize	Шаблон:Resize
+Àtụ:Coor	Шаблон:Coord
+Òtù:Interwiki Templates	Категория:Шаблоны:Ссылки на проекты Викимедиа
+Òtù:User sk	Категория:User sk
+Àtụ:IncreaseNegative	Шаблон:Негативный рост
+Òtù:User sk-N	Категория:User sk-N
+Òtù:User de	Категория:User de
+Òtù:User de-N	Категория:User de-N
+Òtù:User en-N	Категория:User en-N
+Àtụ:Information	Шаблон:Изображение
+Òtù:Wikipedia articles needing translation	Категория:Википедия:Запросы на перевод
+Leilani Leeane	Лиэн, Лейлани
+Òtù:1960 births	Категория:Родившиеся в 1960 году
+Òtù:Ala no n'ime Afrịka	Категория:Страны Африки
+Àtụ:As of	Шаблон:На
+Òtù:Nebraska	Категория:Небраска
+Òtù:Michigan	Категория:Мичиган
+Àtụ:DecreasePositive	Шаблон:Положительное падение
+Òtù:Ora no na ime Naigeria	Категория:Административное деление Нигерии
+Òtù:1st century	Категория:I век
+Òtù:Jamaikạ	Категория:Ямайка
+Òtù:Esoteric templates	Категория:Шаблоны:Эзотерические
+Òtù:Template namespace templates	Категория:Шаблоны:Для шаблонов
+Òtù:Dominika	Категория:Доминика
+Òtù:Wikimedia Foundation	Категория:Викимедиа
+Òtù:Ómárí	Категория:Логика
+Àtụ:Infobox Language	Шаблон:Язык
+Òtù:Kanyé West	Категория:Канье Уэст
+Àtụ:FULLROOTPAGENAME	Шаблон:FULLROOTPAGENAME
+Àtụ:Bot ohu	Шаблон:NewBot
+Trojany (no na Wołomin County)	Трояны (Мазовецкое воеводство)
+Jí	Ямс
+Òtù:Miscellaneous templates	Категория:Шаблоны:Некатегоризованные
+Òtù:Akwụkwọ nke Momọn	Категория:Книга Мормона
+Àtụ:TOCleft	Шаблон:TOC left
+Òtù:Göttingen	Категория:Гёттинген
+Wikipedia:Bots	Википедия:Правила применения ботов
+Òtù:President of Naigeria	Категория:Президенты Нигерии
+Òtù:Nigerian state capitals	Категория:Столицы штатов Нигерии
+Wikipedia:Medical disclaimer	Википедия:Википедия не даёт медицинских советов
+Àtụ:Start date	Шаблон:Start date
+Wikipedia:Risk disclaimer	Википедия:Вы пользуетесь Википедией на свой страх и риск
+Àtụ:Oscoor	Шаблон:Oscoor
+Wikipedia:Legal disclaimer	Википедия:Википедия не даёт юридических советов
+Wikipedia:Content disclaimer	Википедия:Содержимое Википедии может вызвать у вас протест
+Wikipedia:Request for Bot status/Purbo T	Википедия:Заявки на статус бота/Purbo T
+Ihü kárírí:RecentChanges	Служебная:Свежие правки
+Tiffany Mason	Тиффани Мейсон

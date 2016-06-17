@@ -1,0 +1,1662 @@
+Africa	Африка
+Japan	Япония
+South America	Южная Америка
+Norway	Норвегия
+Scotland	Шотландия
+Wales	Уэльс
+Ireland	Ирландия
+Hungary	Венгрия
+Spain	Испания
+United States of America	Соединённые Штаты Америки
+Belgium	Бельгия
+Luxembourg	Люксембург
+Rudunhumwe	Вселенная
+Rinopasi	Земля
+Finland	Финляндия
+Sweden	Швеция
+Denmark	Дания
+Poland	Польша
+Lithuania	Литва
+Italy	Италия
+Switzerland	Швейцария
+Austria	Австрия
+Greece	Греция
+Turkey	Турция
+Doro	Пиво
+Portugal	Португалия
+Europe	Европа
+Asia	Азия
+North America	Северная Америка
+Netherlands	Нидерланды
+Mboro	Пенис у животных
+Washington, DC	Вашингтон (округ Колумбия)
+Bern	Берн
+Uruguay	Уругвай
+London	Лондон
+Cairo	Каир
+Alexandria	Александрия
+Paris	Париж
+Mexico	Мексика
+Gungwa reAtlantic	Атлантический океан
+Gungwa rePacific	Тихий океан
+Muvhuro	Понедельник
+Kenya	Кения
+Ethiopia	Эфиопия
+Ghana	Гана
+Gunyana	Сентябрь
+Chipiri	Вторник
+Chitatu	Среда
+China (Musi)	Четверг
+Chishanu (musi)	Пятница
+Mugovera	Суббота
+Svondo (musi)	Воскресенье
+Shumba	Лев
+France	Франция
+Imbwa	Собака
+United Kingdom	Великобритания
+Katsi	Кошка
+China (nyika)	Китайская Народная Республика
+Hove	Рыбы
+Brazil	Бразилия
+Russian Federation	Россия
+Skweya	Квадрат
+Germany	Германия
+Belarus	Белоруссия
+Iceland	Исландия
+Mwari	Бог
+Estonia	Эстония
+Ndege	Самолёт
+Hondo	Война
+Motsi	1 (число)
+Piri	2 (число)
+Tatu	3 (число)
+China	4 (число)
+Shanu	5 (число)
+Chipasina	0 (число)
+Ruramamakonyo	Прямоугольник
+Rurama (pimanyika)	Прямой угол
+Latvia	Латвия
+Ukraine	Украина
+Czechia	Чехия
+Slovakia	Словакия
+Slovenia	Словения
+Vilnius	Вильнюс
+Moldova	Молдавия
+Romania	Румыния
+Bulgaria	Болгария
+Rome	Рим
+Macedonia	Республика Македония
+Albania	Албания
+Croatia	Хорватия
+Bosnia and Herzegovina	Босния и Герцеговина
+Azerbaijan	Азербайджан
+Andorra	Андорра
+Cyprus	Республика Кипр
+Georgia	Грузия
+Kazakhstan	Казахстан
+Malta	Мальта
+Monaco	Монако
+Montenegro	Черногория
+Vatican City	Ватикан
+San Marino	Сан-Марино
+Brussels	Брюссельский столичный регион
+Cuba	Куба
+Belize	Белиз
+Barbados	Барбадос
+Indonesia	Индонезия
+South Africa	Южно-Африканская Республика
+Algeria	Алжир
+Uzbekistan	Узбекистан
+Tashkent	Ташкент
+Warsaw	Варшава
+Mvura	Вода
+Dehwe	Кожа (материал)
+Chile	Чили
+Nhoroondo	История
+Mutauro	Язык
+Zvechadenga	Астрономия
+Singapore	Сингапур
+Liechtenstein	Лихтенштейн
+Hondo yePasirose yeChiposhi	Первая мировая война
+Hondo yePasirose yeChipiri	Вторая мировая война
+Skopje	Скопье
+Masvomhu	Математика
+Bahrain	Бахрейн
+Armenia	Армения
+Serbia	Сербия
+Mwedzi (mutumbi)	Луна
+Australia	Австралия
+Fundoyetsimba	Физика
+Argentina	Аргентина
+Peru	Перу
+Ketaupenyu	Биология
+North Korea	Корейская Народно-Демократическая Республика
+Cambodia	Камбоджа
+Ketamhuka	Зоология
+Islam	Ислам
+Ljubljana	Любляна
+Rugare	Мир (отсутствие войны)
+Mukadzi	Женщина
+Sofia	София
+Husimbe	Лень
+Nyemwerera	Улыбка
+Milan	Милан
+Dhodhi	Кал
+Mukosho	Анус
+Ruva	Цветок
+Guta	Город
+Nyenyedzi	Звезда
+Zuva	Солнце
+Dandira reMushana	Солнечная система
+Mazino	Зубы человека
+Bhuku	Книга
+Musi	Сутки
+East Timor	Восточный Тимор
+Husiku	Ночь
+Gore	Год
+Mwaka wechizana	Век
+Oslo	Осло
+Lisbon	Лиссабон
+Nyeredzi	Планета
+Mimhanzi	Музыка
+Moscow	Москва
+Chad	Чад
+Maodzanyemba	Север
+New Zealand	Новая Зеландия
+Chamhembe	Юг
+India	Индия
+Tuvalu	Тувалу
+Tonga	Тонга
+Madokero	Запад
+Samoa	Самоа
+Mabvazuva	Восток
+Solomon Islands	Соломоновы Острова
+Vanuatu	Вануату
+Papua New Guinea	Папуа — Новая Гвинея
+Palau	Палау
+Nauru	Науру
+Federated States of Micronesia	Федеративные Штаты Микронезии
+Marshall Islands	Маршалловы Острова
+Kiribati	Кирибати
+Mongolia	Монголия
+Fiji	Фиджи
+Venezuela	Венесуэла
+Bhiza	Домашняя лошадь
+Amsterdam	Амстердам
+Zvombo	Оружие
+Mhuka	Животные
+Suriname	Суринам
+Paraguay	Парагвай
+Guyana	Гайана
+Ecuador	Эквадор
+Colombia	Колумбия
+Bolivia	Боливия
+Trinidad and Tobago	Тринидад и Тобаго
+Madzinde	Растения
+Saint Vincent and the Grenadines	Сент-Винсент и Гренадины
+Zeng'e	Цинк
+Saint Lucia	Сент-Люсия
+Saint Kitts and Nevis	Сент-Китс и Невис
+Jamaica	Ямайка
+Grenada	Гренада
+Guatemala	Гватемала
+The Bahamas	Багамские Острова
+Huku	Курица
+Antigua and Barbuda	Антигуа и Барбуда
+Honduras	Гондурас
+Dominica	Доминика
+Dominican Republic	Доминиканская Республика
+Nguruve	Домашняя свинья
+Haiti	Республика Гаити
+El Salvador	Сальвадор
+Iran	Иран
+Iraq	Ирак
+Costa Rica	Коста-Рика
+Israel	Израиль
+Panama	Панама
+Yemen	Йемен
+Jordan	Иордания
+Nicaragua	Никарагуа
+Florida	Флорида
+Kyrgyzstan	Киргизия
+Kuwait	Кувейт
+Laos	Лаос
+Lebanon	Ливан
+Maldives	Мальдивы
+America (dzose)	Америка
+Malaysia	Малайзия
+Burma	Мьянма
+Nepal	Непал
+Oman	Оман
+Pakistan	Пакистан
+Qatar	Катар
+Saudi Arabia	Саудовская Аравия
+Sri Lanka	Шри-Ланка
+Syria	Сирия
+Tajikistan	Таджикистан
+Taiwan	Китайская Республика
+Thailand	Таиланд
+Chitima	Поезд
+Turkmenistan	Туркмения
+United Arab Emirates	Объединённые Арабские Эмираты
+Vietnam	Вьетнам
+South Korea	Республика Корея
+Afghanistan	Афганистан
+Muronga Suez Canal	Суэцкий канал
+Bangladesh	Бангладеш
+Mali	Мали
+Angola	Ангола
+Bhutan	Бутан
+Brunei	Бруней
+Tanzania	Танзания
+Philippines	Филиппины
+Central African Republic	Центральноафриканская Республика
+Isaac Newton	Ньютон, Исаак
+Togo	Того
+Tunisia	Тунис
+Zambia (nyika)	Замбия
+Zimbabwe	Зимбабве
+Beijing	Пекин
+South Sudan	Южный Судан
+Benin	Бенин
+Botswana	Ботсвана
+Burkina Faso	Буркина-Фасо
+Burundi	Бурунди
+Comoros	Коморы
+Republic of the Congo	Республика Конго
+Democratic Republic of the Congo	Демократическая Республика Конго
+Djibouti	Джибути
+Equatorial Guinea	Экваториальная Гвинея
+Eritrea	Эритрея
+New Delhi	Нью-Дели
+Tbilisi	Тбилиси
+Mucheche	Младенец
+Gabon	Габон
+Gambia	Гамбия
+Guinea	Гвинея
+Guinea-Bissau	Гвинея-Бисау
+Côte d'Ivoire	Кот-д’Ивуар
+Cameroon	Камерун
+Cape Verde	Кабо-Верде
+Lesotho	Лесото
+Liberia	Либерия
+Libya	Ливия
+Madagascar	Мадагаскар
+Malawi	Малави
+Mauritania	Мавритания
+Mauritius	Маврикий
+Morocco	Марокко
+Mozambique	Мозамбик
+Namibia	Намибия
+Niger	Нигер
+Nigeria	Нигерия
+Uganda	Уганда
+Rwanda	Руанда
+Sao Tome and Principe	Сан-Томе и Принсипи
+Senegal	Сенегал
+Seychelles	Сейшельские Острова
+Sierra Leone	Сьерра-Леоне
+Somalia	Сомали
+Julius Caesar	Гай Юлий Цезарь
+Sudan	Судан
+Swaziland	Свазиленд
+Mubatanidzwa weNyika Pasirose	Организация Объединённых Наций
+Ketanyika	Геология
+Taranyika	География
+Moyo	Сердце
+Huropi	Головной мозг
+Prague	Прага
+Jerusalem	Иерусалим
+Kosovo	Республика Косово
+Chicago	Чикаго
+Chirimo	Весна
+Tsazahusiku	Равноденствие
+Montevideo	Монтевидео
+Dhaka	Дакка
+Buwe	Пауки
+Islamabad	Исламабад
+Muchero	Плод
+Shoko	Обезьяны
+Mari	Деньги
+Zagreb	Загреб
+Manila	Манила
+Buenos Aires	Буэнос-Айрес
+Mexico City	Мехико
+Tokyo	Токио
+La Paz	Ла-Пас (Боливия)
+Dziva rokushambira	Плавательный бассейн
+Abu Dhabi	Абу-Даби
+Astana	Астана
+Athens	Афины
+Baghdad	Багдад
+Caracas	Каракас
+Guatemala City	Гватемала (город)
+Havana	Гавана
+Fodya	Табак (вещество)
+Vienna	Вена
+Copenhagen	Копенгаген
+Stockholm	Стокгольм
+Helsinki	Хельсинки
+Dublin	Дублин
+Reykjavík	Рейкьявик
+Tallinn	Таллин
+Riga	Рига
+Bratislava	Братислава
+Budapest	Будапешт
+Vaduz	Вадуц
+Bhaibheri	Библия
+City of San Marino	Сан-Марино (город)
+Phnom Penh	Пномпень
+Guta reHo Chi Minh	Хошимин
+Hanoi	Ханой
+True Jesus Church	Церковь истинного Иисуса
+Chirungu	Английский язык
+Bangkok	Бангкок
+Andorra la Vella	Андорра-ла-Велья
+Kuala Lumpur	Куала-Лумпур
+Taipei	Тайбэй
+Dong Hoi	Донгхой
+Kyiv	Киев
+Ottawa	Оттава
+Juba	Джуба
+Yerevan	Ереван
+Dar es Salaam	Дар-эс-Салам
+Khartoum	Хартум
+Kudya	Пища
+Nyoka	Змеи
+Nhanzvi	Оральный секс
+Minsk	Минск
+Chemishonga	Химия
+Mogadishu	Могадишо
+Nassau	Нассау (Багамские Острова)
+Sana'a	Сана
+Nhabvu	Футбол
+Rutsvamhumburu	Холокост
+Madrid	Мадрид
+Bogotá	Богота
+Brasília	Бразилиа
+Lima	Лима
+Santiago	Сантьяго
+Quito	Кито
+Asunción	Асунсьон
+Mbudzi	Коза домашняя
+Mhuru	Телёнок
+Paramaribo	Парамарибо
+Mukomana	Мальчик
+Musikana	Девочка
+Kathmandu	Катманду
+Belmopan	Бельмопан
+San José	Сан-Хосе (Коста-Рика)
+San Salvador	Сан-Сальвадор
+Canberra	Канберра
+Moto	Огонь
+Tegucigalpa	Тегусигальпа
+Managua	Манагуа
+Panama City	Панама (город)
+Rwizi Nile	Нил
+Rabat	Рабат
+Algiers	Алжир (город)
+Tunis	Тунис (город)
+Tripoli	Триполи
+Djibouti (city)	Джибути (город)
+Tehran	Тегеран
+Addis Ababa	Аддис-Абеба
+Jakarta	Джакарта
+Ankara	Анкара
+Asmara	Асмэра
+N'Djamena	Нджамена
+Nouakchott	Нуакшот
+Riyadh	Эр-Рияд
+Bamako	Бамако
+Belgrade	Белград
+Dakar	Дакар
+Banjul	Банжул
+Conakry	Конакри
+Bissau	Бисау
+Monrovia	Монровия
+Praia	Прая
+Accra	Аккра
+Damascus	Дамаск
+Yamoussoukro	Ямусукро
+French Guiana	Французская Гвиана
+Ouagadougou	Уагадугу
+Freetown	Фритаун
+Abuja	Абуджа
+Lomé	Ломе
+Porto-Novo	Порто-Ново
+Amman	Амман
+Yaoundé	Яунде
+Malabo	Малабо
+Beirut	Бейрут
+Libreville	Либревиль
+Muscat	Маскат
+Bangui	Банги
+Kinshasa	Киншаса
+Brazzaville	Браззавиль
+Bujumbura	Бужумбура
+Nicosia	Никосия
+Kigali	Кигали
+Doha	Доха
+Dodoma	Додома
+Nairobi	Найроби
+Lilongwe	Лилонгве
+Lusaka	Лусака
+Manama	Манама
+Kudzikatidzwa kwezuva	Солнечное затмение
+Maputo	Мапуту
+Kampala	Кампала
+Luanda	Луанда
+Moroni	Морони
+Mbabane	Мбабане
+Maseru	Масеру
+Muravanembiri	Двоичная система счисления
+Chikoro	Школа
+Antananarivo	Антананариву
+Gaborone	Габороне
+Harare	Хараре
+Pretoria	Претория
+Port Louis	Порт-Луи
+São Tomé	Сан-Томе (город)
+Windhoek	Виндхук
+Victoria (Seychelles)	Виктория (Сейшельские острова)
+Imba	Жилище
+Rwizi	Река
+Boterekwa	Орбита
+Dong Hoi Airport	Донгхой (аэропорт)
+Mukaha weChadenga	Космическое пространство
+Chiringakure	Телескоп
+Curitiba	Куритиба
+Sango	Лес
+Category:Masvomhu	Категория:Математика
+Mbiru	Колонна (архитектура)
+Gungwa Mediterranean	Средиземное море
+Chitendero chechiKristu	Христианство
+Mupunga	Рис (продукт питания)
+Ziwumbe	Континент
+Shiri	Птицы
+Mwedzi (Mwaka)	Месяц
+Peji Rekutanga	Заглавная страница
+Cape Town	Кейптаун
+Durban	Дурбан
+Bhazi	Автобус
+Kabul	Кабул
+Gumbeze	Одеяло
+Kusvira	Половой акт
+Mbutu	Влагалище женщины
+Category:Candidates for speedy deletion	Категория:Википедия:К быстрому удалению
+Shambira	Плавание человека
+Category:Zvechadenga	Категория:Астрономия
+Mbayo	Материализм
+Matongerwo eNyika	Политика
+Kupatsanura zvipenyu	Таксономия
+Baradzira	Пропаганда
+Kilimanjaro	Килиманджаро
+Kutsvoda	Поцелуй
+Rudzi rwaIsrael	Евреи
+Nzeve	Ухо
+Mhuno	Нос
+Ziso	Глаз
+Humhutu	Комары
+Hwayi	Овца
+Nghamera	Верблюды
+Dzinoyamwisa	Млекопитающие
+Nzou	Слон
+Nyuchi	Пчёлы
+Amai (vakakubereka)	Мать
+Sinowo	Снег
+Baba	Отец
+Vabereki	Родители
+Vana	Ребёнок
+Ngongoni	Гну
+Chingwa	Хлеб
+Sangano reHutano Pasirose	Всемирная организация здравоохранения
+Chimbuzi	Туалет
+Sera (rezvinorarama)	Клетка
+Ropa	Кровь
+Mapapu	Лёгкие
+Casablanca	Касабланка
+Kundengenyeka kwenyika	Землетрясение
+Muchegwa	Минерал
+Chokwadi	Истина
+Mashandiro eZvinhu Zvisingararami	Естествознание
+Dombo	Горная порода
+Chikwatamabwe	Вулкан
+Pimagonyonhatu	Тригонометрия
+Pimanyika	Геометрия
+Mhepo	Ветер
+Gute romweya	Атмосфера
+Muchenga Pfuma	Экономика (наука)
+Hushangazhi	Промышленность
+Misambo paBonde	Сексуальные позиции
+Bonyora	Мастурбация
+Chita	Общество
+Mhuri	Семья
+Murume	Мужчина
+Rusaruraganda	Расизм
+Muranda	Рабство
+Mukaka	Молоко
+Gomo	Гора
+Gwenga	Пустыня
+Lagos	Лагос
+Seoul	Сеул
+Ruzivo	Знание
+Zamu	Женская грудь
+Chiedza	Свет
+Chinamato	Религия
+Genesisi	Книга Бытия
+Eksodo	Книга Исход
+Baku	Баку
+Thimphu	Тхимпху
+Bandar Seri Begawan	Бандар-Сери-Бегаван
+Dili	Дили
+Vientiane	Вьентьян
+Malé	Мале
+Bishkek	Бишкек
+Dushanbe	Душанбе
+Chitaka	Печень
+Itsvo	Почка (анатомия)
+Jende	Яички
+Tsuro	Кролики
+Gungwa	Океан
+Tsindi	Беличьи
+Kufema	Дыхание
+Muzongoza	Спинной мозг
+Chibereko	Матка женщины
+Rurimi	Язык (анатомия)
+Dzira (nhengo)	Нерв
+Makandiro	Яичники
+Mutsipa	Шея
+Matumbu	Кишечник
+Chipfuva	Грудная клетка
+Tsatsadzi	Железа
+Muronga wechikafu	Пищеварительная система человека
+Huronyo	Сперма
+Nouméa	Нумеа
+Ronald Reagan	Рейган, Рональд
+Cardiff	Кардифф
+Robert Gabriel Mugabe	Мугабе, Роберт
+Georgetown	Джорджтаун
+Dzinokambaira	Пресмыкающиеся
+Muti	Дерево
+Dzehugaro huviri	Земноводные
+Huchi	Мёд
+Nyama	Мясо
+Mbatatisi	Картофель
+Shuga	Сахар
+Muriwo	Овощи
+Pepanhau	Газета
+Runhare	Телефон
+Tsika	Культура
+Sarajevo	Сараево
+Mhetapawa	Логарифм
+Huwandu	Арифметика
+Zviringani	Система координат
+Munyu	Поваренная соль
+Enzane	Уравнение
+Munangatire	Функция (математика)
+Gonyo	Угол
+Chidenhi	Гормоны
+Rufangu	Ускорение
+Simba	Энергия
+Manikidzo	Сила
+Ngoma	Барабан
+Chinyenze	Флейта
+Gunganidzo	Гравитация
+Huremu	Масса
+Simbi	Металлы
+Misandu yeSebhe	Агрегатное состояние
+Gasi	Газ
+Mutuvi	Жидкость
+Godo	Твёрдое тело
+Kurima	Сельское хозяйство
+Donje	Хлопок
+Zvipfeko	Одежда
+Kurima neMombe	Плуг
+Muchacha	Скорость
+Hujoto	Температура
+Kukorora Simbi	Металлургия
+Nguva	Время
+Nharaunda	Площадь
+Dudzirazivo raPythagoras	Теорема Пифагора
+Nhamba	Число
+Chibage	Кукуруза сахарная
+Kudzana	Танец
+Rufuvha (magetsi)	Электрический ток
+Hwiriro	Частота
+Sikarudzi	Размножение
+Nhumbu	Беременность человека
+Gorosi	Пшеница
+Mapfunde	Сорго
+Hutano	Здоровье
+Kufuta	Ожирение
+Zambuko	Мост
+Dhamu	Плотина
+Kupimirana	Симметрия
+Nhamba mhumburu	Целое число
+Mburungwa	Сфера
+Danhiko	Лестница
+Munondo	Меч
+Zvombo zveShomwe	Ядерное оружие
+Majuro	Маджуро
+Dehenya	Череп
+Ranjisi	Апельсин
+Ruomba	Сливки
+Bhodhi	Бюстгальтер
+Penzura	Карандаш
+Tafura	Стол
+Template:Location map Zimbabwe	Шаблон:ПозКарта Зимбабве
+Twiza	Жираф
+Muromo	Губы
+Tsoka	Стопа
+Dzvinyu	Ящерицы
+Pahuro	Горло
+Pasirose	Мир (Земля)
+Wikipedia:Community Portal	Википедия:Форум
+Guam	Гуам
+American Samoa	Американское Самоа
+Northern Mariana Islands	Северные Марианские острова
+Lolol	Лололь
+Chipatara	Больница
+Kereke	Церковь (сооружение)
+Zai	Яйцо
+Denderedzwa	Окружность
+Mutsendo	Плоскость (геометрия)
+Chizinganhare	Сотовый телефон
+Mhou (shiri)	Страус
+Dudzirazivo	Теория
+Pyongyang	Пхеньян
+Pfumbamwe	9 (число)
+Tirana	Тирана
+Mbongoro	Домашний осёл
+Gonyonhatu	Треугольник
+Cecil John Rhodes	Родс, Сесиль Джон
+Chișinău	Кишинёв
+Gumbapamwe reZviringani ZveTaranyika	Географические координаты
+Shangu	Лёгкая обувь
+Nomwe	7 (число)
+Nhuta	Златокроты
+Sere	8 (число)
+Vhiki	Неделя
+Nyanza	Озеро
+Ulaanbaatar	Улан-Батор
+Edinburgh	Эдинбург
+Ashgabat	Ашхабад
+Chitsuwa	Остров
+Tanhatu	6 (число)
+Madomasi	Томат
+Muenzanisi	Экватор
+Podgorica	Подгорица
+Duramahwi	Словарь
+Musoro	Голова
+Wellington	Веллингтон
+Valletta	Валлетта
+Gumi	10 (число)
+Dindingwe	Гепард
+Mwaka yepaNyika	Времена года
+Zizi	Совообразные
+Nguva dzezuva	Час
+Dzemuzongoza	Позвоночные
+Nowy Dwór Królewski	Новый-Двор-Кролевский
+Pristina	Приштина
+Nyundo	Молоток
+Pichilemu	Пичилему
+Bete	Таракановые
+Pawa	Мощность
+Shuramurove	Белый аист
+Mukweso	Электрическое сопротивление
+Haka	Панголины
+Cook Islands	Острова Кука
+Chipo (huwandu)	Аппроксимация
+Vhudzi	Волосы
+Pimamuganhu	Периметр
+Jira	Текстиль
+Chedza	Покушение на преступление
+Huduma	Плотность
+Mbiti	Выдра
+Mafuro	Пастбище
+Twana	Каракал
+Alofi	Алофи (Ниуэ)
+Jamestown	Джеймстаун (остров Святой Елены)
+French Polynesia	Французская Полинезия
+Hagåtña	Хагатна
+Mata-Utu	Мата-Уту
+Yaren	Ярен
+Tambo	Трос
+Hanzvadzi	Сиблинги
+Wedzaniso	Сложение
+Tsiva	Бокс
+Banga	Нож
+Mbizi	Зебры
+ChiBantu	Банту (языки)
+Muradanuro	Возведение в степень
+Mheni	Молния
+New Caledonia	Новая Каледония
+Hugari hwevanhu	Население
+Shizha	Лист
+ChiShona	Шона (язык)
+Niue	Ниуэ
+Rumbariro	Широта
+Mapopoma	Водопад
+Funafuti	Фунафути
+Humburumbira	Цилиндр
+Port-au-Prince	Порт-о-Пренс
+Sipo	Мыло
+Mugwagwa	Дорога
+Mvuu	Обыкновенный бегемот
+Munwe	Палец
+Mirairo gumi yaMwari	Десять заповедей
+Johannesburg	Йоханнесбург
+Jecha	Песок
+Kingston	Кингстон (Ямайка)
+Mbada	Леопард
+Chipembere	Носороговые
+Santo Domingo	Санто-Доминго
+Kuwait City	Эль-Кувейт
+Arab	Арабы
+Colombo	Коломбо
+Bako	Пещера
+Wallis and Futuna	Уоллис и Футуна
+Mhakatwa	Материя (физика)
+Huni	Дрова
+Kukotsira	Сон
+Kubhabhatidza	Крещение
+Igwa	Лодка
+Mushenjere	Bambuseae
+Ivhu (Dhaga)	Почва
+Bridgetown	Бриджтаун
+Hurefu	Длина
+Apia	Апиа
+Saint John's	Сент-Джонс
+Roseau	Розо
+Chiroto	Сновидение
+Hunhungo	Долгота
+Port Moresby	Порт-Морсби
+Kupirimuka kwemishonga	Химическая реакция
+Chipfambi	Проституция
+Gonhi	Дверь
+Gonyoina	Четырёхугольник
+Tokelau	Токелау
+Gumi nembiri	12 (число)
+Chiso	Лицо
+Shambadza	Реклама
+Mutsetse	Прямая
+Gumi neimwe	11 (число)
+Gumi nenhatu	13 (число)
+Masaisai	Волна
+Gurapakati	Диаметр
+Mudzidzisi	Учитель
+Mweya Mutsvene	Святой Дух
+Nzungu	Арахис культурный
+Naypyidaw	Нейпьидо
+Zana	100 (число)
+Mabvi	Коленный сустав
+Bvungapfunga	Туман
+Gonyozhinji	Многоугольник
+Chivhuramabwe	Град
+Musika (Kunotengeswa)	Рынок
+Rwavhi	Хамелеоны
+Bloemfontein	Блумфонтейн
+Mawuto ehondo	Армия
+Port Vila	Порт-Вила
+Firiji	Холодильник
+Mbambaira	Батат
+Mitemo yeruhambo yaNewton	Законы Ньютона
+Gumi neina	14 (число)
+Nwiwa	Арбуз обыкновенный
+Gumi neshanu	15 (число)
+Gumi nesere	18 (число)
+Suva	Сува
+Nukuʻalofa	Нукуалофа
+Port of Spain	Порт-оф-Спейн
+Mbeva	Домовые мыши
+Mumhu	Объём
+Puresha	Давление
+Chiremba	Врач
+Mupata	Долина
+Kuverengwa kweVanhu	Перепись населения
+Gumi nepfumbamwe	19 (число)
+Mudhebhe	Брюки
+Mwaka wechikumi	Десятилетие
+Zvidhinha	Кирпич
+Denderende	Эллипс
+Gumi nenomwe	17 (число)
+Gumi nenhanhatu	16 (число)
+Kuunga huwandu	Умножение
+Makumi maviri	20 (число)
+Gweta	Адвокат
+Kubvisa	Вычитание
+Mbeu	Семя
+Mhando	Ката
+Gakanje	Крабы
+Honiara	Хониара
+Mutundo	Моча
+Huma	Лоб
+Mapisarema	Псалтирь
+Dova	Роса
+Gonyoina tsazamativi	Ромб
+Mburungwagama rekuchamhembe	Южное полушарие
+Runhanhira	Импульс
+Basseterre	Бастер
+Kingstown	Кингстаун
+St. George's, Grenada	Сент-Джорджес
+Castries	Кастри
+Rudzi	Этническая группа
+Fanza	Кипение
+Chisumamunyati	Гипотеза
+Zvakazarurwa	Откровение Иоанна Богослова
+Bere	Гиены
+Magaro	Ягодицы
+Mubhedha	Кровать
+Basa	Механическая работа
+Gwenzi	Кустарник
+Munyakwe	Глина
+Makumi mana	40 (число)
+Charaka	Конус
+Mutsimba	Борьба
+Nzunza	Сервал
+Palikir	Паликир
+Ndebvu	Борода
+Makumi matatu	30 (число)
+Muchovha	Транспортное средство
+Muduso	Финансы
+Shangwa	Засуха
+Rwizi Zambezi	Замбези
+Garwe	Настоящие крокодилы
+Tsivatsaona	Страхование
+Gonyeti	Грузовой автомобиль
+Victoria Falls	Виктория (водопад)
+Gunguwo	Вороны
+Nzvari	Самка
+Ruwoko	Плечо (часть тела)
+Tsime	Колодец
+Cotonou	Котону
+Sokisi	Носок
+Ngarikuni	Индейки
+Guvhu	Пуп
+Hono	Самец
+Injini	Двигатель
+Kudzikatidzwa kwemwedzi	Лунное затмение
+Cayenne	Кайенна
+Madziya	Теплота
+Pfumo	Копьё
+Chigayo	Мельница
+Mugodhi	Горное дело
+Poyindi	Точка (геометрия)
+Gonyoina sambamba	Параллелограмм
+Museve	Стрела
+Annaba	Аннаба
+Hweru	Трубкозуб
+Dandare remagetsi	Электрическое поле
+Simba reNhekairo	Кинетическая энергия
+Gonyoina sambambiri	Трапеция
+Uta	Лук (оружие)
+Kamba	Сухопутные черепахи
+Mandundu	Горный хребет
+Chindori	Кольцо (украшение)
+Saint-Denis	Сен-Дени (Реюньон)
+Mugomo	Ведро
+Chiyero chekupimisa	Единицы измерения
+Bhoni	Лампа накаливания
+Chitupa	Идентификационные карты
+Template:Commons category	Шаблон:Commonscat
+Chitunha	Труп
+Kennedy Space Center	Космический центр Кеннеди
+Penti	Женские трусы
+Kuramwa Basa	Забастовка
+Muchato	Свадьба
+Gwaro	Документ
+Muzasedimbu	Пропорциональность
+Quilicura	Киликура
+Pago Pago	Паго-Паго
+Saipan	Сайпан
+Chirwere cheEbola	Геморрагическая лихорадка Эбола
+Datya	Бесхвостые
+Sambamba	Параллельность
+Musenerera	Осмос
+Choya	Лобковые волосы
+Ndiro (yokudyira)	Тарелка
+Morgan Tsvangirai	Цвангираи, Морган
+Nhare	Фортификационное сооружение
+Dandira (zvakarongeka)	Система
+Swakopmund	Свакопмунд
+Chivi (kutadza)	Грех
+Pakati	Центр
+Marudzi aShem	Семиты
+Chanduru	Жёлчный пузырь
+Kugetsenura	Электролиз
+Dimbu	Дробь (математика)
+Rutsaudzo rwechiedza	Преломление
+Doworume	Сперматозоид
+Duvurwi	Плато
+Misodzi	Слеза
+Alfred Beit	Бейт, Альфред
+Mushonga	Вещество
+Makumi matanhatu	60 (число)
+Mukonikoni	Разнокрылые
+Bhodhoro	Бутылка
+Jerenyenje	Мангустовые
+Derere	Бамия
+Fes	Фес
+Nhevedzwa dzeMvura	Круговорот воды в природе
+Mupurwa	Вараны
+Muravanegumi	Десятичная система счисления
+Chikara (mhuka)	Плотоядные
+Kurwadziwa	Боль
+Nyanga	Рог
+Mhesvi	Катализ
+Rudzindi	Трение
+Dunhu	Регион
+Zita	Имя
+Gonyonhanhatu	Шестиугольник
+Denga (Remba)	Крыша
+Chidembo	Скунсовые
+Dzingiswa	Обрезание
+Huchenjeri	Интеллект
+Honha	Слиток
+Mazita eMhuri	Фамилия
+Dare	Колокол
+Lobamba	Лобамба
+Marrakesh	Марракеш
+Mhopo	Бородавка
+Chitofu (mugodhi)	Руда
+Nyauka	Плавление
+Kayiti	Дельтоид
+Dendera	Вращение
+Gwamba	Отвердевание
+Marin County	Марин (округ)
+Kuperekera magetsi	Удельное электрическое сопротивление
+Bumha	Стая
+Chinepfu (ruhambo)	Инерция
+Tsika yekurava nhamba	Система счисления
+Huyu	Пчелиные соты
+Zuvaragodza	Солнцестояние
+Mhanda (Kurwa)	Насилие
+Chisipiti	Родник
+Chindunduma	Восстание
+Port Elizabeth	Порт-Элизабет (ЮАР)
+Nhambwe	Расстояние
+Tangier	Танжер
+Kurutsa	Рвота
+Gavakava	Алоэ
+Bhomba	Бомба
+Makunakuna	Инцест
+Tsanga (ziso)	Катаракта
+Mafuta	Жиры (диетология)
+Zvidya	Бедро
+Papeetē	Папеэте
+Jekanyika	Геодезия
+Badza	Мотыга
+South Tarawa	Южная Тарава
+Chidzayo	Клин (механика)
+2 Johane	2-е послание Иоанна
+Muprofita Isaya	Книга пророка Исаии
+3 Johane	3-е послание Иоанна
+Judi	Послание Иуды
+Nhoo	Щит
+Muprofita Jeremia	Книга пророка Иеремии
+Menduru	Медаль
+Sandhuru	Сандалии
+Kuverereka	Сублимация (физика)
+Oran	Оран
+Zano	Идея
+Mhara	Импала
+Mamoudzou	Мамудзу
+Sasauka	Испарение
+Mhondi	Убийство
+Africa Zasi kweSahara	Чёрная Африка
+Haro	Перевал
+Gumbo	Нога человека
+Bvurunuro	Дифракция
+Bhande (chipfeko)	Ремень
+Chikero	Весы
+Pombi	Насос
+Kun'ura	Коррозия
+Nhoro	Большой куду
+Tsono (kusona)	Игла
+Gwaya	Лещ
+Munyungu	Растворитель
+Kisangani	Кисангани
+Dovi	Арахисовая паста
+Rumanda	Забор
+Mufundisi	Пастор
+Chisuvi chemvura	Водораздел
+Dota	Зола
+Kamba dzenhapwa	Концентрационный лагерь
+Gomo reNyangani	Иньянгани
+Kamba dzekuuraya	Лагеря смерти
+Poto	Кастрюля
+Chidzudzani	Конгруэнтность (геометрия)
+Simba reChakunga	Потенциальная энергия
+Gonyonhatu tsazakose	Правильный треугольник
+Zenda	Обручение
+Garoua	Гаруа
+Ramallah	Рамалла
+Gonyonhatu yakarurama	Прямоугольный треугольник
+Nhokwe	Папирус (растение)
+Gonje	Сизаль (растение)
+Chiwundudzi	Плесневые грибы
+Gudo	Павианы
+Mapatya	Близнецы
+Mureza weZimbabwe	Флаг Зимбабве
+Mumvuri	Тень
+Nyati	Африканский буйвол
+Mhene	Равнина
+Ruchichinuko	Конвекция
+Keetmanshoop	Китмансхуп
+Muchacha pima negonya	Угловая скорость
+Munyonga	Кривая
+Ketamabwe	Петрология
+Mukoko	Улей
+Mhiripiri	Красный перец
+Tsanga	Арундо
+Nhanga (Muchero)	Тыква (плод)
+Francistown	Франсистаун
+Nhunzi	Комнатная муха
+Kubundira	Конденсация
+Remba	Лемба (народ)
+Mhete	Серьги
+Caselle Landi	Казелле-Ланди
+Hargeisa	Харгейса
+Hwata	Птица-секретарь
+Nelspruit	Мбомбела
+Matoro	Водно-болотные угодья
+Avarua	Аваруа
+Agadir	Агадир
+Maun	Маун (город)
+Zvombo zvinechefu	Биологическое оружие
+Nhovo	Матрац
+Sunflower	Подсолнечник однолетний
+Bwato	Каноэ
+Tsaona	Авария
+Hanga	Цесарковые
+Rukuvhute	Пуповина
+Fosi yeRutondapakati	Центростремительная сила
+Nhoozhinji	Многогранник
+Hunzwi	Ощущение
+Bantu	Банту (группа народов)
+Guva	Могила
+Mhumhi	Гиеновидная собака
+Taramunyongo	Радиус
+Bara	Пуля
+Chitsitsinho	Пятка
+Mukondo	Авторитет
+Ruwa	Сельская местность
+Kuswedera	Конвергенция
+Toamasina	Туамасина
+Rutsuwa rwemagetsi	Изоляция (электротехника)
+Rukwarapakati	Центробежная сила
+Ruzha	Шум
+Shaya	Челюсть
+Zhumwi	Призма (геометрия)
+Dhuku	Бандана
+Nhanzva	Сани
+Mudungwe	Очередь
+Mutemo waPareto	Закон Парето
+Maungira	Эхо
+Kano	Кано (город)
+Njiri	Африканский бородавочник
+Magonga (taranyika)	Географический полюс
+Ibadan	Ибадан
+Shato	Питоны
+Rhekeni	Катапульта
+Gwati (muti)	Кора
+Tlemcen	Тлемсен (город)
+Nyamukuta	Повитуха
+Gwee	Галаговые
+Chirambo (misandu)	Фазовый переход
+Pietermaritzburg	Питермарицбург
+Donhwe	Капля
+Mukoti	Медицинская сестра
+Bota	Каша
+Constantine, Algeria	Константина (город)
+Chifufuro	Взятка
+Lumumbashi	Лубумбаши
+Chikuwo	Мода (статистика)
+Idi	Факт
+Choto	Камин
+Rovambira	Чёрная мамба
+Munda	Поле (сельское хозяйство)
+Manyene	Чепрачный шакал
+Chikwereti	Заём
+Abomey	Абомей
+Guramakonyo	Диагональ
+Harar	Харэр
+Nhambwe yasudurukwa	Перемещение (кинематика)
+Bhutsu	Сапоги
+Kumhura	Диффамация
+Mbonga	Монахиня
+Mhute	Дымка
+Madamvura	Гидрофильность
+Cherechedza	Наблюдение (психология)
+Gambamutengo	Субсидия
+Bulawayo	Булавайо
+Mweya (wemunhu)	Дух (мифология)
+Dire Dawa	Дыре-Дауа
+Mbabvu	Ребро
+Chapupu	Свидетель
+Kuvaviwa	Зуд
+Chikupo	Праща
+Nhamba ndemera	Отрицательное число
+Rifa	Наследование (право)
+Hupfumi	Богатство
+Rokwe	Платье
+Rufu	Похороны
+Ziguinchor	Зигиншор (город)
+Avhareji	Показатели центра распределения
+Bandiko	Сектор (геометрия)
+Chitofu (Kubika)	Домашняя печь
+Goma	Гома
+Pito	Свисток
+Mutwi	Перпендикулярность
+Kananga	Кананга (город)
+Dendera pa Mineti	Оборот в минуту
+Tafura yekuunga huwandu	Таблица умножения
+Vanga	Рубец (медицина)
+Rudzindi rwemweya	Лобовое сопротивление
+Ruremekedzo	Честь
+Huswa	Газон
+Shepi	Форма предмета
+Masvingo eZimbabwe	Большой Зимбабве
+Njiva	Голуби
+East London	Ист-Лондон
+Mbandaka	Мбандака
+Matadi	Матади
+Hudyu	Пах
+Dzinza	Род (этнология)
+Kupambadzirwa	Деформируемость
+Zera (chizvarwa)	Поколение
+Kukohwa (kuunganidza)	Уборка урожая
+Furo	Пена
+Mhofu	Канна (антилопа)
+Bilda	Блида (город)
+Port Harcourt	Порт-Харкорт
+Hungwe	Орлан-крикун
+Mahajanga	Махадзанга
+Gondar	Гондэр
+Antsiranana	Анциранана
+Palestine	Государство Палестина
+Chikare (bonde)	Миссионерская позиция
+Matyamvura	Гидрофобность
+Walvis Bay	Уолфиш-Бей
+Chapfunga	Шистосомоз
+Bukavu	Букаву
+Hukama	Межличностные отношения
+Boma	Бома
+Muny'atira	Абсорбция (значения)
+Manhikatika	Вариация
+Mombasa	Момбаса
+Dungidzira	Альтернатива
+Chinangwa	AIM
+Kusuduruka	Дивергенция (значения)
+Chipakati	Медиана (статистика)
+Kushumira	Спаривание
+Zvinoshandiswa kuchengetedza	Система контроля и управления доступом
+Vavariro	Мишень (значения)
+Saga	Сага (значения)
+Runda	Сухожилие
+Hupombwe	Супружеская измена
+Boka (masvomhu)	Сет
+Varungu	Белые люди
+Unyanzvi wezvinoitika	Приборная панель
+Makumi mapfumbamwe	90 (число)
+Ngwarati	Чёрная антилопа
+Mhakure	Египетская кобра
+Kumimina	Фильтрование
+Kutandauka	Экспансия (значения)
+Chiware	Слой
+Mupfunga	Пар
+Rukweza	Пшено
+Mhomho	Нарушения и недисциплинированное поведение (футбол)
+Kindu	Кинду
+Saint-Louis, Senegal	Сен-Луи (Сенегал)
+Mhembwe	Дукеры
+Kirsty Coventry	Ковентри, Кирсти
+Chiremera	Достоинство
+Mawere	Угловой коэффициент
+Massawa	Массауа
+Makumi mashanu nena	54 (число)
+Rwizi Save	Саве (река)
+Husvinu	Качество
+Masanga (Panosangana)	Джанкшен
+Hwembwa (bonde)	Поза на коленях
+Nungu	Дикобразовые
+Mukunda	Дочь
+Musami	Мираж
+Hozhwa	Улитка (жизненная форма)
+Kuronga	Планирование
+Madora	Gonimbrasia belina
+Buea	Буэа
+Ian Smith	Смит, Ян
+Rwendo	Journey (значения)
+Rwizi Mazowe	Мазове
+Abel Tendekai Muzorewa	Музорева, Абель Тендекайи
+Mukwende	Груз
+Mbuji-Mayi	Мбужи-Майи
+Benin City	Бенин-Сити
+Kugunzva	Соматосенсорная система
+Mek'ele	Мэкэле
+Muchovha Mota	Виды транспорта
+Makumi masere nesere	88 (число)
+Rondo	Рондо (значения)
+Adama	Назрет
+Mhene (mhuka)	Обыкновенный стенбок
+Kugera	Бритьё
+Kuchepa	Стандартизация
+Chiva	Шумящая гадюка
+George, Western Cape	Джордж (ЮАР)
+Bonga-musakwani	Габонская гадюка
+Kunyenga	Ухаживание
+Chibeto	Сито
+Nyanzvi	Эксперт
+Kadoma	Кадома (Зимбабве)
+Jimma	Джимма
+Agordat	Акордат
+Murayiro	Инструкция
+Kugura	Север (значения)
+Chitungwiza	Читунгвиза
+Gweru	Гверу
+Mutare	Мутаре
+Laghouat	Лагуат
+Gwanza (boka)	Вакансия (значения)
+America	Америка (значения)
+Kusunda	Push
+Kunze	Outside
+Ishe (mutongi)	Чиф
+Murandu	Фине
+Mbadzi	Слайс
+Humba	Кустарниковая свинья
+Makumi mapfumbamwe nepfumbamwe	99 (число)
+Mhetanhamba	Мультипликатор
+Mashonaland West	Западный Машоналенд
+Bhuku raMormoni	Книга Мормона
+Kutapira	Сладкий вкус
+Bahir Dar	Бахр-Дар
+Manicaland	Маникаленд
+Mahusekwa	Восточный Машоналенд
+Salé	Сале
+Joshua Nkomo	Нкомо, Джошуа
+Nyota	Жажда
+Chenza (kutodza)	Образ (информация)
+Chiso (Chiumbwa)	Поверхность
+Hutong'o	Ударная вязкость
+Chipika	Воротник
+Edinburgh of the Seven Seas	Эдинбург семи морей
+Nyemba	Коровий горох
+Maguta emuZimbabwe	Города Зимбабве
+Chinyamudzura	Боевой орёл
+Ngerulmud	Нгерулмуд
+Butembo	Бутембо
+Fianarantsoa	Фианаранцуа
+Bamenda	Баменда
+Keren, Eritrea	Кэрэн
+Kusuma	Inform
+Mongo	Костный мозг человека
+Ishwa	Термиты
+Waya	Проволока
+Antsirabe	Анцирабе
+Sisi	Сестра
+Okahandja	Окаханджа
+Thiès	Тиес (город)
+Mudzi wenhamba	Корень (математика)
+Chingaira	Серебристый орёл
+Queenstown, Eastern Cape	Куинстаун (ЮАР)
+Kusamhura	Вычисление
+Chengu	Конгони
+Ngururu	Антилопа-прыгун
+Dhumukwa	Обыкновенный водяной козёл
+Tsumeb	Цумеб
+Atafu	Атафу
+Bunia	Буниа
+Mushandi	Трудовые отношения
+Touba, Senegal	Туба (Сенегал)
+Homwe	Банковский счёт
+Kuyaruka	Переходный возраст (психология)
+Harwe	Брюшная полость
+Kunatsa	Рафинирование
+Makumi mashanu neshanu	55 (число)
+Parakou	Параку
+Georgetown (Ascension Island)	Джорджтаун (остров Вознесения)
+Nyamuragira	Ньямлагира
+Makumi masere	80 (число)
+Makumi maviri nembiri	22 (число)
+Makumi manomwe	70 (число)
+Makumi mashanu	50 (число)
+Makumi matatu nenhatu	33 (число)
+Makumi mana nena	44 (число)
+Makumi matanhatu nenhanhatu	66 (число)
+Makumi manomwe nenomwe	77 (число)
+Mazana maviri	200 (число)
+Zana negumi	110 (число)
+Ambhuya	Тёща
+Bandundu (city)	Бандунду
+Mabharani	Делопроизводитель
+Randfontein	Рандфонтейн
+Ngaoundéré	Нгаундере
+Nhova	Родничок (анатомия)
+Dessie	Дэссе
+Jijiga	Джиджига
+Awasa	Ауаса (город)
+Rondo (hurongwa)	Престолонаследие
+Roora	Выкуп невесты
+Chinhoyi	Чинхойи
+Bangassou	Бангасу
+Beitbridge	Байтбридж
+SADC	Сообщество развития Юга Африки
+Beni	Бени (город)
+Toliara	Тулиара
+Chishanu (mhoresa)	Рукопожатие
+Musasa	Кемпинг
+Kumbumba	Let There Be Rock
+Banda	Носилки
+Calabar	Калабар
+Zvinyanye	Экстремум
+Mucheko	Разрез
+Musarirwa	Остаток от деления
+Kaolack	Каолак (город)
+Bhachi	Куртка
+Ouidah	Уида (город)
+Ndiro (midziyo)	Посуда
+Serowe	Серове
+Chimukuyu	Билтонг
+Bindura guta	Биндура
+Morondava	Мурундава
+Rukanda runosarura zvinobvinina	Частично проницаемая мембрана
+Djougou	Джугу
+Hukoshi	Стоимость
+Gongo	Клитор
+Ladysmith, KwaZulu-Natal	Ледисмит (Квазулу-Натал)
+Boka	Социальная группа
+Bossangoa	Босангоа
+Chivhuni	Хрупкость
+Kudzimurira	Контроллинг
+Mhandamabwe	Дробилка
+Uvira	Увира
+Kurega basa	Пенсионный возраст
+Duwo	Садок рыболовный
+Mukuwasha	Свойство (родство)
+Rusero	Веялка
+Grootfontein	Хрутфонтейн
+Chubhu dzinotakura ropa	Кровеносные сосуды
+Otjiwarongo	Очиваронго
+Germiston	Джермистон
+Natitingou	Натитингу
+Norton, Zimbabwe	Нортон (Зимбабве)
+Karoi	Карои
+Klerksdorp	Клерксдорп
+Rufisque	Рюфиск
+M'Bour	Мбур
+Marondera	Марондера
+Dekemhare	Дэкэмхаре
+Mthatha	Умтата
+Worcester, Western Cape	Вустер (ЮАР)
+Newcastle, KwaZulu-Natal	Ньюкасл (ЮАР)
+Dumbu	Желудок человека
+Chegutu	Чегуту
+Tonderai	Полное имя
+Vanhu vemuAfrica	Народы Африки
+Clement Doke	Док, Клемент Мартин
+Bindu	Сад
+Coloureds	Цветные
+Njodzi	Опасность
+Muteremuko	Уклон (геодезия)
+Muururo	Бур
+Mhiko	Обет
+MDC	Движение за демократические перемены
+Zingizi	Пчёлы-плотники
+Ketamukadzi	Гинекология
+Govaniso	Деление (математика)
+Chidavado	Нагрудные знаки высших органов власти БНСР
+Nhamba svinu	Рациональное число
+Rwodzi	Лыко
+Dowokadzi	Яйцеклетка
+Bvinina	Перколяция
+Joseph Msika	Мсика, Джозеф
+Makonyo Mhirikano	Смежные углы
+Muchovha Masvomhu	Вектор
+Madzudzo	Забота
+Mhemberero	Праздник
+Category:Vietnam	Категория:Вьетнам
+Category:Madzinde	Категория:Растения
+Category:Fundoyetsimba	Категория:Физика
+Category:Chezvipenyu	Категория:Биология
+Category:Chemishonga	Категория:Химия
+Category:Taranyika	Категория:География
+Category:Chinamato	Категория:Религия
+Richards Bay	Ричардс-Бей
+Mhitsa dzehondo	Сверхдержава
+Giyani	Гияни
+Nzwisa	Шаблон
+Maturo	Смысл
+Herbert Chitepo	Читепо, Герберт
+Mheu	Частица
+Katahwi	Девственная плева
+El Oued	Эль-Уэд
+Tsika yezvinzvimbo zvenhamba	Позиционная система счисления
+Bundutso	Производственный процесс
+Kukavanisa	Пестролистные растения
+Zanu-PF	Зимбабвийский африканский национальный союз — Патриотический фронт
+Dowera (nyoka)	Кротовый уж
+Middelburg, Mpumalanga	Мидделбург (Мпумаланга)
+Goronga	Канава
+Dare reMabhuyo	Парламент Зимбабве
+Huhombe	Величина (математика)
+Gondo	Орлиные
+Kudoma	Спецификация
+Rwizi Pungwe	Пунгве
+Rudzivo	Направление
+Jongwe	Петух
+Nyamafingu	Кобра
+Twasuka	Стрейт
+Rudyi	Преобладающая рука
+Mungongoma	Монгонго
+Sabata	Суббота в христианстве
+Sazita	Тёзка
+Tsono (zviridzwa)	Стилос
+Chisuvi	Апекс (геометрия)
+Category:Tsika	Категория:Культура
+Category:Ziwumbe	Категория:Континенты
+Bumbiro	Коллекция
+Tsanga (mbeu)	Зерно
+Hukukutu	Твёрдость
+Ganda	Раса
+John nkomo	Нкомо, Джон
+Dumba	Пирамида (геометрия)
+Rheshiyo	Соотношение
+Yambiro	Warning (значения)
+Dzihwa	Слизь
+Category:Wikipedia bots	Категория:Участники:Боты
+Hutapiri	Концентрация растворов
+Chipangidzo	Знак
+Spidhi	Средняя скорость
+Dhadha	Утки
+Akiso	Осевая симметрия
+Template:Tl	Шаблон:Tl
+Category:Muviri	Категория:Анатомия
+Category:Hurapi	Категория:Медицина
+Category:Dzidzo	Категория:Образование
+Egypt	Египет
+Template:Bot	Шаблон:Bot
+Solomon Mujuru	Муджуру, Соломон
+Canada	Канада
+Nzenda	Размерность пространства
+Denga (raMwari)	Небеса
+Chimurenga	Чимуренга
+Category:Europe	Категория:Европа
+Template:Documentation	Шаблон:Doc
+Nhengo dzesikarudzi	Репродуктивная система человека
+Category:User languages	Категория:Википедия:Участники по языкам
+Sung Jae-ki	Сон Джэги
+Mombe	Крупный рогатый скот
+Template:Softredirect	Шаблон:Soft redirect
+Template:Delete	Шаблон:К быстрому удалению
+Kugocha	Жарка
+Category:Wikipedia	Категория:Википедия
+Wikipedia:General disclaimer	Википедия:Отказ от ответственности
+Wikipedia:Statistics	Википедия:Статистика
+Template:Navbox	Шаблон:Navbox
+Mujenya	Жребий
+Template:!-	Шаблон:!-
+Template:Nowrap	Шаблон:Nobr
+Template:Bots	Шаблон:Bots
+Sura	Fart
+Category:Africa	Категория:Африка
+Category:Zviperengo Zvehuwandu	Категория:Числа
+Category:Bhaibheri	Категория:Библия
+Template:Babel	Шаблон:Babel
+Template:User af-1	Шаблон:User af-1
+Template:User als-1	Шаблон:User als-1
+Template:User ar-1	Шаблон:User ar-1
+Template:User ast-1	Шаблон:User ast-1
+Template:User az	Шаблон:User az
+Template:User eo-1	Шаблон:User eo-1
+Template:User da-2	Шаблон:User da-2
+Template:User da	Шаблон:User da
+Template:User ca-1	Шаблон:User ca-1
+Template:User ca-4	Шаблон:User ca-4
+Template:User be-2	Шаблон:User be-2
+Template:User da-1	Шаблон:User da-1
+Template:User cs-1	Шаблон:User cs-1
+Template:User bg-1	Шаблон:User bg-1
+Template:User eo-3	Шаблон:User eo-3
+Template:User de	Шаблон:User de
+Template:User de-1	Шаблон:User de-1
+Template:User el	Шаблон:User el
+Template:User es	Шаблон:User es
+Template:User de-3	Шаблон:User de-3
+Template:User en-3	Шаблон:User en-3
+Template:User el-1	Шаблон:User el-1
+Template:User en-1	Шаблон:User en-1
+Template:User en-2	Шаблон:User en-2
+Template:User eo-2	Шаблон:User eo-2
+Template:User en-4	Шаблон:User en-4
+Template:User en-0	Шаблон:User en-0
+Template:User es-4	Шаблон:User es-4
+Template:User en	Шаблон:User en
+Template:User de-2	Шаблон:User de-2
+Template:User es-1	Шаблон:User es-1
+Template:User sk	Шаблон:User sk
+Template:User tr	Шаблон:User tr
+Template:Location map/Info	Шаблон:ПозКарта/Инфо
+Category:User uk	Категория:User uk
+Category:User uk-N	Категория:User uk-N
+Template:Mod	Шаблон:Mod
+Template:User uk	Шаблон:User uk
+Template:User es-2	Шаблон:User es-2
+Template:Africa	Шаблон:Страны Африки
+Template:Max	Шаблон:Max
+Template:Navbox with columns	Шаблон:Навигационная таблица с колонками
+Template:Hatnote	Шаблон:Другое значение
+Template:Location map	Шаблон:ПозКарта
+Category:User en-4	Категория:User en-4
+Category:User en	Категория:User en
+Category:User en-2	Категория:User en-2
+Template:Infobox	Шаблон:Карточка
+Template:Ombox	Шаблон:Ombox
+Template:GeoTemplate	Шаблон:GeoTemplate
+Category:Kurima	Категория:Сельское хозяйство
+Template:Infobox settlement	Шаблон:НП
+Template:About	Шаблон:О
+Template:Both	Шаблон:Both
+Template:Precision	Шаблон:Precision
+Template:User lt	Шаблон:User lt
+Template:Kujekesa	Шаблон:Неоднозначность
+Template:Convert	Шаблон:Convert
+Category:Gonyazhinji	Категория:Многоугольники
+Template:Europe	Шаблон:Страны Европы
+Category:User az	Категория:User az
+Category:User be	Категория:User be
+Category:User sk	Категория:User sk
+Category:User eo	Категория:User eo
+Category:User lt	Категория:User lt
+Category:User cs-1	Категория:User cs-1
+Category:User da-1	Категория:User da-1
+Category:User ar-1	Категория:User ar-1
+Category:User be-2	Категория:User be-2
+Category:User da-2	Категория:User da-2
+Category:User lt-N	Категория:User lt-N
+Category:User af	Категория:User af
+Category:User af-1	Категория:User af-1
+Category:User als	Категория:User als
+Category:User als-1	Категория:User als-1
+Category:User ar	Категория:User ar
+Category:User ast	Категория:User ast
+Category:User ast-1	Категория:User ast-1
+Category:User az-N	Категория:User az-N
+Category:User bar	Категория:User bar
+Category:User bar-1	Категория:User bar-1
+Category:User bg	Категория:User bg
+Category:User bg-1	Категория:User bg-1
+Category:User ca	Категория:User ca
+Category:User ca-1	Категория:User ca-1
+Category:User ca-4	Категория:User ca-4
+Category:User cs	Категория:User cs
+Category:User da	Категория:User da
+Category:User sk-N	Категория:User sk-N
+Category:User de	Категория:User de
+Category:User de-2	Категория:User de-2
+Category:User de-3	Категория:User de-3
+Category:User el	Категория:User el
+Category:User el-1	Категория:User el-1
+Category:User el-N	Категория:User el-N
+Category:User en-3	Категория:User en-3
+Category:User en-N	Категория:User en-N
+Category:User eo-1	Категория:User eo-1
+Category:User eo-2	Категория:User eo-2
+Category:User eo-3	Категория:User eo-3
+Category:User es	Категория:User es
+Category:User es-1	Категория:User es-1
+Category:User es-2	Категория:User es-2
+Category:User es-4	Категория:User es-4
+Category:User es-N	Категория:User es-N
+Category:Pimanzvimbo	Категория:Геометрия
+Template:Weather box	Шаблон:Климат местности
+Hukwidza	Высота над уровнем моря
+Simudzo	Плавучесть
+Ruchiva	Похоть
+Nhungu	Барак
+Category:Hushangazhi	Категория:Промышленность
+Category:User tr	Категория:User tr
+Category:User tr-N	Категория:User tr-N
+Template:•	Шаблон:•
+Template:Side box	Шаблон:Side box
+Template:Citation/core	Шаблон:Citation/core
+Category:Rwizi	Категория:Реки
+Category:Zimbabwe	Категория:Зимбабве
+Category:Musangano	Категория:Политические партии
+Category:Mhuka	Категория:Животные
+Category:Dzemuzongoza	Категория:Позвоночные
+Category:Zvombo	Категория:Оружие
+Category:Zvipfeko	Категория:Одежда
+Category:Mhuri	Категория:Семья
+Category:Chitendero	Категория:Вера
+Category:Nyoka	Категория:Змеи
+Category:North America	Категория:Северная Америка
+Template:Masvomhu	Шаблон:Разделы математики
+Module:BaseConvert	Модуль:BaseConvert
+Template:Module other	Шаблон:Module other
+Template:Sister	Шаблон:Sister
+Category:Huwandu	Категория:Арифметика
+Category:Bhuku Ramorimoni	Категория:Книга Мормона
+Category:Jekanyika	Категория:Геодезия
+Kuhamba	Движение
+Category:Marudzi aShem	Категория:Семитские народы
+Pfugama	Стояние на коленях
+Igo	Осы
+Category:User en-1	Категория:User en-1
+Category:User de-1	Категория:User de-1
+Category:User da-N	Категория:User da-N
+KwaDukuza	Квадукуза
+Template:Hid	Шаблон:~
+Mutauro wePasirose	Международный язык
+Template:Location map~	Шаблон:ПозКарта~
+Kukangaridza	Exposed (значения)
+Template:Location map+	Шаблон:ПозКарта+
+Module:Convert	Модуль:Convert
+Module:Arguments	Модуль:Arguments
+Special:RecentChanges	Служебная:Свежие правки
+Module:HtmlBuilder	Модуль:HtmlBuilder
+Module:Coordinates	Модуль:Coordinates
+Module:Math	Модуль:Math
+Module:InfoboxImage	Модуль:InfoboxImage
+Module:Navbox	Модуль:Navbox
+Module:Infobox	Модуль:Карточка

@@ -1,0 +1,435 @@
+Abĩrika	Африка
+Japan	Япония
+Amerika ya Kuthini	Южная Америка
+Ngeretha	Англия
+Macartsa	Венгрия
+United States	Соединённые Штаты Америки
+Binirandi	Финляндия
+Cuindeni	Швеция
+Ndenimaki	Дания
+Rithuĩnia	Литва
+Itari	Италия
+Ngiriki	Греция
+Takĩ	Турция
+Wikipedia	Википедия
+Netharandi	Нидерланды
+Los Angeles	Лос-Анджелес
+Kenya	Кения
+Ethiopia	Эфиопия
+Ghana	Гана
+Baranja	Франция
+Esperanto	Эсперанто
+China	Китайская Народная Республика
+Wiktionary	Викисловарь
+Brazil	Бразилия
+Racia	Россия
+Wikimedia	Фонд Викимедиа
+Jimmy Wales	Уэйлс, Джимми
+Njĩrĩmani	Германия
+Azerbaijan	Азербайджан
+Canimarino	Сан-Марино
+Intel	Intel
+Indonesia	Индонезия
+Abĩrika ya Kuthini	Южно-Африканская Республика
+Algeria	Алжир
+Mai	Вода
+Terebiceni	Телевидение
+Singapore	Сингапур
+Wikibooks	Викиучебник
+Bahrain	Бахрейн
+Armenia	Армения
+İstanbul	Стамбул
+Australia	Австралия
+Physics	Физика
+Argentina	Аргентина
+Peru	Перу
+Bayorojĩ	Биология
+Mount Everest	Джомолунгма
+Napoleon	Наполеон I
+Hydrogen	Водород
+Helium	Гелий
+Lithium	Литий
+Beryllium	Бериллий
+Carbon	Углерод
+Nitrogen	Азот
+Oxygen	Кислород
+Chad	Чад
+Sodium	Натрий
+Magnesium	Магний
+Aluminium	Алюминий
+Silicon	Кремний
+Phosphorous	Фосфор
+Iron	Железо
+Potasium	Калий
+Calcium	Кальций
+Titanium	Титан (элемент)
+Ecuador	Эквадор
+Copper	Медь
+Mĩmera	Растения
+Zinc	Цинк
+Fungi	Грибы
+Jamaica	Ямайка
+Haiti	Республика Гаити
+Iraq	Ирак
+Panama	Панама
+Yemen	Йемен
+Virus	Вирусы
+Laos	Лаос
+Malaysia	Малайзия
+Burma	Мьянма
+Pakistan	Пакистан
+Sri Lanka	Шри-Ланка
+Syria	Сирия
+Thailand	Таиланд
+United Arab Emirates	Объединённые Арабские Эмираты
+Platinum	Платина
+Vietnam	Вьетнам
+South Korea	Республика Корея
+Afghanistan	Афганистан
+Gold	Золото
+Bangladesh	Бангладеш
+Angola	Ангола
+Bhutan	Бутан
+Brunei	Бруней
+Tanzania	Танзания
+Isaac Newton	Ньютон, Исаак
+Zimbabwe	Зимбабве
+Sũdana ya Kuthini	Южный Судан
+Benin	Бенин
+Botswana	Ботсвана
+Burkina Faso	Буркина-Фасо
+Burundi	Бурунди
+Republic of the Congo	Республика Конго
+Democratic Republic of the Congo	Демократическая Республика Конго
+Djibouti	Джибути
+Gabon	Габон
+Gambia	Гамбия
+Côte d'Ivoire	Кот-д’Ивуар
+Cameroon	Камерун
+Lesotho	Лесото
+Madagascar	Мадагаскар
+Malawi	Малави
+Namibia	Намибия
+Nigeria	Нигерия
+Uganda	Уганда
+Rwanda	Руанда
+Somalia	Сомали
+Julius Caesar	Гай Юлий Цезарь
+Sũdana	Судан
+Usain Bolt	Болт, Усэйн
+Piemonte	Пьемонт
+Valle d'Aosta	Валле-д’Аоста
+Emilia-Romagna	Эмилия-Романья
+Chicago	Чикаго
+Uetersen	Итерзен
+Augustus	Октавиан Август
+Campania	Кампания (Италия)
+Puglia	Апулия
+Biblia	Библия
+Kanitha wa Jesũ wa ma	Церковь истинного Иисуса
+Dong Hoi	Донгхой
+Concepción	Консепсьон (город, Чили)
+Microsoft	Microsoft
+Kemu	Химия
+Ankara	Анкара
+Nairobi	Найроби
+Osasco	Озаску
+Curitiba	Куритиба
+Monzón	Монсон
+Almazán	Альмасан
+Bill Gates	Гейтс, Билл
+Main Page	Заглавная страница
+Cipiyu	Процессор
+Penza	Пенза
+Frank Lloyd Wright	Райт, Фрэнк Ллойд
+Category:Candidates for speedy deletion	Категория:Википедия:К быстрому удалению
+Niels Bohr	Бор, Нильс
+Bengi ya Thĩ	Всемирный банк
+Ndemookirathĩ	Демократия
+Kĩheo ya Nobero	Нобелевская премия
+Mount Kilimajaro	Килиманджаро
+Mammal	Млекопитающие
+WHO	Всемирная организация здравоохранения
+Thayathi cia ndũire	Естествознание
+Tsunami	Цунами
+Logic	Логика
+Algorithm	Алгоритм
+Thomas Edison	Эдисон, Томас Алва
+Michael Faraday	Фарадей, Майкл
+Henry Ford	Форд, Генри
+Cancún	Канкун
+Atomu	Атом
+Erwin Schrodinger	Шрёдингер, Эрвин
+Ronald Reagan	Рейган, Рональд
+Metha Njokereri	Периодическая система химических элементов
+Bacteria	Бактерии
+Robot	Робот
+Macini	Машина
+Injiniarini	Инженерное дело
+Gatheti	Газета
+Microsoft obici	Microsoft Office
+Bobbio	Боббио
+AIDS	ВИЧ-инфекция
+Thiori ya Seti	Теория множеств
+Abacus	Абак
+Piacenza	Пьяченца
+Taranto	Таранто
+ISO	Международная организация по стандартизации
+Province ya Piacenza	Пьяченца (провинция)
+Province ya Taranto	Таранто (провинция)
+Wikipedia:Community Portal	Википедия:Форум
+GPS	GPS
+Friedrich Schiller	Шиллер, Фридрих
+Moshchena	Мощёная
+Paltoga	Палтога
+Kihuruta	Чешуекрылые
+Paradigm	Парадигма (философия)
+Gĩgĩkũyũ	Кикуйю (язык)
+Linus Torvalds	Торвальдс, Линус
+Thayathi cia social	Общественные науки
+İzmir	Измир
+Siligo	Силиго
+Markup languages	Язык разметки
+IBM	IBM
+John Michael Talbot	Талбот, Джон Майкл
+Mawatho matano ma Newton	Законы Ньютона
+Neural networks	Нейронная сеть
+Montehermoso	Монтеермосо
+Ford	Ford
+Template:Commonscat	Шаблон:Commonscat
+Toyota	Toyota
+Cartesian Coordinates	Прямоугольная система координат
+Agazzano	Агаццано
+Alseno	Альсено
+Besenzone	Безенцоне
+Bettola	Беттола
+Borgonovo Val Tidone	Боргоново-Валь-Тидоне
+Cadeo	Кадео
+Calendasco	Календаско
+Caminata	Камината
+Caorso	Каорсо
+Carpaneto Piacentino	Карпането-Пьячентино
+Castel San Giovanni	Кастель-Сан-Джованни
+Castell'Arquato	Кастель-Аркуато
+Castelvetro Piacentino	Кастельветро-Пьячентино
+Cerignale	Чериньяле
+Coli	Коли (Италия)
+Corte Brugnatella	Корте-Бруньятелла
+Cortemaggiore	Кортемаджоре
+Farini	Фарини
+Ferriere	Феррьере
+Fiorenzuola d'Arda	Фьоренцуола-д’Арда
+Gazzola	Гадзола
+Gossolengo	Госсоленго
+Gragnano Trebbiense	Граньяно-Треббьенсе
+Gropparello	Гроппарелло
+Lugagnano Val d'Arda	Луганьяно-Валь-д’Арда
+Monticelli d'Ongina	Монтичелли-д’Онджина
+Morfasso	Морфассо
+Nibbiano	Ниббьяно
+Ottone	Оттоне
+Pecorara	Пекорара
+Pianello Val Tidone	Пьянелло-Валь-Тидоне
+Piozzano	Пьоццано
+Podenzano	Поденцано
+Ponte dell'Olio	Понте-дель-Олио
+Pontenure	Понтенуре
+Rivergaro	Ривергаро
+Rottofreno	Роттофрено
+San Giorgio Piacentino	Сан-Джорджо-Пьячентино
+San Pietro in Cerro	Сан-Пьетро-ин-Черро
+Sarmato	Сармато
+Travo	Траво
+Vernasca	Вернаска
+Vigolzone	Вигольцоне
+Villanova sull'Arda	Вилланова-суль-Арда
+Zerba	Дзерба
+Ziano Piacentino	Дзиано-Пьячентино
+RFID	RFID
+Cybernetics	Кибернетика
+Bioinformatics	Биоинформатика
+Euclidean Geometry	Евклидова геометрия
+Macini ya Turing	Машина Тьюринга
+Silicon Valley	Силиконовая долина
+Maywood	Мэйвуд (Иллинойс)
+Kĩrĩnyaga	Кения (гора)
+Boolean Logic	Булева алгебра
+Jomo Kenyatta	Кениата, Джомо
+Thomas Kuhn	Кун, Томас Сэмюэл
+Fujitsu	Fujitsu
+Ũramati ũũgĩ	Управление знаниями
+Tectonics	Тектоника
+Banovci (Nijemci)	Бановци (Ниемци)
+Microscope	Микроскоп
+Tigranes II	Тигран II
+Cyberspace	Киберпространство
+Trpinja	Трпинья
+Palestine	Государство Палестина
+Anggun	Анггун
+Fuzzy Logic	Нечёткая логика
+Ũtuĩria na ũthondeki	НИОКР
+Ngũgĩ wa Thiong'o	Нгуги Ва Тхионго
+Gatagati mkoa, Kenya	Центральная провинция (Кения)
+Bengi ya Gũkũria Abĩrika	Африканский банк развития
+Hithitorĩ ya Kemu	История химии
+Dévanos	Деванос
+Caribbean	Вест-Индия
+Genrich Altshuller	Альтшуллер, Генрих Саулович
+Pigazzano	Пигаццано
+Alentisque	Алентиске
+Adradas	Адрадас
+Arenillas	Аренильяс
+Barcones	Барконес
+Pozalmuro	Посальмуро
+Duruelo de la Sierra	Дуруэло-де-ла-Сьерра
+Pinilla del Campo	Пинилья-дель-Кампо
+Ucero	Усеро
+Portillo de Soria	Портильо-де-Сория
+Herrera de Soria	Эррера-де-Сория
+Deza	Деса
+Barca	Барка (Сория)
+Hinojosa del Campo	Инохоса-дель-Кампо
+Category:German	Категория:Германия
+Category:Italy	Категория:Италия
+Category:USA	Категория:США
+Category:Urusi	Категория:Россия
+Category:Spain	Категория:Испания
+Category:Turkey	Категория:Турция
+Ngima	Угали
+Category:South Korea	Категория:Южная Корея
+Category:Thayathi cia ndũire	Категория:Естественные науки
+Category:Kemu	Категория:Химия
+Category:Sport	Категория:Спорт
+Category:Thayathi	Категория:Наука
+Nyamű	Служба охраны дикой природы Кении
+Wikipedia:Administrators	Википедия:Администраторы
+Category:Medicine	Категория:Медицина
+Category:Politics	Категория:Политика
+Egypt	Египет
+Template:Bot	Шаблон:Bot
+Canada	Канада
+Category:Rũraya	Категория:Европа
+Template:Documentation	Шаблон:Doc
+Sung Jae-ki	Сон Джэги
+Template:Softredirect	Шаблон:Soft redirect
+Template:Delete	Шаблон:К быстрому удалению
+Wikipedia:Statistics	Википедия:Статистика
+Template:Navbox	Шаблон:Navbox
+Category:Abĩrika	Категория:Африка
+Template:Babel	Шаблон:Babel
+Template:Commons	Шаблон:Commons
+Template:User af-1	Шаблон:User af-1
+Template:User als-1	Шаблон:User als-1
+Template:User ar-1	Шаблон:User ar-1
+Template:User az	Шаблон:User az
+Template:User eo-1	Шаблон:User eo-1
+Template:User da-2	Шаблон:User da-2
+Template:User ca-4	Шаблон:User ca-4
+Template:User be-2	Шаблон:User be-2
+Template:User da-1	Шаблон:User da-1
+Template:User cs-1	Шаблон:User cs-1
+Template:User bg-1	Шаблон:User bg-1
+Template:User eo-3	Шаблон:User eo-3
+Template:User de	Шаблон:User de
+Template:User de-1	Шаблон:User de-1
+Template:User eu	Шаблон:User eu
+Template:User et-1	Шаблон:User et-1
+Template:User el	Шаблон:User el
+Template:User es	Шаблон:User es
+Template:User de-3	Шаблон:User de-3
+Template:User en-3	Шаблон:User en-3
+Template:User el-1	Шаблон:User el-1
+Template:User en-1	Шаблон:User en-1
+Template:User en-2	Шаблон:User en-2
+Template:User eo-2	Шаблон:User eo-2
+Template:User en-4	Шаблон:User en-4
+Template:User fi	Шаблон:User fi
+Template:User en-0	Шаблон:User en-0
+Template:User en	Шаблон:User en
+Template:User de-2	Шаблон:User de-2
+Template:User es-1	Шаблон:User es-1
+Template:User fa	Шаблон:User fa
+Template:User fi-1	Шаблон:User fi-1
+Template:User fr-1	Шаблон:User fr-1
+Template:User ia-2	Шаблон:User ia-2
+Template:User hi-1	Шаблон:User hi-1
+Template:User hr	Шаблон:User hr
+Template:User he-1	Шаблон:User he-1
+Template:User hu	Шаблон:User hu
+Template:User id-3	Шаблон:User id-3
+Template:User io-3	Шаблон:User io-3
+Template:User it-3	Шаблон:User it-3
+Template:User ja-4	Шаблон:User ja-4
+Template:User sk	Шаблон:User sk
+Template:User tr-2	Шаблон:User tr-2
+Template:User fr-2	Шаблон:User fr-2
+Template:User ja	Шаблон:User ja
+Template:User ja-1	Шаблон:User ja-1
+Template:User it-1	Шаблон:User it-1
+Template:User hr-1	Шаблон:User hr-1
+Template:User fr	Шаблон:User fr
+Category:Amerika ya Kuthini	Категория:Южная Америка
+Category:Football	Категория:Футбол
+Template:Mod	Шаблон:Mod
+Template:User uk	Шаблон:User uk
+Template:User es-2	Шаблон:User es-2
+Template:Welcome	Шаблон:Приветствие
+Template:Bururi wa Abĩrika	Шаблон:Страны Африки
+Template:User zh	Шаблон:User zh
+Template:Legend	Шаблон:Легенда
+Template:User ru-4	Шаблон:User ru-4
+Template:Pp-template	MediaWiki:Protectedpagetext
+Template:User nl-1	Шаблон:User nl-1
+Template:User nl-2	Шаблон:User nl-2
+Category:America	Категория:Америка
+Template:Mikoa cia Italy	Шаблон:Регионы Италии
+Template:User pt-1	Шаблон:User pt-1
+Template:ICD10	Шаблон:ICD10
+Template:User oc-4	Шаблон:User oc-4
+Template:User pl	Шаблон:User pl
+Template:User nl	Шаблон:User nl
+Template:User no-2	Шаблон:User no-2
+Template:Emergency-bot-shutoff	Шаблон:Аварийное выключение бота
+Template:User pl-1	Шаблон:User pl-1
+Template:User lt	Шаблон:User lt
+Template:User nds-1	Шаблон:User nds-1
+Template:User ar	Шаблон:User ar
+Template:User ksh	Шаблон:User ksh
+Template:User no	Шаблон:User no
+Template:User sv-2	Шаблон:User sv-2
+Template:User la-1	Шаблон:User la-1
+Category:Template documentation	Категория:Шаблоны:Документация
+Category:User be-2	Категория:User be-2
+Category:User sk-N	Категория:User sk-N
+Template:User la-3	Шаблон:User la-3
+Template:User sv-1	Шаблон:User sv-1
+Template:User ka-1	Шаблон:User ka-1
+Category:Thayathi cia social	Категория:Общественные науки
+Template:User ru-2	Шаблон:User ru-2
+Template:User es-3	Шаблон:User es-3
+Template:User ko-3	Шаблон:User ko-3
+Category:Main	Категория:Статьи
+Template:ICD9	Шаблон:ICD9
+Category:Kenya	Категория:Кения
+Template:User ca-3	Шаблон:User ca-3
+Template:User cs-3	Шаблон:User cs-3
+Template:User la-2	Шаблон:User la-2
+Template:User li-1	Шаблон:User li-1
+Template:User mk-1	Шаблон:User mk-1
+Template:User nn-2	Шаблон:User nn-2
+Template:User no-1	Шаблон:User no-1
+Template:User pt	Шаблон:User pt
+Template:User ru-1	Шаблон:User ru-1
+Template:User sk-1	Шаблон:User sk-1
+Template:User sk-2	Шаблон:User sk-2
+Template:User sr-1	Шаблон:User sr-1
+Template:User uk-4	Шаблон:User uk-4
+Template:User zh-1	Шаблон:User zh-1
+Template:User zh-2	Шаблон:User zh-2
+Category:Mirimu	Категория:Заболевания
+Template:User sl-1	Шаблон:User sl-1
+Trojany	Трояны (Мазовецкое воеводство)
+Template:User tokipona-1	Шаблон:User tokipona-1
+Category:Mikoa cia Kenya	Категория:Провинции Кении
+Template:User sh-2	Шаблон:User sh-2
+Special:RecentChanges	Служебная:Свежие правки

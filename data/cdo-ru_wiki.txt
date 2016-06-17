@@ -1,0 +1,2396 @@
+Hĭ-ciŭ	Африка
+Nĭk-buōng	Япония
+Nàng Mī-ciŭ	Южная Америка
+Nò̤-ŭi	Норвегия
+Ĭng-gáik-làng	Англия
+Sŭ-gáik-làng	Шотландия
+Ŭi-ī-sê̤ṳ	Уэльс
+Báe̤k Ái-ī-làng	Северная Ирландия
+Ái-ī-làng	Ирландия
+Hungary	Венгрия
+Să̤-băng-ngà	Испания
+Mī-guók	Соединённые Штаты Америки
+Bī-lé-sì	Бельгия
+Luxembourg	Люксембург
+Ṳ̄-dêu	Вселенная
+Dê-giù	Земля
+Sĕng-mêng	Жизнь
+Sī	Смерть
+Nè̤ng	Человек разумный
+Huăng-hī	Счастье
+George Washington	Вашингтон, Джордж
+Wikidata	Викиданные
+Hŭng-làng	Финляндия
+Sôi-diēng	Швеция
+Dăng-măk	Дания
+Pŏ̤-làng	Польша
+Lithuania	Литва
+É-dâi-lé	Италия
+Sô̤i-sê̤ṳ	Швейцария
+Ó̤-dê-lé	Австрия
+Hĭ-lé-nà̤	Греция
+Tū-ī-gì	Турция
+Bì-ciū	Пиво
+Può-dò̤-ngà	Португалия
+Ĕu-ciŭ	Европа
+Ā-ciŭ	Азия
+Báe̤k Mī-ciŭ	Северная Америка
+Nàng-gĭk-ciŭ	Антарктида
+Wikipedia	Википедия
+Hò̤-làng	Нидерланды
+Ĭng-gĕng	Пенис у животных
+PHP	PHP
+Niū-iók-chê	Нью-Йорк
+Washington, D.C.	Вашингтон (округ Колумбия)
+Gô-gĭng-săng	Сан-Франциско
+Báik-lìng	Берлин
+Los Angeles	Лос-Анджелес
+Diêng-nō̤	Компьютер
+Sŭ-là̤-sié	Цюрих
+Barack Obama	Обама, Барак
+Uruguay	Уругвай
+MediaWiki	MediaWiki
+Lùng-dŭng	Лондон
+Bìng-guō	Яблоко
+Bă-là̤	Париж
+Mĕ̤k-să̤-gŏ̤	Мексика
+Dâi-să̤-iòng	Атлантический океан
+Tái-bìng-iòng	Тихий океан
+California	Калифорния
+Boston	Бостон
+Lā̤-bái-ék	Понедельник
+Huōi-sĭng	Марс
+Kenya	Кения
+Ethiopia	Эфиопия
+Gŭng-ciō (nguòng-siū)	Монарх
+Ghana	Гана
+Lā̤-bái-nê	Вторник
+Lā̤-bái-săng	Среда
+Lā̤-bái-sé	Четверг
+Lā̤-bái-ngô	Пятница
+Lā̤-bái-lĕ̤k	Суббота
+Lā̤-bái-nĭk	Воскресенье
+Săi (mà-kuŏ dông-ŭk)	Лев
+Huák-guók	Франция
+Kēng	Собака
+Ĭng-guók	Великобритания
+Mà	Кошка
+Dṳ̆ng-huà Ìng-mìng Gê̤ṳng-huò-guók	Китайская Народная Республика
+Huák-ngṳ̄	Французский язык
+Wiktionary	Викисловарь
+Ngṳ̀	Рыбы
+Ciū	Алкогольные напитки
+Bă-să̤	Бразилия
+Ngò̤-lò̤-sṳ̆	Россия
+Hāi	Море
+Alabama	Алабама
+Wikimedia	Фонд Викимедиа
+Jimmy Wales	Уэйлс, Джимми
+Dáik-guók	Германия
+Belarus	Белоруссия
+Dáik-ngṳ̄	Немецкий язык
+Bĭng-dō̤	Исландия
+Estonia	Эстония
+Tū-sĭng	Сатурн
+Hĭ-gĭ	Самолёт
+Ciéng-cĕng	Война
+1	1 (число)
+2	2 (число)
+3	3 (число)
+4	4 (число)
+5	5 (число)
+0	0 (число)
+George W. Bush	Буш, Джордж Уокер
+Latvia	Латвия
+Ukraine	Украина
+Ciék-káik	Чехия
+Slovakia	Словакия
+Slovenia	Словения
+Moldova	Молдавия
+Romania	Румыния
+Bulgaria	Болгария
+Lò̤-mā	Рим
+Macedonia Gê̤ṳng-huò-guók	Республика Македония
+Albania	Албания
+Croatia	Хорватия
+Bosnia gâe̤ng Herzegovina	Босния и Герцеговина
+Azerbaijan	Азербайджан
+Andorra	Андорра
+Cyprus	Республика Кипр
+Georgia (guók-gă)	Грузия
+Kazakhstan	Казахстан
+Malta	Мальта
+Monaco	Монако
+Montenegro	Черногория
+Vaticano	Ватикан
+San Marino	Сан-Марино
+Gū-bă	Куба
+Belize	Белиз
+Barbados	Барбадос
+Java	Java
+Éng-dô-nà̤-să̤-ā	Индонезия
+Tū-ī-gì-ngṳ̄	Турецкий язык
+Nàng-hĭ	Южно-Африканская Республика
+Algeria	Алжир
+Wiki Dù-cṳ̆-guāng	Викитека
+Uzbekistan	Узбекистан
+Huà-să	Варшава
+Può-dò̤-ciū	Вино
+Cūi	Вода
+Chà	Древесина
+Diêng-sê	Телевидение
+Chile	Чили
+Ià-sŭ	Иисус Христос
+Galileo Galilei	Галилей, Галилео
+Cūi-sĭng	Меркурий
+Lĭk-sṳ̄	История
+Gĭng-sĭng	Венера
+Ngṳ̄-ngiòng	Язык
+Ái	Любовь
+Mŭk-sĭng	Юпитер
+Ngṳ̀ng-ò̤	Млечный Путь
+Tiĕng-uòng-sĭng	Уран (планета)
+Hāi-uòng-sĭng	Нептун
+Tiĕng-ùng	Астрономия
+Sĭng-gă-pŏ̤	Сингапур
+Kuŏ-hŏk	Наука
+Mìng-uòng-sĭng	Плутон
+Ciŏng-lài	Будущее
+Séng-mū Mā-lé-ā	Богородица
+Liechtenstein	Лихтенштейн
+Adolf Hitler	Гитлер, Адольф
+Dâ̤-nê-ché̤ṳ Sié-gái Dâi-ciéng	Вторая мировая война
+Wiki Gáu-kuŏ-cṳ̆	Викиучебник
+Wiki Ngṳ̄-liŏh	Викицитатник
+Wiki Dâi-hŏk	Викиверситет
+Cṳ̆ng	Часы
+Ubuntu	Ubuntu
+Linux	Linux
+Só-hŏk	Математика
+Lá-dĭng-ngṳ̄	Латинский язык
+Bahrain	Бахрейн
+Armenia	Армения
+Serbia	Сербия
+Nguŏk-giù	Луна
+Istanbul	Стамбул
+Ó̤-ciŭ	Австралия
+Ŭk-lī	Физика
+Argentina	Аргентина
+Peru	Перу
+Dièu-siēng Mìng-ciō-ciō-ngiê Ìng-mìng Gê̤ṳng-huò-guók	Корейская Народно-Демократическая Республика
+Gāng-puŏ-câi	Камбоджа
+Gū-làng-gĭng	Коран
+Kṳ̄ng-lṳ̀ng	Динозавры
+Ĭ-sṳ̆-làng-gáu	Ислам
+Lì	Груша
+Lùng-lùng	Колесо
+Huò-bìng	Мир (отсутствие войны)
+Nṳ̄-gái	Женщина
+Gū-chiŏng-kĕ̤ng	Анус
+Nìng-mùng	Лимон
+Bă-ciĕu	Банан
+Huă	Цветок
+Napoléon Bonaparte	Наполеон I
+Sĕng-lī	Физиология
+Hèng-sĭng	Звезда
+Nĭk-tàu	Солнце
+Victor Hugo	Гюго, Виктор
+Dâi-iòng-ciŭ	Океания
+Tái-iòng-hiê	Солнечная система
+Ngāi	Зуб (биология)
+Kĭng	Водород
+Wiki Gê̤ṳng-hiōng	Викисклад
+Cṳ̆	Книга
+Nĭk	Сутки
+Dĕ̤ng Timor	Восточный Тимор
+Màng-buŏ	Ночь
+Nièng	Год
+Ó̤-sṳ̆-lṳ̆k	Осло
+Lī-sṳ̆-buōng	Лиссабон
+Táng	Углерод
+Dâng	Азот
+Iōng	Кислород
+Giàng-sĭng	Планета
+Kleopatra 7-sié	Клеопатра
+Ĭng-ngŏk	Музыка
+É-dâi-lé-ngṳ̄	Итальянский язык
+Séng Peterburg	Санкт-Петербург
+Chad	Чад
+Lé̤ṳ	Алюминий
+Sĭng-să̤-làng	Новая Зеландия
+Éng-dô	Индия
+Tuvalu	Тувалу
+Tiék	Железо
+Tonga	Тонга
+Samoa	Самоа
+Solomon Gùng-dō̤	Соломоновы Острова
+Vanuatu	Вануату
+Papua New Guinea	Папуа — Новая Гвинея
+William Shakespeare	Шекспир, Уильям
+Palau	Палау
+Nauru	Науру
+Micronesia Lièng-băng	Федеративные Штаты Микронезии
+Iòng (gĭng-sṳ̆k)	Свинец
+Marshall Gùng-dō̤	Маршалловы Острова
+Kiribati	Кирибати
+Mūng-gū	Монголия
+Fiji	Фиджи
+Venezuela	Венесуэла
+Guók-cié chiông-gì	Шахматы
+Genghis Khan	Чингисхан
+Maine	Мэн (штат)
+Mā	Домашняя лошадь
+Ū-ké	Оружие
+Dông-ŭk	Животные
+Suriname	Суринам
+Paraguay	Парагвай
+Guyana	Гайана
+Ecuador	Эквадор
+Colombia	Колумбия
+Hŭk-gáu	Буддизм
+Bolivia	Боливия
+Dè̤ng	Медь
+Trinidad gâe̤ng Tobago	Тринидад и Тобаго
+Sĭk-ŭk	Растения
+Séng Vincent gâe̤ng Grenadines	Сент-Винсент и Гренадины
+New Hampshire	Нью-Гэмпшир
+Séng Lucia	Сент-Люсия
+Séng Kitts gâe̤ng Nevis	Сент-Китс и Невис
+Cĭng-kṳ̄ng	Грибы
+Jamaica	Ямайка
+Grenada	Гренада
+Massachusetts	Массачусетс
+Guatemala	Гватемала
+Bahamas	Багамские Острова
+Connecticut	Коннектикут
+Giĕ	Курица
+Antigua gâe̤ng Barbuda	Антигуа и Барбуда
+Hawaii	Гавайи
+Honduras	Гондурас
+Dominica	Доминика
+Dominica Gê̤ṳng-huò-guók	Доминиканская Республика
+Dṳ̆	Домашняя свинья
+Báe̤k-bĭng-iòng	Северный Ледовитый океан
+Haiti	Республика Гаити
+El Salvador	Сальвадор
+Ĭ-lāng	Иран
+Iraq	Ирак
+Alaska	Аляска
+Costa Rica	Коста-Рика
+Ī-sáik-liĕk	Израиль
+Panama	Панама
+Yemen	Йемен
+Bâng-dŭk	Вирусы
+Pŏ̤-làng-ngṳ̄	Польский язык
+Jordan	Иордания
+Nicaragua	Никарагуа
+Florida	Флорида
+Kyrgyzstan	Киргизия
+Arizona	Аризона
+Kuwait	Кувейт
+Lō̤-kuŏ	Лаос
+Lebanon	Ливан
+Oregon	Орегон
+Maldives	Мальдивы
+Mī-ciŭ	Америка
+Utah	Юта
+Ngù	Корова
+Mā-lài-să̤-ā	Малайзия
+Miēng-diêng	Мьянма
+Nepal	Непал
+Oman	Оман
+Pakistan	Пакистан
+Qatar	Катар
+Saudi Ā-lá-báik	Саудовская Аравия
+Sri Lanka	Шри-Ланка
+Joseph Stalin	Сталин, Иосиф Виссарионович
+Syria	Сирия
+Platon	Платон
+Tajikistan	Таджикистан
+Dṳ̆ng-huà Mìng-guók	Китайская Республика
+Aristoteles	Аристотель
+Tái-guók	Таиланд
+Huōi-chiă	Поезд
+Turkmenistan	Туркмения
+Ā-lá-báik Lièng-hăk Dâi-gŭng-guók	Объединённые Арабские Эмираты
+Băh-gĭng	Платина
+Uŏk-nàng	Вьетнам
+Dâi-hàng Mìng-guók	Республика Корея
+Afghanistan	Афганистан
+Gĭng	Золото
+Suez Ông-ò̤	Суэцкий канал
+Bangladesh	Бангладеш
+Mali	Мали
+Sokrates	Сократ
+Angola	Ангола
+Bhutan	Бутан
+Ùng-lài	Бруней
+Tanzania	Танзания
+Cūi-ngṳ̀ng	Ртуть
+Hĭ-lĭ-pĭng	Филиппины
+Dṳ̆ng-hĭ Gê̤ṳng-huò-guók	Центральноафриканская Республика
+Isaac Newton	Ньютон, Исаак
+Albert Einstein	Эйнштейн, Альберт
+Uòng-sáik	Жёлтый цвет
+Togo	Того
+Tunisia	Тунис
+Zambia	Замбия
+Zimbabwe	Зимбабве
+Báe̤k-gĭng	Пекин
+Nàng Sudan	Южный Судан
+Benin	Бенин
+Botswana	Ботсвана
+Wiki Sĭng-ùng	Викиновости
+Burkina Faso	Буркина-Фасо
+Burundi	Бурунди
+Comoros	Коморы
+Congo Gê̤ṳng-huò-guók	Республика Конго
+Congo Mìng-ciō Gê̤ṳng-huò-guók	Демократическая Республика Конго
+Djibouti	Джибути
+Chiáh-dô̤ Guinea	Экваториальная Гвинея
+Eritrea	Эритрея
+Gabon	Габон
+Gambia	Гамбия
+Guinea	Гвинея
+Guinea-Bissau	Гвинея-Бисау
+Côte d'Ivoire	Кот-д’Ивуар
+Cameroon	Камерун
+Cabo Verde	Кабо-Верде
+Lesotho	Лесото
+Liberia	Либерия
+Libya	Ливия
+Madagascar	Мадагаскар
+Malawi	Малави
+Mauritania	Мавритания
+Mauritius	Маврикий
+Morocco	Марокко
+Mozambique	Мозамбик
+Namibia	Намибия
+Niger	Нигер
+Nigeria	Нигерия
+Charles Darwin	Дарвин, Чарлз
+Uganda	Уганда
+Rwanda	Руанда
+Séng Tomé gâe̤ng Príncipe	Сан-Томе и Принсипи
+Senegal	Сенегал
+Seychelles	Сейшельские Острова
+Carl Linnaeus	Линней, Карл
+Sierra Leone	Сьерра-Леоне
+Somalia	Сомали
+Julius Caesar	Гай Юлий Цезарь
+Sudan	Судан
+Swaziland	Свазиленд
+Kê̤ṳng	Радуга
+Lièng-hăk-guók	Организация Объединённых Наций
+Dê-cék	Геология
+Dê-lī	География
+Sĭng-câung	Сердце
+Puòi-hŭ	Кожа
+Ngàng-sáik	Цвет
+Làng-sáik	Синий цвет
+Ngṳ̀ng	Серебро
+Sék	Олово
+Michigan	Мичиган
+Illinois	Иллинойс
+North Dakota	Северная Дакота
+South Dakota	Южная Дакота
+Montana	Монтана
+Wyoming	Вайоминг
+Idaho	Айдахо
+Washington	Вашингтон (штат)
+Nevada	Невада
+Éng-dô-iòng	Индийский океан
+Kosovo	Республика Косово
+Colorado	Колорадо
+分類:Hŭng-lôi	Категория:Всё
+Chicago	Чикаго
+Dĕ̤ng-tiĕng	Зима
+Chŭng-tiĕng	Весна
+Hâ-tiĕng	Лето
+Chiŭ-tiĕng	Осень
+Saddam Hussein	Саддам Хусейн
+Osama bin Laden	Усама бен Ладен
+Să̤-băng-ngà-ngṳ̄	Испанский язык
+Philadelphia	Филадельфия
+Tĭ-tṳ̆	Пауки
+Guō-sĭk	Плод
+Gàu	Обезьяны
+Cièng	Деньги
+Virginia	Виргиния
+West Virginia	Западная Виргиния
+Huăng-ciĕu	Перец овощной
+Niū-iók-ciŭ	Нью-Йорк (штат)
+Rhode Island	Род-Айленд
+Kŏng-tṳ̀ng	Насекомые
+Maryland	Мэриленд
+Delaware	Делавэр
+Vladimir Lenin	Ленин, Владимир Ильич
+Ohio	Огайо
+Pennsylvania	Пенсильвания
+Augustus	Октавиан Август
+Microsoft Windows	Windows
+New Jersey	Нью-Джерси
+Hŭng-làng-ngṳ̄	Финский язык
+Indiana	Индиана
+Ké-chiă	Автомобиль
+Georgia	Джорджия
+Texas	Техас
+North Carolina	Северная Каролина
+South Carolina	Южная Каролина
+Manila	Манила
+Dĕ̤ng-gĭng	Токио
+Uòng-lì	Ананас крупнохохолковый
+Mississippi	Миссисипи (штат)
+Tennessee	Теннесси
+New Mexico	Нью-Мексико
+Ngà-diēng	Афины
+Minnesota	Миннесота
+Baghdad	Багдад
+Wisconsin	Висконсин
+Iowa	Айова
+Nebraska	Небраска
+Kansas	Канзас
+Hŏng-giāng	Сигарета
+Missouri	Миссури (штат)
+Louisiana	Луизиана
+Kentucky	Кентукки
+Arkansas	Арканзас
+Oklahoma	Оклахома
+Madonna	Мадонна (певица)
+Aceh	Ачех (провинция)
+Séng-gĭng	Библия
+Phnom Penh	Пномпень
+Hù Cé-mìng Chê	Хошимин
+Ò̤-nô̤i	Ханой
+Cĭng Ià-sŭ Gáu-huôi	Церковь истинного Иисуса
+Ĭng-ngṳ̄	Английский язык
+Màng-gók	Бангкок
+Kuala Lumpur	Куала-Лумпур
+Bangka Belitung Gùng-dō̤	Банка-Белитунг
+Dài-báe̤k	Тайбэй
+Concepción	Консепсьон (город, Чили)
+Bengkulu	Бенкулу (провинция)
+Końskowola	Коньсковоля
+Nê-iōng-huá-táng	Диоксид углерода
+Jambi	Джамби (провинция)
+Siè	Змеи
+Lampung	Лампунг
+Guŏng-sók	Скорость света
+Riau	Риау
+Riau Gùng-dō̤	Острова Риау
+Nàng Sumatra	Южная Суматра
+Lò̤-mā Dá̤-guók	Римская империя
+Mì-niōng	Microsoft
+Kó-lū-hŭ	Курув
+Huá-hŏk	Химия
+Sièng-sŏng	Соляная кислота
+Ôi-sĭng	Спутник (космос)
+Kă-giù	Футбол
+Să̤ Sumatra	Западная Суматра
+Mā-dáik-lī	Мадрид
+Michael Jackson	Джексон, Майкл
+Cê̤ṳ-iù	Свобода
+Cṳ̆-niòng-giāng	Девочка
+Sék-nà̤	Сидней
+Liŏh-sáik	Зелёный цвет
+È̤ng-sáik	Красный цвет
+Huōi	Огонь
+Sĭng Nàng Wales	Новый Южный Уэльс
+Nile Ò̤	Нил
+Banten	Бантен
+Dṳ̆ng Jawa	Центральная Ява
+Chēng-chiū-sĭng	Комета
+Dĕ̤ng Jawa	Восточная Ява
+Jakarta	Джакарта
+Ăng-kā-lá	Анкара
+Să̤ Jawa	Западная Ява
+Yogyakarta	Джокьякарта (особый округ)
+Dṳ̆ng Kalimantan	Центральный Калимантан
+Dĕ̤ng Kalimantan	Восточный Калимантан
+Báe̤k Kalimantan	Северный Калимантан
+Nàng Kalimantan	Южный Калимантан
+Hŏk-hâu	Школа
+Să̤ Kalimantan	Западный Калимантан
+Dâi-hŏk	Университет
+Wikipedia:Să-buàng	Википедия:Песочница
+Chió	Жилище
+Dê-dù	Географическая карта
+Ò̤	Река
+Osasco	Озаску
+Chiĕng-lī-giáng	Телескоп
+分類:Dài-uăng lĭk-sṳ̄	Категория:История Тайваня
+Curitiba	Куритиба
+Sĕng-lìng	Лес
+分類:Uŏk-nàng lĭk-sṳ̄	Категория:История Вьетнама
+Iók-báik-cṳ̆	Книга Иова
+Cĭng-ngiòng	Книга притчей Соломоновых
+Kūng-cṳ̄	Конфуций
+Hà	Десятиногие ракообразные
+分類:Só-hŏk	Категория:Математика
+Bali	Бали
+Ĕu-nguòng	Евро
+Mī-gĭng	Доллар США
+Dâi-lièu	Ляо
+Hòng-ciŭ	Ханчжоу
+Gĭ-dók-gáu	Христианство
+Dĕ̤ng Nusa Tenggara	Восточные Малые Зондские острова
+Să̤ Nusa Tenggara	Западные Малые Зондские острова
+Dṳ̆ng Sulawesi	Центральный Сулавеси
+Gĭng-guók	Династия Цзинь (1115—1234)
+Gorontalo	Горонтало
+Báe̤k Sulawesi	Северный Сулавеси
+Dĕ̤ng-nàng Sulawesi	Юго-Восточный Сулавеси
+Nàng Sulawesi	Южный Сулавеси
+Să̤ Sulawesi	Западный Сулавеси
+Seattle	Сиэтл
+Dêu	Рис (продукт питания)
+Maluku	Малуку
+Báe̤k Maluku	Северное Малуку
+Papua	Папуа (провинция Индонезии)
+Să̤ Papua	Западное Папуа
+Cēu	Птицы
+Siū-dŭ	Столица
+Può-dò̤-ngà-ngṳ̄	Португальский язык
+Nguŏk	Месяц
+Uòng Hiêng-huàng	Хуан Сяньфань
+Cōng	Алмаз
+Nĭk-buōng-ngṳ̄	Японский язык
+Báik-kuŏ-ciòng-cṳ̆	Энциклопедия
+Tàu Hiĕk	Заглавная страница
+模板:Ô-lī-kó̤	Шаблон:Хорошая статья
+Saratov	Саратов
+Làng-giù	Баскетбол
+Olympic Ông-dông-huôi	Олимпийские игры
+Diòng-gĕ̤ng	Янцзы
+Che Guevara	Че Гевара, Эрнесто
+Mò̤ Dĕk-dŭng	Мао Цзэдун
+Să̤-ăng	Сиань
+Lá-sák	Лхаса
+Séng-gău	Половой акт
+Ĭng-dô̤	Влагалище женщины
+Diék-hŏk	Философия
+分類:Ché̤ṳk-káik chēng-dṳ̀	Категория:Википедия:К быстрому удалению
+Gáung-kìng	Фортепиано
+Dà	Чай
+Marco Polo	Поло, Марко
+Hebe Camargo	Камарго, Эбе
+Gê̤ṳng-sāng-ciō-ngiê	Коммунизм
+Cṳ̆-buōng-ciō-ngiê	Капитализм
+Guók-gă	Страна
+Mìng-cŭk	Нация
+Carthago	Карфаген (город)
+Uōng-hiĕk liù-lāng-ké	Браузер
+Siù-cūi	Плавание человека
+分類:Tiĕng-ùng	Категория:Астрономия
+Hŭk	Будда
+Lī Bĕk	Ли Бо
+Dù-cṳ̆-guāng	Библиотека
+Sĕng-tái	Экология
+Céng-dê	Политика
+Mìng-ciō	Демократия
+Cìng-dièu	Цинь (династия)
+Nobel Ciōng	Нобелевская премия
+Cìng Sṳ̄-huòng	Цинь Шихуанди
+Dṳ̆ng-dĕ̤ng	Средний Восток
+Háng-dièu	Хань (династия)
+Làu Băng	Лю Бан
+Háng Ùng-dá̤	Вэнь-ди (Хань)
+Háng Gīng-dá̤	Цзин-ди
+Háng Ū-dá̤	У-ди
+Sĕng-ŭk	Организм
+Rabindranath Tagore	Тагор, Рабиндранат
+Háng Guŏng-ū-dá̤	Гуан У-ди
+Gŭng-ciō-cié-dô	Монархия
+Siâ-huôi-ciō-ngiê	Социализм
+Cṳ̆ng-chói	Поцелуй
+Nguòng-dièu	Юань (династия)
+Háng Hióng-dá̤	Сянь-ди (династия Хань)
+Nazi Dáik-guók	Третий рейх
+Christopher Columbus	Колумб, Христофор
+Dâng Huò	Чжэн Хэ
+Panama Ông-ò̤	Панамский канал
+Céng-dièu	Цзинь (265—420)
+Nàng-bĭng-iòng	Южный океан
+Uòng-ò̤	Хуанхэ
+Sṳ̆-mā Ièng	У-ди (династия Цзинь)
+Ngê	Ухо
+Pé	Нос
+Mĕ̤k-ciŭ	Глаз
+Hŭng-muòng	Комары
+Săi-ngṳ̀	Акулы
+Lŏk-dò̤	Верблюды
+Chiông	Слон
+Mā-ngiê	Муравьи
+Sùi-dièu	Суй
+Hò̤-làng-ngṳ̄	Нидерландский язык
+Sùi Ùng-dá̤	Вэнь-ди (династия Суй)
+Sùi Iòng-dá̤	Суй Ян-ди
+Să̤-hâ	Си Ся
+Sóng-dièu	Империя Сун
+Diêu Kuŏng-êng	Тай-цзу (династия Сун)
+Sóng Tái-cŭng	Тай-цзун (династия Сун)
+Sóng Cĭng-cŭng	Чжэнь-цзун (династия Сун)
+Sóng Ìng-cŭng	Жэнь-цзун (династия Сун)
+Sóng Sìng-cŭng	Шэнь-цзун (династия Сун)
+Sóng Hŭi-cŭng	Хуэй-цзун
+Sóng Gŏ̤-cŭng	Гао-цзун (династия Сун)
+Sóng Lī-cŭng	Ли-цзун (династия Сун)
+Sóng Duăng-cŭng	Дуань-цзун (династия Сун)
+Ögedei	Угэдэй
+Güyük	Гуюк
+Möngke	Мунке
+Kublai	Хубилай
+Huă-chái	Цветная капуста
+Giò (sĭk-ŭk)	Баклажан
+Siók	Снег
+Niè-giāng	Ребёнок
+Cā-tàu	Утро
+Hŭng-cṳ̆ng	Минута
+Ngò̤-lò̤-sṳ̆-ngṳ̄	Русский язык
+Huák-lŭk	Право
+Hièng-huák	Конституция
+Háng-ngṳ̄	Китайский язык
+Sá̤-bàu	Клетка
+Háik	Кровь
+Hié (ké-guăng)	Лёгкие
+Romania-ngṳ̄	Румынский язык
+Bulgaria-ngṳ̄	Болгарский язык
+Ṳ̄	Дождь
+Dê-cīng	Землетрясение
+Cūi-căi	Наводнение
+Hāi-lâung	Цунами
+Hùng	Облака
+Hŭng-tăi	Тропический циклон
+Hŭng	Ветер
+Georgia-ngṳ̄	Грузинский язык
+Háng-cê	Китайское письмо
+Dièu-siēng-cê	Хангыль
+Lá-dĭng cê-mō̤	Латинский алфавит
+Ùng-hŏk	Литература
+分類:Ĭng-ngŏk	Категория:Музыка
+分類:Ùng-hŏk	Категория:Литература
+È̤ng-làu-máe̤ng	Сон в красном тереме
+Hù-lì	Лисица
+Harry Potter	Серия романов о Гарри Поттере
+Chiū-ìng	Мастурбация
+Siâ-huôi	Общество
+Gáu-ṳ̆k	Образование
+Nàng-gái	Мужчина
+Ìng-guòng	Права человека
+Temür	Тэмур
+Gŭng-sê̤ṳ	Военное дело
+Gă-pĭ	Кофе
+Săng	Гора
+Khayisan	Хайсан
+Ayurbarwada	Аюрбарибада
+Shidibala	Шидэбала
+Yesün Temür	Есун-Тэмур
+Sŏng Dṳ̆ng-săng	Сунь Ятсен
+Hiŏng-gē̤ng	Гонконг
+Miami	Майами
+Ragibagh	Раджапика
+Tugh Temür	Туг-Тэмур
+Kuśala	Хошила
+Hàng Ciéng	Корейская война
+Rinchinbal	Иринджибал
+Toghon Temür	Тогон-Тэмур
+Siū-ék	Сеул
+Siông-hāi	Шанхай
+Ùng-huá Dâi-gáik-mêng	Культурная революция в Китае
+Chĭng-dièu	Империя Цин
+Uŏk-nàng Ciéng-cĕng	Война во Вьетнаме
+Thomas Edison	Эдисон, Томас Алва
+Armenia-ngṳ̄	Армянский язык
+Ukraine-ngṳ̄	Украинский язык
+HTML	HTML
+Steven Spielberg	Спилберг, Стивен
+Mŏ̤h-ngiòng	Мо Янь
+Sôi-diēng-ngṳ̄	Шведский язык
+Dăng-măk-ngṳ̄	Датский язык
+Nò̤-ŭi-ngṳ̄	Норвежский язык
+Luxembourg-ngṳ̄	Люксембургский язык
+Ciék-káik-ngṳ̄	Чешский язык
+Karl Marx	Маркс, Карл
+Nĕng-nĕng	Женская грудь
+Guŏng	Свет
+Hĭ-lé-nà̤-ngṳ̄	Греческий язык
+Ái-ī-làng-ngṳ̄	Ирландский язык
+Kié-ngò̤	Пингвиновые
+Pŏ̤-sṳ̆-ngṳ̄	Персидский язык
+Cŭng-gáu	Религия
+Hàng-guók-ngṳ̄	Корейский язык
+Cháung-sié-gé	Книга Бытия
+Chók-Ăi-gĭk-gé	Книга Исход
+Háng-ngṳ̄ Guăng-uâ	Севернокитайский язык
+Uŏk-nàng-ngṳ̄	Вьетнамский язык
+Sigmund Freud	Фрейд, Зигмунд
+Tái-guók-ngṳ̄	Тайский язык
+Mā-lài-ngṳ̄	Малайский язык
+Mūng-gū-ngṳ̄	Монгольский язык
+Bandar Seri Begawan	Бандар-Сери-Бегаван
+Hĭ-báik-lài-ngṳ̄	Иврит
+Ŭi-ī-sê̤ṳ-ngṳ̄	Валлийский язык
+Sŭ-gáik-làng-ngṳ̄	Шотландский язык (кельтский)
+Vientiane	Вьентьян
+Lō̤-cṳ̄	Лао-цзы
+Găng-câung	Печень
+Sṳ̆-mā Chiĕng	Сыма Цянь
+Tó	Кролики
+Ciŏ Hĭ	Чжу Си
+Cìng-gāng	Эмоция
+Dâi-iòng	Океан
+Victoria Nṳ̄-uòng	Виктория (королева Великобритании)
+Sék-giă-mèu-nà̤	Будда Шакьямуни
+Mŭk-hâng-mĕk-dáik	Мухаммед
+Hŭ-ngék	Дыхание
+Ṳ̀-gă	Конфуцианство
+Bók-lō̤	Брюшко
+Dô̤-gáu	Даосизм
+Chói-siĕk	Язык (анатомия)
+Dâiu-gáuk	Шея
+Chói	Рот
+Elizabeth 2-sié	Елизавета II
+Dòng-dièu	Тан (династия)
+Dòng Gŏ̤-cū	Гаоцзу (династия Тан)
+Dòng Tái-cŭng	Тай-цзун (династия Тан)
+Dòng Gŏ̤-cŭng	Гао-цзун (династия Тан)
+Dòng Dṳ̆ng-cŭng	Чжун-цзун (династия Тан)
+Dòng Iô-cŭng	Жуй-цзун (династия Тан)
+Ū Cáik-tiĕng	У Цзэтянь
+Dòng Hièng-cŭng	Сюань-цзун (династия Тан, 712—756)
+Dòng Sé̤ṳk-cŭng	Су-цзун (династия Тан)
+Dòng Dâi-cŭng	Дай-цзун (династия Тан)
+Dòng Dáik-cŭng	Дэ-цзун (династия Тан)
+Cê-mō̤	Буква
+Siēu-hŏk	Начальная школа
+Mìng-dièu	Империя Мин
+Ciŏ Nguòng-ciŏng	Хунъу
+Ronald Reagan	Рейган, Рональд
+Gióng-ùng Huòng-dá̤	Цзяньвэнь
+Īng-lŏk Huòng-dá̤	Юнлэ
+Hùng-hĭ Huòng-dá̤	Хунси
+Sŏng-dáik Huòng-dá̤	Сюаньдэ
+Mìng Ĭng-cŭng	Чжэнтун
+Gīng-tái Huòng-dá̤	Цзинтай
+Sìng-huá Huòng-dá̤	Чэнхуа (император)
+Hùng-dé Huòng-dá̤	Хунчжи
+Céng-dáik Huòng-dá̤	Чжэндэ
+Gă-cêng Huòng-dá̤	Цзяцзин
+Lè̤ng-kéng Huòng-dá̤	Лунцин
+Uâng-lĭk Huòng-dá̤	Ваньли
+Tái-chiŏng Huòng-dá̤	Тайчан
+Tiĕng-kiē Huòng-dá̤	Тяньци
+Sùng-dĭng Huòng-dá̤	Чунчжэнь
+Gĭng Céng-nĭk	Ким Чен Ир
+Nguòng-só ciŭ-gĭ-biēu	Периодическая система химических элементов
+Chăng-màng	Слепота
+Sá̤-kṳ̄ng	Бактерии
+Chéu	Дерево
+Può-dò̤	Виноград (ягода)
+Huăng-giāng-sṳ̀	Картофель
+Tòng	Сахар
+Uòng-dâu	Соя
+Séng-sék	Информация
+Bó̤-cāi	Газета
+Diêng-uâ	Телефон
+Ùng-huá	Культура
+Huáng-ngṳ̄	Санскрит
+Dâi-diòng	Толстая кишка
+Siēu-diòng	Тонкая кишка
+Ĭ-hŏk	Медицина
+Sièng	Поваренная соль
+Huá-hŏk nguòng-só	Химический элемент
+Unix	UNIX
+Ùi-gì	Го
+Káh-dièu-nó̤h	Игрушка
+Diêng-īng	Фильм
+Gĭng-sṳ̆k	Металлы
+Kă-dăk-chiă	Велосипед
+Mièng-huă	Хлопок
+Sók-dô	Скорость
+Sì-găng	Время
+Cāi	Бумага
+Só-lâiu	Пластмассы
+Miêng-cék	Площадь
+Gŭng-chióh	Метр
+Iù-diĕng-bău	Кукуруза сахарная
+Duâi-măk	Ячмень обыкновенный
+Dĕ̤ng-nàng-ā	Юго-Восточная Азия
+Sīng-iòng	Шэньян
+Tṳ̀ng-kéng	Чунцин
+Tiĕng-cĭng	Тяньцзинь
+Ū-háng	Ухань
+Gū Ăi-gĭk	Древний Египет
+Gū Hĭ-lé-nà̤	Древняя Греция
+Hṳ̀ng	Медвежьи
+Britney Spears	Спирс, Бритни
+Ngàng	Злокачественная опухоль
+Măk	Пшеница
+Cié-sē̤	Сорго
+Pó̤-sióng	Инвалидность
+Lĭk-huák	Календарь
+Sìng-gĭng-bâng	Психическое расстройство
+Gregorius Lĭk-huák	Григорианский календарь
+Tutankhamun	Тутанхамон
+Nguŏk-gĭng	Менструация
+Mà-chiók	Маджонг
+Ông-ò̤	Канал (гидрография)
+Detroit	Детройт
+Diòng-siàng	Великая Китайская стена
+Gĭng-cê-ták	Пирамида (архитектура)
+Osman Dá̤-guók	Османская империя
+Guók-nô̤i sĕng-sāng cūng-dĭk	Валовой внутренний продукт
+Diêng	Электричество
+Ché̤ṳng	Огнестрельное оружие
+Lòng-gĭ-ché̤ṳng	Пулемёт
+Sáung-buàng	Абак
+Tāng-káik	Танк
+Chāu-muòi	Земляника ананасная
+Liĕk-chiĕ	Личи
+Ià-cī	Кокосовая пальма
+Tò̤	Персик
+Cáung-ngṳ̄	Чжуанский язык
+Siŏng-ngṳ̄	Сян (язык)
+Mì-ngù-ī-ngṳ̄	Уйгурский язык
+Lâung-gŏ̤	Пирожное
+Wiki Ŭk-cṳ̄ng	Викивиды
+Nĕng-dáe̤k	Бюстгальтер
+Ā-lá-báik-ngṳ̄	Арабский язык
+Cūng-lī	Премьер-министр
+Dièu-siēng Tái-cŭng	Тхэджон
+Lù Ū-hièng	Но Му Хён
+Páuk Céng-hĭ	Пак Чон Хи
+Siĕng-ìng-ciōng	Кактусовые
+Siŏh-tàu-lâung	Галька
+Iòng-bék	Карандаш
+Gă-sĭ	Мебель
+Dó̤h	Стол
+Ó̤-muòng	Макао
+Iē-giāng	Стул
+Hù Gīng-dò̤	Ху Цзиньтао
+Sĭk Gê̤ṳng-bìng	Си Цзиньпин
+Dòng-gêng-lĕ̤k	Жираф
+Chĭng-dáung	Шэньчжэнь
+Guōng-dĕ̤ng	Гуандун
+Guōng-să̤	Гуанси-Чжуанский автономный район
+Sŭ-lièng	Союз Советских Социалистических Республик
+Kiák-sióng-gĭ	Фотоаппарат
+Kagoshima-gâing	Кагосима (префектура)
+C ngṳ̄-ngiòng	Си (язык программирования)
+Kă	Стопа
+Ciēng	Гекконы
+Dô-dâing	Ящерицы
+Giĕng-tàu	Плечевой сустав
+Wikipedia:Bō̤-ciéng hō̤ ùng	Википедия:Избранные статьи
+Sié-gái	Мир (Земля)
+Wikipedia:Duâi chéu â	Википедия:Форум
+Busan	Пусан
+Lèng-huă	Лотос орехоносный
+Vermont	Вермонт
+Denver	Денвер
+Guōng-ciŭ	Гуанчжоу
+Ciōng Gái-sĭk	Чан Кайши
+Gŏng Dĕk-mìng	Цзян Цзэминь
+Ŭng Gă-bō̤	Вэнь Цзябао
+Nàng-gĭng	Нанкин
+Làu Dáik-huà	Лау, Энди
+Diŏng Hŏk-iū	Чун, Джеки
+Báe̤k-gĭng Dâi-hŏk	Пекинский университет
+Chĭng-huà Dâi-hŏk	Университет Цинхуа
+Ŭ-lū-mŭk-cà̤	Урумчи
+Gŏng-sŭ	Цзянсу
+Ciék-gŏng	Чжэцзян
+Dâing Siēu-bìng	Дэн Сяопин
+Lò̤-mā Gê̤ṳng-huò-guók	Римская республика
+Câung-kṳ̆	Тибет
+Să̤-câung	Тибетский автономный район
+Ciŭ Ŏng-lài	Чжоу Эньлай
+Dṳ̆ng-guók Gê̤ṳng-sāng-dōng	Коммунистическая партия Китая
+Chiū-gĭ	Сотовый телефон
+Dò̤-nēu	Страус
+Kŏng-hĭ Huòng-dá̤	Канси
+Dièu-siēng	Корея
+Lī Káik-giòng	Ли Кэцян
+Gŏ̤ Hèng-giông	Гао Синцзянь
+Ciŏ Ṳ̀ng-gĭ	Чжу Жунцзи
+Lī Bèng	Ли Пэн
+Lòng	Волк
+Bìng-iōng	Пхеньян
+Sĭng-iók Séng-gĭng	Новый Завет
+9	9 (число)
+Kiék	Скорпионы
+Gièng-lè̤ng Huòng-dá̤	Цяньлун
+Dṳ̆ng-guók Dâi-lṳ̆k	Континентальный Китай
+Háik-lṳ̀ng-gĕ̤ng-sēng	Хэйлунцзян
+Mā Ĭng-gāu	Ма Инцзю
+Lè̤	Домашний осёл
+Wikipedia:Cék-liông ô-lī-kó̤ gì ùng-ciŏng	Википедия:Хорошие статьи
+Sé-chiŏng	Сычуань
+Gô-iók Séng-gĭng	Ветхий Завет
+Séng-dáng-cáik	Рождество Христово
+Săng-gáe̤k-hìng	Треугольник
+Muammar Gaddafi	Каддафи, Муаммар
+Lâu-hū	Тигр
+Daejeon	Тэджон
+Daegu	Тэгу
+Sié-cŭng Dĕk-biék Cê̤ṳ-dé-chê	Седжон (город)
+Incheon	Инчхон
+Gyeonggi Dô̤	Кёнгидо
+Bô-uăk-cáik	Пасха
+Ò̤-báe̤k	Хэбэй
+Bŏk Hĭ-lài	Бо Силай
+GNU Cê̤ṳ-iù Ùng-dáung Hṳ̄-kō̤-céng	GNU FDL
+Uŏng Cĭng-ôi	Ван Цзинвэй
+Dìng Cūi-biēng	Чэнь Шуйбянь
+Dài-uăng	Тайвань
+À̤	Лёгкая обувь
+Ngṳ̀ng-hòng	Банк
+Lū Séng	Лу Синь
+7	7 (число)
+8	8 (число)
+Lĕ̤k	Оленевые
+Hù	Озеро
+Sáung-tàu	Чеснок
+Chái-guă	Огурец обыкновенный
+Dō̤	Остров
+Băh-sáik	Белый цвет
+Ŭ-sáik	Чёрный цвет
+6	6 (число)
+Moshchena	Мощёная
+Huăng-kê	Томат
+George H. W. Bush	Буш, Джордж Герберт Уокер
+Paltoga	Палтога
+Quảng Bình	Куангбинь
+Atlanta	Атланта
+Benito Mussolini	Муссолини, Бенито
+Sṳ̀-diēng	Словарь
+Tàu	Голова
+Hiê-lìng-dóng	Веллингтон
+Dâi Bók-liĕk-diĕng Dō̤	Великобритания (остров)
+Las Vegas	Лас-Вегас
+10	10 (число)
+Alfred Nobel	Нобель, Альфред
+Tàu-sĕ̤	Расчёска
+Guòng-lĭk	Власть
+Mà-hùng-cēu	Совообразные
+Dēng-cṳ̆ng	Час
+Ké-chiông	Метеорология
+Đà Nẵng	Дананг
+Káh-chiók	Сорока
+Làng-huă	Орхидные
+Gă-săk	Таракановые
+Ngáuk-ngṳ̀	Крокодилы
+Lā-lì	Панголины
+Nàng-muōi-sĭng	Светляки
+Holocene	Голоцен
+Hāi-báu	Настоящие тюлени
+Bà̤-bá-cēu	Крапивник
+Ciáh-giāng	Полевой воробей
+Niccolò Cusano Dâi-hŏk	Университет Николая Кузанского
+Long An	Лонган
+Thái Nguyên	Тхайнгуен (провинция)
+Herodotus	Геродот
+Othello	Отелло
+Nĭk-buōng-hāi	Японское море
+Dĕ̤ng-ā	Восточная Азия
+Dĕ̤ng-ĕu	Восточная Европа
+Vĩnh Phúc	Виньфук
+Chĕ̤ng	Лук-батун
+Liù-giù-guók	Рюкю (государство)
+Dièu-siēng uòng-dièu	Чосон
+Gŏ̤-là̤	Корё
+Dâi-hàng Dá̤-guók	Корейская империя
+Buŏk-hāi-guók	Бохай
+Gŏ̤-gău-là̤	Когурё
+Bì-bà-dâu-giék	Рукокрылые
+Báik-cá̤	Пэкче
+Sĭng-lò̤	Силла
+Tàu-huók	Волосы
+Hàng Hĭ	Хань Фэй
+Uòng-dá̤	Хуан-ди
+Diéu-ngṳ̀-dài Liĕk-dō̤	Сенкаку
+Gê̤ṳng-huò-dōng (Mī-guók)	Республиканская партия (США)
+Dṳ̆ng-guók	Китайская цивилизация
+Mìng-ciō-dōng (Mī-guók)	Демократическая партия (США)
+Cūi-tiák	Выдра
+Sìng-dŭ	Чэнду
+Buò-gŭng-ĭng	Одуванчик
+Tá	Медуза
+Dâng-ciŭ	Чжэнчжоу
+Cūng-tūng	Президент
+Muāng-ciŭ-guók	Маньчжоу-го
+Gù-cŭi	Горлицы
+Só̤h	Трос
+Dṳ̆ng-guók Guók-mìng-dōng	Гоминьдан
+Hiăng-diê ciā-muói	Сиблинги
+Ngâng	Сухонос
+Ĕng-gŏ̤	Попугаеобразные
+Gă-huák	Сложение
+Dài-uăng-sēng	Тайвань (провинция Китайской Республики)
+Dŏ̤	Нож
+Băng-mā	Зебры
+Guók-cié biĕu-cūng cṳ̆-hô̤	Международный стандартный книжный номер
+Đồng Nai	Донгнай (провинция)
+Sóc Trăng	Шокчанг (провинция)
+Quảng Ngãi	Куангнгай (провинция)
+Hà Tĩnh	Хатинь (провинция)
+Cà Mau	Камау (провинция)
+Quảng Nam	Куангнам
+Bến Tre	Бенче (провинция)
+Khánh Hòa	Кханьхоа
+Káh-gă-ngṳ̄	Хакка (язык)
+Sơn La	Шонла (провинция)
+Huŏng-ngiòng	Диалект
+Lev Trotsky	Троцкий, Лев Давидович
+Quảng Ninh	Куангнинь
+Lạng Sơn	Лангшон (провинция)
+Bắc Ninh	Бакнинь (провинция)
+Gáng-ngṳ̄	Гань
+Sṳ̆-mā Guŏng	Сыма Гуан
+Mà-hṳ̀ng	Большая панда
+Muāng-ngṳ̄	Маньчжурский язык
+Chiū	Кисть (анатомия)
+Dô Hū	Ду Фу
+Gùng-dō̤	Архипелаг
+Niŏh-niŏh	Лист
+Bŭk-buó	Водопад
+Yasser Arafat	Ясир Арафат
+Chṳ̆ng-sìng-ngṳ̄	Окинавский язык
+Câung-ngṳ̄	Тибетский язык
+Ngù-ngṳ̄	У (язык)
+Tasmania	Тасмания
+Ì-cô̤	Мыло
+Hŭk-săng	Фошань
+Ciĕu-huò Tiĕng-huòng	Хирохито
+Al-Qaeda	Аль-Каида
+Mò̤-táuk-chiă	Мотоцикл
+Ò̤-mā	Обыкновенный бегемот
+Anastacia	Анастейша
+Sĕk Gái	Десять заповедей
+Huă-báu	Леопард
+Să̤-ngiù	Носороговые
+Lò̤-buàng	Компас
+Buáng-dō̤	Полуостров
+Sĭng-giŏng	Синьцзян-Уйгурский автономный район
+Mŭk-guă	Папайя
+Mì-sĕng-só	Витамины
+Gái-làng-chái	Кочанная капуста
+Giáng	Зеркало
+Ciŭ-dièu	Чжоу (династия)
+Kāng-muòng-giāng	Окно
+Băh Gṳ̆ng	Белый дом
+Gīng-chák	Полиция
+Báe̤k-hāi-dô̤	Хоккайдо
+Giŏng	Имбирь аптечный
+Nobel Huò-bìng Ciōng	Нобелевская премия мира
+Sáu	Кашель
+Hák-chê	Чиханье
+Káung-mìng	Сон
+Gèng-hāi	Аральское море
+Dé̤ṳk	Bambuseae
+Hù Cé-mìng	Хо Ши Мин
+Hòa Bình	Хоабинь (провинция)
+Sŭ Sék	Су Ши
+Queensland	Квинсленд
+Tù	Почва
+Ù-huă-guō	Инжир
+Hưng Yên	Хынгйен (провинция)
+Dòng-dô	Длина
+Kon Tum	Контум (провинция)
+Hậu Giang	Хаузянг
+Máe̤ng	Сновидение
+Yên Bái	Йенбай (провинция)
+Bắc Giang	Бакзянг (провинция)
+Thừa Thiên-Huế	Тхыатхьен-Хюэ
+Bắc Kạn	Баккан (провинция)
+Lai Châu	Лайтяу (провинция)
+Hà Nam	Ханам (провинция)
+Lào Cai	Лаокай (провинция)
+Mìng-dĕ̤ng-ngṳ̄	Восточноминьский язык (диалект)
+Hannibal	Ганнибал
+Mìng-nàng-ngṳ̄	Южноминьский язык (диалект)
+Thanh Hóa	Тханьхоа (провинция)
+Kiên Giang	Кьензянг
+Quảng Trị	Куангчи (провинция)
+Nghệ An	Нгеан
+An Giang	Анзянг
+Tây Ninh	Тэйнинь (провинция)
+Phú Thọ	Футхо
+Duâi-sĭng-sĭng	Гориллы
+Trà Vinh	Чавинь
+Bạc Liêu	Бакльеу (провинция)
+Gia Lai	Зялай
+Tiền Giang	Тьензянг
+Bình Phước	Биньфыок
+Đồng Tháp	Донгтхап
+Thái Bình	Тхайбинь (провинция)
+Hà Giang	Хазянг (провинция)
+Đắk Lắk	Даклак
+Cáung-cŭk	Чжуаны
+Bình Định	Биньдинь
+Lâm Đồng	Ламдонг
+Đắk Nông	Дакнонг
+Phú Yên	Фуйен
+Hải Dương	Хайзыонг (провинция)
+Dièu-ciŭ-uâ	Чаошаньское наречие
+Iók-hâng Hók Ĭng	Евангелие от Иоанна
+Dài-uăng-uâ	Тайваньский язык
+Muòng	Дверь
+Chiēng-gák	Ногти
+Cao Bằng	Каобанг (провинция)
+Bình Dương	Биньзыонг
+Bình Thuận	Биньтхуан
+Bà Rịa-Vũng Tàu	Бариа-Вунгтау
+Ninh Bình	Ниньбинь (провинция)
+Ninh Thuận	Ниньтхуан
+Nam Định	Намдинь (провинция)
+Điện Biên	Дьенбьен
+Sìng-lṳ̀ng	Чан, Джеки
+Méng	Лицо
+Ùng-ngiòng-ùng	Вэньянь
+Gāng-lāng	Олива европейская
+Săng-ôi-ék-tā̤	Троица
+Sŏng-cṳ̄	Сунь-цзы
+Sĭng-săng	Учитель
+Cleveland	Кливленд
+Dăk-lâi Lā-mà	Далай-лама
+Huă-sĕng	Арахис культурный
+100	100 (число)
+Kă-kók-tàu	Коленный сустав
+Hâing	Абрикос
+Ngāng-giáng	Очки
+Cê̤ṳ-lài-huōi	Спичка
+Chê-diòng	Рынок
+Nàng Dṳ̆ng-guók Hāi	Южно-Китайское море
+Dièu-siēng Sié-cŭng	Сечжон Великий
+Hăk-gĭng	Сплав
+Bĭng-siŏng	Холодильник
+Nobel Ùng-hŏk Ciōng	Нобелевская премия по литературе
+Huăng-sṳ̀	Батат
+Uòng-hāi	Жёлтое море
+Akihito	Акихито
+Newton ông-dông-hŏk dêng-lŭk	Законы Ньютона
+Să̤-guă	Арбуз обыкновенный
+Biobío Dâi-hŏk	Университет Био-Био
+Huòng-dá̤	Император
+Ìng-mìng-bê	Китайский юань
+Tā̤-cék	Объём
+Cèng-sáik	Оранжевый цвет
+Gă-sĭ-huă	Инструмент
+Ĭ-sĕng	Врач
+Iéng (cēu)	Ласточковые
+Kó	Брюки
+Lô-gă Hók Ĭng	Евангелие от Луки
+Mìng-ciō-dōng	Демократическая партия
+Ciŏng-tàu	Кирпич
+Tiō-uòng	Эллипс
+Sìng-huák	Умножение
+Sé̤ṳ-dù Hèng-diông	Деяния святых апостолов
+Uòng-dô̤ Sĕk-nê Sĭng-cô̤	Зодиак
+Huá-siŏh	Фоссилии
+Gēng-huák	Вычитание
+Cī-cī	Семя
+Chiĕk	Крабы
+Gă-dŏ̤	Ножницы
+Niêu	Моча
+Ăng-hŭi	Аньхой
+Ngiăh	Лоб
+Sĭ-piĕng	Псалтирь
+Chungcheong Báe̤k-dô̤	Чхунчхон-Пукто
+Chungcheong Nàng-dô̤	Чхунчхон-Намдо
+Gangwon Dô̤ (Dâi-hàng Mìng-guók)	Канвондо (Южная Корея)
+Nô̤i Mūng-gū	Внутренняя Монголия
+Gĭng Nĭk-sìng	Ким Ир Сен
+Gyeongsang Nàng-dô̤	Кёнсан-Намдо
+Gyeongsang Báe̤k-dô̤	Кёнсан-Пукто
+Jeolla Báe̤k-dô̤	Чолла-Пукто
+Jeolla Nàng-dô̤	Чолла-Намдо
+Jeju Dĕk-biék Cê̤ṳ-dé-dô̤	Чеджудо
+Huăng-cièng-giāng	Монета
+Bă-biĕk-ták	Вавилонская башня
+Ulsan	Ульсан
+Gwangju	Кванджу
+Chó	Уксус
+Kangwŏn Dô̤ (Dièu-siēng Mìng-ciō-ciō-ngiê Ìng-mìng Gê̤ṳng-huò-guók)	Канвондо (Северная Корея)
+Michael Jordan	Джордан, Майкл
+Lé-ê-gé	Книга Левит
+Gṳ̆ng-gṳ̆ng	Корень
+Bì-bà (cūi-guō)	Мушмула японская
+Hamlet	Гамлет
+Huà Guók-hŭng	Хуа Гофэн
+Sāng	Зонт
+Làu Hiēu-pŏ̤	Лю Сяобо
+Hók-gióng	Фуцзянь
+Mūng-gū-cŭk	Монголы
+Mĕk-sê Liŏh	Откровение Иоанна Богослова
+Hièng-câung	Сюаньцзан
+Gū-chiŏng	Ягодицы
+Mìng-chòng	Кровать
+Hāi-nàng	Хайнань
+Háng-ngṳ̄ Pĭng-ĭng	Пиньинь
+Uōng-dĕ̤ng	Дальний Восток
+Băh-gák	Сизый голубь
+Găng-sé̤ṳk	Ганьсу
+Taliban	Талибан
+Huŏi-sáik	Серый цвет
+Sĭng-mêng-gé	Второзаконие
+Sŭ-ciŭ	Сучжоу (Цзянсу)
+Ŭng-ciŭ	Вэньчжоу
+Háng-cŭk	Хань (народ)
+Nìng-pŏ̤	Нинбо
+Chói-chiŭ	Борода
+Cāi-iêu	Воздушный змей
+Hăk-ī-bĭng	Харбин
+Mā-kì	Пиявки
+1000	Тысяча
+Mìng-só-gé	Книга Чисел
+Cáu-sèng	Кухня (помещение)
+Hùng-nàng	Юньнань
+Lō̤-uă	Вороны
+Săng-dĕ̤ng	Шаньдун
+È̤ng-ĕ̤ng	Губоногие
+Ò̤-nàng	Хэнань
+Mì-mò̤	Бровь
+Bók-sài	Пуп
+Lièu-nìng	Ляонин
+Hióng-liông	Вектор (геометрия)
+Cretaceous	Меловой период
+Tochigi-gâing	Тотиги (префектура)
+Dàu	Игральная кость
+Cūi-nà̤	Цемент
+Gék-lìng	Гирин
+Dĕ̤ng Dṳ̆ng-guók Hāi	Восточно-Китайское море
+Hāi-chĕk	Пиратство
+Gūi	Привидение
+Lè̤ng-ū Huòng-dá̤	Чжу Юйцзянь
+Bóng-dó̤	Отходы
+Hù-nàng	Хунань
+Jurassic	Юрский период
+Chĭng-hāi	Цинхай
+Mì-ngù-ī-cŭk	Уйгуры
+Ă-piéng	Опиум
+Chiū-cī	Кольцо (украшение)
+Hù-báe̤k	Хубэй
+Săng-să̤	Шаньси
+Cĕ̤ng-sáik	Коричневый цвет
+Giòng-găng	Изнасилование
+Gói-ciŭ	Гуйчжоу
+Triassic	Триасовый период
+Sék-sáuk	Настоящие сверчки
+Cāi-piéu	Банкнота
+SQL	SQL
+Hù Sék	Ху Ши
+Iók-cṳ̆-ā-gé	Книга Иисуса Навина
+Cŏng-cṳ̄	Чжуан-цзы
+Cṳ̀-hĭ Tái-hâiu	Цыси
+Kan Naoto	Кан, Наото
+Miyagi-gâing	Мияги (префектура)
+模板:Commons category	Шаблон:Commonscat
+Lò̤-mā Cṳ̆	Послание к Римлянам
+Pău-ŭk-siáng	Парабола
+Dô̤-dáik	Мораль
+Iwate-gâing	Иватэ (префектура)
+Ĭ-siòng-chiă	Швейная машина
+Dièu-siēng Lò̤-dông-dōng	Трудовая партия Кореи
+Nàng-báe̤k-dièu	Южные и Северные Династии
+Chái Ĭ-lìng	Цай, Джолин
+Pì-lĭk-bī Cṳ̆	Послание к Филиппийцам
+Ngā-gŏ-cṳ̆	Песнь песней Соломона
+Mā-lăk-gĭ-cṳ̆	Книга пророка Малахии
+模板:Taxobox	Шаблон:Taxobox
+分類:Guók-uòng	Категория:Короли
+分類:Gŭng-ciō	Категория:Монархи
+Diŏng Ngiê-mèu	Чжан Имоу
+模板:Dṳ̆ng-guók lĭk-sṳ̄	Шаблон:История Китая
+Gĭng Céng-ŏng	Ким Чен Ын
+Liù-giù-ngṳ̄	Рюкюские языки
+Céng-ngṳ̄	Цзинь (язык)
+Mìng-ngṳ̄	Миньские языки
+Gŏng-să̤	Цзянси
+Dài-uăng-sēng (Dṳ̆ng-huà Ìng-mìng Gê̤ṳng-huò-guók)	Тайвань (провинция Китайской Народной Республики)
+Nìng-hâ	Нинся-Хуэйский автономный район
+Lùng-sùng	Драгонбот
+Noda Yoshihiko	Нода, Ёсихико
+Yingluck Shinawatra	Чиннават, Йинглак
+Siŏh-gă-cŏng	Шицзячжуан
+Kuóh-dà̤	Фучжоуские даньцзя
+Ciŏ-hāi	Чжухай
+Sáng-tàu	Шаньтоу
+Dâng-gŏng	Чжаньцзян
+Mùi-ciŭ	Мэйчжоу
+Chĭng-uōng	Цинъюань
+Dĕ̤ng-uāng	Дунгуань
+Dṳ̆ng-săng-chê	Чжуншань (город)
+Dièu-ciŭ	Чаочжоу
+Tàng-táik	Сомообразные
+Gé̤ṳk-huă	Хризантема
+Mĕ̤k-lê-huă-dà	Чай с жасмином
+Sofie gì Sié-gái	Мир Софии
+Ordovician	Ордовикский период
+Silurian	Силурийский период
+Hók-gióng-sēng (Dṳ̆ng-huà Mìng-guók)	Фуцзянь (провинция Китайской Республики)
+Mièu-lĭk	Мяоли (уезд)
+Dāng-nòng	Жёлчный пузырь
+Devonian	Девонский период
+Hók-ciŭ	Фучжоу
+Nàng-bìng	Наньпин
+Buò-dièng	Путянь
+Săng-mìng	Саньмин
+Ciòng-ciŭ	Цюаньчжоу
+Â-muòng	Сямынь
+Ciŏng-ciŭ	Чжанчжоу
+Lṳ̀ng-ngàng	Лунъянь
+Nìng-dáik	Ниндэ
+Să̤-nìng	Синин
+Să̤-iù-gé	Путешествие на Запад
+Săng-guók Iēng-ngiê	Троецарствие (роман)
+Cūi-hū	Речные заводи
+Ā-dŏng	Адам
+Aomori-gâing	Аомори (префектура)
+Fukushima-gâing	Фукусима (префектура)
+Tái-nguòng	Тайюань
+Hải Phòng	Хайфон
+Sĭng-dé̤ṳk (gâing)	Синьчжу (уезд)
+Dâi-lièng	Далянь
+Hĭ-Pŏ̤ Ciéng-cĕng	Греко-персидские войны
+Permian	Пермский период
+Cambrian	Кембрийский период
+Iòng-ciók	Свеча
+Chiba-gâing	Тиба (префектура)
+Pău	Помело (фрукт)
+Lô-dáik-gé	Книга Руфь
+Mà-hù	Разнокрылые
+Dáng-ī-lī	Книга пророка Даниила
+Páuk-káik	Покер
+Mô̤	Шляпа
+Gŏ̤-lìng-dŏ̤ Cièng Cṳ̆	1-е послание к Коринфянам
+Aichi-gâing	Айти
+Lī-ngṳ̀	Сазан
+Muāng-ciŭ	Маньчжурия
+Sê̤ṳ-sṳ-gé	Книга Судей Израилевых
+Pŏ̤-lìng-chái	Шпинат огородный
+Akita-gâing	Акита (префектура)
+Pièu-gĕng	Ложка
+Dê̤ṳ	Палочки для еды
+Mĕ̤k-lê	Жасмин
+Nàng-dàu	Наньтоу (уезд)
+Gié-tiàng-chiă	Такси
+Â-hài	Подбородок
+Gŭ	Гриб
+Ibaraki-gâing	Ибараки
+Lài-gŭng	Гром
+Siĕu-sŏng	Азотная кислота
+Ngù-giāng-kó	Джинсы
+Bō̤-siŏh	Драгоценные камни
+Lièu-că̤ Cé-ê	Ляо-чжай-чжи-и
+Gáu-kuŏ-cṳ̆	Учебник
+Chāu-māng	Короткоусые прямокрылые
+Dâng Gĭng	Чжэн Цзин
+Diòng-chŭng	Чанчунь
+Milan Kundera	Кундера, Милан
+Lâung	Яйцо (пищевой продукт)
+Lĕ̤k-sé Sê̤ṳ-giông	События на площади Тяньаньмэнь (1989)
+Diêu Ciē-iòng	Чжао Цзыян
+Hù Iêu-băng	Ху Яобан
+Fukuda Yasuo	Фукуда, Ясуо
+Sṳ̀ng-chéu (Sṳ̀ng-báh)	Сосновые
+Gī-hò̤-chiă	Циркуль
+Táng-sŏng	Угольная кислота
+Liòng-chióh	Линейка
+Chăng-màng-chṳ̄	Кротовые
+Dṳ̆ng-hâ Iâ cĭ Máe̤ng	Сон в летнюю ночь
+Mā-kō̤ Hók Ĭng	Евангелие от Марка
+Diê (dông-ŭk)	Устрица
+Kaesŏng	Кэсон
+Hwanghae Báe̤k-dô̤	Хванхэ-Пукто
+P'yŏng'an Báe̤k-dô̤	Пхёнан-Пукто
+Hamgyŏng Báe̤k-dô̤	Хамгён-Пукто
+Hamgyŏng Nàng-dô̤	Хамгён-Намдо
+P'yŏng'an Nàng-dô̤	Пхёнан-Намдо
+Namp'o	Нампхо
+Ryanggang Dô̤	Янгандо
+Tò̤-huòng	Таоюань (Тайвань)
+Sŭk-mī	Клейкий рис
+Nguòng-siĕu-uòng	Танъюань (блюдо)
+Gĭng-dŭ	Киото (префектура)
+Ōsaka-hū	Осака (префектура)
+Cék-ngṳ̀	Обыкновенная золотая рыбка
+Fukuoka-gâing	Фукуока (префектура)
+Ehime-gâing	Эхимэ
+Gŏ̤-lìng-dŏ̤, Hâiu Cṳ̆	2-е послание к Коринфянам
+Gàu-ūng	Земляные черви
+Sā̤-ĭ-gĭ	Стиральная машина
+Gék	Мандарин
+Gé̤ṳ	Пила
+Yamagata-gâing	Ямагата (префектура)
+Éu-dê-huòng	Детский сад
+Dài-uăng Hāi-hiĕk	Тайваньский пролив
+Lù-guói	Алоэ
+Yamaguchi-gâing	Ямагути (префектура)
+Kanagawa-gâing	Канагава
+Nagano-gâing	Нагано (префектура)
+Iĕng-huă	Фейерверк
+Mì-pŏ̤-lù	Микроволновая печь
+Saitama-gâing	Сайтама (префектура)
+Mie-gâing	Миэ
+Hĭ-báik-lài Cṳ̆	Послание к Евреям
+Gă-lăk-tái Cṳ̆	Послание к Галатам
+Muàng-ngṳ̀	Угреобразные
+Céng-gŏng	Цзиньцзян (Цюаньчжоу)
+Siŏng-dièu	Шан (династия)
+Gunma-gâing	Гумма (префектура)
+Hyōgo-gâing	Хёго
+Miyazaki-gâing	Миядзаки (префектура)
+Kumamoto-gâing	Кумамото (префектура)
+Ă-cì	Певчие цикады
+Koizumi Jun'ichirō	Коидзуми, Дзюнъитиро
+Liĕk-uòng-gé-liŏk Siông	Третья книга Царств
+Ī-sê̤ṳ-táik-cṳ̆	Книга Есфирь
+Diòng-dô-cṳ̆	Книга Екклесиаста
+Hatoyama Yukio	Хатояма, Юкио
+Gŏ̤-lò̤-să̤ Cṳ̆	Послание к Колоссянам
+Ngā-gáuk Cṳ̆	Послание Иакова
+Iók-hâng Ék Cṳ̆	1-е послание Иоанна
+Pì-lé-muòng Cṳ̆	Послание к Филимону
+Táik-sák-lò̤-nà̤-giă, Hâiu Cṳ̆	2-е послание к Фессалоникийцам
+Táik-sák-lò̤-nà̤-giă Cièng Cṳ̆	1-е послание к Фессалоникийцам
+Bī-dáik Cièng Cṳ̆	1-е послание Петра
+Bī-dáik Hâiu Cṳ̆	2-е послание Петра
+Tì-mò̤-tái Cièng Cṳ̆	1-е послание к Тимофею
+Dòng-lòng	Богомоловые
+Gifu-gâing	Гифу (префектура)
+Ishikawa-gâing	Исикава
+Nara-gâing	Нара (префектура)
+Wakayama-gâing	Вакаяма (префектура)
+Shizuoka-gâing	Сидзуока (префектура)
+Shiga-gâing	Сига
+Iók-hâng Nê Cṳ̆	2-е послание Иоанна
+Ī-suói-ā-cṳ̆	Книга пророка Исаии
+Iók-hâng Săng Cṳ̆	3-е послание Иоанна
+Iù-dâi Cṳ̆	Послание Иуды
+Tì-mò̤-tái Hâiu Cṳ̆	2-е послание к Тимофею
+Tì-dŏ̤ Cṳ̆	Послание к Титу
+Nùng-mìng	Фермер
+Ià-lé-mī-cṳ̆	Книга пророка Иеремии
+Ī-sê̤ṳ-lá-cṳ̆	Книга Ездры
+Nà̤-hĭ-mī-cṳ̆	Книга Неемии
+Iók-ngī-cṳ̆	Книга пророка Иоиля
+Băh-lô	Малая белая цапля
+Chŭng-cáik	Китайский Новый год
+Sō-siè	Замковый ключ
+Abe Shinzō	Абэ, Синдзо
+Asō Tarō	Асо, Таро
+Séng-cṳ̆-tā̤	Египетское иероглифическое письмо
+Niigata-gâing	Ниигата (префектура)
+Yamanashi-gâing	Яманаси (префектура)
+Shimane-gâing	Симанэ
+Toyama-gâing	Тояма (префектура)
+Okayama-gâing	Окаяма (префектура)
+Kă-tōi	Нога человека
+Piăng	Спина
+Piĕ	Письмо
+Sáik-màng	Дальтонизм
+Carboniferous	Каменноугольный период
+Ciŏng-huá	Чжанхуа (уезд)
+Fukui-gâing	Фукуи (префектура)
+Ōita-gâing	Оита (префектура)
+Tottori-gâing	Тоттори (префектура)
+Nùng-lĭk	Китайский календарь
+Kōchi-gâing	Коти (префектура)
+Uâng-iū īng-lĭk dêng-lŭk	Классическая теория тяготения Ньютона
+Chèng-gēng	Тутовый шелкопряд
+Dài-uăng Nĭk-buōng Sì-dâi	Тайвань под властью Японии
+Páuk Gê̤ṳng-hiê	Пак Кын Хе
+Dài-nàng	Тайнань
+Cĕng	Игла
+Muāng-cŭk	Маньчжуры
+Kìng-giāng	Щипцы
+Anna Karenina	Анна Каренина
+Tài-nè̤ng	Гомицид
+Gáung-gṳ̆ng	Арматура (железобетон)
+Tiè-mà	Плач
+Swadesh hŏk-sĭng-sṳ̀ liĕk-biēu	Список Сводеша
+Dŭng-nìng-guók	Дуннин (государство)
+Hùng-lìng	Юньлинь (уезд)
+Diāng	Кастрюля
+Kă-cāi	Палец ноги
+Lāng	Слюна
+Diò-să-hô	Повар
+Bĭng-lòng	Бетелевая пальма
+Dâi-céng Tiĕng-huòng	Император Тайсё
+Băng-sièng Lā-mà	Панчен-лама
+Mŭk-gê̤ṳng	Гибискус сирийский
+Muòi-huă	Абрикос японский
+Muòi-kṳ̄ng	Плесневые грибы
+Gĭng-cá̤	Экономика
+Sĕ̤ng-săng-giāng	Близнецы
+Mĕ̤k-tiák	Ресница
+Nguòng-cṳ̄-bék	Шариковая ручка
+Norodom Sihanouk	Нородом Сианук
+Saga-gâing	Сага (префектура)
+Tokushima-gâing	Токусима (префектура)
+Lòng-dâung	Белена чёрная
+Lòi-sĭ-gā	Отвёртка
+Kēng-muōi-dăi	Могар
+Sĭk-sĭk	Птичье крыло
+Kagawa-gâing	Кагава (префектура)
+Mū-dăng	Пион древовидный
+Thaksin Shinawatra	Чиннават, Таксин
+Uòng-dăi	Просо обыкновенное
+Kê	Хурма
+Săng-guók (Dièu-siēng)	Три корейских государства
+Bék	Ручка (канцелярия)
+Ŭng-dìng	Пыль
+Huăng-siŏh-liù	Гуайява
+Duâi-tàu-giáng	Лупа
+Gă-ngiê (gâing)	Цзяи (уезд)
+Puái-dáu	Полдень
+Huōi-căi	Пожар
+Chiū-ló̤h	Перчатки
+Nagasaki-gâing	Нагасаки (префектура)
+Hâ-dièu	Ся (династия)
+Cá̤-nàng	Цзинань
+Dṳ̆ng-guók Káung-nĭk Ciéng-cĕng	Японо-китайская война (1937—1945)
+Sarawak	Саравак
+Hŭng-cūi	Фэншуй
+Chiéu	Смех
+Ngô̤-mâng gâe̤ng Piĕng-giéng	Гордость и предубеждение
+Oda Nobunaga	Ода Нобунага
+Dăng-hù	Коралл
+Lī Sìng-uāng	Ли Сын Ман
+Iòng-bék-chó̤	Стирательная резинка
+Nàng-chiŏng	Наньчан
+Tokugawa Ieyasu	Токугава Иэясу
+Bók-séu-gáung	Нержавеющая сталь
+Sáu-chiū	Метла
+Dŭk-cài	Автократия
+Kŭng-dièu	Кондиционирование воздуха
+Diòng-să	Чанша
+Pèng	Краски
+Mìng-dê Tiĕng-huòng	Император Мэйдзи
+Kă-âu-dăng	Пятка
+Ā-mò̤-sê̤ṳ-cṳ̆	Книга пророка Амоса
+Ŏ̤-bă-dī-ā-cṳ̆	Книга пророка Авдия
+Itō Hirobumi	Ито Хиробуми
+Nguŏh	Жад
+Só-gé̤ṳ-kó guāng-lī hiê-tūng	Система управления базами данных
+Dâu-hô	Тофу
+Mì-hèu	Макаки
+Mī-giă-cṳ̆	Книга пророка Михея
+Bù-sák	Бодхисаттва
+Hăk-gĭ-cṳ̆	Книга пророка Аггея
+Ī-să̤-giék	Книга пророка Иезекииля
+Chiū-biēu	Наручные часы
+ASP.NET	ASP.NET
+Iók-nā-cṳ̆	Книга пророка Ионы
+Sabah	Сабах
+Ià-lé-mī-ăi-gŏ̤	Плач Иеремии
+Tái-gáng	Евнух
+Nàng-nìng	Наньнин
+Ê-só	Глутамат натрия
+Nā-ŭng-cṳ̆	Книга пророка Наума
+Hăk-bă-gók-cṳ̆	Книга пророка Аввакума
+Sák-gā-lé-ă-cṳ̆	Книга пророка Захарии
+Guók-gê̤ṳng Nô̤i-ciéng	Гражданская война в Китае
+Uŏk-nàng Gê̤ṳng-huò-guók	Южный Вьетнам
+Chiĕu-chê	Супермаркет
+Ciŏng Cṳ̄-ì	Чжан Цзыи
+Lák-tàu	Алопеция
+Gulliver Lṳ̄-hèng-gé	Путешествия Гулливера
+Gŏ̤-hṳ̀ng	Гаосюн
+Naha-chê	Наха
+Buŏk-hāi	Бохайский залив
+Báh-chói	Зевота
+Hâung Ṳ̄	Сян Юй
+Putrajaya	Путраджая
+Kŏng-mìng	Куньмин
+Nĭk-guŏng-dĕng	Люминесцентная лампа
+Jane Eyre	Джейн Эйр
+Johor	Джохор
+Ngâung	Умственная отсталость
+Huòi-cŭk	Хуэй (народ)
+Làng-ciŭ	Ланьчжоу
+Hŏ̤-să̤-cṳ̆	Книга пророка Осии
+Tiék-cĭng	Ржавчина
+Dĕ̤ng-kiĕ	Каракатицы
+Lìng Cáik-sṳ̀	Линь Цзэсюй
+Săng-guók	Эпоха Троецарствия
+Chŭng-chiŭ Sì-dâi	Период Чуньцю
+Ciéng-guók Sì-dâi	Период Сражающихся царств
+Puō-ngì	Пу И
+Mā-lăk-gă	Малакка (штат)
+Oracle	Oracle Database
+Hăk-bùi	Хэфэй
+Huák-lùng-gŭng	Фалуньгун
+Kelantan	Келантан
+Lŏk-iòng	Лоян
+Toyotomi Hideyoshi	Тоётоми Хидэёси
+Kana	Кана
+Câung-cŭk	Тибетцы
+Pulau Pinang	Пинанг
+Hamasaki Ayumi	Хамасаки, Аюми
+Să̤-huăng-ngā-cṳ̆	Книга пророка Софонии
+Dâi-nĭk-buōng Dá̤-guók	Японская империя
+Hṳ̆ng-nù	Хунну
+Mâing-cṳ̄	Мэн-цзы
+Kedah	Кедах
+Perak	Перак
+Hŏk-ôi	Учёные степени и звания
+Gié-lìng	Гуйлинь
+Terengganu	Тренгану
+Selangor	Селангор
+Iòng (dông-ŭk)	Козьи
+Hāi-kāu	Хайкоу
+Chāu-buōng sĭk-ŭk	Травянистые растения
+Pahang	Паханг
+Bă-là̤ Séng-mū-iêng (Siēu-siók)	Собор Парижской Богоматери (роман)
+Chiông-gì	Сянци
+Yun Chi-ho	Юн Чхи Хо
+Gói-iòng	Гуйян
+Gáung-bék	Перьевая ручка
+Ngù Dìng-iēng	Нго Динь Зьем
+Gô-dā̤	Прошлое
+Dĭng-hiŏng-kó̤	Анчоусовые
+Miêng	Лапша
+Hiêng-câi	Настоящее
+Lèng-gēng	Лонган (растение)
+Mì-lĕk-hŭk	Майтрея
+Guăng-ĭng	Авалокитешвара
+Bìng-dĕ̤ng	Пиндун (уезд)
+Gēu-gī	Дереза обыкновенная
+Lĕ̤k-dèu-gáuk	Ребро
+Dâng Sìng-gŭng	Чжэн Чэнгун
+Nguŏk-biāng	Юэбин
+Ciŭ Īng-kŏng	Чжоу Юнкан
+Cṳ̆-gák Liông	Чжугэ Лян
+Ció-ĭng Hù-hô̤	Чжуинь фухао
+Pàng-hù-gâing	Пэнху (уезд)
+Tù-kēng	Медведки
+Dṳ̆ng-guók Ìng-mìng Gāi-huóng-gŭng	Народно-освободительная армия Китая
+Sìng-ū Tiĕng-huòng	Император Дзимму
+Ciē-chái	Нори
+Dennis Rodman	Родман, Деннис
+È̤ng-dà	Чёрный чай
+Cò̤ Chó̤	Цао Цао
+Tài-tàu	Обезглавливание
+Cūi-ngù	Усачи (жуки)
+Buŏi	Полёт
+Ŭi-nà̤-sṳ̆ Sĕng-lī-nè̤ng	Венецианский купец
+Ū-ì-săng	Уишань (горы)
+Ŭ-sŭ-lī-gĕ̤ng	Уссури
+Dĕ̤ng-cé	Зимнее солнцестояние
+Tiĕng-huòng	Император Японии
+Kăi-hŭng	Кайфын
+Sĭng-dài-bê	Новый тайваньский доллар
+Sák-mū-ngī-gé-hâiu-cṳ̆	Вторая книга Царств
+Liĕk-uòng-gé-liŏk Hâ	Четвёртая книга Царств
+Mièu-cŭk	Мяо
+Nguòng Sié-kāi	Юань Шикай
+Gă-lṳ̀ng Huòng-dá̤	Зя Лонг
+John Wesley	Уэсли, Джон
+Perlis	Перлис (штат)
+Negeri Sembilan	Негри-Сембилан
+Labuan	Лабуан
+Lṳ̀ng	Китайский дракон
+Iòng-iù-gàu	Керосиновая лампа
+Cần Thơ	Кантхо
+Gĭng-cŭk	Вьеты
+Ciĕng-bò̤	Тямпа
+Diòng-gáu-sê̤ṳ	Миссионерство
+Uōng-dâi Cièng-tiàng	Большие надежды
+Niōng-bēng	Потолок
+Rasŏn	Расон
+Guăng Ṳ̄	Гуань Юй
+Ŭ-gŭi	Черепахи
+Tá̤	Выдвижной ящик
+Gê̤ṳng-huò-dōng	Республиканская партия
+Bō̤-dâi Huòng-dá̤	Бао Дай
+Siê-iù	Соевый соус
+Ŭ-lṳ̀ng-dà	Улун
+Huōi-lṳ̀ng-guō	Питайя
+Gê̤ṳng-sāng-dōng	Коммунистическая партия
+Chái Ĭng-ùng	Цай Инвэнь
+Băh-cṳ̄ng-nè̤ng	Белые люди
+Ŏ̤-mì-tò̤-hŭk	Амитабха
+Ngiè-làng	Илань (Тайвань)
+Ciŭ Giĕk-lùng	Чоу, Джей
+Orhan Pamuk	Памук, Орхан
+Carpineto Romano	Карпинето-Романо
+Ngū-dâi Sĕk-guók	Эпоха пяти династий и десяти царств
+Cō̤	Зизифус настоящий
+Tā̤-ṳ̆k	Физвоспитание в школе
+Sĭng-báe̤k	Синьбэй
+Dài-dṳ̆ng	Тайчжун
+Làu Bê	Лю Бэй
+Huă-lièng	Хуалянь (уезд)
+Gĭng-muòng	Цзиньмэнь
+Dài-dĕ̤ng	Тайдун (уезд)
+Sĭng-dé̤ṳk (chê)	Синьчжу
+Gă-ngiê (chê)	Цзяи
+Giĕ-lè̤ng	Цзилун
+Jun Ji-hyun	Чун, Джианна
+Ngiè	Домашний гусь
+Dièu-siēng Gŏ̤-cŭng	Коджон
+Gáuk-gáuk	Кость
+Amuro Namie	Амуро, Намиэ
+Diêng-tù	Батарея (электротехника)
+Gê̤ṳ-gê̤ṳ	Костыль
+Nakashima Mika	Накасима, Мика
+Hù-lì-mà	Колонок
+Gŏ̤-ák-guŏ	Скороварка
+Chagang Dô̤	Чагандо
+Óng-chái	Ипомея водяная
+Ké̤ṳk-siăh	Попрошайничество
+Sŏng-ngù	У (Троецарствие)
+Băh-cŭk	Бай (народ)
+Siông Cĭng	Сё Син
+Â-dáu	После полудня
+Huòng Tái-gĭk	Айсиньгиоро Абахай
+Guŏng-sê̤ṳ Huòng-dá̤	Гуансюй
+Ngù-mō̤-ngù-giāng	Улитка (жизненная форма)
+Takeshi Kaneshiro	Канэсиро, Такэси
+Sông-dê Huòng-dá̤	Шуньчжи
+Nū-ī-hăk-cà̤	Айсиньгиоро Нурхаци
+Iòng-muòi	Восковница красная
+Sŏng Guòng	Сунь Цюань
+Cò̤ Pī	Цао Пэй
+Ciōng Gĭng-guók	Цзян Цзинго
+Uòng Mì	Ван Вэй
+Lī Dĕng-hŭi	Ли Дэнхуэй
+Ṳ̆ng-céng Huòng-dá̤	Юнчжэн
+Dùng-dê Huòng-dá̤	Тунчжи (император)
+Dŭng-huòng	Дуньхуан
+Să-mŏk	Эрг (география)
+Hiŏng-iòng-guă	Чайот съедобный
+Uòng Ăng-sĭk	Ван Аньши
+Tokugawa Yoshimune	Токугава Ёсимунэ
+Săng-ā	Санья (город)
+Dài-uăng Mìng-ciō-guók	Республика Тайвань (1895)
+Seo Jae-pil	Со Джэпхиль
+Guók-ngṳ̄	Национальный язык
+Sṳ̆k-háng	Шу (царство)
+Cò̤-ngôi	Вэй (Троецарствие)
+Hiŏng-gŭ	Шиитаке
+Mŭk-ngī	Аурикулярия уховидная
+Sā̤-tŏng	Купание
+Gă-kéng Huòng-dá̤	Цзяцин
+Páuk Hièng-īng	Пак Хон Ён
+Dô̤-guŏng Huòng-dá̤	Даогуан
+Hièng-hŭng Huòng-dá̤	Сяньфэн
+Hùng Séu-ciòng	Хун Сюцюань
+Gĭng-kiŏk	Пекинская опера
+Bău Cīng	Бао Чжэн
+Báik-guá	Триграмма
+Sṳ̆-mā Hé	Сыма И
+Áng-pŭng	Изумрудная тараканья оса
+Hŭng-sṳ̆k	Конвенция
+Ièu-cŭk	Яо (народ)
+Bĭng-sĭng	Се Бинсинь
+Biék	Трёхкоготные черепахи
+Dièu-siēng Tái-cū	Ли Сонге
+Báik-nguŏk-cáik	Праздник середины осени
+Guŏng-Dṳ̆ng Huòng-dá̤	Нгуен Хюэ
+Ngà̤ Táuk-sĭng	Вочман Ни
+Liŏh-chiông-gĭ	Видеомагнитофон
+Dâng-chái	Мидии
+Gā-cō̤	Блохи
+Dài-uăng Muāng-chĭng Sì-dâi	Цинский Тайвань
+Mā-tái Hók Ĭng	Евангелие от Матфея
+Sĕk-cê-gá	Крест в христианстве
+Tè̤ng-chō̤	Кордицепс китайский
+Tŭi-guōng Pū-tŭng-uâ	Языковая политика КНР
+Ī-hók-sū Cṳ̆	Послание к Ефесянам
+Mā-cū (Sìng)	Мацзу
+Mìng	Мин (фамилия)
+Uŏk-nàng Gê̤ṳng-sāng-dōng	Коммунистическая партия Вьетнама
+10000	10 000 (число)
+Kū-guă	Момордика харанция
+Mìng-miâng Huòng-dá̤	Минь Манг
+Chék Gié-guŏng	Ци Цзигуан
+Dĭk Ìng-giĕk	Ди Жэньцзе
+Dṳ̆ng-huà Mìng-guók Guók-gŭng	Вооружённые силы Китайской Республики
+Ì-cŭk	И (народ)
+Gāu-nguŏk-gāu	Праздник двойной девятки
+Dâing Lâ̤-gŭng	Тенг, Тереза
+Mìng-sìng Huòng-hâiu	Королева Мин
+Lṳ̄ Séu-lièng	Лу, Аннет
+Sê̤ṳ-dáik Huòng-dá̤	Ты Дык
+Lìng Hŭi-ĭng	Линь Хуэйинь
+Cṳ̀-ciŏng	Керамическая плитка
+Ngù Săng-gié	У Саньгуй
+Hĭng-sŏng Dâi-iêng-gŭng	Ли Хаын
+Dêu-uòng	Ди Синь
+Hàng Hàng	Хань Хань
+Huăng-giāng	Иностранцы
+Tiăng-dŏng	Гостиная
+Ók-dāu	Утюг
+Liŏh-dà	Зелёный чай
+Liŏh-dâu	Маш
+Dièu-siēng-cŭk	Корейцы
+Páuk Hông-ciŏ	Пак Пон Джу
+Hŭk-dáng Dâi-hŏk	Фуданьский университет
+Kŭmgang-săng Guăng-guŏng Dê-kṳ̆	Туристический регион Кымгансан
+Páuk Dṳ̀ng-iòng	Пак Чжон-ян
+Lêng Gié-hĕk	Лин Цзихуа
+Hòng-ciŭ Să̤-hù	Сиху
+Gă-săk-giāng	Городской автомобиль
+Gái-chái	Горчица сарептская
+Bù-sìng	Настоящие мухи
+Ciū-ciòng	Цзюцюань (город)
+Hŭ-huò-hô̤-dĕk	Хух-Хото
+Ngù Chĭng-nguòng	Го Сэйгэн
+Hà-iù	Рыбный соус
+Băh-ngiê	Термиты
+Băh-uâ-cê	Пэвэдзи
+Ngièng Hók	Янь Фу
+Páu-diông	Петарда
+Hṳ̆ng-dòng	Грудь беспозвоночных
+Mā-cū (Dō̤)	Мацзу (острова)
+Ăng-kă̤	Аньси
+Să̤-cŏng	Классический костюм
+Ìng-cṳ̄	Сын человеческий
+Hiroshima-gâing	Хиросима (префектура)
+Chiēng-cāi	Палец руки
+Hwanghae Nàng-dô̤	Хванхэ-Намдо
+Hók-tīng	Фудин
+Siĕu-ciū	Байцзю
+Dùng-cé	Товарищ
+Dáng-mìng	Даньцзя
+Guōng-guă	Восковая тыква
+Káh-gă	Хакка (народ)
+Bâng-ā	Немота
+Nàng-gĭng Dâi-hŏk	Нанкинский университет
+Chék-nguŏk-buáng	Фестиваль голодных духов
+Cò̤ Sĭk	Цао Чжи
+Ciŭ Ùng-uòng	Вэнь-ван (Чжоу)
+Huò-sĭng	Хэшэнь
+Siĕ Lòng	Ши Лан
+Giŏng Tái-gŭng	Цзян Цзыя
+Diêu Dò̤	Чьеу Да
+Lī Siòng-sêu	Уитнесс Ли
+Ngṳ̀-uòng	Рыбные шарики
+Siĕ Mìng-dáik	Ши Миндэ
+Lī Lièng-ĭng	Ли Ляньин
+Dièu-siēng Buáng-dō̤ lĭk-sṳ̄	История Кореи
+Cáe̤ng	Цзунцзы
+Iù-cák-guōi	Ютяо
+Sinŭiju Dĕk-biék Hèng-céng-kṳ̆	Специальный административный регион Синыйджу
+Tūng-ék Sĭng-lò̤	Объединённое Силла
+ISO 639-1	ISO 639-1
+Huá-huá	Хохлатая майна
+Háng-cê Ùng-huá-kuŏng	Китайский мир
+Lī Gŭng-ūng	Ли Тхай То
+Hók-gióng tū-làu	Тулоу
+Chĭng-mìng	Цинмин
+Nê-hù	Эрху
+Pū-tŭng-uâ	Путунхуа
+Siă-cŭk	Шэ (народ)
+Mē̤ng-giāng	Бабочницы
+Mĭk-pŭng	Пчёлы настоящие
+Okinawa-gâing	Окинава (префектура)
+Diòng-lŏ̤h	Чанлэ (Фучжоу)
+Nàng-ā	Южная Азия
+Báh-uŏk	Байюэ
+Guòng-lé	Субъективное право
+Gŭng-sĭ	Коммерческая организация
+Tì-kŭ	Японская скумбрия
+Nàng-uŏk-guók	Намвьет
+Hâ-uă	Ева
+Chèng-chṳ̄	Полёвковые
+Kiŏng-cŭk	Цян (народ)
+Bĭng-dê̤ṳ	Фруктовый лёд
+Wikipedia:Sū-iū ngṳ̄-ngiòng bēng-buōng gì Wikipedia	Википедия:Список Википедий
+Ngṳ̆k-huòng-dâi-dá̤	Юй-ди
+Chiók	Питьё
+À̤-liák	Тапочки
+Lī-dièu	Династия Ли
+Cé̤ṳk	Рисовый отвар
+Dĕ̤ng-cáik	Дунчжи
+Mìng-ciō Céng-buô-dōng	Демократическая прогрессивная партия
+Ì-cô̤-hūng	Стиральный порошок
+Pàng-hù Gùng-dō̤	Пэнху
+Muōi-sì	Болотница сладкая
+Hāi-nàng-ngṳ̄	Хайнаньский язык
+Mìng-gĕ̤ng	Миньцзян (река, впадает в Восточно-Китайское море)
+Lṳ̀ng-hāi	Лунхай
+Ôi	Желудок человека
+Hāi-gēu	Морские котики
+Ciŭ Ū-uòng	У-ван
+Cṳ̆-dó̤h	Бюро (мебель)
+Chèng-lòi	Живородки
+Ĕ̤ng-ngiê	Tetramorium
+Aragaki Yui	Юи Арагаки
+Siĕu	Ди (музыкальный инструмент)
+Â-muòng Dâi-hŏk	Сямэньский университет
+Dô̤-sê̤ṳ	Даос
+Mìng (Sĕk-guók)	Минь (царство)
+Là̤ Lé	Ле Лой
+Gāi-gáik Kăi-huóng	Политика реформ и открытости
+Dṳ̀-huák	Деление (математика)
+Hù-lù	Лагенария обыкновенная
+Īng-lĭk Huòng-dá̤	Юнли
+Tiék-guăng-ĭng	Те Гуаньинь
+Sṳ̀ Cài-hâiu	Сюй Цайхоу
+Lè̤ng-ê̤ṳ Tái-hâiu	Лунъюй
+Siông Tái	Сё Тай
+Hók-ăng	Фуань
+分類:Dáik-guók	Категория:Германия
+分類:É-dâi-lé	Категория:Италия
+分類:Mī-guók	Категория:США
+分類:Ngò̤-lò̤-sṳ̆	Категория:Россия
+分類:Dṳ̆ng-guók	Категория:Китай
+分類:Nĭk-buōng	Категория:Япония
+分類:Ó̤-ciŭ	Категория:Австралия
+Iĕk-cūi-ké	Водяное отопление
+分類:Éng-nà̤	Категория:Индонезия
+分類:Hàng-guók	Категория:Южная Корея
+分類:Tái-guók	Категория:Таиланд
+分類:Uŏk-nàng	Категория:Вьетнам
+分類:Buô-ṳ̄ dông-ŭk	Категория:Млекопитающие
+分類:Bà-hèng dông-ŭk	Категория:Пресмыкающиеся
+分類:Cēu	Категория:Птицы
+分類:Cĭng-kṳ̄ng	Категория:Грибы
+分類:Sĭk-ŭk	Категория:Растения
+分類:Ŭk-lī	Категория:Физика
+分類:Huá-hŏk	Категория:Химия
+分類:Lĭk-sṳ̄	Категория:История
+分類:Dê-lī	Категория:География
+分類:Siâ-huôi	Категория:Общество
+分類:Mī-sŭk	Категория:Изобразительное искусство
+分類:Cŭng-gáu	Категория:Религия
+分類:Tā̤-ṳ̆k	Категория:Спорт
+分類:Kuŏ-hŏk	Категория:Наука
+分類:Gióng-dé̤ṳk-ŭk	Категория:Здания и сооружения
+Gū Lò̤-mā	Древний Рим
+Regina Duarte	Дуарте, Режина
+Mìng-uŏk	Миньюэ
+Cūi-kì	Слизень
+分類:Sĕng-tái	Категория:Экология
+Sák-mū-ngī-gé-cièng-cṳ̆	Первая книга Царств
+Săng-sáiu	Китайский зодиак
+分類:Disambig	Категория:Многозначные термины
+分類:Diék-hŏk	Категория:Философия
+分類:Sĭng-lī	Категория:Психология
+分類:Hŭk-gáu	Категория:Буддизм
+分類:Gĭ-dók-gáu	Категория:Христианство
+分類:Ĭ-sṳ̆-làng-gáu	Категория:Ислам
+分類:Iù-tái-gáu	Категория:Иудаизм
+Kiê	Стояние (действие)
+Tiĕng-cĭng Dâi-hŏk	Тяньцзиньский университет
+Hô-dê̤ṳ	Фучжу
+Gùng	Юбка
+Cháe̤	Люффа египетская
+Tuyên Quang	Туенкуанг (провинция)
+Iraq gâe̤ng Levant Ĭ-sṳ̆-làng-guók	Исламское государство Ирака и Леванта
+Chiòng (dông-cáuk)	Сидение на корточках
+Cièng-cāi	Ритуальные деньги
+Tău-dò̤-nó̤h	Кража
+Ciĕ-muài	Кунжут индийский
+Abu Bakr al-Baghdadi	Абу Бакр аль-Багдади
+分類:Ùng-huá	Категория:Культура
+分類:Dê-cék	Категория:Геология
+Dìng-dièu	Династия Чан
+Wikipedia:Dŏng-nièng gĭng-dáng	Проект:События дня
+模板:Tái-iòng-hiê	Шаблон:Солнечная система
+Kō̤-cṳ̆	Стандартизованный тест
+Ciē-sáik	Пурпурный цвет
+Gâng	Пот
+Ià-huò-huà	Иегова
+Sók-lŭk	Средняя скорость
+Ák	Утки
+Duâi-tàu-chái	Турнепс
+Huăng-siông	Манго индийское
+分類:Dáik-guók ìng-ŭk	Категория:Персоналии:Германия
+分類:Mī-guók ìng-ŭk	Категория:Персоналии:США
+分類:Iēng-uòng	Категория:Актёры
+分類:Ĭng-guók ìng-ŭk	Категория:Персоналии:Великобритания
+分類:Huák-guók ìng-ŭk	Категория:Персоналии:Франция
+模板:Chess diagram	Шаблон:Шахматная диаграмма
+模板:Tl	Шаблон:Tl
+分類:Guók-gă	Категория:Страны
+Wikipedia:Hèng-céng Ìng-uòng	Википедия:Администраторы
+分類:Dṳ̆ng-guók mìng-cŭk	Категория:Народы Китая
+分類:Ìng-ŭk	Категория:Люди
+分類:Cék-ngiĕk	Категория:Профессии
+Wikipedia:Gĭ-ké-nè̤ng	Википедия:Бот
+分類:Sì-găng	Категория:Время
+分類:Gĕ̤ng-tiàng	Категория:Инженерия
+分類:Cài-lâiu	Категория:Материалы
+分類:Ĭ-hŏk	Категория:Медицина
+分類:Céng-dê	Категория:Политика
+分類:Gáu-ṳ̆k	Категория:Образование
+Ăi-gĭk	Египет
+模板:Bot	Шаблон:Bot
+Nizhneleninskoye	Нижнеленинское
+Gă-nā-dâi	Канада
+分類:Iù-hié	Категория:Игры
+分類:Ĕu-ciŭ guók-gă	Категория:Страны Европы
+分類:Ĕu-ciŭ	Категория:Европа
+模板:Documentation	Шаблон:Doc
+分類:Ê̤ṳng-hô	Категория:Википедия:Участники по языкам
+Sìng Câi-gĭ	Сон Джэги
+模板:Softredirect	Шаблон:Soft redirect
+Wikipedia:維基數據	Википедия:Викиданные
+模板:Chēng	Шаблон:К быстрому удалению
+分類:Ngṳ̄-ngiòng	Категория:Языки
+分類:Lĭk-huák	Категория:Календарь
+分類:Wikipedia	Категория:Википедия
+Wikipedia:Mò̤ hô-cáik sĭng-mìng	Википедия:Отказ от ответственности
+分類:未索引其頁面	Категория:Неиндексируемые страницы
+Dâi-chṳ̄	Кенгуру
+Tiĕng-ăng-dòng	Церковь небесного мира
+模板:!-	Шаблон:!-
+模板:Smallcaps	Шаблон:Smallcaps
+模板:Nowrap	Шаблон:Nobr
+Wikipedia:Ék-chiék Wikipedia dŭ găi-dŏng ô gì ùng	Википедия:Список статей, которые должны быть во всех языковых версиях
+分類:Hĭ-ciŭ	Категория:Африка
+模板:Wikisource	Шаблон:Викитека
+模板:Babel	Шаблон:Babel
+模板:Commons	Шаблон:Commons
+模板:Reflist	Шаблон:Примечания
+Wikipedia:列明來源	Википедия:Ссылки на источники
+模板:Stub	Шаблон:Заготовка
+模板:User eo-1	Шаблон:User eo-1
+模板:User eo-3	Шаблон:User eo-3
+模板:User de	Шаблон:User de
+模板:User de-1	Шаблон:User de-1
+模板:User es	Шаблон:User es
+模板:User de-3	Шаблон:User de-3
+模板:User en-3	Шаблон:User en-3
+模板:User en-1	Шаблон:User en-1
+模板:User en-2	Шаблон:User en-2
+模板:User eo-2	Шаблон:User eo-2
+模板:User en-4	Шаблон:User en-4
+模板:User en	Шаблон:User en
+模板:User de-2	Шаблон:User de-2
+模板:User es-1	Шаблон:User es-1
+模板:User fr-1	Шаблон:User fr-1
+模板:User it-3	Шаблон:User it-3
+模板:User fr-2	Шаблон:User fr-2
+模板:User ja	Шаблон:User ja
+模板:User ja-1	Шаблон:User ja-1
+模板:User it-1	Шаблон:User it-1
+模板:User fr	Шаблон:User fr
+分類:Ā-ciŭ	Категория:Азия
+分類:Nàng Mī-ciŭ	Категория:Южная Америка
+分類:Mā-lài-să̤-ā	Категория:Малайзия
+模板:Mod	Шаблон:Mod
+模板:User it	Шаблон:User it
+模板:User es-2	Шаблон:User es-2
+模板:Huăng-ngìng	Шаблон:Приветствие
+分類:Dièu-lâiu	Категория:Приправы
+分類:User fr-1	Категория:User fr-1
+模板:Image label	Шаблон:Метка изображения
+模板:Wiki gĕ̤ng-tiàng	Шаблон:Фонд Викимедиа
+模板:Steady	Шаблон:Нет изменений
+模板:Guók-gă	Шаблон:Государство
+模板:Cite journal	Шаблон:Cite journal
+模板:Infobox 公司	Шаблон:Карточка компании
+模板:Wikibooks	Шаблон:Викиучебник
+模板:Dablink	Шаблон:Другое значение
+模板:Hō̤ gì ùng-ciŏng	Шаблон:Избранная статья
+分類:User en-4	Категория:User en-4
+分類:User en	Категория:User en
+分類:User zh	Категория:User zh
+分類:User zh-M	Категория:User zh-N
+分類:User en-2	Категория:User en-2
+模板:Infobox	Шаблон:Карточка
+模板:User eo	Шаблон:User eo
+模板:User zh	Шаблон:User zh
+分類:Gáuk-guók gì lĭk-sṳ̄	Категория:История по странам
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 23 hô̤	Шаблон:События дня:09-23
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 22 hô̤	Шаблон:События дня:09-22
+模板:Legend	Шаблон:Легенда
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 17 hô̤	Шаблон:События дня:09-17
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 15 hô̤	Шаблон:События дня:10-15
+模板:Cite web	Шаблон:Cite web
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 28 hô̤	Шаблон:События дня:09-28
+模板:Ombox	Шаблон:Ombox
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 22 hô̤	Шаблон:События дня:10-22
+Wikipedia:Dŏng-nièng gĭng-dáng/11 nguŏk 2 hô̤	Шаблон:События дня:11-2
+Wikipedia:Dŏng-nièng gĭng-dáng/11 nguŏk 9 hô̤	Шаблон:События дня:11-9
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 1 hô̤	Шаблон:События дня:10-1
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 5 hô̤	Шаблон:События дня:10-5
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 8 hô̤	Шаблон:События дня:10-8
+分類:Īng-sĭk	Категория:Еда и напитки
+模板:MongolUnicode	Шаблон:MongolUnicode
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 6 hô̤	Шаблон:События дня:10-6
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 17 hô̤	Шаблон:События дня:10-17
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 2 hô̤	Шаблон:События дня:10-2
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 16 hô̤	Шаблон:События дня:09-16
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 19 hô̤	Шаблон:События дня:09-19
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 25 hô̤	Шаблон:События дня:10-25
+Wikipedia:Dŏng-nièng gĭng-dáng/11 nguŏk 10 hô̤	Шаблон:События дня:11-10
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 21 hô̤	Шаблон:События дня:10-21
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 15 hô̤	Шаблон:События дня:09-15
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 4 hô̤	Шаблон:События дня:09-4
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 8 hô̤	Шаблон:События дня:09-8
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 4 hô̤	Шаблон:События дня:10-4
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 1 hô̤	Шаблон:События дня:09-1
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 6 hô̤	Шаблон:События дня:09-6
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 25 hô̤	Шаблон:События дня:09-25
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 10 hô̤	Шаблон:События дня:09-10
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 26 hô̤	Шаблон:События дня:09-26
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 20 hô̤	Шаблон:События дня:09-20
+Wikipedia:Dŏng-nièng gĭng-dáng/11 nguŏk 4 hô̤	Шаблон:События дня:11-4
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 30 hô̤	Шаблон:События дня:09-30
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 7 hô̤	Шаблон:События дня:10-7
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 19 hô̤	Шаблон:События дня:10-19
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 27 hô̤	Шаблон:События дня:09-27
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 11 hô̤	Шаблон:События дня:09-11
+Wikipedia:Dŏng-nièng gĭng-dáng/11 nguŏk 8 hô̤	Шаблон:События дня:11-8
+Wikipedia:Dŏng-nièng gĭng-dáng/11 nguŏk 1 hô̤	Шаблон:События дня:11-1
+Wikipedia:Dŏng-nièng gĭng-dáng/11 nguŏk 7 hô̤	Шаблон:События дня:11-7
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 11 hô̤	Шаблон:События дня:10-11
+Wikipedia:Dŏng-nièng gĭng-dáng/11 nguŏk 3 hô̤	Шаблон:События дня:11-3
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 20 hô̤	Шаблон:События дня:10-20
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 16 hô̤	Шаблон:События дня:10-16
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 14 hô̤	Шаблон:События дня:10-14
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 18 hô̤	Шаблон:События дня:10-18
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 24 hô̤	Шаблон:События дня:10-24
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 3 hô̤	Шаблон:События дня:10-3
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 7 hô̤	Шаблон:События дня:09-7
+分類:Săng	Категория:Горы
+模板:IPA	Шаблон:IPA1
+分類:Céng-dê-gă	Категория:Политики
+分類:Mī-ciŭ	Категория:Америка
+模板:Wiki-huá	Шаблон:Викифицировать
+分類:Gŭng-sê̤ṳ	Категория:Вооружённые силы
+模板:Increase	Шаблон:Рост
+模板:Ciŭ-gĭ-biēu	Шаблон:Периодическая система элементов
+模板:User nl	Шаблон:User nl
+模板:Infobox 網站	Шаблон:Карточка сайта
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 12 hô̤	Шаблон:События дня:10-12
+模板:Decrease	Шаблон:Падение
+模板:User no-2	Шаблон:User no-2
+模板:Image label end	Шаблон:Image label end
+模板:Documentation subpage	Шаблон:Docpage
+Wikipedia:Dŏng-nièng gĭng-dáng/11 nguŏk 5 hô̤	Шаблон:События дня:11-5
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 13 hô̤	Шаблон:События дня:10-13
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 3 hô̤	Шаблон:События дня:09-3
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 24 hô̤	Шаблон:События дня:09-24
+模板:Purge	Шаблон:Очистить кэш
+模板:Lang-la	Шаблон:Lang-la
+分類:Cìng-gāng	Категория:Эмоции
+模板:Dṳ̆ng-huà Ìng-mìng Gê̤ṳng-huò-guók Hèng-céng-kṳ̆	Шаблон:Провинции КНР
+模板:Userpage	Шаблон:Userpage
+模板:User	Шаблон:User
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 12 hô̤	Шаблон:События дня:09-12
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 2 hô̤	Шаблон:События дня:09-2
+Wikipedia:Dŏng-nièng gĭng-dáng/11 nguŏk 6 hô̤	Шаблон:События дня:11-6
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 18 hô̤	Шаблон:События дня:09-18
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 10 hô̤	Шаблон:События дня:10-10
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 9 hô̤	Шаблон:События дня:10-9
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 23 hô̤	Шаблон:События дня:10-23
+模板:Image label small	Шаблон:Image label small
+模板:User fr-3	Шаблон:User fr-3
+模板:Allcaps	Шаблон:Uppercase
+模板:Gô-dā̤ gì guók-gă	Шаблон:Историческое государство
+Wikipedia:Tiăng-dŏng	Википедия:Форум/Иноязычный
+分類:User ja-M	Категория:User ja-N
+模板:Gì-ngiê	Шаблон:Неоднозначность
+分類:Dièu-siēng lĭk-sṳ̄	Категория:История Кореи
+模板:User no-3	Шаблон:User no-3
+模板:User nan	Шаблон:User nan
+模板:Lang-grc	Шаблон:Lang-grc
+模板:User ksh	Шаблон:User ksh
+模板:AUS	Шаблон:AUS
+模板:User yue-1	Шаблон:User zh-yue-1
+模板:Lang-en	Шаблон:Lang-en
+分類:Sĕng-ŭk	Категория:Организмы
+模板:ISO 639 name conversion template doc	Шаблон:ISO 639 name en
+Wikipedia:Dŏng-nièng gĭng-dáng/9 nguŏk	Проект:События дня/Сентябрь
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 14 hô̤	Шаблон:События дня:09-14
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 9 hô̤	Шаблон:События дня:09-9
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 13 hô̤	Шаблон:События дня:09-13
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk	Проект:События дня/Октябрь
+模板:User la-1	Шаблон:User la-1
+分類:User wuu	Категория:User wuu
+分類:User fr	Категория:User fr
+分類:User ja	Категория:User ja
+分類:User la	Категория:User la
+分類:User fr-3	Категория:User fr-3
+分類:User it-3	Категория:User it-3
+分類:User ja-3	Категория:User ja-3
+分類:User fr-2	Категория:User fr-2
+分類:User it-2	Категория:User it-2
+分類:User ja-2	Категория:User ja-2
+分類:User la-2	Категория:User la-2
+分類:User wuu-M	Категория:User wuu-N
+分類:User ko-M	Категория:User ko-N
+分類:User fr-M	Категория:User fr-N
+分類:User it-M	Категория:User it-N
+分類:User nl-M	Категория:User nl-N
+模板:User yue	Шаблон:User zh-yue
+分類:Ùng-cê	Категория:Письменность
+分類:Dô̤-gáu	Категория:Даосизм
+分類:Dō̤	Категория:Острова
+分類:User de	Категория:User de
+分類:User de-2	Категория:User de-2
+分類:User de-3	Категория:User de-3
+分類:User de-M	Категория:User de-N
+分類:User en-3	Категория:User en-3
+分類:User en-M	Категория:User en-N
+分類:User es	Категория:User es
+分類:User es-1	Категория:User es-1
+分類:User es-2	Категория:User es-2
+分類:User es-3	Категория:User es-3
+分類:User es-M	Категория:User es-N
+分類:Chió	Категория:Жилище
+分類:User it	Категория:User it
+分類:User it-1	Категория:User it-1
+分類:User ja-1	Категория:User ja-1
+分類:User ko	Категория:User ko
+分類:Mī-guók gì ciŭ	Категория:Штаты США
+分類:User ko-1	Категория:User ko-1
+分類:User ko-2	Категория:User ko-2
+分類:User ko-3	Категория:User ko-3
+分類:User ksh	Категория:User ksh
+分類:User ksh-M	Категория:User ksh-N
+分類:User la-1	Категория:User la-1
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 29 hô̤	Шаблон:События дня:09-29
+分類:User la-3	Категория:User la-3
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 5 hô̤	Шаблон:События дня:09-5
+模板:Distinguish	Шаблон:Не путать
+模板:Information	Шаблон:Изображение
+分類:Huâng-cô̤i	Категория:Преступность
+Sáik-mō̤	Пухоеды и вши
+分類:Hāi	Категория:Моря
+Hŭng-siéng	Вентилятор
+分類:Guōng-dĕ̤ng	Категория:Гуандун
+分類:Hók-gióng	Категория:Фуцзянь
+分類:Ciék-ciĕ dông-ŭk	Категория:Членистоногие
+分類:User nan	Категория:User nan
+分類:User nan-M	Категория:User nan-N
+分類:Hĭ-ciŭ guók-gă	Категория:Страны Африки
+分類:Gáuk-guók gì gáu-ṳ̆k	Категория:Образование по странам
+Wikipedia:Dŏng-nièng gĭng-dáng/11 nguŏk	Проект:События дня/Ноябрь
+模板:User ja-2	Шаблон:User ja-2
+模板:User ja-3	Шаблон:User ja-3
+分類:User vi	Категория:User vi
+分類:User vi-1	Категория:User vi-1
+分類:User vi-2	Категория:User vi-2
+分類:User vi-M	Категория:User vi-N
+分類:Ciék-gŏng	Категория:Чжэцзян
+分類:Ĭng-ngŏk-gă	Категория:Музыканты
+模板:Lang	Шаблон:Lang
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 21 hô̤	Шаблон:События дня:09-21
+分類:Hŏk-sŭk	Категория:Наука и образование
+Bì-bà (ngŏk-ké)	Пипа (музыкальный инструмент)
+分類:Wikimedia gĕ̤ng-tiàng	Категория:Проекты Викимедиа
+分類:Ò̤	Категория:Реки
+Cūi-siĕng	Нарцисс букетный
+模板:User la-2	Шаблон:User la-2
+模板:User no-1	Шаблон:User no-1
+模板:User zh-1	Шаблон:User zh-1
+模板:User zh-2	Шаблон:User zh-2
+模板:User zh-3	Шаблон:User zh-3
+分類:Dâi-hàng Mìng-guók ìng-ŭk	Категория:Персоналии:Южная Корея
+分類:Sôi-diēng ìng-ŭk	Категория:Персоналии:Швеция
+分類:Nĭk-buōng ìng-ŭk	Категория:Японцы
+分類:Dài-uăng ìng-ŭk	Категория:Персоналии:Тайвань
+分類:User nl	Категория:User nl
+分類:User zh-1	Категория:User zh-1
+分類:User zh-3	Категория:User zh-3
+分類:User zh-2	Категория:User zh-2
+分類:Cāi	Категория:Бумага
+分類:Ông-ò̤	Категория:Каналы
+分類:Uŏk-nàng ìng-ŭk	Категория:Персоналии:Вьетнам
+分類:Sùi-dièu huòng-dá̤	Категория:Императоры династии Суй
+分類:Sóng-dièu huòng-dá̤	Категория:Императоры династии Сун
+分類:Dòng-dièu huòng-dá̤	Категория:Императоры династии Тан
+分類:Mìng-dièu huòng-dá̤	Категория:Императоры династии Мин
+分類:Săng-guók huòng-dá̤	Категория:Правители эпохи Троецарствия в Китае
+分類:Ngò̤-lò̤-sṳ̆ ìng-ŭk	Категория:Русские
+分類:Hiŏng-gē̤ng ìng-ŭk	Категория:Персоналии:Гонконг
+分類:Ciĕk-káik ìng-ŭk	Категория:Персоналии:Чехия
+分類:Tái-guók ìng-ŭk	Категория:Персоналии:Таиланд
+Uŏk-ngṳ̄	Юэ (язык)
+分類:Sáng	Категория:Фамилии
+分類:Dièu-siēng Mìng-ciō-ciō-ngiê Ìng-mìng Gê̤ṳng-huò-guók	Категория:Корейская Народно-Демократическая Республика
+分類:Dṳ̆ng-guók ìng-ŭk	Категория:Персоналии:Китай
+分類:Dièu-siēng	Категория:Корея
+分類:Dài-uăng	Категория:Тайвань
+分類:Dièu-siēng Mìng-ciō-ciō-ngiê Ìng-mìng Gê̤ṳng-huò-guók ìng-ŭk	Категория:Персоналии:КНДР
+分類:Hók-gióng-nè̤ng	Категория:Персоналии:Фуцзянь
+分類:Dâi-iòng-ciŭ guók-gă	Категория:Страны Океании
+分類:Báe̤k Mī-ciŭ guók-gă	Категория:Страны Северной Америки
+分類:Ngṳ̀	Категория:Рыбы
+分類:Cūi-guō	Категория:Фрукты
+分類:Niōng-tā̤ dông-ŭk	Категория:Моллюски
+分類:Só-cê	Категория:Системы счисления
+分類:Gióng-dé̤ṳk cài-lâiu	Категория:Строительные материалы
+分類:Dông-ŭk	Категория:Животные
+分類:Ciáh-tùi dông-ŭk	Категория:Позвоночные
+分類:Ìng-guòng	Категория:Права человека
+分類:Ū-ké	Категория:Оружие
+分類:Nàng Mī-ciŭ guók-gă	Категория:Страны Южной Америки
+分類:Gă-sĭ	Категория:Мебель
+分類:Ké-chiông	Категория:Метеорология
+分類:Dṳ̆ng Mī-ciŭ	Категория:Центральная Америка
+分類:Hiŏng-gē̤ng	Категория:Гонконг
+分類:Ĭ-siòng	Категория:Одежда
+分類:Cáik-nĭk	Категория:Фестивали
+分類:Kuàng-ciék dông-ŭk	Категория:Кольчатые черви
+分類:Bâng	Категория:Заболевания
+分類:Kiŏng-diòng dông-ŭk	Категория:Стрекающие
+分類:Gùng-dō̤	Категория:Архипелаги
+分類:Ciŭ-dièu guók-uòng	Категория:Правители Чжоу
+分類:Káh-dièu-nó̤h	Категория:Игрушки
+分類:Gă-dìng	Категория:Семья
+分類:Dṳ̆ng-guók huòng-dá̤	Категория:Императоры Китая
+分類:Huòng-dá̤	Категория:Императоры
+分類:Nguòng-dièu huòng-dá̤	Категория:Юаньские императоры
+分類:Céng-dièu huòng-dá̤	Категория:Императоры эпохи Цзинь
+分類:Háng-dièu huòng-dá̤	Категория:Императоры династии Хань
+分類:Báe̤k Mī-ciŭ	Категория:Северная Америка
+分類:Gŏ̤-chiū	Категория:Певцы и певицы
+分類:Hù	Категория:Озёра
+分類:Só-hŏk-gă	Категория:Математики
+模板:Infobox ngṳ̄-ngiòng	Шаблон:Язык
+分類:Dâi-iòng-ciŭ	Категория:Океания
+分類:Tiĕng-căi	Категория:Стихийные бедствия
+分類:Gô-dā̤ gì guók-gă	Категория:Исторические государства
+Vĩnh Long	Виньлонг (провинция)
+分類:Dṳ̆ng-huà Ìng-mìng Gê̤ṳng-huò-guók	Категория:Китайская Народная Республика
+Cāi-puŏi	Гофрокартон
+分類:Giông-kŏng	Категория:Здоровье
+分類:Sĕng-lī	Категория:Физиология
+分類:Sáng Lī	Категория:Ли
+Trojany	Трояны (Мазовецкое воеводство)
+模板:Infobox color	Шаблон:Карточка цвета
+分類:Ngū-dâi Sĕk-guók gì huòng-dá̤ gâe̤ng guók-uòng	Категория:Правители эпохи Пяти династий и десяти царств
+分類:Ā-ciŭ guók-gă	Категория:Страны Азии
+分類:Ŭng-ciŭ	Категория:Вэньчжоу
+分類:Huák-lŭk	Категория:Законы
+分類:Cò̤-ngôi huòng-dá̤	Категория:Правители Цао Вэй
+分類:Sŏng-ngù huòng-dá̤	Категория:Правители Восточного У
+分類:Bēng-guòng	Категория:Авторское право
+分類:Biēu-cìng	Категория:Мимика
+分類:Ôi-sĕng	Категория:Гигиена
+分類:Dṳ̆ng-huà Mìng-guók	Категория:Китайская Республика
+分類:Sṳ̆k-háng huòng-dá̤	Категория:Правители Шу Хань
+模板:Image label begin	Шаблон:Image label begin
+模板:Dṳ̆ng-huà Mìng-guók Hèng-céng-kṳ̆	Шаблон:Административное деление Китайской Республики
+Ĭ-mā	Бабушка
+分類:Hŭng-cūi	Категория:Фэншуй
+分類:Sĕng-uăk	Категория:Личная жизнь
+Uòng-pŭng	Осы
+模板:User vi	Шаблон:User vi
+分類:User en-1	Категория:User en-1
+分類:User de-1	Категория:User de-1
+分類:Gă-sĭ-huă	Категория:Инструменты
+Liù-giù	Рюкю
+模板:User wuu	Шаблон:User wuu
+Gŭng-ô-nguòng	Государственная служба
+Hù-diĕk	Булавоусые чешуекрылые
+模板:Hók-gióng	Шаблон:Фуцзянь
+Chái-tàu	Редька посевная
+模板:Ping	Шаблон:Reply to
+模組:Arguments	Модуль:Arguments
+特殊:最近其改變	Служебная:Свежие правки
+模組:HtmlBuilder	Модуль:HtmlBuilder
+模組:Coordinates	Модуль:Coordinates
+模組:Math	Модуль:Math
+模組:Infobox	Модуль:Карточка
+Ciá	Сахарный тростник (род)

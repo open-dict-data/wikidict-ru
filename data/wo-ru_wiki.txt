@@ -1,0 +1,1522 @@
+Afrig	Африка
+Sapoŋ	Япония
+Bëj-saalumu Aamerig	Южная Америка
+Noorwees	Норвегия
+Irlaand	Ирландия
+Ongiri	Венгрия
+Ispaañ	Испания
+Diiwaan yu Bennoo	Соединённые Штаты Америки
+Belsik	Бельгия
+Luksambuur	Люксембург
+Suuf	Земля
+Finlaand	Финляндия
+Suweed	Швеция
+Danmaark	Дания
+Poloñ	Польша
+Lituwaani	Литва
+Itaali	Италия
+Suwis	Швейцария
+Otris	Австрия
+Girees	Греция
+Tirki	Турция
+Portugaal	Португалия
+Tugal	Европа
+Asi	Азия
+Bëj-gànnaaru Aamerig	Северная Америка
+Goxub Dottub Bëj-saalum	Антарктида
+Wikipedia	Википедия
+Olaand	Нидерланды
+PHP	PHP
+Berlin	Берлин
+Nosukaay	Компьютер
+Bern	Берн
+Zurich	Цюрих
+Internet	Интернет
+Uruguwaay	Уругвай
+Londar	Лондон
+Xayra	Каир
+Alegsàndiri	Александрия
+Pari	Париж
+Meksik	Мексика
+Mbàmbulaanug Atlas	Атлантический океан
+Mbàmbulaan Gu-Dal	Тихий океан
+Altine	Понедельник
+Samwie	Январь
+Fewirie	Февраль
+Maars (weer)	Март
+Maas	Марс
+Keeñaa	Кения
+Ecoopi	Эфиопия
+Gana	Гана
+Awril	Апрель
+Mee	Май
+Suwe	Июнь
+Sulet	Июль
+Waxset	Август
+Satumbar	Сентябрь
+Oktoobar	Октябрь
+Nowembar	Ноябрь
+Disambar	Декабрь
+Talaata	Вторник
+Àllarba	Среда
+Alxames	Четверг
+Àjjuma	Пятница
+Gaawu	Суббота
+Dibéer	Воскресенье
+Gaynde	Лев
+Faraas	Франция
+Esperanto	Эсперанто
+Xaj	Собака
+Nguur-Yu-Bennoo	Великобритания
+Muus	Кошка
+Réewum Popileer bu Siin	Китайская Народная Республика
+Wu-faraas	Французский язык
+Wikbaatukaay	Викисловарь
+Breesil	Бразилия
+Riisi	Россия
+Géej	Море
+São Paulo	Сан-Паулу
+Almaañ	Германия
+Belaarus	Белоруссия
+Islaand	Исландия
+Yàlla	Бог
+Estooni	Эстония
+Benn	1 (число)
+Ñaar	2 (число)
+Ñatt	3 (число)
+Ñent	4 (число)
+Juroom	5 (число)
+Tus	0 (число)
+Letóoni	Латвия
+Ukreen	Украина
+Réewum Cek	Чехия
+Eslowaaki	Словакия
+Esloweeni	Словения
+Wilniyus	Вильнюс
+Moldaawi	Молдавия
+Romaani	Румыния
+Bulgaari	Болгария
+Rom	Рим
+Réewum Maseduwaan	Республика Македония
+Albaani	Албания
+Groenlaand	Гренландия (административная единица)
+Korwaasi	Хорватия
+Bosni	Босния и Герцеговина
+Aserbayjaan	Азербайджан
+Andoor	Андорра
+Ciipër	Республика Кипр
+Jeoorji	Грузия
+Kasakistaan	Казахстан
+Malt	Мальта
+Monaako	Монако
+Montenegro	Черногория
+Watikaa	Ватикан
+San Marino	Сан-Марино
+Burusel	Брюссель
+Kubaa	Куба
+Beliis	Белиз
+Barbados	Барбадос
+Endoneesi	Индонезия
+Afrig gu Bëj-saalum	Южно-Африканская Республика
+Alseeri	Алжир
+Usbekistaan	Узбекистан
+Warsaw	Варшава
+Ndox	Вода
+Sili	Чили
+Yéesu-kristaa	Иисус Христос
+Merkuur	Меркурий
+Taariix	История
+Weenus	Венера
+Kàllaama	Язык
+Yupiter	Юпитер
+Uraanus	Уран (планета)
+Neptuun	Нептун
+Saytubiddiw	Астрономия
+Singapoor	Сингапур
+Xam-xam	Наука
+Pluton	Плутон
+Liechtenstein	Лихтенштейн
+Xareb Àdduna bu Njëkk	Первая мировая война
+Ñaareelu Xareb Àdduna	Вторая мировая война
+Skopje	Скопье
+Linux	Linux
+Xayma	Математика
+Bahrayni	Бахрейн
+Armeeni	Армения
+Seerbi	Сербия
+Óstraali	Австралия
+Jëmm	Физика
+Arsantin	Аргентина
+Peru	Перу
+Kore gu Bëj-gànnaar	Корейская Народно-Демократическая Республика
+Kamboodi	Камбоджа
+Alxuraan	Коран
+Lislaam	Ислам
+Jubaljana	Любляна
+Jimbulang bu waa-Brëtaañ	Энциклопедия Британника
+World Wide Web	Всемирная паутина
+Jigéen	Женщина
+Sofiya	София
+Jant	Солнце
+Asamaan	Небо
+Oseyaani	Океания
+Nosteg jant	Солнечная система
+Bés	Сутки
+Timoor gu Penku	Восточный Тимор
+Guddi	Ночь
+At	Год
+Oslo	Осло
+Lisbon	Лиссабон
+Way	Музыка
+Mosku	Москва
+Cadd	Чад
+Seland-Gu-Bees	Новая Зеландия
+End	Индия
+Tuvalu	Тувалу
+Tonga	Тонга
+Samowaa	Самоа
+Duni Solomon	Соломоновы Острова
+Wanuatu	Вануату
+Papuwaasi-Gine-Gu-Bees	Папуа — Новая Гвинея
+Palau	Палау
+Nauru	Науру
+Réew yu Bennoo yu Mikronesi	Федеративные Штаты Микронезии
+Duni Marshall	Маршалловы Острова
+Kiribati	Кирибати
+Mongoli	Монголия
+Fiiji	Фиджи
+Benesuwela	Венесуэла
+Amsterdam	Амстердам
+Rab	Животные
+Surinaam	Суринам
+Paraguwaay	Парагвай
+Guyaana	Гайана
+Fànn	Искусство
+Ekwadoor	Эквадор
+Koloombi	Колумбия
+Boliibi	Боливия
+Tirinidaad ak Tobaago	Тринидад и Тобаго
+Gàncax	Растения
+Saint Vincent and the Grenadines	Сент-Винсент и Гренадины
+Saint Lucia	Сент-Люсия
+Saint Kitts and Nevis	Сент-Китс и Невис
+Jamayka	Ямайка
+Grenada	Гренада
+Guwaatemala	Гватемала
+Bahamas	Багамские Острова
+Ganaar	Курица
+Antigua ak Barbuda	Антигуа и Барбуда
+Onduras	Гондурас
+Dominika	Доминика
+Réewum Dominik	Доминиканская Республика
+Mbaam	Домашняя свинья
+Mbàmbulaan gu Bëj-gànnaar	Северный Ледовитый океан
+Ayiti	Республика Гаити
+Salbadoor	Сальвадор
+Iraan	Иран
+Iraak	Ирак
+Kosta Riika	Коста-Рика
+Israayil	Израиль
+Panamaa	Панама
+Yaman	Йемен
+Jordaani	Иордания
+Nikaraaguwa	Никарагуа
+Kirgistaan	Киргизия
+Kowet	Кувейт
+Réewum Lawos	Лаос
+Libaa	Ливан
+Maldiif	Мальдивы
+Aamerig	Америка
+Maleesi	Малайзия
+Miyanmaar	Мьянма
+Nepaal	Непал
+Omaan	Оман
+Pakistaan	Пакистан
+Kataar	Катар
+Araabi Sawdit	Саудовская Аравия
+Siri Laanka	Шри-Ланка
+Siri	Сирия
+Tajikistaan	Таджикистан
+Taaywaan	Китайская Республика
+Taaylaand	Таиланд
+Ceññeer-mbej	Радио
+Turkumenistaan	Туркмения
+Imaaraat yu Araab yu Bennoo yi	Объединённые Арабские Эмираты
+Wiyetnaam	Вьетнам
+Kore gu Bëj-saalum	Республика Корея
+Afganistaan	Афганистан
+Banglaades	Бангладеш
+Mali	Мали
+Angolaa	Ангола
+Butaan	Бутан
+Tansani	Танзания
+Filipiin	Филиппины
+Réewum Diggu Afrig	Центральноафриканская Республика
+Dottub Bëj-saalum	Южный полюс
+Dottub Bëj-gànnaar	Северный полюс
+Albert Einstein	Эйнштейн, Альберт
+Mboq	Жёлтый цвет
+Togóo	Того
+Tiniisi	Тунис
+Saambi	Замбия
+Simbaawee	Зимбабве
+Bene	Бенин
+Botswana	Ботсвана
+Burkinaa Faaso	Буркина-Фасо
+Buruundi	Бурунди
+Komoor	Коморы
+Kongóo-Brasaawiil	Республика Конго
+Kongóo-Kinshasa	Демократическая Республика Конго
+Jibuti	Джибути
+Gineg yamoo	Экваториальная Гвинея
+Eritere	Эритрея
+Tibilisi	Тбилиси
+Gaboŋ	Габон
+Gàmbi	Гамбия
+Gine	Гвинея
+Gine Bisaawóo	Гвинея-Бисау
+Kodiwaar	Кот-д’Ивуар
+Kamerun	Камерун
+Kap Weert	Кабо-Верде
+Lesoto	Лесото
+Libeeria	Либерия
+Libi	Ливия
+Madagaskaar	Мадагаскар
+Malawi	Малави
+Gànnaar	Мавритания
+Móoris	Маврикий
+Marok	Марокко
+Mosambik	Мозамбик
+Namibi	Намибия
+Niseer	Нигер
+Charles Darwin	Дарвин, Чарлз
+Ugandaa	Уганда
+Ruwandaa	Руанда
+Saw Tome ak Preesip	Сан-Томе и Принсипи
+Senegaal	Сенегал
+Seysel	Сейшельские Острова
+Siraa Leyoon	Сьерра-Леоне
+Somali	Сомали
+Julius Caesar	Гай Юлий Цезарь
+Sudaan	Судан
+Suwaasilaand	Свазиленд
+Kureelu Mbootayu Xeet yi	Организация Объединённых Наций
+Melosuuf	География
+Melo	Цвет
+Prag	Прага
+Baxa	Синий цвет
+Yanu mbëj	Электрический заряд
+Poortorikoo	Пуэрто-Рико
+Mbàmbulaanug End	Индийский океан
+Wàll:Xët wu njëkk	Категория:Всё
+Golo	Обезьяны
+Koppar	Деньги
+Gunóor	Насекомые
+Niccolò Machiavelli	Макиавелли, Никколо
+Uetersen	Итерзен
+Jibraltaar	Гибралтар
+Sagreb	Загреб
+Astana	Астана
+Aten	Афины
+Bagdad	Багдад
+Caracas	Каракас
+Wiyen	Вена
+Kopenagen	Копенгаген
+Stokolm	Стокгольм
+Elsinki	Хельсинки
+Dublin	Дублин
+Reykjawik	Рейкьявик
+Talin	Таллин
+Riga	Рига
+Baratislawa	Братислава
+Budapest	Будапешт
+Luksambuur (péy)	Люксембург (город)
+Wadus	Вадуц
+Biibël	Библия
+San Marino (péy)	Сан-Марино (город)
+Ho Chi Minh City	Хошимин
+Jàngu Yéesu bu Dëggu bi	Церковь истинного Иисуса
+Wu-angalteer	Английский язык
+Andorra la Vella	Андорра-ла-Велья
+Đồng Hới	Донгхой
+Concepción (Ciili)	Консепсьон (город, Чили)
+Kiyew	Киев
+Końskowola	Коньсковоля
+Xartum	Хартум
+Sharles Degóol	Де Голль, Шарль
+Mbëjfepp	Электрон
+Minsk	Минск
+Feppsaal	Протон
+Kurów	Курув
+Feppmaandu	Нейтрон
+Mogadisu	Могадишо
+Football	Футбол
+Madrid	Мадрид
+Wert	Зелёный цвет
+Xonq	Красный цвет
+Safara	Огонь
+Lourdes	Лурд
+Rabat	Рабат
+Alse	Алжир (город)
+Dexub Senegaal	Сенегал (река)
+Tunis	Тунис (город)
+Tripoli (Libi)	Триполи
+Jibuti (dëkk)	Джибути (город)
+Addis-Abeba	Аддис-Абеба
+Ankara	Анкара
+Asmara	Асмэра
+Njamena	Нджамена
+Nouakchott	Нуакшот
+Belgrad	Белград
+Ndakaaru	Дакар
+Banjul	Банжул
+Wàll:Royuwaay	Категория:Википедия:Шаблоны
+Praia	Прая
+Guyaana gu Faraas	Французская Гвиана
+Amman	Амман
+Yaunde	Яунде
+Malabo	Малабо
+Libarwil	Либревиль
+Bangi	Банги
+Kinshasa	Киншаса
+Brasawil	Браззавиль
+Bujumbura	Бужумбура
+Kigali	Кигали
+Dodoma	Додома
+Nairobi	Найроби
+Lilongwe	Лилонгве
+Lusaka	Лусака
+Maputo	Мапуту
+Kampala	Кампала
+Luanda	Луанда
+Moroni	Морони
+Antananariwo	Антананариву
+Arare	Хараре
+Wiktoria (Seysel)	Виктория (Сейшельские острова)
+Kër	Жилище
+Lonkoyoon	Географическая карта
+Dex	Река
+Osasco	Озаску
+Curitiba	Куритиба
+Sowwu Afrig	Западная Африка
+Confucius	Конфуций
+Corbin Bleu	Блю, Корбин
+Wàll:Xayma	Категория:Математика
+Duni Faarow	Фарерские острова
+Géej gu Diggu	Средиземное море
+Gox	Континент
+Monzón	Монсон
+Weer	Месяц
+Mustafa Kemal Atatürk	Ататюрк, Мустафа Кемаль
+Almazán	Альмасан
+Jimbulang	Энциклопедия
+Xët wu njëkk	Заглавная страница
+Dëgërlukaay	Резистор
+Fattalukaay(mbëj)	Электрический конденсатор
+Xiirtalukaay	Катушка индуктивности
+Tugalasi	Евразия
+Babilon	Вавилон
+Dunu Aland	Аландские острова
+Betleyem	Вифлеем
+Duni Kanaari	Канарские острова
+Xeltu	Философия
+Rap	Рэп
+Hebe Camargo	Камарго, Эбе
+Sahara gu Sowwu	Западная Сахара
+Atali	Анталья
+Wàll:Saytubiddiw	Категория:Астрономия
+Saara	Сахара
+Niels Bohr	Бор, Нильс
+Politig	Политика
+Qin Shi Huang	Цинь Шихуанди
+Penku gu Diggu	Средний Восток
+Réew	Государство
+Mbàmbulaan gu Bëj-saalum	Южный океан
+Bët	Глаз
+Ñay	Слон
+Melentaan	Муравьи
+Simili	Минута
+Taariixu Itaali	История Италии
+Mburu	Хлеб
+Kiswahili	Суахили
+Dereet	Кровь
+Toulouse	Тулуза
+Xam-xamu suuf si ak jawwu ji	Науки о Земле
+Doj	Горная порода
+Jawwu ji	Атмосфера
+Koom-koom	Экономика (наука)
+Yewwute gu ndefar	Промышленность
+Wàll:Bulgaari	Категория:Болгария
+Njàngat	Литература
+Wàll:Faraas	Категория:Франция
+Wàll:Woy	Категория:Музыка
+Wàll:Njàngat	Категория:Литература
+.ac	.ac
+Xay	Цивилизация
+Gόor	Мужчина
+Tangor	Гора
+Yay	Пустыня
+Ooŋ Koŋ	Гонконг
+HTML	HTML
+Xarefulwoon	Атом
+Nosteg doxiin	Операционная система
+Baku	Баку
+Mbàmbulaan	Океан
+Budda	Будда Шакьямуни
+Premier League	Английская Премьер-лига
+Mohammed	Мухаммед
+Dunu Falkland	Фолклендские острова
+Ronald Reagan	Рейган, Рональд
+Gordon Brown	Браун, Гордон
+Wàll:Benesuwela	Категория:Венесуэла
+Pitax	Голубиные
+Garab	Дерево
+Wuutuloxo	Машина
+Xibaar	Информация
+Paj	Медицина
+Saarayego	Сараево
+Wàll:Breesil	Категория:Бразилия
+Wàll:Romaani	Категория:Румыния
+Xeet	Химический элемент
+Kàttan	Энергия
+Hip-hop	Хип-хоп (музыкальный жанр)
+Toolu bijjaakon	Магнитное поле
+Dooley ñoddi	Гравитация
+Bijjaan	Магнит
+Yolaakon	Жидкость
+Féex	Вакуум
+Yaatuwaay	Площадь
+Saa	Секунда
+Cuub	Живопись
+Nataal	Фотография
+Yatt	Скульптура
+Mbëjfeppal	Электроника
+Dawaanu mbëj	Электрический ток
+Baraay	Частота
+Soppalikaay	Трансформатор
+Xaralay xibaar ak jokkoo	Информационные технологии
+Duni Virgin (us)	Виргинские Острова (США)
+Bëj-saalum-penku Asi	Юго-Восточная Азия
+Limu réewi àdduna bi	Алфавитный список стран и территорий
+Njëkk-taariix	Первобытное общество
+Réewum ñaari dex yi	Месопотамия
+Las Palmasu Kanaari gu Mag	Лас-Пальмас-де-Гран-Канария
+Arminaat	Календарь
+Xarey jóoñe	Крестовые походы
+Mbëj	Электричество
+Montserrat	Монтсеррат
+Ndajem Berlin	Берлинская конференция (1884)
+Adiratig	Адриатическое море
+Ngiste	Оптика
+Makaaw	Макао
+Soviet Yi Benno	Союз Советских Социалистических Республик
+Queen	Queen
+Àdduna	Мир (Земля)
+Wikipedia:Pénc mi	Википедия:Форум
+Guam	Гуам
+Samoa gu Aamerig	Американское Самоа
+Northern Mariana Islands	Северные Марианские острова
+United States Minor Outlying Islands	Внешние малые острова США
+Guwaadalup	Гваделупа
+Martinik	Мартиника
+Mayoot	Майотта
+Reiñõo	Реюньон
+Turks and Caicos Islands	Теркс и Кайкос
+Manchester United	Манчестер Юнайтед
+Juróom ñent	9 (число)
+Bien Hoa	Бьенхоа
+Nha Trang	Нячанг
+Rafael Correa	Корреа, Рафаэль
+Bukarest	Бухарест
+Louvre	Лувр
+Kureelu tembte bu Poortorikoo	Партия независимости Пуэрто-Рико
+Tirana	Тирана
+Nowel	Рождество Христово
+Breinigerberg	Брайнигерберг
+Ségg	Тигр
+Kisinawu	Кишинёв
+Xam-xamu nosukaay	Информатика
+Şalom	Şalom
+Aruba	Аруба
+Juróom ñaar	7 (число)
+Juróom ñett	8 (число)
+Ayubés	Неделя
+Ngéej	Озеро
+Jeexiituwaay bu Orsay	Музей Орсе
+Dunu Buwet	Остров Буве
+Dun	Остров
+Juróom benn	6 (число)
+Moshchena	Мощёная
+Paltoga	Палтога
+Yamoo	Экватор
+Mérida, Benesuwela	Мерида (Венесуэла)
+Podgorika	Подгорица
+Baatukaay	Словарь
+Bermuda	Бермудские Острова
+Palestiin	Палестина
+Waleta	Валлетта
+Fukk	10 (число)
+Tene	Гепард
+Looy	Совообразные
+Angila	Ангилья
+Waxtu	Час
+Pichilemu	Пичилему
+Duni Virgin (angalteer)	Британские Виргинские острова
+Phan Thiet	Фантхьет
+Goxub Dottub Bëj-gànnaar	Арктика
+Ngóora (jëmm)	Мощность
+Ndëgërlu gu mbëj	Электрическое сопротивление
+Dendu mbëj	Электрическое напряжение
+Niccolò Cusano University	Университет Николая Кузанского
+Mbëjtekkaaral	Электростатика
+Anet	Укроп
+Dunu Kook	Острова Кука
+Penku Asi	Восточная Азия
+Diggu Asi	Центральная Азия
+Bëj-gànnaaru Afrig	Северная Африка
+Bëj-saalumu Afrig	Южная Африка
+Penku Afrig	Восточная Африка
+Diggu Afrig	Центральная Африка
+Bëj-saalumu Tugal	Южная Европа
+Penku Tugal	Восточная Европа
+Bëj-gànnaaru Tugal	Северная Европа
+Sowwu Tugal	Западная Европа
+Afritugalasi	Афроевразия
+Diggu Aamerig	Центральная Америка
+Maghreb	Магриб
+Weeri wolof	Исламский календарь
+Ecser	Эчер
+Akas	Ахаз
+Polineesi gu Faraas	Французская Полинезия
+Dunu Norfolk	Норфолк (остров)
+Dunu Christmas	Остров Рождества (Австралия)
+Arabi	Аравийский полуостров
+Paaka	Нож
+Pullaar	Фула (язык)
+Kaledooni-Gu-Bees	Новая Каледония
+Way-dëkk	Население
+Niwe	Ниуэ
+Tus-wu-gaar	Широта
+Wolof (làkk)	Волоф (язык)
+Gëstubiddiw	Астрология
+Seent Eleen	Остров Святой Елены
+Saint Pierre ak Miquelon	Сен-Пьер и Микелон
+Njëkk-xaymà	Список телефонных кодов стран
+Tequixquiac	Текискьяк
+Jeoorji gu Bëj-saalum ak Duni Islaand yi Bëj-saalum	Южная Георгия и Южные Сандвичевы Острова
+Dalub web	Сайт
+Araab	Арабы
+Wallis ak Futuna	Уоллис и Футуна
+Pitkeern	Острова Питкэрн
+Ne-ne	Материя (физика)
+Al Bayda	Аль-Байда
+Gaal	Лодка
+Polineesi	Полинезия
+Dunu Kokos	Кокосовые острова
+Thanh Hoa	Тханьхоа
+Siligo	Силиго
+Tus-wu-taxaw	Долгота
+Dàngin	Гориллы
+Ben Tre	Бенче
+Xëtu web	Веб-страница
+Tokelau	Токелау
+Tembte	Независимость
+Melaneesi	Меланезия
+Téeméer	100 (число)
+Campora San Giovanni	Кампора-Сан-Джованни
+Besançon	Безансон
+Jinax	Домовые мыши
+Melosuufug Burkinaa Faaso	География Буркина-Фасо
+Suraas	Оранжевый цвет
+Artemis	Артемида
+Esaas	Бензин
+Tëriinuw nosukaay	Компьютерная программа
+Jëf ya	Деяния святых апостолов
+Bejjenu Afrig	Африканский Рог
+Fatt-jawwu	Тропосфера
+Al Pacino	Пачино, Аль
+Doolerandu	Механика
+Sinemaa	Кинотеатр
+Jum	Ракета
+Daawuda	Давид
+Seere	Шахада
+Liggéey (jëmm)	Механическая работа
+Penku gu Sori	Дальний Восток
+Gëwéel	Тропики
+Junni	Тысяча
+Xaralaymbëj	Электротехника
+Waañ	Кухня (помещение)
+Andare	Андрей Первозванный
+Bartelemi	Апостол Варфоломей
+Melosuufug Alseeri	География Алжира
+Alex Ferguson	Фергюсон, Алекс
+The Doors	The Doors
+Toolu mbëj	Электрическое поле
+Kàttanug imbiku	Кинетическая энергия
+Mbootaayu Réewi Jullit yi	Организация исламского сотрудничества
+Penku gu Jege	Ближний Восток
+Royuwaay:Bokktekki	Разрешение лексической многозначности
+Almasi bi	Мессия
+Bànni Israyil	Колена Израилевы
+Aaroona	Аарон
+Anas	Анна (первосвященник)
+Jàngoroy Ebola	Геморрагическая лихорадка Эбола
+Locri	Локри
+Monaako (péy)	Монако (город)
+Wàll:Filmi	Категория:Фильмы
+Aset	Тарелка
+Truong Tan Sang	Чыонг Тан Шанг
+Duran Duran	Duran Duran
+Safaanukaay	Генератор переменного тока
+Ron-goxu End	Индийский субконтинент
+Diiwaani dott	Полярные регионы
+Sahel	Сахель
+Aadama	Адам
+Doxalukaay bu mbëj	Электрический двигатель
+Ametist	Аметист
+Coronel Fabriciano	Коронел-Фабрисиану
+Junj	Символ
+1 Korent	1-е послание к Коринфянам
+Furset	Вилка (столовый прибор)
+Kuddu	Ложка
+Royan	Руайан
+Lepton	Лептон
+Bundesliga	Чемпионат Германии по футболу
+Dencukaay	Файл
+Cosaan	Традиция
+Jéeri ji	Литосфера
+Lëkkalekaay	Гиперссылка
+Nukleon	Нуклон
+Beril	Берилл
+Xarey àdduna	Мировая война
+Abdulaay Wàdd	Вад, Абдулай
+Dëgërluwiin	Удельное электрическое сопротивление
+Yolom-jawwu	Стратосфера
+Dawaan bu safaanu	Переменный ток
+Disc jockey	Диджей
+2 Piyeer	2-е послание Петра
+Heard Island and McDonald Islands	Остров Херд и острова Макдональд
+IMMAGINE&POESIA	Живопись и поэзия
+Jurukaayu mbëj	Электрический генератор
+Ndombo gu mbëj	Электрическая цепь
+Mamudsu	Мамудзу
+Afrig gu bëj-saalumu-Sahara	Чёрная Африка
+Sawara	Горение
+Raaya wu Senegaal	Флаг Сенегала
+Albaatar	Алебастр
+Diggi-tabaski	Зуль-када
+Leopool Sedaar Sengoor	Сенгор, Леопольд Седар
+Dóox	Герцогство
+Bennoo gu Almaañ	Объединение Германии (1871)
+Dawaan bu wéy	Постоянный ток
+Digg bu mbëj	Электростанция
+Kom-kom	Экономика
+Pachuca de Soto	Пачука-де-Сото
+Iyon-jawwu	Ионосфера
+Break dancing	Брейк-данс
+Biti-jawwu	Экзосфера
+Asot	Ашдод
+Amiin	Аминь
+Amos	Книга пророка Амоса
+Bunt: taariix	Портал:История
+Ponki Lislaam	Пять столпов ислама
+Toolu mbëjbijjaakon	Электромагнитное поле
+Xiirtalu	Индуктивность
+Mbëjbijjaan	Электромагнит
+ASP.NET	ASP.NET
+Diiwaanu Ndar	Сен-Луи (область)
+Ayóoba	Иов
+Aakimoo jawwu ji	Освоение космоса
+Dalu Archimède	Закон Архимеда
+Imbraatóor gu Mali	Империя Мали
+Barnabas	Варнава (апостол от 70)
+Alaaji Omar Fuutiyu TAAL	Эль-Хадж Омар
+Tabaski	Зуль-хиджа
+Armagedon	Армагеддон
+Njël	Восход
+Ndeyi-koor	Раджаб
+Ancos ci Siri	Антиохия
+Bere	Верия
+Areyopas	Ареопаг
+Beelsebul	Вельзевул
+Pël	Фульбе
+Imbraatóor gu Songaay	Сонгай (государство)
+Vesoul	Везуль
+Akayi	Ахея (римская провинция)
+Alisa	Елисей
+Imbraatóor gu Gana	Империя Гана
+Piipa	Дельфин-белобочка
+Doxalukaay bu demandoodi	Асинхронная машина
+Duusub sin	Синусоида
+Sudaan (diiwaan)	Судан (регион)
+Njeexitu joule	Закон Джоуля — Ленца
+Yuusu Nduur	Юссу Н’Дур
+Bowas	Вооз
+Ajara	Агарь
+Wolof (askan)	Волоф (народ)
+Amfipolis	Амфиполис
+Turu Way-Dëkk	Этнохороним
+Baraxlu	Шаабан
+Sao Tome (dun)	Сан-Томе (остров)
+Haj	Хадж
+Krushynka	Крушинка (Киевская область)
+Arkelawus	Ирод Архелай
+Beer	Горе (остров)
+Mboolaay	Общество (значения)
+Ndar	Сен-Луи (Сенегал)
+Yoonu Eŋaca	Эгнатиева дорога
+Rakki-gàmmu	Раби ас-сани
+Abadon	Абаддон
+Luga	Луга (Сенегал)
+Wommat wu mbëj	Электрическая проводимость
+Asaf	Аса
+Barabas	Варавва
+Agaripa	Агриппа II
+Abel	Авель
+Amon	Амон (царь Иудеи)
+Ousmane Sembène	Сембен, Усман
+Abiyatar	Авиафар
+Apolos	Аполлос (апостол от 70)
+Akilas	Аквила Синопский
+Aristobul	Аристобул I
+Agabus	Агав
+Bëer	Обыкновенный серебристый горбыль
+Aloos	Алойное дерево
+Bitini	Вифиния
+Toq	Токи (род)
+Yolet	Фиолетовый цвет
+Fatik	Фатик (город)
+Arpagsàdd	Арфаксад (сын Сима)
+Ben-yamin	Вениамин
+Berenis	Береника (дочь Ирода Агриппы I)
+Arkib	Архипп
+Aristàrk	Аристарх (апостол от 70)
+Saamóori Ture	Самори
+Gàmmu	Раби аль-авваль
+Ampilyaatus	Амплий
+Planoise	Плануаз
+Anañas	Анания (значения)
+Diggi-gàmmu	Сафар
+Betsayda	Вифсаида
+Andoronikus	Андроник (апостол от 70)
+Bisub Tabaski	Курбан-байрам
+Dalmasi	Далмация
+Max	Термиты
+Antipas	Антипа Пергамский
+Balaam	Валаам (прорицатель)
+Wure	Вари (игра)
+Diiwaanu Séeju	Седиу (область)
+Baal	Баал
+Cees	Тиес (город)
+Aram	Арам, сын Сима
+Tuubaa	Туба (Сенегал)
+Antipataris	Антипатрида
+Kori	Шавваль
+Taariixu Aamerig	История Америки
+Artemas	Артема (апостол от 70)
+Diiwaanu Luga	Луга (область)
+Diiwaanu Koldaa	Колда (область)
+Séeréer	Серер (народ)
+Asos	Ассос
+Isipt gu yàgg ga	История Древнего Египта
+Melosuufug Afrig	География Африки
+Barag	Варак
+Bartime	Вартимей
+Beliyar	Велиал
+Mandinke	Мандинка (народ)
+Maami-koor	Джумада ас-сани
+Diiwaanu Siggcoor	Зигиншор (область)
+Awa	Ева
+Betani	Вифания
+Betesda	Вифезда
+Kaasamaas	Казаманс (регион)
+Swalbard ak Jan Mayen	Шпицберген и Ян-Майен
+Limub njiiti Senegaal yil	Список президентов Сенегала
+Diiwaanu Kawlax	Каолак (область)
+Kawlak	Каолак (город)
+Diiwaanu Cees	Тиес (область)
+Diiwaanu Tambaakundaa	Тамбакунда (область)
+Rakkaati-gàmmu	Джумада аль-уля
+Nosteg galag	Налоговое право
+Diiwaanu Njaaréem	Диурбель (область)
+Diiwaanu Ndakaaru	Дакар (область)
+Diiwaanu Maatam	Матам (область)
+Diiwaanu Fatik	Фатик (область)
+Oiapoque	Ояпоки
+Jurbel	Диурбель (город)
+Wuutuloxo bu mbëj	Электрическая машина
+Asor	Азор
+Akaykus	Ахаик (апостол от 70)
+Elimas	Елима
+Xiirtalug mbëjbijjaakon	Электромагнитная индукция
+Budka Suflera	Budka Suflera
+Tëngéej	Рюфиск
+Podoor	Подор
+Mbuur	Мбур
+Diiwaanu Kéedugu	Кедугу (область)
+Diiwaanu Kafrin	Кафрин (область)
+Catir	Фиатира
+Melosuufug Angolaa	География Анголы
+Taariixu Senegaal	История Сенегала
+Maatam	Матам (город)
+Dalmanuta	Далмануфа
+Joolaa (askan)	Диола (народ)
+Djibril Dio Mambéty	Мамбети, Джибрил Диоп
+Màkkaanum mbëjfeppal	Адрес электронной почты
+Bowanerses	Язык Иисуса
+Wàll:Gόor	Категория:Мужчина
+Wàll:Almaañ	Категория:Германия
+Wàll:Itaali	Категория:Италия
+Wàll:Riisi	Категория:Россия
+Wàll:Kanadaa	Категория:Канада
+Wàll:Nguur-Yu-Bennoo	Категория:Великобритания
+Wàll:Ispaañ	Категория:Испания
+Wàll:Sapoŋ	Категория:Япония
+Wàll:Óstraali	Категория:Австралия
+Wàll:Meksik	Категория:Мексика
+Wàll:End	Категория:Индия
+Wàll:Araabi Sawdit	Категория:Саудовская Аравия
+Wàll:Israayil	Категория:Израиль
+Wàll:Watikaa	Категория:Ватикан
+Wàll:Tirki	Категория:Турция
+Wàll:Afrig gu Bëj-saalum	Категория:ЮАР
+Wàll:Isipt	Категория:Египет
+Wàll:Iraan	Категория:Иран
+Wàll:Arsantin	Категория:Аргентина
+Abba	Авва
+Wàll:Afganistaan	Категория:Афганистан
+Wàll:Alseeri	Категория:Алжир
+Wàll:Banglaades	Категория:Бангладеш
+Wàll:Kubaa	Категория:Куба
+Wàll:Ecoopi	Категория:Эфиопия
+Wàll:Endoneesi	Категория:Индонезия
+Wàll:Iraak	Категория:Ирак
+Wàll:Niseeria	Категория:Нигерия
+Wàll:Poloñ	Категория:Польша
+Wàll:Portugaal	Категория:Португалия
+Wàll:Kore gu Bëj-saalum	Категория:Южная Корея
+Wàll:Sudaan	Категория:Судан
+Wàll:Suwis	Категория:Швейцария
+Wàll:Tansani	Категория:Танзания
+Wàll:Ukreen	Категория:Украина
+Wàll:Wiyetnaam	Категория:Вьетнам
+Wàll:Picc	Категория:Птицы
+Wàll:Gàncax	Категория:Растения
+Wàll:Jëmm	Категория:Физика
+Wàll:Taariix	Категория:История
+Wàll:Melosuuf	Категория:География
+Wàll:Diine	Категория:Религия
+Wàll:Sport	Категория:Спорт
+Wàll:Xam-xam	Категория:Наука
+Wàll:Suuf	Категория:Земля
+Wàll:Xibaar	Категория:Информация
+Melosuufug Afrig gu Bëj-saalum	География Южно-Африканской Республики
+Njàngale	Инструктив
+Tiijaaniyaa	Тиджания
+Aana	Анна Пророчица (Новый Завет)
+Aser	Асир (Библия)
+Melosuufug Botswana	География Ботсваны
+Tamxarit	Мухаррам
+Yoonu murit	Мюридизм
+Wàll:Xeltu	Категория:Философия
+Wàll:Lislaam	Категория:Ислам
+Melosuufug Bene	География Бенина
+Melosuufug Buruundi	География Бурунди
+Aminadab	Аминадав, сын Арама
+Melosuufug Senegaal	География Сенегала
+Ba Ria	Бариа
+Melosuufug Kamerun	География Камеруна
+Dundat yi	Биота (таксономия)
+Benedicta Boccoli	Бенедикта Бокколи
+Wolof	Волоф
+Betani bu Yurdan	Вифавара
+Behrouz Vossoughi	Бехруз Восуги
+Wàll:Junj	Категория:Незавершённые статьи
+Wàll:Gox yi	Категория:Континенты
+Mexe	Мекхе
+Bunt:Melosuuf	Портал:География
+Mikroneesi	Микронезия
+Séddaliinu yoriinu Senegaal	Административное деление Сенегала
+Adaramit	Адрамитион
+Anna Rita Del Piano	Дель Пиано, Анна Рита
+Royuwaay:M	Шаблон:Tl
+Royuwaay:Yeneenlàkk	Шаблон:Wikipedialang
+Wàll:Réew	Категория:Страны
+Wàll:Koom-koom	Категория:Экономика
+Wikipedia:Yorkat	Википедия:Администраторы
+Wàll:Kasakistaan	Категория:Казахстан
+Wikipedia:Bureaucrats	Википедия:Бюрократы
+Wikipedia:Bot	Википедия:Бот
+Wàll:Paj	Категория:Медицина
+Wàll:Politig	Категория:Политика
+Wàll:Fànn	Категория:Искусство
+Isipt	Египет
+Royuwaay:Bot	Шаблон:Bot
+Oblaznytsia	Облазница
+Kanadaa	Канада
+Wàll:Beljik	Категория:Бельгия
+Wàll:Ciipër	Категория:Республика Кипр
+Wàll:Réewum Cek	Категория:Чехия
+Wàll:Danmaark	Категория:Дания
+Wàll:Estooni	Категория:Эстония
+Wàll:Finlaand	Категория:Финляндия
+Wàll:Girees	Категория:Греция
+Wàll:Letóoni	Категория:Латвия
+Wàll:Islaand	Категория:Исландия
+Wàll:Luksambuur	Категория:Люксембург
+Wàll:Lituwaani	Категория:Литва
+Wàll:Malt	Категория:Мальта
+Wàll:Suweed	Категория:Швеция
+Wàll:Eslowaaki	Категория:Словакия
+Wàll:Esloweeni	Категория:Словения
+Wàll:Xare	Категория:Войны
+Bunt: Xarala	Портал:Наука
+Wàll:Tugal	Категория:Европа
+Wàll:Waa-wikipedia ci làkk-ak-làkk	Категория:Википедия:Участники по языкам
+Sung Jae-gi	Сон Джэги
+Nag	Крупный рогатый скот
+Farhad Ghaemi	Гаеми, Фархад
+Royuwaay:Softredirect	Шаблон:Soft redirect
+Royuwaay:Far	Шаблон:К быстрому удалению
+Wàll:Xarala	Категория:Технология
+Wàll:Làkk	Категория:Языки
+Wàll:Arminaat	Категория:Календарь
+Wàll:Wikipedia	Категория:Википедия
+Wàll:Barab bu tolluwaay bu njëkk	Категория:Домены верхнего уровня
+Wàll:Afrig	Категория:Африка
+Wàll:Sulet	Категория:Июль
+Wàll:Suwe	Категория:Июнь
+Wàll:Mbëjfeppal	Категория:Электроника
+Wàll:Leeral Biibël	Категория:Библия
+Wàll:Weeri at mi	Категория:Месяцы
+Royuwaay:Babel	Шаблон:Babel
+Royuwaay:Commons	Шаблон:Commons
+Wàll:Xaralaymbëj	Категория:Электротехника
+Royuwaay:ANG	Шаблон:AGO
+Royuwaay:Junj	Шаблон:Заготовка
+Royuwaay:Jëfandikukat af-1	Шаблон:User af-1
+Royuwaay:Jëfandikukat ar-1	Шаблон:User ar-1
+Royuwaay:Jëfandikukat eo-1	Шаблон:User eo-1
+Royuwaay:Jëfandikukat da	Шаблон:User da
+Royuwaay:Jëfandikukat ca-4	Шаблон:User ca-4
+Royuwaay:Jëfandikukat da-1	Шаблон:User da-1
+Royuwaay:Jëfandikukat eo-3	Шаблон:User eo-3
+Royuwaay:Jëfandikukat eu	Шаблон:User eu
+Royuwaay:Jëfandikukat et-1	Шаблон:User et-1
+Royuwaay:Jëfandikukat es	Шаблон:User es
+Royuwaay:Jëfandikukat en-3	Шаблон:User en-3
+Royuwaay:Jëfandikukat el-1	Шаблон:User el-1
+Royuwaay:Jëfandikukat en-1	Шаблон:User en-1
+Royuwaay:Jëfandikukat en-2	Шаблон:User en-2
+Royuwaay:Jëfandikukat eo-2	Шаблон:User eo-2
+Royuwaay:Jëfandikukat en-4	Шаблон:User en-4
+Royuwaay:Jëfandikukat fi	Шаблон:User fi
+Royuwaay:Jëfandikukat en-0	Шаблон:User en-0
+Royuwaay:Jëfandikukat es-4	Шаблон:User es-4
+Royuwaay:Jëfandikukat en	Шаблон:User en
+Royuwaay:Jëfandikukat es-1	Шаблон:User es-1
+Royuwaay:Jëfandikukat fr-1	Шаблон:User fr-1
+Wàll:Dundat yi	Категория:Жизнь
+Royuwaay:Jëfandikukat ia-2	Шаблон:User ia-2
+Royuwaay:Jëfandikukat hi-1	Шаблон:User hi-1
+Royuwaay:Jëfandikukat hu	Шаблон:User hu
+Royuwaay:Jëfandikukat id-3	Шаблон:User id-3
+Royuwaay:Jëfandikukat io-3	Шаблон:User io-3
+Royuwaay:Jëfandikukat it-3	Шаблон:User it-3
+Royuwaay:Jëfandikukat ja-4	Шаблон:User ja-4
+Royuwaay:Jëfandikukat sk	Шаблон:User sk
+Royuwaay:Jëfandikukat tr	Шаблон:User tr
+Royuwaay:Jëfandikukat ja	Шаблон:User ja
+Royuwaay:Jëfandikukat ja-1	Шаблон:User ja-1
+Royuwaay:Jëfandikukat it-1	Шаблон:User it-1
+Royuwaay:Jëfandikukat fr	Шаблон:User fr
+Wàll:Fewirie	Категория:Февраль
+Wàll:Gunóor	Категория:Насекомые
+Wàll:Moldaawi	Категория:Молдавия
+Royuwaay:HRV	Шаблон:HRV
+Wàll:Aserbayjaan	Категория:Азербайджан
+Wàll:Asi	Категория:Азия
+Wàll:Ciili	Категория:Чили
+Wàll:Lesoto	Категория:Лесото
+Wàll:Jëfandikukat uk	Категория:User uk
+Wàll:Jëfandikukat uk-N	Категория:User uk-N
+Wàll:Maleesi	Категория:Малайзия
+Wàll:Football	Категория:Футбол
+Royuwaay:Mod	Шаблон:Mod
+Royuwaay:Jëfandikukat sv	Шаблон:User sv
+Royuwaay:Jëfandikukat it	Шаблон:User it
+Royuwaay:Jëfandikukat uk	Шаблон:User uk
+Royuwaay:Jëfandikukat es-2	Шаблон:User es-2
+Wàll:Jimbulang	Категория:Энциклопедии
+Royuwaay:Bataaxalu dalal-jàmm	Шаблон:Приветствие
+Royuwaay:Weer	Шаблон:Месяцы
+Royuwaay:USA	Шаблон:USA
+Royuwaay:ITA	Шаблон:ITA
+Royuwaay:GEO	Шаблон:GEO
+Royuwaay:BOL	Шаблон:BOL
+Royuwaay:MEX	Шаблон:MEX
+Wàll:Jëfandikukat fr-1	Категория:User fr-1
+Royuwaay:MAR	Шаблон:MAR
+Royuwaay:MDK	Шаблон:MDG
+Royuwaay:SVK	Шаблон:SVK
+Royuwaay:EGY	Шаблон:EGY
+Royuwaay:KGZ	Шаблон:KGZ
+Royuwaay:MYT	Шаблон:MYT
+Royuwaay:Infobox Réew	Шаблон:Государство
+Royuwaay:Max	Шаблон:Max
+Royuwaay:STP	Шаблон:STP
+Royuwaay:VEN	Шаблон:VEN
+Royuwaay:UKR	Шаблон:UKR
+Royuwaay:ROU	Шаблон:ROU
+Royuwaay:TUR	Шаблон:TUR
+Royuwaay:JBT	Шаблон:DJI
+Royuwaay:Jëfandikukat es-0	Шаблон:User es-0
+Wàll:Gana	Категория:Гана
+Wàll:Jëfandikukat en-4	Категория:User en-4
+Wàll:Togóo	Категория:Того
+Wàll:Jëfandikukat en	Категория:User en
+Wàll:Jëfandikukat zh	Категория:User zh
+Wàll:Korwaasi	Категория:Хорватия
+Wàll:Jëfandikukat zh-N	Категория:User zh-N
+Wàll:Jëfandikukat en-2	Категория:User en-2
+Royuwaay:Jëfandikukat zh	Шаблон:User zh
+Royuwaay:Jëfandikukat ru-4	Шаблон:User ru-4
+Royuwaay:Jëfandikukat nl-1	Шаблон:User nl-1
+Royuwaay:Jëfandikukat nl-2	Шаблон:User nl-2
+Wàll:Jëfandikukat hi	Категория:User hi
+Royuwaay:Jëfandikukat ru	Шаблон:User ru
+Wàll:Aamerig	Категория:Америка
+Royuwaay:KPW	Шаблон:CPV
+Royuwaay:Jëfandikukat pt-1	Шаблон:User pt-1
+Wàll:Samwie	Категория:Январь
+Royuwaay:Jëfandikukat pl	Шаблон:User pl
+Royuwaay:Jëfandikukat nl	Шаблон:User nl
+Royuwaay:TJK	Шаблон:TJK
+Royuwaay:Jëfandikukat no-2	Шаблон:User no-2
+Royuwaay:GAN	Шаблон:GHA
+Royuwaay:GAM	Шаблон:GMB
+Royuwaay:IDN	Шаблон:IDN
+Royuwaay:AFB	Шаблон:ZAF
+Royuwaay:CcTLD	Шаблон:Национальные домены верхнего уровня
+Royuwaay:POL	Шаблон:POL
+Royuwaay:BOA	Шаблон:BWA
+Royuwaay:URY	Шаблон:URY
+Royuwaay:CUB	Шаблон:CUB
+Royuwaay:KMR	Шаблон:CMR
+Royuwaay:KOS	Шаблон:COD
+Royuwaay:BIH	Шаблон:BIH
+Royuwaay:GIN	Шаблон:GIN
+Royuwaay:FIN	Шаблон:FIN
+Wàll:Cuub	Категория:Живопись
+Royuwaay:CAN	Шаблон:CAN
+Royuwaay:DNK	Шаблон:DNK
+Royuwaay:Jëfandikukat	Шаблон:Userpage
+Royuwaay:DEU	Шаблон:DEU
+Royuwaay:BEN	Шаблон:BEN
+Royuwaay:SWE	Шаблон:SWE
+Royuwaay:Jëfandikukat pl-1	Шаблон:User pl-1
+Royuwaay:Jëfandikukat fr-3	Шаблон:User fr-3
+Wàll:Tiniisi	Категория:Тунис
+Royuwaay:JPN	Шаблон:JPN
+Royuwaay:SOM	Шаблон:SOM
+Royuwaay:VAT	Шаблон:VAT
+Royuwaay:SWL	Шаблон:SWZ
+Wàll:Suti	Категория:Оборудование
+Royuwaay:ISL	Шаблон:ICE
+Royuwaay:Coord/link	Шаблон:Coord/link
+Royuwaay:MOR	Шаблон:MUS
+Royuwaay:COL	Шаблон:COL
+Royuwaay:GIB	Шаблон:GNB
+Royuwaay:ERT	Шаблон:ERI
+Royuwaay:GAR	Шаблон:MRT
+Royuwaay:GAB	Шаблон:GAB
+Royuwaay:IRN	Шаблон:IRN
+Royuwaay:MAL	Шаблон:MLI
+Royuwaay:SUD	Шаблон:SDN
+Royuwaay:NAM	Шаблон:NAM
+Royuwaay:RDA	Шаблон:CAF
+Royuwaay:MKD	Шаблон:MKD
+Royuwaay:GNY	Шаблон:GNQ
+Royuwaay:KOM	Шаблон:COM
+Royuwaay:SAM	Шаблон:ZMB
+Royuwaay:MLW	Шаблон:MWI
+Royuwaay:TAN	Шаблон:TZA
+Royuwaay:KAZ	Шаблон:KAZ
+Royuwaay:NIS	Шаблон:NER
+Royuwaay:KON	Шаблон:COG
+Royuwaay:SMR	Шаблон:SMR
+Royuwaay:PER	Шаблон:PER
+Royuwaay:MOS	Шаблон:MOZ
+Royuwaay:GUY	Шаблон:GUY
+Royuwaay:ECP	Шаблон:ETH
+Royuwaay:NIA	Шаблон:NGA
+Royuwaay:SRB	Шаблон:SRB
+Royuwaay:NIC	Шаблон:NIC
+Royuwaay:LIA	Шаблон:LBR
+Royuwaay:TKM	Шаблон:TKM
+Royuwaay:LIB	Шаблон:LBY
+Royuwaay:LES	Шаблон:LSO
+Royuwaay:BUK	Шаблон:BFA
+Royuwaay:CAD	Шаблон:TCD
+Royuwaay:PRY	Шаблон:PRY
+Royuwaay:ECU	Шаблон:ECU
+Royuwaay:SEY	Шаблон:SYC
+Royuwaay:SIR	Шаблон:SLE
+Royuwaay:LTU	Шаблон:LTU
+Royuwaay:IND	Шаблон:IND
+Royuwaay:Jëfandikukat is-1	Шаблон:User is-1
+Royuwaay:Jëfandikukat en-5	Шаблон:User en-5
+Wàll:Poortorikoo	Категория:Пуэрто-Рико
+Wàll:Jëfandikukat ja-N	Категория:User ja-N
+Wàll:Royuwaay jëfëndikookat	Категория:Википедия:Шаблоны:Участники
+Royuwaay:CHE	Шаблон:CHE
+Wàll:Suwaasilaand	Категория:Свазиленд
+Wàll:Infobox	Категория:Шаблоны:Карточки
+Royuwaay:Jëfandikukat yi-2	Шаблон:User yi-2
+Royuwaay:ATG	Шаблон:ATG
+Royuwaay:GRC	Шаблон:GRC
+Royuwaay:PRT	Шаблон:PRT
+Royuwaay:SIM	Шаблон:ZWE
+Royuwaay:Jëfandikukat ksh	Шаблон:User ksh
+Royuwaay:CZE	Шаблон:CZE
+Royuwaay:LVA	Шаблон:LVA
+Royuwaay:AZE	Шаблон:AZE
+Royuwaay:MNE	Шаблон:MNE
+Royuwaay:NLD	Шаблон:NED
+Royuwaay:GBR	Шаблон:GBR
+Royuwaay:LIE	Шаблон:LIE
+Royuwaay:MDA	Шаблон:MOL
+Royuwaay:KOR	Шаблон:KOR
+Royuwaay:Jëfandikukat it-2	Шаблон:User it-2
+Royuwaay:SVN	Шаблон:SLO
+Royuwaay:LBN	Шаблон:LBN
+Royuwaay:FRA	Шаблон:FRA
+Wàll:Mongoli	Категория:Монголия
+Royuwaay:Gox	Шаблон:Континенты
+Royuwaay:Jëfandikukat pt-3	Шаблон:User pt-3
+Royuwaay:Jëfandikukat pt-2	Шаблон:User pt-2
+Royuwaay:Jëfandikukat fr-4	Шаблон:User fr-4
+Royuwaay:Jëfandikukat lv	Шаблон:User lv
+Royuwaay:Jëfandikukat la-1	Шаблон:User la-1
+Wàll:Réewum Maseduwaan	Категория:Республика Македония
+Wàll:Jëfandikukat sk	Категория:User sk
+Wàll:Jëfandikukat eo	Категория:User eo
+Wàll:Jëfandikukat et	Категория:User et
+Wàll:Jëfandikukat fr	Категория:User fr
+Wàll:Jëfandikukat hu-N	Категория:User hu-N
+Wàll:Jëfandikukat id	Категория:User id
+Wàll:Jëfandikukat ia	Категория:User ia
+Wàll:Jëfandikukat ja	Категория:User ja
+Wàll:Jëfandikukat la	Категория:User la
+Wàll:Jëfandikukat li	Категория:User li
+Wàll:Jëfandikukat pt	Категория:User pt
+Wàll:Jëfandikukat ro	Категория:User ro
+Wàll:Jëfandikukat sv	Категория:User sv
+Wàll:Jëfandikukat sw	Категория:User sw
+Wàll:Jëfandikukat fr-3	Категория:User fr-3
+Wàll:Jëfandikukat it-3	Категория:User it-3
+Wàll:Jëfandikukat da-1	Категория:User da-1
+Wàll:Jëfandikukat et-1	Категория:User et-1
+Wàll:Jëfandikukat hi-1	Категория:User hi-1
+Wàll:Jëfandikukat li-1	Категория:User li-1
+Wàll:Jëfandikukat nl-1	Категория:User nl-1
+Wàll:Jëfandikukat pl-1	Категория:User pl-1
+Wàll:Jëfandikukat ar-1	Категория:User ar-1
+Wàll:Jëfandikukat fr-4	Категория:User fr-4
+Wàll:Jëfandikukat it-4	Категория:User it-4
+Wàll:Jëfandikukat ar-4	Категория:User ar-4
+Wàll:Jëfandikukat fr-2	Категория:User fr-2
+Wàll:Jëfandikukat ia-2	Категория:User ia-2
+Wàll:Jëfandikukat it-2	Категория:User it-2
+Wàll:Jëfandikukat la-2	Категория:User la-2
+Wàll:Jëfandikukat nl-2	Категория:User nl-2
+Wàll:Jëfandikukat cs-N	Категория:User cs-N
+Wàll:Jëfandikukat fr-N	Категория:User fr-N
+Wàll:Jëfandikukat it-N	Категория:User it-N
+Wàll:Jëfandikukat lv-N	Категория:User lv-N
+Wàll:Jëfandikukat li-N	Категория:User li-N
+Wàll:Jëfandikukat nl-N	Категория:User nl-N
+Wàll:Jëfandikukat ru-N	Категория:User ru-N
+Wàll:Jëfandikukat sw-N	Категория:User sw-N
+Wàll:Jëfandikukat fr-5	Категория:User fr-5
+Wàll:Jëfandikukat eu-N	Категория:User eu-N
+Wàll:Jëfandikukat af	Категория:User af
+Wàll:Jëfandikukat af-1	Категория:User af-1
+Wàll:Jëfandikukat ar	Категория:User ar
+Wàll:Jëfandikukat bm	Категория:User bm
+Wàll:Jëfandikukat bm-1	Категория:User bm-1
+Wàll:Jëfandikukat ca	Категория:User ca
+Wàll:Jëfandikukat ca-4	Категория:User ca-4
+Wàll:Jëfandikukat cs	Категория:User cs
+Wàll:Jëfandikukat da	Категория:User da
+Wàll:Jëfandikukat sk-N	Категория:User sk-N
+Wàll:Jëfandikukat de	Категория:User de
+Wàll:Jëfandikukat de-0	Категория:User de-0
+Wàll:Jëfandikukat de-2	Категория:User de-2
+Wàll:Jëfandikukat de-3	Категория:User de-3
+Wàll:Jëfandikukat de-4	Категория:User de-4
+Wàll:Jëfandikukat de-N	Категория:User de-N
+Wàll:Jëfandikukat el	Категория:User el
+Wàll:Jëfandikukat el-1	Категория:User el-1
+Wàll:Jëfandikukat en-0	Категория:User en-0
+Wàll:Jëfandikukat en-3	Категория:User en-3
+Wàll:Jëfandikukat en-5	Категория:User en-5
+Wàll:Jëfandikukat en-N	Категория:User en-N
+Wàll:Jëfandikukat eo-1	Категория:User eo-1
+Wàll:Jëfandikukat eo-2	Категория:User eo-2
+Wàll:Jëfandikukat eo-3	Категория:User eo-3
+Wàll:Jëfandikukat es	Категория:User es
+Wàll:Jëfandikukat es-1	Категория:User es-1
+Wàll:Jëfandikukat es-2	Категория:User es-2
+Wàll:Jëfandikukat es-3	Категория:User es-3
+Wàll:Jëfandikukat es-4	Категория:User es-4
+Wàll:Jëfandikukat es-N	Категория:User es-N
+Wàll:Jëfandikukat eu	Категория:User eu
+Wàll:Jëfandikukat fi	Категория:User fi
+Wàll:Jëfandikukat fi-N	Категория:User fi-N
+Wàll:Jëfandikukat fr-0	Категория:User fr-0
+Wàll:Jëfandikukat hu	Категория:User hu
+Wàll:Jëfandikukat id-3	Категория:User id-3
+Wàll:Jëfandikukat io	Категория:User io
+Wàll:Jëfandikukat io-1	Категория:User io-1
+Wàll:Jëfandikukat is	Категория:User is
+Wàll:Jëfandikukat is-1	Категория:User is-1
+Royuwaay:Jëfandikukat la-3	Шаблон:User la-3
+Wàll:Jëfandikukat pt-3	Категория:User pt-3
+Wàll:Yonenti Lislaam	Категория:Исламские пророки
+Wàll:Jëfandikukat pl-N	Категория:User pl-N
+Wàll:Jëfandikukat pt-1	Категория:User pt-1
+Wàll:Jëfandikukat ka-1	Категория:User ka-1
+Wàll:Jëfandikukat it	Категория:User it
+Wàll:Jëfandikukat it-1	Категория:User it-1
+Wàll:Jëfandikukat ja-1	Категория:User ja-1
+Wàll:Jëfandikukat ka	Категория:User ka
+Wàll:Jëfandikukat ko	Категория:User ko
+Wàll:Jëfandikukat ko-3	Категория:User ko-3
+Wàll:Jëfandikukat ksh	Категория:User ksh
+Wàll:Jëfandikukat ksh-N	Категория:User ksh-N
+Wàll:Jëfandikukat la-1	Категория:User la-1
+Wàll:Jëfandikukat la-3	Категория:User la-3
+Wàll:Jëfandikukat lb	Категория:User lb
+Wàll:Jëfandikukat lb-1	Категория:User lb-1
+Royuwaay:NOR	Шаблон:NOR
+Royuwaay:BRA	Шаблон:BRA
+Wàll:Nowembar	Категория:Ноябрь
+Wàll:Jëfandikukat ru-1	Категория:User ru-1
+Royuwaay:Jëfandikukat sv-1	Шаблон:User sv-1
+Wàll:Maars	Категория:Март
+Wàll:Sattumbar	Категория:Сентябрь
+Wàll:Jëfandikukat lv	Категория:User lv
+Royuwaay:TNI	Шаблон:TUN
+Wàll:Oktoobar	Категория:Октябрь
+Wàll:Géej	Категория:Моря
+Wàll:Disambar	Категория:Декабрь
+Wàll:Ut	Категория:Август
+Wàll:Mee	Категория:Май
+Wàll:Awril	Категория:Апрель
+Wàll:Angila	Категория:Ангилья
+Royuwaay:LUX	Шаблон:LUX
+Royuwaay:Coord/dms2dec	Шаблон:Coord/dms2dec
+Wàll:Endustri	Категория:Промышленность
+Wàll:Ndox	Категория:Вода
+Wàll:Taariixu Aamerig	Категория:История Америки
+Bunt:Diine	Портал:Религия
+Wàll:Xay	Категория:Цивилизации
+Wàll:Belaarus	Категория:Белоруссия
+Royuwaay:MCO	Шаблон:MCO
+Royuwaay:Jëfandikukat pt-4	Шаблон:User pt-4
+Royuwaay:Jëfandikukat cs	Шаблон:User cs
+Royuwaay:Jëfandikukat ru-2	Шаблон:User ru-2
+Royuwaay:Jëfandikukat es-3	Шаблон:User es-3
+Royuwaay:Jëfandikukat ko-3	Шаблон:User ko-3
+Wàll:Jëfandikukat pt-0	Категория:User pt-0
+Wàll:Jëfandikukat pt-2	Категория:User pt-2
+Wàll:Jëfandikukat pt-4	Категория:User pt-4
+Wàll:Jëfandikukat pt-N	Категория:User pt-N
+Wàll:Jëfandikukat ro-2	Категория:User ro-2
+Wàll:Jëfandikukat ru	Категория:User ru
+Wàll:Jëfandikukat ru-2	Категория:User ru-2
+Wàll:Jëfandikukat ru-4	Категория:User ru-4
+Wàll:Jëfandikukat sk-1	Категория:User sk-1
+Wàll:Jëfandikukat sv-1	Категория:User sv-1
+Wàll:Jëfandikukat sv-N	Категория:User sv-N
+Wàll:Jëfandikukat tr	Категория:User tr
+Wàll:Jëfandikukat tr-N	Категория:User tr-N
+Wàll:Jëfandikukat yi	Категория:User yi
+Wàll:Jëfandikukat yi-2	Категория:User yi-2
+Royuwaay:IRL	Шаблон:IRL
+Royuwaay:ALB	Шаблон:ALB
+Royuwaay:AND	Шаблон:AND
+Royuwaay:ARG	Шаблон:ARG
+Royuwaay:ARM	Шаблон:ARM
+Royuwaay:Jëfandikukat ca	Шаблон:User ca
+Royuwaay:BUR	Шаблон:BDI
+Royuwaay:BGR	Шаблон:BGR
+Royuwaay:BHS	Шаблон:BHS
+Royuwaay:BLR	Шаблон:BLR
+Royuwaay:KOD	Шаблон:CIV
+Royuwaay:CYP	Шаблон:CYP
+Wàll:Melosuufug Tugal	Категория:География Европы
+Royuwaay:Xóotal	Шаблон:Main
+Royuwaay:EST	Шаблон:EST
+Royuwaay:RUS	Шаблон:RUS
+Royuwaay:TOG	Шаблон:TGO
+Royuwaay:Mbàmbulaan	Шаблон:Океаны
+Royuwaay:AUT	Шаблон:AUT
+Royuwaay:CHL	Шаблон:CHL
+Wàll:Diiwaani dott	Категория:Полюса
+Royuwaay:PD-self	Шаблон:PD-self
+Royuwaay:CHN	Шаблон:CHN
+Wàll:Angolaa	Категория:Ангола
+Wàll:Bene	Категория:Бенин
+Wàll:Botswana	Категория:Ботсвана
+Wàll:Burkinaa Faaso	Категория:Буркина-Фасо
+Wàll:Buruundi	Категория:Бурунди
+Wàll:Jibuti	Категория:Джибути
+Wàll:Gineg yamoo	Категория:Экваториальная Гвинея
+Wàll:Eritere	Категория:Эритрея
+Wàll:Gaboŋ	Категория:Габон
+Wàll:Gàmbi	Категория:Гамбия
+Wàll:Kamerun	Категория:Камерун
+Wàll:Keeñaa	Категория:Кения
+Wàll:Komoor	Категория:Коморы
+Wàll:Libi	Категория:Ливия
+Wàll:Madagaskaar	Категория:Мадагаскар
+Wàll:Malawi	Категория:Малави
+Wàll:Marok	Категория:Марокко
+Wàll:Gànnaar	Категория:Мавритания
+Wàll:Mosambik	Категория:Мозамбик
+Wàll:Namibi	Категория:Намибия
+Wàll:Ruwandaa	Категория:Руанда
+Royuwaay:IRQ	Шаблон:IRQ
+Wàll:Taariixu senegaal	Категория:История Сенегала
+Wàll:Diiney Senegaal	Категория:Религия в Сенегале
+Wàll:Melosuufug Afrig gu Bëj-saalum	Категория:География ЮАР
+Royuwaay:Jëfandikukat ar-4	Шаблон:User ar-4
+Wàll:Melosuufug Alseeri	Категория:География Алжира
+Royuwaay:Jëfandikukat la-2	Шаблон:User la-2
+Royuwaay:Jëfandikukat li-1	Шаблон:User li-1
+Royuwaay:Jëfandikukat pt	Шаблон:User pt
+Royuwaay:Jëfandikukat ro-2	Шаблон:User ro-2
+Royuwaay:Jëfandikukat ru-1	Шаблон:User ru-1
+Royuwaay:Jëfandikukat sk-1	Шаблон:User sk-1
+Royuwaay:Jëfandikukat zh-1	Шаблон:User zh-1
+Royuwaay:Jëfandikukat zh-2	Шаблон:User zh-2
+Royuwaay:Jëfandikukat zh-4	Шаблон:User zh-4
+Wàll:Saambi	Категория:Замбия
+Wàll:Senegaal	Категория:Сенегал
+Wàll:Seysel	Категория:Сейшелы
+Wàll:Simbaawee	Категория:Зимбабве
+Wàll:Melosuufug Kamerun	Категория:География Камеруна
+Wàll:Somali	Категория:Сомали
+Wàll:Cadd	Категория:Чад
+Wàll:Ugandaa	Категория:Уганда
+Wàll:Réewum Diggu Afrig	Категория:Центральноафриканская Республика
+Wàll:Filipiin	Категория:Филиппины
+Wàll:Jëfandikukat nl	Категория:User nl
+Wàll:Jëfandikukat no-2	Категория:User no-2
+Wàll:Jëfandikukat no	Категория:User no
+Wàll:Jëfandikukat zh-1	Категория:User zh-1
+Wàll:Jëfandikukat zh-4	Категория:User zh-4
+Wàll:Jëfandikukat zh-2	Категория:User zh-2
+Wàll:Doolerandu	Категория:Механика
+Wàll:Armeeni	Категория:Армения
+Wàll:Bahrayni	Категория:Бахрейн
+Wàll:Siri	Категория:Сирия
+Wàll:Melosuufug Senegaal	Категория:География Сенегала
+Wàll:Jeoorji	Категория:Грузия
+Wàll:Jamayka	Категория:Ямайка
+Wàll:Kataar	Категория:Катар
+Wàll:Maldiif	Категория:Мальдивы
+Wàll:Nepaal	Категория:Непал
+Wàll:Omaan	Категория:Оман
+Wàll:Usbekistaan	Категория:Узбекистан
+Wàll:Taariixu Tugal	Категория:История Европы
+Wàll:San Marino	Категория:Сан-Марино
+Wàll:Jordaani	Категория:Иордания
+Wàll:Nikaraaguwa	Категория:Никарагуа
+Wàll:Bosni	Категория:Босния и Герцеговина
+Wàll:Noorwees	Категория:Норвегия
+Wàll:Paraguwaay	Категория:Парагвай
+Wàll:Liechtenstein	Категория:Лихтенштейн
+Wàll:Onduras	Категория:Гондурас
+Wàll:Uruguwaay	Категория:Уругвай
+Wàll:Andoor	Категория:Андорра
+Wàll:Seerbi	Категория:Сербия
+Wàll:Salbadoor	Категория:Сальвадор
+Wàll:Ayiti	Категория:Гаити
+Wàll:Ekwadoor	Категория:Эквадор
+Wàll:Yaman	Категория:Йемен
+Wàll:Peru	Категория:Перу
+Wàll:Boliibi	Категория:Боливия
+Wàll:Albaani	Категория:Албания
+Wàll:Monaako	Категория:Монако
+Wàll:Cosaan	Категория:Традиции
+Wàll:Jén	Категория:Рыбы
+Wàll:Làkki Afrig	Категория:Языки Африки
+Wàll:Dëkki Benesuwela	Категория:Города Венесуэлы
+Royuwaay:ESP	Шаблон:ESP
+Wàll:Rab	Категория:Животные
+Wàll:Nauru	Категория:Науру
+Wàll:Antigua ak Barbuda	Категория:Антигуа и Барбуда
+Wàll:Guyaana	Категория:Гайана
+Wàll:Koloombi	Категория:Колумбия
+Wàll:Hip Hop	Категория:Хип-хоп
+Wàll:Alxuraan	Категория:Коран
+Wàll:Mbëjtekkaaral	Категория:Электростатика
+Wàll:Mbëj	Категория:Электричество
+Wàll:Jëfandikukat pl	Категория:User pl
+Wàll:Weeri wolof	Категория:Исламский календарь
+Wàll:Oseyaani	Категория:Океания
+Wàll:Montenegro	Категория:Черногория
+Wàll:Moto	Категория:Транспортные средства
+Wàll:Dëkki Senegaal	Категория:Города Сенегала
+Wàll:Làkki senegaal	Категория:Языки Сенегала
+Wàll:Royuwaay raaya réew	Категория:Шаблоны:Флаги государств
+Ngelaw	Воздух
+Wàll:Koom-koomu Afrig	Категория:Экономика Африки
+Royuwaay:UGA	Шаблон:UGA
+Royuwaay:UZB	Шаблон:UZB
+Wàll:Jëfandikukat de-5	Категория:User de-5
+Wàll:Tundi Senegaal	Категория:Департаменты Сенегала
+Trojany	Трояны (Мазовецкое воеводство)
+Wàll:Njiiti Senegaal	Категория:Президенты Сенегала
+Royuwaay:Jëfandikukat sw	Шаблон:User sw
+Royuwaay:Jëfandikukat it-4	Шаблон:User it-4
+Royuwaay:Jëfandikukat io-1	Шаблон:User io-1
+Royuwaay:RUW	Шаблон:RWA
+Royuwaay:MLT	Шаблон:MLT
+Royuwaay:Kña	Шаблон:KEN
+Royuwaay:JAM	Шаблон:JAM
+Wàll:Wallis ak Futuna	Категория:Уоллис и Футуна
+Wàll:Jëfandikukat it-0	Категория:User it-0
+Wàll:Mbëjbijjaakon	Категория:Электромагнетизм
+Wàll:Kàttan	Категория:Энергия
+Royuwaay:Precision1	Шаблон:Precision1
+Royuwaay:MNG	Шаблон:MNG
+Royuwaay:BEL	Шаблон:BEL
+Wàll:Melo	Категория:Цвет
+Koor	Рамадан (месяц)
+Wàll:Jamono	Категория:Единицы измерения времени
+Wàll:Nit ñi ci Téere Linjiil	Категория:Персонажи Нового Завета
+Wàll:Làkki Niseer-Cóngoo	Категория:Нигеро-конголезские языки
+Wàll:Bereb yi ci Téere Linjiil	Категория:География Нового Завета
+Wàll:Njëkk-taariix	Категория:Доисторический период
+Wàll:Saari alxuraan	Категория:Суры Корана
+Wàll:Jëfandikukat nl-0	Категория:User nl-0
+Royuwaay:HUN	Шаблон:HUN
+Wàll:Jëfandikukat ru-0	Категория:User ru-0
+Wàll:Jëfandikukat es-0	Категория:User es-0
+Nguri	Осы
+Wàll:Jëfandikukat en-1	Категория:User en-1
+Wàll:Jëfandikukat de-1	Категория:User de-1
+Wàll:Jëfandikukat da-N	Категория:User da-N
+Wàll:Taariixu Afrig	Категория:История Африки
+Royuwaay:Jëfandikukat li	Шаблон:User li
+Fajar	Рассвет
+Tan	Грифовые
+Royuwaay:Style/IPA	Шаблон:Style/IPA
+Royuwaay:Style/yid	Шаблон:Style/yid
+Coreca	Корека
+Jagleel:Coppite yu mujj	Служебная:Свежие правки
+Wàll:Jëfandikukat ja-4	Категория:User ja-4

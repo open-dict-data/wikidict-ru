@@ -1,0 +1,568 @@
+Saot Amerika	Южная Америка
+Norway	Норвегия
+Ireland	Ирландия
+Hungary	Венгрия
+Spain	Испания
+Yunaeted Stet blong Amerika	Соединённые Штаты Америки
+Belgium	Бельгия
+Luxembourg	Люксембург
+Finland	Финляндия
+Sweden	Швеция
+Denmark	Дания
+Poland	Польша
+Litwania	Литва
+Itali	Италия
+Switzerland	Швейцария
+Austria	Австрия
+Greece	Греция
+Turkey	Турция
+Portugal	Португалия
+Yurop	Европа
+Esia	Азия
+Wikipedia	Википедия
+Netherlands	Нидерланды
+Berlin	Берлин
+Barak Obama	Обама, Барак
+Uruguay	Уругвай
+London	Лондон
+Paris	Париж
+Mexico	Мексика
+Pasifik	Тихий океан
+Kalifornia	Калифорния
+Boston, Massachusetts	Бостон
+Franis	Франция
+Unaeted Kingdom	Великобритания
+China	Китайская Народная Республика
+Brazil	Бразилия
+Rusia	Россия
+Alabama	Алабама
+Germany	Германия
+Belarus	Белоруссия
+Iceland	Исландия
+Estonia	Эстония
+David Cameron	Кэмерон, Дэвид
+Wan	1 (число)
+Tu	2 (число)
+Tri	3 (число)
+Fo	4 (число)
+Faef	5 (число)
+Latvia	Латвия
+Ukraine	Украина
+Czechia	Чехия
+Slovakia	Словакия
+Slovenia	Словения
+Vilnius	Вильнюс
+Moldova	Молдавия
+Romania	Румыния
+Bulgaria	Болгария
+Rome	Рим
+Macedonia	Республика Македония
+Albania	Албания
+Croatia	Хорватия
+Bosnia and Herzegovina	Босния и Герцеговина
+Azerbaijan	Азербайджан
+Andorra	Андорра
+Cyprus	Республика Кипр
+Georgian Republic	Грузия
+Kazakhstan	Казахстан
+Malta	Мальта
+Monaco	Монако
+Montenegro	Черногория
+Vatican Siti	Ватикан
+San Marino	Сан-Марино
+Indonesia	Индонезия
+Warsaw	Варшава
+Wota	Вода
+Chile	Чили
+Jisas Kraes	Иисус Христос
+Nicolas Sarkozy	Саркози, Николя
+Singapore	Сингапур
+Saens	Наука
+Liechtenstein	Лихтенштейн
+Spot	Спорт
+Wol Wo Tu	Вторая мировая война
+Armenia	Армения
+Serbia	Сербия
+Ostrelia	Австралия
+Argentina	Аргентина
+Peru	Перу
+Baeoloji	Биология
+Islam	Ислам
+Boteni	Ботаника
+Flaoa	Цветок
+Wikimidia Commons	Викисклад
+Moskow	Москва
+San-Peterburg	Санкт-Петербург
+Niu Zilan	Новая Зеландия
+India	Индия
+Aean	Железо
+Ripablik blong Vanuatu	Вануату
+Papua New Guinea	Папуа — Новая Гвинея
+Venezuela	Венесуэла
+Maine	Мэн (штат)
+Animol	Животные
+Paraguay	Парагвай
+Colombia	Колумбия
+Budisim	Буддизм
+Bolivia	Боливия
+Niu Hampshire	Нью-Гэмпшир
+Massachusetts	Массачусетс
+Connecticut	Коннектикут
+Hawaii	Гавайи
+Alaska	Аляска
+Florida	Флорида
+Arizona	Аризона
+Laos	Лаос
+Oregon	Орегон
+Yuta	Юта
+Burma	Мьянма
+Vietnam	Вьетнам
+Saot Koria	Республика Корея
+Bangladesh	Бангладеш
+Bhutan	Бутан
+Twitter	Твиттер
+Julius Caesar	Гай Юлий Цезарь
+Yunaeted Nesen	Организация Объединённых Наций
+Jiografi	География
+Bren	Головной мозг
+Prague	Прага
+Michigan	Мичиган
+Illinois	Иллинойс
+Not Dakota	Северная Дакота
+Saut Dakota	Южная Дакота
+Montana	Монтана
+Wyoming	Вайоминг
+Giorgio Napolitano	Наполитано, Джорджо
+Idaho	Айдахо
+Washington (Bundesstaat)	Вашингтон (штат)
+Nevada	Невада
+Colorado	Колорадо
+Delhi	Дели
+Virginia	Виргиния
+West Virginia	Западная Виргиния
+Niu York (Bundesstaat)	Нью-Йорк (штат)
+Rhode Island	Род-Айленд
+Maryland	Мэриленд
+Delaware	Делавэр
+Ohio	Огайо
+Pennsylvania	Пенсильвания
+Uetersen	Итерзен
+Augustus	Октавиан Август
+Niu Yersey	Нью-Джерси
+Indiana	Индиана
+Georgia	Джорджия
+Texas	Техас
+Not Carolina	Северная Каролина
+Saut Carolina	Южная Каролина
+Barcelona	Барселона
+Mississippi	Миссисипи (штат)
+Tennessee	Теннесси
+Niu Mexico	Нью-Мексико
+Minnesota	Миннесота
+Caracas	Каракас
+Wisconsin	Висконсин
+Iowa	Айова
+Nebraska	Небраска
+Kansas	Канзас
+Hindi	Хинди
+Missouri	Миссури (штат)
+Louisiana	Луизиана
+Kentucky	Кентукки
+Arkansas	Арканзас
+Oklahoma	Оклахома
+Vienna	Вена
+Stockholm	Стокгольм
+Wrocław	Вроцлав
+Baebol	Библия
+Ho Chi Minh City	Хошимин
+Tru Jisas Jioj	Церковь истинного Иисуса
+Andorra la Vella	Андорра-ла-Велья
+Dong Hoi	Донгхой
+Concepción	Консепсьон (город, Чили)
+Końskowola	Коньсковоля
+Kurów	Курув
+Kemistri	Химия
+Madrid	Мадрид
+Sydney	Сидней
+Delmenhorst	Дельменхорст
+Osasco	Озаску
+Curitiba	Куритиба
+Confucius	Конфуций
+Category:Matematikis	Категория:Математика
+Faroe aelan	Фарерские острова
+Kristaniti	Христианство
+Céline Dion	Дион, Селин
+Kontinen	Континент
+Kapitol	Столица
+Monzón	Монсон
+Almazán	Альмасан
+Huang Xianfan	Хуан Сяньфань
+Nambawan Pej	Заглавная страница
+Template:Gud atikel	Шаблон:Хорошая статья
+Category:Candidates for speedy deletion	Категория:Википедия:К быстрому удалению
+Kaontri	Страна
+Indianapolis, Indiana	Индианаполис
+Elmshorn	Эльмсхорн
+Qin Shi Huang	Цинь Шихуанди
+Ae	Глаз
+Kamel	Верблюды
+Obesin	Баклажан
+Dakdak	Утиные
+Toktok Rusia	Русский язык
+Nelson Mandela	Мандела, Нельсон
+Volkeno	Вулкан
+Bigwin	Тропический циклон
+Category:Franis	Категория:Франция
+Kofi	Кофе
+Seoul	Сеул
+Toktok Ukraine	Украинский язык
+Dipsi	Океан
+Buddha	Будда Шакьямуни
+Muhammed	Мухаммед
+Martin Luther	Лютер, Мартин
+Michael Schumacher	Шумахер, Михаэль
+Elisabet II	Елизавета II
+Ronald Reagan	Рейган, Рональд
+Fernando Alonso	Алонсо, Фернандо
+Gordon Brown	Браун, Гордон
+Category:Venezuela	Категория:Венесуэла
+Lugo	Луго
+Category:Brazil	Категория:Бразилия
+Oktri	Дуб
+Kanal	Канал (гидрография)
+Leji	Личи
+Kokonas	Кокосовая пальма
+Santiago de Compostela	Сантьяго-де-Компостела
+Oviedo	Овьедо (город)
+Mérida	Мерида (Испания)
+Busan	Пусан
+Vermont	Вермонт
+Denver, Colorado	Денвер
+Phoenix, Arizona	Финикс
+Austin, Texas	Остин (Техас)
+Columbus, Ohio	Колумбус (Огайо)
+Flaeg blong Rusia	Флаг России
+Sacramento, Kalifornia	Сакраменто (Калифорния)
+Honolulu, Hawaii	Гонолулу
+Providence, Rhode Island	Провиденс
+Naen	9 (число)
+Bien Hoa	Бьенхоа
+Nha Trang	Нячанг
+Rafael Correa	Корреа, Рафаэль
+Wikipedia:Gud atikel	Википедия:Хорошие статьи
+Breinigerberg	Брайнигерберг
+Moai	Моаи
+Seoul Stesen	Сеульский вокзал
+Daejeon	Тэджон
+Sejong	Седжон (город)
+Incheon	Инчхон
+Nashville, Tennessee	Нашвилл
+Sol Lek Siti	Солт-Лейк-Сити
+Seven	7 (число)
+Eit	8 (число)
+Lord's Prayer	Отче наш
+Galik	Чеснок
+Kukamba	Огурец обыкновенный
+Sikis	6 (число)
+Moshchena	Мощёная
+Paltoga	Палтога
+Santiago de los Caballeros de Mérida	Мерида (Венесуэла)
+Atlanta, Georgia	Атланта
+Ten	10 (число)
+Albany, Niu York	Олбани (Нью-Йорк)
+Ca Mau	Камау
+Harrisburg, Pennsylvania	Гаррисберг
+Da Lat	Далат
+Phan Thiet	Фантхьет
+Hoknaet	Обыкновенная сипуха
+Antoni Gaudí	Гауди, Антонио
+Trenton, Niu Yersey	Трентон (Нью-Джерси)
+Thai Nguyen	Тхайнгуен (город)
+Jefferson City, Missouri	Джефферсон-Сити (Миссури)
+Jackson, Mississippi	Джэксон (Миссисипи)
+Augusta, Maine	Огаста (Мэн)
+Baton Rouge, Louisiana	Батон-Руж
+Lansing, Michigan	Лансинг
+Concord, New Hampshire	Конкорд (Нью-Гэмпшир)
+Lincoln, Nebraska	Линкольн (Небраска)
+Annapolis, Maryland	Аннаполис (Мэриленд)
+Springfield, Illinois	Спрингфилд (Иллинойс)
+Frankfort, Kentucky	Франкфорт
+Saint Paul, Minnesota	Сент-Пол (Миннесота)
+Montgomery, Alabama	Монтгомери (Алабама)
+Juneau, Alaska	Джуно (Аляска)
+Zhengzhou	Чжэнчжоу
+Avril Lavigne	Лавин, Аврил
+Little Rock, Arkansas	Литл-Рок (Арканзас)
+Buon Ma Thuot	Буонметхуот
+Hartford, Connecticut	Хартфорд (Коннектикут)
+Dover, Delaware	Довер (Делавэр)
+Tok Pisin	Ток-писин
+Anastacia	Анастейша
+Yufreres	Евфрат
+Vinh Long	Виньлонг
+Tequixquiac	Текискьяк
+Oklahoma City, Oklahoma	Оклахома-Сити
+Bislama	Бислама
+Boise, Idaho	Бойсе (город)
+Al Bayda	Аль-Байда
+Bambu	Bambuseae
+Thanh Hoa	Тханьхоа
+Port Moresby	Порт-Морсби
+Ben Tre	Бенче
+Arancón	Аранкон
+Twelef	12 (число)
+Tallahassee, Florida	Таллахасси
+Bismarck, Not Dakota	Бисмарк (Северная Дакота)
+Leven	11 (число)
+Avoka	Авокадо
+Cleveland, Ohio	Кливленд
+John Calvin	Кальвин, Жан
+Sint-Truiden	Синт-Трёйден
+Port Vila	Порт-Вила
+Auckland Grammar School	Оклендская гимназия
+Angers	Анже
+Columbia, Saut Carolina	Колумбия (Южная Каролина)
+Santa Fe, Niu Mexico	Санта-Фе (Нью-Мексико)
+Helena, Montana	Хелена (Монтана)
+Des Moines, Iowa	Де-Мойн
+Ágreda	Агреда
+Nawita	Осьминоги
+Pierre, Saut Dakota	Пирр (Южная Дакота)
+Carson City, Nevada	Карсон-Сити (Невада)
+Topeka, Kansas	Топика (Канзас)
+Raleigh, Not Carolina	Роли (Северная Каролина)
+Ulsan	Ульсан
+Gwangju	Кванджу
+Grepfrut	Грейпфрут
+Julia Gillard	Гиллард, Джулия
+Hamlet	Гамлет
+Sebastian Vettel	Феттель, Себастьян
+Kevin Rudd	Радд, Кевин
+Montehermoso	Монтеермосо
+Salem, Oregon	Сейлем (Орегон)
+Josef Smit	Смит, Джозеф
+Busan Stesen	Пусан (станция метро)
+Oganaesesen blong ol Leba Raonwol	Международная организация труда
+Iolu Abil	Абил, Иолу Джонсон
+Namba	Имя числительное
+Coronel Fabriciano	Коронел-Фабрисиану
+Alla Pugacheva	Пугачёва, Алла Борисовна
+Flaeg blong Azerbaijan	Флаг Азербайджанской Республики
+Sompiniong	Гриб
+Polanbol	Polandball
+Dziecinów	Дзецинув (Отвоцкий повят)
+Gdov	Гдов
+Rudno	Рудно (Малопольское воеводство)
+Blumak	Полосатый хирург
+François Arago	Араго, Франсуа Жан Доминик
+Memba Kaontri blong Unaeted Neisen	Государства — члены ООН
+Natanggura	Саговник поникающий
+St Peter's College (Auckland)	Колледж Святого Петра (Окленд)
+Alan García	Гарсиа Перес, Алан
+John Wycliffe	Уиклиф, Джон
+Caltojar	Кальтохар
+God	Божество
+Napoleong	Cheilinus undulatus
+Flaeg blong Vanuatu	Флаг Вануату
+Chang Myon	Чан Мён
+Lou Reed	Рид, Лу
+Yun Chi-ho	Юн Чхи Хо
+Robert Gates	Гейтс, Роберт
+William Tyndale	Тиндейл, Уильям
+Ana Paula Arósio	Арозиу, Ана Паула
+Apaxco	Апаско
+Nagorno-Karabakh Republic	Нагорно-Карабахская Республика
+Efate	Эфате
+Yumi, Yumi, Yumi	Гимн Вануату
+Kalkot Mataskelekele	Матаскелекеле, Калкот
+Michael Somare	Сомаре, Майкл Томас
+Lluís Domènech i Montaner	Доменек-и-Монтанер, Луис
+Bry-sur-Marne	Бри-сюр-Марн
+Almaluez	Альмалуэс
+Jacint Verdaguer	Вердагер, Жасинт
+Francesc Cambó	Камбо-и-Батле, Франсеск
+Edward Natapei	Натапеи, Эдвард
+Derek Sikua	Сикуа, Дерек
+Ambae Aelan	Оба (остров)
+Buk Blong Momon	Книга Мормона
+Sato Kilman	Килман, Сато
+Ham Lini	Лини, Хам
+Coritiba Foot Ball Club	Коритиба
+Aliud	Альюд
+Baraona	Бараона
+Blufis	Рыбы-попугаи
+Tornesch	Торнеш
+Eric A. Havelock	Хэвлок, Эрик Альфред
+Markdorf	Маркдорф
+Tafea	Тафеа
+Shefa	Шефа
+Ivan Zaytsev	Зайцев, Иван (волейболист)
+Serge Vohor	Вохор, Серж
+Sanma	Санма
+Malampa	Малампа
+Yonawa	Йонава
+Grin pijin	Пёстрые голуби
+Waeldakdak	Серая кряква
+Sigal	Австралийская чайка
+Pigazzano	Пигаццано
+Torba	Торба (провинция)
+Almarza	Альмарса
+Aldealices	Альдеалисес
+Aldealafuente	Альдеалафуэнте
+Alentisque	Алентиске
+Adradas	Адрадас
+Alconaba	Альконаба
+Abejar	Абехар
+Almajano	Альмахано
+Arenillas	Аренильяс
+Aldealpozo	Альдеальпосо
+Alcubilla de las Peñas	Алькубилья-де-лас-Пеньяс
+Aldealseñor	Альдеальсеньор
+Alcubilla de Avellaneda	Алькубилья-де-Авельянеда
+Casarejos	Касарехос
+Almazul	Альмасуль
+Alpanseque	Альпансеке
+Arcos de Jalón	Аркос-де-Халон
+Aldehuela de Periáñez	Альдеуэла-де-Перианьес
+Almenar de Soria	Альменар-де-Сория
+Ausejo de la Sierra	Аусехо-де-ла-Сьерра
+Arévalo de la Sierra	Аревало-де-ла-Сьерра
+Las Aldehuelas	Лас-Альдеуэлас
+Bliecos	Бльекос
+Blacos	Блакос
+Penama	Пенама
+Barca	Барка (Сория)
+Luganville	Луганвилл
+Josias Moli	Моли, Жозиас
+Joan Alcover	Альковер, Жоан
+Praem Minista blong Vanuatu	Премьер-министр Вануату
+Kakao	Какао-порошок
+Isangel	Исангел
+Oganaesesen blong Givhan long Ikonomi mo Sosaeti blong ol Kantri blong Esia mo Pasifik	Экономическая и социальная комиссия для Азии и Тихого океана
+Michał Winiarski	Винярский, Михал
+Ni-vanuatu	Ни-вануату
+Category:Germany	Категория:Германия
+Category:Itali	Категория:Италия
+Category:Yunaeted Stet blong Amerika	Категория:США
+Category:Rusia	Категория:Россия
+Category:Kanada	Категория:Канада
+Category:United Kingdom	Категория:Великобритания
+Category:Spain	Категория:Испания
+Category:China	Категория:Китай
+Category:India	Категория:Индия
+Category:Niu Zilan	Категория:Новая Зеландия
+Sola	Сола (Вануату)
+Category:Bangladesh	Категория:Бангладеш
+Category:Poland	Категория:Польша
+Category:Saot Koria	Категория:Южная Корея
+Category:Ukraine	Категория:Украина
+Category:Vietnam	Категория:Вьетнам
+Category:Pijin	Категория:Птицы
+Category:Baeoloji	Категория:Биология
+Category:Histri	Категория:История
+Category:Jiografi	Категория:География
+Category:Sosaeti	Категория:Общество
+Category:Rilijin	Категория:Религия
+Category:Saens	Категория:Наука
+Category:Yunaeted Nesen	Категория:ООН
+Category:Budisim	Категория:Буддизм
+Category:Kristaniti	Категория:Христианство
+Category:Islam	Категория:Ислам
+Ba Ria	Бариа
+Bochotnica	Бохотница
+Benedicta Boccoli	Бенедикта Бокколи
+Maria Ribeiro	Рибейру, Мария
+Kiai (tok tok)	Киаи (язык)
+Category:Wikipedia Manejmen	Категория:Википедия:Служебные
+Category:Kultur	Категория:Культура
+Category:Kontinen	Категория:Континенты
+Fas Presidensi	Первое Президентство
+Helena Ranaldi	Раналди, Элена
+Annarita Del Piano	Дель Пиано, Анна Рита
+Category:Pipol blong Yunaeted Stet blong Amerika	Категория:Персоналии:США
+Sergio Mattarella	Маттарелла, Серджо
+Category:Kaontri	Категория:Страны
+Category:Pipol	Категория:Люди
+Category:Intanet	Категория:Интернет
+Template:Bot	Шаблон:Bot
+Kanada	Канада
+Category:Hungary	Категория:Венгрия
+Category:Czechia	Категория:Чехия
+Category:Litwania	Категория:Литва
+Category:Slovakia	Категория:Словакия
+Category:Yurop	Категория:Европа
+Template:Documentation	Шаблон:Doc
+Category:Wikipedians by language	Категория:Википедия:Участники по языкам
+Sung Jae-ki	Сон Джэги
+Template:Softredirect	Шаблон:Soft redirect
+Template:Delete	Шаблон:К быстрому удалению
+Category:Toktok	Категория:Языки
+Category:Wikipedia	Категория:Википедия
+Category:Pages with broken file links	Категория:Страницы со ссылками на отсутствующие файлы
+Wikipedia:Statistics	Википедия:Статистика
+Category:Buk	Категория:Книги
+Template:Babel	Шаблон:Babel
+Template:Commons	Шаблон:Commons
+Template:User eo-1	Шаблон:User eo-1
+Template:User en-2	Шаблон:User en-2
+Template:User es-1	Шаблон:User es-1
+Template:User sk	Шаблон:User sk
+Template:User fr-2	Шаблон:User fr-2
+Category:Azerbaijan	Категория:Азербайджан
+Category:Esia	Категория:Азия
+Template:Mod	Шаблон:Mod
+Template:User it	Шаблон:User it
+Template:States blog United States	Шаблон:Административные единицы США
+Template:Quotation	Шаблон:Quotation
+Category:User en	Категория:User en
+Category:Croatia	Категория:Хорватия
+Category:User en-2	Категория:User en-2
+Template:Template other	Шаблон:Template other
+Template:Pp-template	MediaWiki:Protectedpagetext
+Category:Namba	Категория:Числительные
+Category:Hed blong Stet	Категория:Правители
+Template:Purge	Шаблон:Очистить кэш
+Template:Interwiki	Шаблон:Языковой раздел
+Category:Praem minista blong Vanuatu	Категория:Премьер-министры Вануату
+Category:Galicia	Категория:Галисия
+Category:User sk	Категория:User sk
+Category:User eo	Категория:User eo
+Category:User fr	Категория:User fr
+Category:User fr-2	Категория:User fr-2
+Category:User it-N	Категория:User it-N
+Category:User sk-N	Категория:User sk-N
+Category:User de	Категория:User de
+Category:User eo-1	Категория:User eo-1
+Category:User es	Категория:User es
+Category:User es-1	Категория:User es-1
+Category:User it	Категория:User it
+Category:Praem Minista	Категория:Премьер-министры
+Category:Saens blong Pipol	Категория:Общественные науки
+Category:1969 births	Категория:Родившиеся в 1969 году
+Category:Not Dakota	Категория:Северная Дакота
+Category:Louisiana	Категория:Луизиана
+Category:Arizona	Категория:Аризона
+Category:Kentucky	Категория:Кентукки
+Category:Armenia	Категория:Армения
+Category:Vanuatu	Категория:Вануату
+Category:Pipol blong Vanuatu	Категория:Персоналии:Вануату
+Category:Hed blong Stet blong Yunaeted Stet blong Amerika	Категория:Президенты США
+Category:Paraguay	Категория:Парагвай
+Category:Papua Nui Guini	Категория:Папуа — Новая Гвинея
+Category:Andorra	Категория:Андорра
+Category:Peru	Категория:Перу
+Category:Albania	Категория:Албания
+Category:Fis	Категория:Рыбы
+Category:Dipsi	Категория:Океаны
+Category:Animol	Категория:Животные
+Category:Asturias	Категория:Астурия
+Category:Jos blong Jisas Kraes blong ol Lata-dei Sent	Категория:Церковь Иисуса Христа Святых последних дней
+Category:Toktok long Vanuatu	Категория:Языки Вануату
+Category:Catalonia	Категория:Каталония
+Trojany	Трояны (Мазовецкое воеводство)
+Category:Provens blong Vanuatu	Категория:Провинции Вануату
+Category:Buk Blong Momon	Категория:Книга Мормона
+Category:Soria	Категория:Города Сории
+Category:Aragón	Категория:Арагон
+Special:RecentChanges	Служебная:Свежие правки

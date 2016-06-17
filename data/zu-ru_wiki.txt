@@ -1,0 +1,837 @@
+IAfrika	Африка
+IJapani	Япония
+IMelika Eningizimu	Южная Америка
+INoki	Норвегия
+INgilandi	Англия
+IsiKotilandi	Шотландия
+IWelisi	Уэльс
+I-Ayilendi	Ирландия
+ISpeyini	Испания
+IMelika	Соединённые Штаты Америки
+IFinlandi	Финляндия
+ISwidi	Швеция
+IDenimaki	Дания
+IPolandi	Польша
+ILithuwaniya	Литва
+ITaliya	Италия
+I-Ostriya	Австрия
+IGreki	Греция
+ITheki	Турция
+IPhothugali	Португалия
+IYurobhu	Европа
+I-Eshiya	Азия
+IMelika Enyakatho	Северная Америка
+I-Antatika	Антарктида
+Wikipedia	Википедия
+Netherlands	Нидерланды
+New York (idolobha)	Нью-Йорк
+IBerlini	Берлин
+Ikhompiyutha	Компьютер
+Barack Obama	Обама, Барак
+ILondon	Лондон
+Ihhabhula	Яблоко
+IParisi	Париж
+IMekisiko	Мексика
+California	Калифорния
+IKenya	Кения
+I-Ithiopia	Эфиопия
+IGana	Гана
+Ibhubesi	Лев
+IFulansi	Франция
+Isi-Esperanto	Эсперанто
+Inja	Собака
+Umbuso Ohlangeneyo	Великобритания
+Ikati	Кошка
+IShayina	Китайская Народная Республика
+IsiFulentshi	Французский язык
+IBrazili	Бразилия
+IRashiya	Россия
+Ulwandle	Море
+IJalimani	Германия
+IBelarusi	Белоруссия
+IsiJalimani	Немецкий язык
+I-Ayisilandi	Исландия
+UNkulunkulu	Бог
+I-Estoniya	Эстония
+David Cameron	Кэмерон, Дэвид
+USatureni	Сатурн
+George W. Bush	Буш, Джордж Уокер
+ILatviya	Латвия
+ITsheki	Чехия
+ISlovaki	Словакия
+IVilnyusi	Вильнюс
+IBulgariya	Болгария
+Azerbaijan	Азербайджан
+IMalta	Мальта
+Indolobha yaseVathikhani	Ватикан
+USanti Marino	Сан-Марино
+Belize	Белиз
+Volkswagen	Volkswagen
+Wolfgang Amadeus Mozart	Моцарт, Вольфганг Амадей
+IRiphabliki yaseNingizimu Afrika	Южно-Африканская Республика
+IAljiriya	Алжир
+IWarshawa	Варшава
+Amanzi	Вода
+Isi-Icelandic	Исландский язык
+ITshile	Чили
+Apple	Apple
+UVenusi	Венера
+U-Uranu	Уран (планета)
+UNepetuni	Нептун
+UPluto	Плутон
+Facebook	Facebook
+Ubuntu (uhlelo)	Ubuntu
+Imathemathiki	Математика
+U2	U2
+ILatin	Латинский язык
+ISerbiya	Сербия
+Inyanga	Луна
+I-Ostreliya	Австралия
+Peru	Перу
+Mount Everest	Джомолунгма
+Ilanga	Солнце
+I-Osheaniya	Океания
+Uhlelo Lemihlaba YeLanga	Солнечная система
+Wikimedia Commons	Викисклад
+Football Club Internazionale Milano	Интернационале
+Umculo	Музыка
+IMoskwa	Москва
+IsiTaliya	Итальянский язык
+ITshedi	Чад
+INyuzilandi	Новая Зеландия
+INdiya	Индия
+Ubuciko bomlomo	Сказка
+IFiji	Фиджи
+Venezuela	Венесуэла
+I-Amsterdami	Амстердам
+Isilwane	Животные
+IKolombiya	Колумбия
+UbuBudha	Буддизм
+Umthofu	Медь
+Leonardo da Vinci	Леонардо да Винчи
+Massachusetts	Массачусетс
+Guatemala	Гватемала
+Connecticut	Коннектикут
+Hawaii	Гавайи
+Honduras	Гондурас
+El Salvador	Сальвадор
+I-Irani	Иран
+I-Iraki	Ирак
+Costa Rica	Коста-Рика
+Isreyili	Израиль
+Panama	Панама
+IYemen	Йемен
+IsiPholisi	Польский язык
+Nicaragua	Никарагуа
+Florida	Флорида
+Arizona	Аризона
+Utah	Юта
+IPakistani	Пакистан
+Sri Lanka	Шри-Ланка
+Joseph Stalin	Сталин, Иосиф Виссарионович
+I-YouTube	YouTube
+IViyetnami	Вьетнам
+I-Afganistani	Афганистан
+Igolide	Золото
+Bangladesh	Бангладеш
+IMali	Мали
+I-Angola	Ангола
+ITanzania	Танзания
+Central African Republic	Центральноафриканская Республика
+ITogo	Того
+ITunisia	Тунис
+IZambiya	Замбия
+IZimbabwe	Зимбабве
+ISudan yaseNingizimu	Южный Судан
+IBenini	Бенин
+IButswana	Ботсвана
+IBukhina Faso	Буркина-Фасо
+IBurundi	Бурунди
+IsiKhomorosi	Коморы
+IKongo	Республика Конго
+IRiphabliki Labantu weKongo	Демократическая Республика Конго
+IJibuthi	Джибути
+IGini Enkabazwe	Экваториальная Гвинея
+I-Eritrea	Эритрея
+IGaboni	Габон
+IGambia	Гамбия
+IGini	Гвинея
+IGini Bisawu	Гвинея-Бисау
+Ugu Emhlophe	Кот-д’Ивуар
+IKamerooni	Камерун
+IKhepi Vedhi	Кабо-Верде
+OSotho	Лесото
+ILiberia	Либерия
+ILibiya	Ливия
+IMadagasika	Мадагаскар
+IMalawi	Малави
+IMoritaniya	Мавритания
+IMorishisi	Маврикий
+IMorokho	Марокко
+IMozambiki	Мозамбик
+INamibhiya	Намибия
+INayighe	Нигер
+INigeria	Нигерия
+IYuganda	Уганда
+IRuwanda	Руанда
+ISawu Tome noPhrinitshipeyi	Сан-Томе и Принсипи
+ISenegal	Сенегал
+IsiSeyisheli	Сейшельские Острова
+ISiera Liyoni	Сьерра-Леоне
+ISomalia	Сомали
+ISudan	Судан
+ISwazilandi	Свазиленд
+Amazwe Ohlangeneyo	Организация Объединённых Наций
+IPraha	Прага
+Isiliva	Серебро
+Bill Clinton	Клинтон, Билл
+Usain Bolt	Болт, Усэйн
+John Lennon	Леннон, Джон
+Wyoming	Вайоминг
+Idaho	Айдахо
+Washington (isifunda eMelika)	Вашингтон (штат)
+Nevada	Невада
+Colorado	Колорадо
+Chicago	Чикаго
+Ama-Beatles	The Beatles
+IsiSpeyini	Испанский язык
+Virginia	Виргиния
+New York Isifunda	Нью-Йорк (штат)
+Maryland	Мэриленд
+Vladimir Lenin	Ленин, Владимир Ильич
+Pennsylvania	Пенсильвания
+I-Uetersen	Итерзен
+New Jersey	Нью-Джерси
+Indiana	Индиана
+Texas	Техас
+ITokyo	Токио
+I-Athene	Афины
+IRiga	Рига
+IBhayibheli	Библия
+IHochiminh	Хошимин
+True Jesus Church	Церковь истинного Иисуса
+IsiNgisi	Английский язык
+IDonghoi	Донгхой
+Concepción, ITshile	Консепсьон (город, Чили)
+IKiyevi	Киев
+2000	2000 год
+2001	2001 год
+2012	2012 год
+2009	2009 год
+2013	2013 год
+2014	2014 год
+1991	1991 год
+1993	1993 год
+3 uJanuwali	3 января
+Kurów	Курув
+8 uFebruwari	8 февраля
+1985	1985 год
+1981	1981 год
+1969	1969 год
+Paul McCartney	Маккартни, Пол
+S.S. Lazio	Лацио (футбольный клуб)
+Ringo Starr	Ринго Старр
+George Harrison	Харрисон, Джордж
+1968	1968 год
+25 uJuni	25 июня
+14 uJulayi	14 июля
+29 uJulayi	29 июля
+Ibhola	Футбол
+29 uAgasti	29 августа
+Michael Jackson	Джексон, Майкл
+17 uSepthemba	17 сентября
+5 uNovemba	5 ноября
+Algiers	Алжир (город)
+Amazon.com	Amazon.com
+IGaborone	Габороне
+IHarara	Хараре
+IPitoli	Претория
+Wikipedia:Sandbox	Википедия:Песочница
+Ilaptop	Ноутбук
+Umfula	Река
+Osasco	Озаску
+Curitiba	Куритиба
+Corbin Bleu	Блю, Корбин
+Category:Imathemathiki	Категория:Математика
+Euro	Евро
+IDola	Доллар США
+Celine Dion	Дион, Селин
+IsiQongo	Столица
+IsiPutukezi	Португальский язык
+1948	1948 год
+1958	1958 год
+IsiJapani	Японский язык
+Ikhasi Elikhulu	Заглавная страница
+ISaratov	Саратов
+Ikhilikithi	Крикет
+Umbhoxo	Регби-футбол
+IKapa	Кейптаун
+ITheku	Дурбан
+Michelangelo	Микеланджело
+Pablo Picasso	Пикассо, Пабло
+Iziqhingi iKhaneli	Канарские острова
+Ceuta	Сеута
+IMelilla	Мелилья
+Category:Candidates for speedy deletion	Категория:Википедия:К быстрому удалению
+Ipiyano	Фортепиано
+Category:Ukufunda umkhathi	Категория:Астрономия
+IsiKrowati	Хорватский язык
+IsiKhathalani	Каталанский язык
+UBudha	Будда
+Iqoqo i-Afrika	Африканский союз
+IBhange woMhlaba	Всемирный банк
+Imvu	Овца
+Indlovu	Слон
+IsiHolandi	Нидерландский язык
+Ukuhumusha	Перевод
+IsiRashiya	Русский язык
+Vladimir Putin	Путин, Владимир Владимирович
+Yurobhu Idaladala	История Европы
+1884	1884 год
+IsiShayina	Китайский язык
+Imvelo	Природа
+Winston Churchill	Черчилль, Уинстон
+Nelson Mandela	Мандела, Нельсон
+Category:Umculo	Категория:Музыка
+Icilongo	Труба (музыкальный инструмент)
+Ikhofi	Кофе
+Ubisi	Молоко
+Intaba	Гора
+Miami, Florida	Майами
+IsiSwidishi	Шведский язык
+IsiTsheki	Чешский язык
+IsiLatviya	Латышский язык
+IsiLithuwaniya	Литовский язык
+IsiGreki	Греческий язык
+Iphengwini	Пингвиновые
+Ugenesis	Книга Бытия
+Isi-Indonesia	Индонезийский язык
+IsiHebheru	Иврит
+IPod	IPod
+Martin Luther	Лютер, Мартин
+Gerald Ford	Форд, Джеральд Рудольф
+Richard Nixon	Никсон, Ричард
+Lyndon B. Johnson	Джонсон, Линдон
+Michael Schumacher	Шумахер, Михаэль
+Elizabeth II	Елизавета II
+John F. Kennedy	Кеннеди, Джон Фицджеральд
+Ronald Reagan	Рейган, Рональд
+IsiZulu	Зулу
+Fernando Alonso	Алонсо, Фернандо
+Category:Venezuela	Категория:Венесуэла
+Robert Mugabe	Мугабе, Роберт
+Ushizi	Сыр
+Izambane	Картофель
+Imifino	Овощи
+Category:IBrazili	Категория:Бразилия
+Ama-elementhi	Химический элемент
+Isigubhu	Барабан
+Ukhamba	Гончарное производство
+Silvio Berlusconi	Берлускони, Сильвио
+Abayizithulu	Нарушение слуха
+Mona Lisa	Мона Лиза
+IsiXhosa	Коса (язык)
+IMac	IMac
+IsiOsithani	Окситанский язык
+IsiBhunu	Африкаанс
+Template:Location map Zimbabwe	Шаблон:ПозКарта Зимбабве
+Template:Location map South Africa	Шаблон:ПозКарта Южно-Африканская Республика
+Indlulamithi	Жираф
+Queen	Queen
+Freddie Mercury.	Фредди Меркьюри
+ICrailsheim	Крайльсхайм
+Vermont	Вермонт
+IMayotte	Майотта
+IRiyunion	Реюньон
+Umakhalekhukhwini	Сотовый телефон
+INhatrang	Нячанг
+Rafael Correa	Корреа, Рафаэль
+Umfula Thames	Темза
+Motorhead	Motörhead
+UKhisimusi	Рождество Христово
+Lady Gaga	Леди Гага
+IVungtau	Вунгтау
+IPhasika	Пасха
+ILondon Kakhulu	Большой Лондон
+Idolobha weLondon	Сити (Лондон)
+Die Antwoord	Die Antwoord
+Inyamazane	Оленевые
+Iqhwa	Лёд
+IMoshchena	Мощёная
+Utamatisi	Томат
+George H. W. Bush	Буш, Джордж Герберт Уокер
+IPaltoga	Палтога
+Isichazamazwi	Словарь
+Jimmy Carter	Картер, Джимми
+Inkondlo yesizwe	Государственный гимн
+Avatar	Аватар (фильм, 2009)
+Upondo	Фунт стерлингов
+Felidae	Кошачьи
+IDanang	Дананг
+Canidae	Псовые
+Imvubu yolwandle	Сирены (млекопитающие)
+IMadira	Мадейра
+University Niccolò Cusano	Университет Николая Кузанского
+IMelika Wenkaba	Центральная Америка
+Shaka	Чака
+Pinnipedia	Ластоногие
+Avril Lavigne	Лавин, Аврил
+IsiHawayi	Гавайский язык
+IsiSwazi	Свати
+Impophoma	Водопад
+Justin Bieber	Бибер, Джастин
+Ibhulonze	Бронза
+IsiTswana	Тсвана (язык)
+Ngolimi lwezandla	Жестовые языки
+IsiSuthu	Сесото
+Rotterdam	Роттердам
+Mošovce	Мошовце
+Shakira	Шакира
+IGoli	Йоханнесбург
+Isonto	Христианская церковь
+Imitholoji lamaGreki	Древнегреческая мифология
+I-eliki	Лось
+IsiNdebele	Южный ндебеле
+Rihanna	Рианна
+Umoya ongcwele	Святой Дух
+Internet Movie Database	Internet Movie Database
+Arara	Арара (Параиба)
+IBloemfontein	Блумфонтейн
+Inyamazane yase-Athiki	Северный олень
+Porto Alegre	Порту-Алегри
+Inkalankala	Крабы
+God Save the Queen	Гимн Великобритании
+Iwalerosi	Морж
+Demi Lovato	Ловато, Деми
+Ibhayisikobho	Кинотеатр
+Castel Goffredo	Кастель-Гоффредо
+The Star-Spangled Banner	Гимн США
+The Doors	The Doors
+John Cale	Кейл, Джон
+Nadine Gordimer	Гордимер, Надин
+Template:Commonscat	Шаблон:Commonscat
+Hans Holbein the Younger	Гольбейн, Ганс (младший)
+Isifo segciwane le-Ebola	Геморрагическая лихорадка Эбола
+Category:Amafilimu	Категория:Фильмы
+Jacob Zuma	Зума, Джейкоб
+C. C. Catch	C. C. Catch
+Alla Pugatshova	Пугачёва, Алла Борисовна
+KwaZulu-Natal	Квазулу-Натал
+African National Congress	Африканский национальный конгресс
+Selena Gomez	Гомес, Селена
+Amaqanda	Яйцо (пищевой продукт)
+Thabo Mbeki	Мбеки, Табо
+IHolandi	Голландия (историческая область)
+2001: A Space Odyssey	Космическая одиссея 2001 года
+The Velvet Underground	The Velvet Underground
+Marin County	Марин (округ)
+Liya Kebede	Лия Кебеде
+Ibhayi	Порт-Элизабет (ЮАР)
+IKipi laseNtshonalanga	Западно-Капская провинция
+Isayiklopsi	Киклопы
+The Last Supper	Тайная вечеря (Леонардо да Винчи)
+AmaZulu	Зулусы
+KwaXhosa	Восточно-Капская провинция
+Brighton	Брайтон
+Mpumalanga	Мпумаланга
+IKipi laseNyakatho	Северо-Капская провинция
+IGauteng	Гаутенг
+Limpopo	Лимпопо (провинция)
+Frederik Willem de Klerk	Клерк, Фредерик Виллем де
+Kgalema Motlanthe	Мотланте, Кгалема
+Joan Miró	Миро, Жоан
+Nina Badrić	Бадрич, Нина
+Henri Rousseau	Руссо, Анри
+IFleyistata	Фри-Стейт
+T.A.T.u.	Тату (группа)
+Nyakatho-Ntshonalanga	Северо-Западная провинция (ЮАР)
+Caselle Landi	Казелле-Ланди
+University of London	Лондонский университет
+Syngman Rhee	Ли Сын Ман
+David (Michelangelo)	Давид (Микеланджело)
+Boris Johnson	Джонсон, Борис
+Ostankino Tower	Останкинская телебашня
+IRandi	Южноафриканский рэнд
+Pietermaritzburg	Питермарицбург
+Chang Myon	Чан Мён
+Lou Reed	Рид, Лу
+Transvaal Province	Трансвааль (провинция)
+Plazas de soberanía	Суверенные территории Испании
+Yun Bo-seon	Юн Бо Сон
+Umbuso waseNingizimu Afrika	Южно-Африканский Союз
+Banovci (Nijemci)	Бановци (Ниемци)
+Oscar Pistorius	Писториус, Оскар
+IMito	Мито (Ибараки)
+Trpinja	Трпинья
+SliTaz	SliTaz
+University La Sapienza	Римский университет Ла Сапиенца
+Bhisho	Бишо (город)
+Steve Biko	Бико, Стив
+The Vitruvian Man	Витрувианский человек
+Soweto	Соуэто
+Alexa Internet	Alexa Internet
+Nkosi Sikelel' iAfrika	Гимн Южно-Африканской Республики
+Ingelosi	Ангел
+Pietà (Michelangelo)	Пьета (Микеланджело)
+Julie Newmar	Джули Ньюмар
+OpenSolaris	OpenSolaris
+Impalampala	Чёрная антилопа
+Skin Diamond	Скин Даймонд
+Marie Luv	Мэри Лав
+Umongameli waseNingizimu Afrika	Президент Южно-Африканской Республики
+Lacey Duvalle	Дюваль, Лейси
+Marjorie Estiano	Маржори Эстиано
+Jan van Riebeeck	Рибек, Ян ван
+EThekwini	Этеквини
+UmGungundlovu	Умгунгундлову
+Of Montreal	Of Montreal
+Maurice Sendak	Сендак, Морис
+Alex Sparrow	Воробьёв, Алексей Владимирович (музыкант)
+James Deen	Джеймс Дин (порноактёр)
+Marek Grechuta	Грехута, Марек
+Lucky Dube	Дубе, Лаки
+Cetshwayo	Кечвайо
+Nyomi Banxxx	Наоми Банкс
+AmaZulu F.C.	АмаЗулу
+Sara Takanashi	Таканаси, Сара
+Dingane	Дингаан
+Louis-Nicolas Clérambault	Клерамбо, Луи Николя
+Paramore	Paramore
+Izinkundla	Стадион
+Himno Nacional de Chile	Гимн Чили
+IQuakenbrück	Квакенбрюк
+Ron Jeremy	Джереми, Рон
+Vereeniging	Феринихинг
+University of the Witwatersrand	Витватерсрандский университет
+Pierre Woodman	Вудман, Пьер
+Johnny Clegg	Джонни Клегг
+Indluzele	Конгони
+Igogo	Антилопа-прыгун
+University of South Africa	Университет Южной Африки
+The Weather Girls	The Weather Girls
+Isaga wesizwe	Список национальных девизов
+Adult Film Database	AFDb
+Mpande	Мпанде
+Jonava	Йонава
+Inxala	Косулья антилопа
+Pigazzano	Пигаццано
+Uphiko Lwezilimi Kuzwelonke	Служба национальных языков
+Dinizulu	Динузулу
+Boksburg	Боксбург
+Londinium	Лондиниум
+Tiger in a Tropical Storm	Нападение в джунглях
+Enoch Sontonga	Енох Сонтонга
+Budka Suflera	Budka Suflera
+Uitenhage	Эйтенхахе
+Mvezo	Мфезо
+Vrahovice	Враговице
+Ermelo, Mpumalanga	Эрмело (ЮАР)
+Internet Adult Film Database	Internet Adult Film Database
+Isifunda weLondon	Лондонское графство
+Cyril Ramaphosa	Рамафоса, Сирил
+AbAfrika baseningizimu	Население Южно-Африканской Республики
+The Ambassadors (Holbein)	Послы (картина Гольбейна)
+The Sleeping Gypsy	Спящая цыганка
+Agnes Monica	Агнес Моника
+Category:IJalimani	Категория:Германия
+Category:IMelika	Категория:США
+Category:IRashiya	Категория:Россия
+Category:Umbuso Ohlanganeyo	Категория:Великобритания
+Category:IJapani	Категория:Япония
+Category:IMekisiko	Категория:Мексика
+Category:Ningizimu Afrika	Категория:ЮАР
+Izilimi zaseNingizimu Afrika	Языки Южно-Африканской Республики
+Category:IPolandi	Категория:Польша
+Category:IPhothugali	Категория:Португалия
+Category:IViyetnamu	Категория:Вьетнам
+Category:Umdlalo	Категория:Спорт
+Category:ISayensi	Категория:Наука
+Serie A (futsal)	Чемпионат Италии по мини-футболу
+Category:Ubefa 2012	Категория:Умершие в 2012 году
+Rhomani	Древний Рим
+Category:Ububudha	Категория:Буддизм
+Category:Ubukrestu	Категория:Христианство
+University of Fort Hare	Университет Форт-Хэр
+ǀXam	Цъхам
+IBaria	Бариа
+Umongameli isekela waseNingizimu Afrika	Вице-президент Южно-Африканской Республики
+Gangster's Paradise: Jerusalema	Бандитский Йоханнесбург
+Seshego	Сесхего
+ISluda	Слуда (Тотемский район)
+Category:Stubs	Категория:Незавершённые статьи
+Category:Amazwekazi	Категория:Континенты
+Helena Ranaldi	Раналди, Элена
+Portal:Umculo	Портал:Музыка
+Template:Succession box	Шаблон:Succession box
+Category:Amabhendi	Категория:Музыкальные коллективы
+XVideos	XVideos
+University Guglielmo Marconi	Университет Гульельмо Маркони
+Category:Izwe	Категория:Страны
+Wikipedia:Administrators	Википедия:Администраторы
+Wikipedia:Requests for adminship	Википедия:Заявки на статус администратора
+Category:Internet	Категория:Интернет
+IGibhithe	Египет
+Mirazh	Мираж (группа)
+Template:Bot	Шаблон:Bot
+IKhanada	Канада
+Category:ITsheki	Категория:Чехия
+Category:IEstoniya	Категория:Эстония
+Category:ILatviya	Категория:Латвия
+Category:ILithuwaniya	Категория:Литва
+Category:ISwidi	Категория:Швеция
+Category:ISlovakiya	Категория:Словакия
+Izulu	Небеса
+Category:IBerlin	Категория:Берлин
+Category:IYurophu	Категория:Европа
+Template:Documentation	Шаблон:Doc
+Sung Jae-gi	Сон Джэги
+Inkomazi	Крупный рогатый скот
+Template:Softredirect	Шаблон:Soft redirect
+Template:Delete	Шаблон:К быстрому удалению
+Category:Ulimi	Категория:Языки
+Wikipedia:Statistics	Википедия:Статистика
+Template:Navbox	Шаблон:Navbox
+Category:Abantu baphilile	Категория:Ныне живущие
+Template:Clear	Шаблон:Clear
+Template:Col-break	Шаблон:Столбец
+Template:Col-begin	Шаблон:Столбцы
+Template:Col-end	Шаблон:Столбцы/конец
+Template:Trim	Шаблон:Trim
+Template:Nowrap	Шаблон:Nobr
+Wikipedia:Vital articles	Википедия:Список статей, которые должны быть во всех языковых версиях
+Category:IAfrika	Категория:Африка
+Category:IGauteng	Категория:Гаутенг
+Category:KwaZulu-Natal	Категория:Квазулу-Натал
+Template:Babel	Шаблон:Babel
+Template:Izifundazwe zaseNingizimu Afrika	Шаблон:Провинции ЮАР
+Template:Commons	Шаблон:Commons
+Template:Reflist	Шаблон:Примечания
+Template:Isixwayiso	Шаблон:Предупреждение
+Template:Stub	Шаблон:Заготовка
+Template:See also	Шаблон:См. также
+Template:User de	Шаблон:User de
+Template:User es	Шаблон:User es
+Template:User en-2	Шаблон:User en-2
+Template:User en	Шаблон:User en
+Template:User fr-1	Шаблон:User fr-1
+Template:Location map South Africa Gauteng	Шаблон:ПозКарта Южно-Африканская Республика Гаутенг
+Template:Location map South Africa KwaZulu-Natal	Шаблон:ПозКарта Южно-Африканская Республика Квазулу-Натал
+Template:Location map Limpopo	Шаблон:ПозКарта Южно-Африканская Республика Лимпопо
+Template:Location map South Africa Mpumalanga	Шаблон:ПозКарта Южно-Африканская Республика Мпумаланга
+Template:Location map South Africa Eastern Cape	Шаблон:ПозКарта Южно-Африканская Республика Восточно-Капская провинция
+Template:User sk	Шаблон:User sk
+Template:User fr-2	Шаблон:User fr-2
+Category:Izilimi zaseNingizimu Afrika	Категория:Языки ЮАР
+Category:Izilimi weNamibhiya	Категория:Языки Намибии
+Category:IAshiya	Категория:Азия
+Category:IMelika eNingizimu	Категория:Южная Америка
+Template:Mod	Шаблон:Mod
+Template:Infobox football club	Шаблон:Карточка ФК
+Template:Welcome	Шаблон:Приветствие
+Template:Country data BEL	Шаблон:Флагификация/Бельгия
+Template:Football kit	Шаблон:Футбольная форма
+Template:Country data South Africa	Шаблон:Флагификация/ЮАР
+Template:Official website	Шаблон:Официальный сайт
+Category:Izinkondlo zamazwe	Категория:Гимны по странам
+Template:Country data Egypt	Шаблон:Флагификация/Египет
+Template:S-start	Шаблон:Start box
+Template:Nom	Шаблон:Nom
+Template:Cite journal	Шаблон:Cite journal
+Template:Wikibooks	Шаблон:Викиучебник
+Template:S-aft	Шаблон:S-aft
+Category:IParisi	Категория:Париж
+Category:User en	Категория:User en
+Category:User en-2	Категория:User en-2
+Template:Infobox	Шаблон:Карточка
+Template:Template other	Шаблон:Template other
+Template:Legend	Шаблон:Легенда
+Template:Lang-bg	Шаблон:Lang-bg
+Template:Cite web	Шаблон:Cite web
+Template:Won	Шаблон:Награда
+Template:Pp-template	MediaWiki:Protectedpagetext
+Template:Min	Шаблон:Min
+Template:Wiktionary	Шаблон:Викисловарь
+Category:Abongameli yamazwe	Категория:Президенты государств
+Category:Language user templates	Категория:Шаблоны участников:По языкам
+Template:Country data Algeria	Шаблон:Флагификация/Алжир
+Template:List of African capitals	Шаблон:Столицы Африки
+Template:Infobox ethnic group	Шаблон:Народ
+Template:Country data Venezuela	Шаблон:Флагификация/Венесуэла
+Template:Allmusic	Шаблон:Allmusic new
+Template:Country data Botswana	Шаблон:Флагификация/Ботсвана
+Template:Infobox model	Шаблон:Фотомодель
+Category:Abafileyo 1884	Категория:Умершие в 1884 году
+Template:Country data China	Шаблон:Флагификация/Китай
+Template:Country data SUI	Шаблон:Флагификация/Швейцария
+Template:Country data Zimbabwe	Шаблон:Флагификация/Зимбабве
+Template:Increase	Шаблон:Рост
+Template:Infobox website	Шаблон:Карточка сайта
+Template:Image label end	Шаблон:Image label end
+Template:MedalSport	Шаблон:ОИ-спорт
+Template:Columns	Шаблон:Columns
+Template:Myspace	Шаблон:Myspace
+Template:Female adult bio	Шаблон:Порноактриса
+Template:Lang-af	Шаблон:Lang-af
+Template:NASDAQ	Шаблон:NASDAQ
+Template:Image label small	Шаблон:Image label small
+Template:S-ttl	Шаблон:S-ttl
+Template:S-bef	Шаблон:S-bef
+Template:Oppose	Шаблон:Против
+Template:Lang-ru	Шаблон:Lang-ru
+Template:URL	Шаблон:URL
+Template:Resize	Шаблон:Resize
+Template:Lang-nl	Шаблон:Lang-nl
+Template:Country data Israel	Шаблон:Флагификация/Израиль
+Template:Country data South Korea	Шаблон:Флагификация/Республика Корея
+Category:Amadolobha e-Netherlands	Категория:Города Нидерландов
+Category:User sk	Категория:User sk
+Template:IncreaseNegative	Шаблон:Негативный рост
+Category:Abafundi kwa-Eton	Категория:Выпускники Итона
+Category:User sk-N	Категория:User sk-N
+Category:User en-N	Категория:User en-N
+Template:N/a	Шаблон:N/a
+Template:Country data United Kingdom	Шаблон:Флагификация/Великобритания
+Category:Izifunda weMelika	Категория:Штаты США
+Wikipedia:Babel	Википедия:Вавилон
+Category:Umlando idaladala	Категория:Древний мир
+Category:INgilandi	Категория:Англия
+Template:Lang-xh	Шаблон:Lang-xh
+Template:Lang-it	Шаблон:Lang-it
+Leilani Leeane	Лиэн, Лейлани
+Template:Country data Brazil	Шаблон:Флагификация/Бразилия
+Template:Title without disambig	Шаблон:Без уточнения
+Category:Izimpucuko	Категория:Цивилизации
+Category:IYurobhu Empumalanga	Категория:Восточная Европа
+Category:Amazwe eAfrika	Категория:Страны Африки
+Category:Ubezalwa ngo-1452	Категория:Родившиеся в 1452 году
+Template:Column-width	Шаблон:Column-width
+Category:User ru	Категория:User ru
+Category:User ru-3	Категория:User ru-3
+Category:Abongameli yaseNingizimu Afrika	Категория:Президенты ЮАР
+Category:Ubefa ngo-1519	Категория:Умершие в 1519 году
+Category:Ubezalwa ngo-1676	Категория:Родившиеся в 1676 году
+Template:En icon	Шаблон:Ref-en
+Template:Lang	Шаблон:Lang
+Category:Abapendi	Категория:Художники
+Template:Lang-sw	Шаблон:Lang-sw
+Category:Ubezalwa ngo-1483	Категория:Родившиеся в 1483 году
+Category:Ubezalwa ngo-1844	Категория:Родившиеся в 1844 году
+Category:Ubezalwa ngo-1873	Категория:Родившиеся в 1873 году
+Category:Ubezalwa 1928	Категория:Родившиеся в 1928 году
+Category:Ubezalwa ngo-1961	Категория:Родившиеся в 1961 году
+Category:Ubezalwa ngo-1972	Категория:Родившиеся в 1972 году
+Template:As of	Шаблон:На
+Template:Twitter	Шаблон:Твиттер
+Category:Abafileyo 1745	Категория:Умершие в 1745 году
+Category:Ubefa ngo-1749	Категория:Умершие в 1749 году
+Category:Abafileyo 1781	Категория:Умершие в 1781 году
+Template:Main	Шаблон:Main
+Category:New York Isifunda	Категория:Нью-Йорк (штат)
+Category:Hawaii	Категория:Гавайи
+Category:Felidae	Категория:Кошачьи
+Category:IBenini	Категория:Бенин
+Category:Ugu Emhlophe	Категория:Кот-д’Ивуар
+Template:Side box	Шаблон:Side box
+Template:Citation/core	Шаблон:Citation/core
+Category:Abafileyo 1816	Категория:Умершие в 1816 году
+Category:Abafileyo 1828	Категория:Умершие в 1828 году
+Category:Abafileyo 1840	Категория:Умершие в 1840 году
+Category:Abafileyo 1872	Категория:Умершие в 1872 году
+Category:Ubefa ngo-1905	Категория:Умершие в 1905 году
+Category:Ubefa ngo-1910	Категория:Умершие в 1910 году
+Category:Abafileyo 1913	Категория:Умершие в 1913 году
+Category:Abafileyo 1968	Категория:Умершие в 1968 году
+Category:Abafileyo 2000	Категория:Умершие в 2000 году
+Category:2001	Категория:2001 год
+Category:2009	Категория:2009 год
+Category:Amazwe ukhuluma isiFulansi	Категория:Франкоязычные страны
+Category:IZimbabwe	Категория:Зимбабве
+Template:DecreasePositive	Шаблон:Положительное падение
+Template:Unbulleted list	Шаблон:Немаркированный список
+Category:Ababhali womculo baseFulansi	Категория:Композиторы Франции
+Category:AbAfrika baseningizimu	Категория:Персоналии:ЮАР
+Category:Izintatheli isiNgisi	Категория:Журналисты Великобритании
+Category:Abafileyo 1933	Категория:Умершие в 1933 году
+Category:IRhomani idaladala	Категория:Древний Рим
+AbeLungu	Европеоидная раса
+Category:Abongameli weMelika	Категория:Президенты США
+Category:Amazwe Caribbean	Категория:Страны Карибского бассейна
+Category:Amazwe e-Osheaniya	Категория:Страны Океании
+Category:Amazwe eMelika Enyakatho	Категория:Страны Северной Америки
+Category:Izithelo	Категория:Фрукты
+Category:Amafilimu waseNingizimu Afrika	Категория:Фильмы ЮАР
+Category:Uhambo amafu	Категория:Космический полёт
+Category:Izilimi weBotswana	Категория:Языки Ботсваны
+Category:Izifunda we-Afrika	Категория:Регионы Африки
+Category:ILondon	Категория:Лондон
+Category:Isilwane	Категория:Животные
+Category:Amazwe eMelika eNingizimu	Категория:Страны Южной Америки
+Category:Amakoloni weSpeyini edlulile	Категория:Бывшие колонии Испании
+Category:IMelika Wenkaba	Категория:Центральная Америка
+Category:Amadolobha eRiphabliki yaseNingizimu Afrika	Категория:Города ЮАР
+Category:Imidwebo nga-Leonardo da Vinci	Категория:Картины Леонардо да Винчи
+Category:Afrika Eningizimu	Категория:Южная Африка
+Category:Afrika Enyakatho	Категория:Северная Африка
+Category:Afrika Empumalanga	Категория:Восточная Африка
+Category:IMelika Enyakatho	Категория:Северная Америка
+Category:Ezingcolile ifilimu abadlali	Категория:Порноактёры по странам
+Category:I-Osheaniya	Категория:Океания
+Category:IYurobhu Enyakatho	Категория:Северная Европа
+Category:Amabhendi weMzansi	Категория:Музыкальные коллективы ЮАР
+The Prodigy	The Prodigy
+Category:Izilimi weZimbabwe	Категория:Языки Зимбабве
+Category:IGoli	Категория:Йоханнесбург
+Category:Iziqongo eyurobhu	Категория:Столицы европейских государств
+Module:URL	Модуль:URL
+Category:IYurobhu Entshonalanga	Категория:Западная Европа
+Category:IYurobhu Eningizimu	Категория:Южная Европа
+Template:FULLROOTPAGENAME	Шаблон:FULLROOTPAGENAME
+Category:Izinyuvesi weNingizimu Afrika	Категория:Университеты ЮАР
+Category:ILondon Kakhulu	Категория:Большой Лондон
+Template:Convert/ft	Шаблон:Convert/ft
+Template:Convert/m	Шаблон:Convert/m
+Template:Convert/pround	Шаблон:Convert/pround
+Template:Lang-pl	Шаблон:Lang-pl
+Category:Abongameli isekela yamazwe	Категория:Вице-президенты ЮАР
+Category:Izifunda wama-Netherlands	Категория:Историко-географические регионы Нидерландов
+Category:Zulu kings	Категория:Короли зулусов
+Trojany	Трояны (Мазовецкое воеводство)
+Category:Izimeya weLondon	Категория:Мэры Лондона
+Template:Yo icon	Шаблон:Ref-yo
+Template:Lang-oc	Шаблон:Lang-oc
+Template:Lang-gd	Шаблон:Lang-gd
+Template:Ig icon	Шаблон:Ref-ig
+Template:Ha icon	Шаблон:Ref-ha
+Category:Vilnius	Категория:Вильнюс
+Template:Sister	Шаблон:Sister
+Category:Abafundi weBalliol, Oxford	Категория:Воспитанники Баллиол-колледжа
+Category:Izifunda wezolo eMzansi	Категория:Бывшие провинции ЮАР
+Category:Iziqhingi we-Afrika	Категория:Острова Африки
+Category:Izinhlobo	Категория:Расы
+Category:Amalungu waphalamende (UK) 2001–2005	Категория:Члены парламента СК (2001—2005)
+Category:Amalungu waphalamende (UK) 2005–2010	Категория:Члены парламента СК (2005—2010)
+Category:IYurobhu Enkandla	Категория:Центральная Европа
+Template:Image label begin	Шаблон:Image label begin
+Category:Amadolobha	Категория:Города
+Category:Izinyuvesi yombuso Ohlangeneyo	Категория:Университеты Англии
+Category:Ubezalwa ngo-1946	Категория:Родившиеся в 1946 году
+Category:Ubezalwa ngo-1924	Категория:Родившиеся в 1924 году
+Category:Ukuzala ngo-1964	Категория:Родившиеся в 1964 году
+Template:Frac	Шаблон:Дробь
+Template:Start date	Шаблон:Start date
+Template:MedalGold	Шаблон:Золото
+Template:P1	Шаблон:P1
+Template:Wayback	Шаблон:Wayback
+Template:Sigfig	Шаблон:Sigfig
+Template:MedalCountry	Шаблон:Выступление
+Template:Discogs artist	Шаблон:Discogs artist
+Template:S-ach	Шаблон:S-ach
+Template:S-inc	Шаблон:S-inc
+Template:Sfnp	Шаблон:Sfnp
+Template:Style/IPA	Шаблон:Style/IPA
+Template:Style/yid	Шаблон:Style/yid
+Module:Arguments	Модуль:Arguments
+Special:RecentChanges	Служебная:Свежие правки
+Module:Math	Модуль:Math
+Module:InfoboxImage	Модуль:InfoboxImage
+Tiffany Mason	Тиффани Мейсон

@@ -1,0 +1,3672 @@
+Affrica	Африка
+Iapan	Япония
+Sūðamerica	Южная Америка
+Norþweg	Норвегия
+Englaland	Англия
+Scotland	Шотландия
+Wēalas	Уэльс
+Norðerne Īrland	Северная Ирландия
+Īrland Cynewīse	Ирландия
+Ungerland	Венгрия
+Spēonland	Испания
+Geānedu Rīcu American	Соединённые Штаты Америки
+Belgice	Бельгия
+Letseburg	Люксембург
+Eorðe	Земля
+Līf	Жизнь
+George Washington	Вашингтон, Джордж
+Finnland	Финляндия
+Swēoland	Швеция
+Denemearc	Дания
+Polaland	Польша
+Liþþuania	Литва
+Italia	Италия
+Swissland	Швейцария
+Ēastrīce	Австрия
+Grēcland	Греция
+Turcland	Турция
+Bēor	Пиво
+Portugal	Португалия
+Europe	Европа
+Asia	Азия
+Norðamerica	Северная Америка
+Antarctica	Антарктида
+Wikipǣdia	Википедия
+Niðerland	Нидерланды
+Nīweoforwīcburg	Нью-Йорк
+Hwæsingatūn, D.C.	Вашингтон (округ Колумбия)
+Berlin	Берлин
+Los Angeles	Лос-Анджелес
+Spearctelle	Компьютер
+Genf	Женева
+Betweoxnett	Интернет
+Barack Obama	Обама, Барак
+Uruguay	Уругвай
+Lunden	Лондон
+Æppel	Яблоко
+Paris	Париж
+Abraham Lincoln	Линкольн, Авраам
+Android	Android
+Google	Google (компания)
+Mexico	Мексика
+Atlantisc Gārsecg	Атлантический океан
+Sericus Gārsecg	Тихий океан
+California	Калифорния
+Mōnandæg	Понедельник
+Æfterra Gēola	Январь
+Solmōnaþ	Февраль
+Hrēþmōnaþ	Март
+Tīw (tungol)	Марс
+Cenia	Кения
+Sigelhearwenaland	Эфиопия
+Ēastermōnaþ	Апрель
+Þrimilcemōnaþ	Май
+Sēremōnaþ	Июнь
+Mǣdmōnaþ	Июль
+Wēodmōnaþ	Август
+Hāligmōnaþ	Сентябрь
+Winterfylleþ	Октябрь
+Blōtmōnaþ	Ноябрь
+Gēolmōnaþ	Декабрь
+Tīwesdæg	Вторник
+Wēdnesdæg	Среда
+Þunresdæg	Четверг
+Frīgedæg	Пятница
+Sæternesdæg	Суббота
+Sunnandæg	Воскресенье
+Lēo	Лев
+Francland	Франция
+Esperanto	Эсперанто
+Geāned Cynerīce	Великобритания
+Catte	Кошка
+Cīnan Folclicu Cynewīse	Китайская Народная Республика
+Frencisc sprǣc	Французский язык
+Fisc	Рыбы
+Brasil	Бразилия
+Russland	Россия
+Eoferwicscīr	Йоркшир
+Sǣ	Море
+Euxinus	Чёрное море
+Toronto	Торонто
+Alabama	Алабама
+São Paulo	Сан-Паулу
+São Paulo (rīce)	Сан-Паулу (штат)
+Quebec	Квебек
+Piza	Пицца
+Þēodscland	Германия
+Hwītrussland	Белоруссия
+Þēodsc sprǣc	Немецкий язык
+Īsland	Исландия
+God	Бог
+Estland	Эстония
+Sætern (tungol)	Сатурн
+Ceocōlāte	Шоколад
+2 (getæl)	2 (число)
+Þrīe	3 (число)
+Fēower	4 (число)
+Fīf	5 (число)
+George W. Bush	Буш, Джордж Уокер
+Lettland	Латвия
+Ucrægna	Украина
+Cecland	Чехия
+Slofacia	Словакия
+Slofenia	Словения
+Vilnius	Вильнюс
+Moldofa	Молдавия
+Rumǣnia	Румыния
+Pulgaraland	Болгария
+Rōm	Рим
+Macedonia Cynewīse	Республика Македония
+Albania	Албания
+Grēneland	Гренландия (административная единица)
+Croatia	Хорватия
+Bosnia and Herzegofina	Босния и Герцеговина
+Godhopa	Нуук
+Azerbaijan	Азербайджан
+Andorra	Андорра
+Cipros	Республика Кипр
+Georgia (land)	Грузия
+Casahstan	Казахстан
+Melita	Мальта
+Flandras	Фландрия (историческая область)
+Monaco	Монако
+Sweartbeorg	Черногория
+Faticanburg	Ватикан
+San Marino	Сан-Марино
+Brysel	Брюссель
+Cūba	Куба
+Barbados	Барбадос
+Cǣgbord (spearctellend)	Компьютерная клавиатура
+Indonesia	Индонезия
+Wolfgang Amadeus Mozart	Моцарт, Вольфганг Амадей
+Ludwig van Beethoven	Бетховен, Людвиг ван
+Sūðaffrica	Южно-Африканская Республика
+Algeria	Алжир
+Usbecastan	Узбекистан
+Warsaw	Варшава
+Wīn (drinc)	Вино
+Wæter	Вода
+Holt	Древесина
+Feorrsīen	Телевидение
+Īslendisc sprǣc	Исландский язык
+Cile	Чили
+Iesus	Иисус Христос
+Elvis Presley	Пресли, Элвис
+Wōden (tungol)	Меркурий
+Stǣr	История
+Apple Inc.	Apple
+Frig (tungol)	Венера
+Sprǣc	Язык
+Lufu	Любовь
+Þunor (tungol)	Юпитер
+Uranus	Уран (планета)
+Neptune (planēta)	Нептун
+Tungolcræft	Астрономия
+Witancræft	Наука
+Pluto	Плутон
+Montreal	Монреаль
+Lēohtenstān	Лихтенштейн
+Plega	Спорт
+Grantanbrycg	Кембридж
+Adolf Hitler	Гитлер, Адольф
+Fyrst Woruldgūþ	Первая мировая война
+Ōðru Woruldgūþ	Вторая мировая война
+Wikibēc	Викиучебник
+Augusto Pinochet	Пиночет, Аугусто
+Geanca Cupala	Янка Купала
+Ubuntu	Ubuntu
+Stettin	Щецин
+Rīmcræft	Математика
+U2	U2
+Lǣden	Латинский язык
+Bahrain	Бахрейн
+Armenia	Армения
+Serbia	Сербия
+Mōna	Луна
+Constantinopolis	Стамбул
+Australia	Австралия
+Bob Marley	Марли, Боб
+Argentina	Аргентина
+Peru	Перу
+Norþcorēa	Корейская Народно-Демократическая Республика
+Cambodia	Камбоджа
+Kuiperes gyrtel	Пояс Койпера
+Curān	Коран
+Alladōm	Ислам
+Lech Wałęsa	Валенса, Лех
+Europisce Gesamnung	Европейский союз
+Woruldwīd Webb	Всемирная паутина
+Wīf	Женщина
+Wætertyge	Акведук
+Don Quijote	Дон Кихот (роман)
+Megelan	Милан
+Burg	Город
+Napoleon I Francena Cāsere	Наполеон I
+Uesuuius	Везувий
+Sunne	Солнце
+Lēohtgēar	Световой год
+Sunnlicu Endebyrdnes	Солнечная система
+Ostsǣ	Балтийское море
+Wisle	Висла
+Tōþ	Зуб (биология)
+Wætertimber	Водород
+Wikimedia Commons	Викисклад
+Dæg	Сутки
+Ēasttimor	Восточный Тимор
+Niht	Ночь
+Gēar	Год
+Hundgēar	Век
+Rīn	Рейн
+Oslo	Осло
+Katowice	Катовице
+1 Ceres	Церера
+Ii	Айона
+Dubai	Дубай (эмират)
+Folga	Волга
+Æðmlyft	Кислород
+Dweligende tungol	Планета
+Venetia	Венеция
+Naruto	Наруто
+Moscow	Москва
+Italisc sprǣc	Итальянский язык
+Cead	Чад
+Nīwe Sǣland	Новая Зеландия
+Indea	Индия
+Īsen	Железо
+Willelm Scacaspere	Шекспир, Уильям
+Lēad	Свинец
+Mongolland	Монголия
+Ficgīege	Фиджи
+Feneswela	Венесуэла
+Blēobord	Шахматы
+Maine	Мэн (штат)
+Hors	Домашняя лошадь
+Amsterdam	Амстердам
+Wǣpen	Оружие
+Dēor	Животные
+Paraguay	Парагвай
+Ecuador	Эквадор
+Colombia	Колумбия
+Strēawberge	Земляника
+Buddendōm	Буддизм
+Bolifia	Боливия
+Coper	Медь
+Plante	Растения
+Nīwu Hāmtūnscīr	Нью-Гэмпшир
+Iamaica	Ямайка
+Massachusetts	Массачусетс
+Connecticut	Коннектикут
+Henn	Курица
+Hawaii	Гавайи
+Cēsarēa	Джерси (остров)
+Swīn	Домашняя свинья
+Īshæf	Северный Ледовитый океан
+Persealand	Иран
+Irac	Ирак
+Alaska	Аляска
+Israhēl	Израиль
+Utrecht	Утрехт
+Gemen	Йемен
+Clēofanwyrm	Вирусы
+Polisc sprǣc	Польский язык
+Hascemisc Cynerīce þæs Iordanes	Иордания
+Florida	Флорида
+Arizona	Аризона
+Cuwait	Кувейт
+Libanus	Ливан
+Oregon	Орегон
+Utah	Юта
+Hriðer	Корова
+Malægsia	Малайзия
+Burma	Мьянма
+Oman	Оман
+Pacistan	Пакистан
+Qatar	Катар
+Tennis	Теннис
+Saudisc Arabea	Саудовская Аравия
+Tāprabane	Шри-Ланка
+Iosep Stalin	Сталин, Иосиф Виссарионович
+Syria	Сирия
+Plato	Платон
+Tacgicastan	Таджикистан
+Aristoteles	Аристотель
+Thailand	Таиланд
+Ūtƿeorp	Радио
+Turcmenistan	Туркмения
+Geānedu Arabisc Bregorīcu	Объединённые Арабские Эмираты
+Fietnam	Вьетнам
+Sūþcorēa	Республика Корея
+Afghanistan	Афганистан
+J. R. R. Tolkien	Толкин, Джон Рональд Руэл
+Gold	Золото
+Bængladesc	Бангладеш
+Bleach (manga)	Блич
+Socrates	Сократ
+Angola	Ангола
+Tansania	Танзания
+Philippines	Филиппины
+Middel Affricanisc Cynewīse	Центральноафриканская Республика
+Sūþende þǣre eaxe	Южный полюс
+Norþende þære eaxe	Северный полюс
+Isaac Newton	Ньютон, Исаак
+Albert Einstein	Эйнштейн, Альберт
+Geolu	Жёлтый цвет
+Tunisia	Тунис
+Simbabwe	Зимбабве
+Beicing	Пекин
+Sūþsudan	Южный Судан
+Botswana	Ботсвана
+Burkina Faso	Буркина-Фасо
+Folcrīcelicu Cynewīse þæs Congwes	Демократическая Республика Конго
+Bægwaraland	Бавария
+Baden-Wyrttemberg	Баден-Вюртемберг
+Æriþrea	Эритрея
+Nīwe Delhi	Нью-Дели
+Iohannes Paulus II Pāpa	Иоанн Павел II
+Gabon	Габон
+Mohandas Karamchand Gandhi	Махатма Ганди
+Gambia	Гамбия
+Guinea	Гвинея
+Elpendbānrima	Кот-д’Ивуар
+Camerun	Камерун
+Grēnenæs Īega	Кабо-Верде
+Lesotho	Лесото
+Liberia	Либерия
+Libia	Ливия
+Madagascar	Мадагаскар
+Mauritania	Мавритания
+Morocco	Марокко
+Mosambice	Мозамбик
+Namibia	Намибия
+Nigeria	Нигерия
+Charles Darwin	Дарвин, Чарлз
+Uganda	Уганда
+Rwanda	Руанда
+Sōmalia	Сомали
+Gaius Iulius Caesar	Гай Юлий Цезарь
+Sudan	Судан
+Swasiland	Свазиленд
+Hamburg	Гамбург
+Heorte	Сердце
+Brægen	Головной мозг
+Prag	Прага
+Bleoh	Синий цвет
+Seolfor	Серебро
+Tin	Олово
+Reddit	Reddit
+Elsass	Эльзас
+Bihar	Бихар
+Michigan	Мичиган
+Puerto Rico	Пуэрто-Рико
+Niðerseaxland	Нижняя Саксония
+Hetwaraland	Гессен
+Illinois	Иллинойс
+Norþdakota	Северная Дакота
+Brandenburg	Бранденбург
+Langbeardnaland	Ломбардия
+Sūþdakota	Южная Дакота
+Montǣna	Монтана
+Wyoming	Вайоминг
+Ierusalem	Иерусалим
+Idaho	Айдахо
+Hwæsingatūn	Вашингтон (штат)
+Nevada	Невада
+Danais	Дон
+Kosovo	Косово и Метохия (географический регион)
+Indisc Gārsecg	Индийский океан
+Caribisc Sǣ	Карибское море
+Colorado	Колорадо
+Tuscania	Тоскана
+Alpis	Альпы
+Gænt	Гент
+Chicago	Чикаго
+The Beatles	The Beatles
+Winter	Зима
+Ēawielm	Весна
+Efenniht	Равноденствие
+Spēonisc sprǣc	Испанский язык
+Caligardamana	Калькутта
+West Bengal	Западная Бенгалия
+Ātorcoppe	Пауки
+Virginia	Виргиния
+Westvirginia	Западная Виргиния
+Nīwe Eoforwīc	Нью-Йорк (штат)
+Rhode Īeg	Род-Айленд
+Ceorfdēor	Насекомые
+Marianland	Мэриленд
+Delaware	Делавэр
+Fladimir Lenin	Ленин, Владимир Ильич
+Ohio	Огайо
+Pennsylvānia	Пенсильвания
+Uetersen	Итерзен
+Augustus	Октавиан Август
+Microsoft Windows	Windows
+Nīwe Cēsarēa	Нью-Джерси
+Calpis	Гибралтар
+Finnisc sprǣc	Финский язык
+Indiǣna	Индиана
+Selffērende wægn	Автомобиль
+Roger Federer	Федерер, Роджер
+Georgia (America)	Джорджия
+Marcus Aurelius	Марк Аврелий
+Texas	Техас
+Puilla	Апулия
+Norþcarolīna	Северная Каролина
+Sūþcarolīna	Южная Каролина
+Sicilia	Сицилия
+Sardinia	Сардиния
+Ligore	Луара
+Sigen	Сена
+Buenos Aires	Буэнос-Айрес
+Mexicoburg	Мехико
+Pīnæppel	Ананас крупнохохолковый
+Mississippi	Миссисипи (штат)
+Mississippi ēa	Миссисипи
+Mizoram	Мизорам
+Tennessee	Теннесси
+Abu Dhabi	Абу-Даби
+Nīwe Mexico	Нью-Мексико
+Athēnas	Афины
+Minnesota	Миннесота
+Wisconsin	Висконсин
+Iowa	Айова
+Nebraska	Небраска
+Kansas	Канзас
+Hafana	Гавана
+Pīpwēod	Табак (вещество)
+Missouri	Миссури (штат)
+Louisiāna	Луизиана
+Nagaland	Нагаленд
+Kentucky	Кентукки
+Arkansas	Арканзас
+Ælf ēa	Эльба (река)
+Oklahoma	Оклахома
+Donua	Дунай
+Hæfel	Хафель
+Norþsǣ	Северное море
+Flēogeball	Волейбол
+Uigenna	Вена
+Cēapmannahæfen	Копенгаген
+Stoccholm	Стокгольм
+Helsinki	Хельсинки
+Difelin	Дублин
+Rēcwīc	Рейкьявик
+Riga	Рига
+Menuþias	Занзибар (автономия)
+Dantsic	Гданьск
+Frankfurt	Франкфурт-на-Майне
+Death Note	Тетрадь смерти
+Biblioþēce	Библия
+Ho Chi Minh Burg	Хошимин
+Sōþ Iesus Cirice	Церковь истинного Иисуса
+Nīwenglisc sprǣc	Английский язык
+Andorra la Vella	Андорра-ла-Велья
+Đồng Hới	Донгхой
+Concepcion	Консепсьон (город, Чили)
+Cænugeard	Киев
+Ontario	Онтарио
+Ottawa	Оттава
+Alberta	Альберта
+Nīwe Scotland	Новая Шотландия
+Końskowola	Коньсковоля
+Geocon Landscipe	Юкон (территория)
+Florentia	Флоренция
+Ǣt	Пища
+Snaca	Змеи
+Halifax	Галифакс (Новая Шотландия)
+Quebecceaster	Квебек (город)
+3. Æfterran Gēolan	3 января
+4. Æfterran Gēolan	4 января
+Región del Biobío (Cile)	Био-Био (область)
+5. Æfterran Gēolan	5 января
+Arica	Арика
+6. Æfterran Gēolan	6 января
+7. Æfterran Gēolan	7 января
+8. Æfterran Gēolan	8 января
+9. Æfterran Gēolan	9 января
+10. Æfterran Gēolan	10 января
+11. Æfterran Gēolan	11 января
+12. Æfterran Gēolan	12 января
+13. Æfterran Gēolan	13 января
+Beormingahām	Бирмингем
+14. Æfterran Gēolan	14 января
+15. Æfterran Gēolan	15 января
+16. Æfterran Gēolan	16 января
+17. Æfterran Gēolan	17 января
+18. Æfterran Gēolan	18 января
+Rōmānisc Rīce	Римская империя
+Microsoft	Microsoft
+30. Æfterran Gēolan	30 января
+Kurów	Курув
+11. Solmōnðes	11 февраля
+11. Gēolmōnþes	11 декабря
+12. Gēolmōnðes	12 декабря
+17. Gēolmōnðes	17 декабря
+Wæþ	Форт (река)
+Þrittiggēara Orlege	Тридцатилетняя война
+Benedictus XVI Pāpa	Бенедикт XVI
+6. Ēastermōnðes	6 апреля
+4. Ēastermōnþes	4 апреля
+Helmut Kohl	Коль, Гельмут
+17. Ēastermōnðes	17 апреля
+12. Þrimilcemōnþes	12 мая
+13. Þrimilcemōnþes	13 мая
+20. Þrimilcemōnðes	20 мая
+31 Þrimilcemōnaþ	31 мая
+6. Mǣdmōnðes	6 июля
+1. Mǣdmōnðes	1 июля
+18. Mǣdmōnðes	18 июля
+Gyldfōtþōðer	Футбол
+26. Gēolmōnðes	26 декабря
+Eallbærnet	Холокост
+IPad	IPad
+Madrid	Мадрид
+Elton John	Элтон Джон
+Undersǣbāt	Подводная лодка
+26. Wēodmōnðes	26 августа
+24. Wēodmōnðes	24 августа
+2. Hāligmōnþes	2 сентября
+Kassel	Кассель
+Canadisc underrīcu	Провинции и территории Канады
+25. Hāligmōnðes	25 сентября
+Santiago (Cile)	Сантьяго
+1. Winterfylleðes	1 октября
+14. Winterfylleðes	14 октября
+8. Winterfylleðes	8 октября
+7. Winterfylleðes	7 октября
+Oldenburg (Oldenburg)	Ольденбург
+26. Winterfylleðes	26 октября
+4. Blōtmōnðes	4 ноября
+1. Blōtmōnðes	1 ноября
+Wolfsburg	Вольфсбург
+Carl Micela Francena Cyning	Карл Великий
+Canberra	Канберра
+Sydney	Сидней
+Grēne	Зелёный цвет
+Rēad	Красный цвет
+Perþ (Australia)	Перт (Австралия)
+Fȳr	Огонь
+Westerne Australia	Западная Австралия
+Nīwe Sūþwealas	Новый Южный Уэльс
+Norþerne Landscipe	Северная территория
+Australisc Hēafodbyrig Landscipe	Австралийская столичная территория
+Fīfeldor	Айдер (река)
+Nīl	Нил
+Heortfordscīr	Хартфордшир
+Comēta	Комета
+Angol	Анголь
+Antofagasta	Антофагаста
+Ancyra	Анкара
+Flocc:Bysen	Категория:Википедия:Шаблоны
+Castro (Cile)	Кастро (город)
+Frencisc Guiana	Французская Гвиана
+Chillán (Cile)	Чильян
+Amāzanēa	Амазонка
+Tybingen	Тюбинген
+Coyhaique	Койайке
+Flocc:Bysen Land	Категория:Шаблоны по странам
+Flocc:Bysen tīd	Категория:Шаблоны:Дата и время
+Willelmeshæfen	Вильгельмсхафен
+Copiapó (Cile)	Копьяпо
+Manama	Манама
+Delmenhorst	Дельменхорст
+Brandenburg (burg)	Бранденбург-на-Хафеле
+Wikipǣdia:Sandbox	Википедия:Песочница
+Wikipǣdia:Inlǣdung	Википедия:Добро пожаловать в Википедию
+Cantabria	Кантабрия
+Hūs	Жилище
+Rīmagiefung	Алгебра
+Mennisc bodiglār	Анатомия человека
+Osasco	Озаску
+Fujairah	Эль-Фуджайра (эмират)
+Glasgow	Глазго
+Donghoi Lyfthæfene	Донгхой (аэропорт)
+Rodor	Космическое пространство
+Sweartweald	Шварцвальд
+Curitiba	Куритиба
+Weald	Лес
+Flocc:Cliferfētedēor	Категория:Парнокопытные
+Talca	Талька (Чили)
+Flothere	Военно-морской флот
+Andalién	Андалиен
+Bysen:Lang-lt	Шаблон:Lang-lt
+Cwidbōc	Книга притчей Соломоновых
+Rancagua	Ранкагуа
+Confucius	Конфуций
+Corbin Bleu	Блю, Корбин
+Flocc:Rīmcræft	Категория:Математика
+Faroisca Īega	Фарерские острова
+Wendelsǣ	Средиземное море
+Flocc:Nīwes Sǣlandes īga	Категория:Острова Новой Зеландии
+Cōcnearuness	Пролив Кука
+Crīstendōm	Христианство
+Windows 8	Windows 8
+Bysen:Asia	Шаблон:Страны Азии
+Gandis	Ганг
+Worulddǣl	Континент
+Fugol	Птицы
+Hēafodstōl	Столица
+Monzón	Монсон
+Portuglisc sprǣc	Португальский язык
+Mōnaþ	Месяц
+Bysen:Fōtball stycce	Шаблон:Football-stub
+Almazán	Альмасан
+Huang Siānfan	Хуан Сяньфань
+Kescwisc sprǣccynn	Кечуанские языки
+Bill Gates	Гейтс, Билл
+Iapanisc sprǣc	Японский язык
+Wīsdōmbōc	Энциклопедия
+Hēafodtramet	Заглавная страница
+Golf	Гольф
+Hrōcburhfōtþōðer	Регби-футбол
+Olympisc Gamen	Олимпийские игры
+Eurasia	Евразия
+Andes	Анды
+Durban	Дурбан
+Caspia	Каспийское море
+Uictoriamere	Виктория (озеро)
+Estmere	Калининградский залив
+Babilōn	Вавилон
+Ēalendisca Īega	Аландские острова
+Cægman Īegland	Острова Кайман
+Novak Đoković	Джокович, Новак
+Fortunatus iegland	Канарские острова
+Hrōcburhgesamnunge plega	Регби
+Ūðwitegung	Философия
+Flocc:Candidates for speedy deletion	Категория:Википедия:К быстрому удалению
+Tē	Чай
+Hebe Camargo	Камарго, Эбе
+Gemǣnre ǣhte rǣd	Коммунизм
+Wealdlīste rǣd	Анархизм
+Ǣhtwealdes endebyrdness	Капитализм
+Frēodōmes þōht	Либерализм
+Gilmrǣd	Фашизм
+Cofentreo	Ковентри
+Lodi	Лоди
+Ōðre Penisc Gūþ	Вторая Пуническая война
+Cartaina	Карфаген (город)
+Bryttisc Museum	Британский музей
+Sund	Плавание человека
+1451	1451 год
+Ellaspontus	Дарданеллы
+Strǣtburg	Страсбург
+Gytārre	Гитара
+Croatisc sprǣc	Хорватский язык
+Cesena	Чезена
+Hāmburgere	Гамбургер
+Fédération Internationale de Volleyball	Международная федерация волейбола
+20e gēarhundred	XX век
+Stefan Raab	Рааб, Штефан
+Catalan sprǣc	Каталанский язык
+11e gēarhundred	XI век
+Gelēaflēasnes	Атеизм
+Cynn scī huang	Цинь Шихуанди
+Elisabeþ I Engla Cwēn	Елизавета I
+Cynewīse	Республика
+Þēodlices gemǣnscipes rǣd	Национал-социализм
+Nazi Þēodscland	Третий рейх
+Christopher Columbus	Колумб, Христофор
+Iacobus Cōc	Кук, Джеймс
+Ēare	Ухо
+Nasu	Нос
+Ēage	Глаз
+Scēap	Овца
+Mereswīn	Дельфины
+Sǣhund	Акулы
+Sycedēor	Млекопитающие
+Ǣmette	Муравьи
+Bēo	Пчёлы
+Niðerlendisc sprǣc	Нидерландский язык
+Ǣȝƿyrt	Баклажан
+Draca	Дракон
+Mōdor	Мать
+Snāw	Снег
+Wæterþōðer	Водное поло
+1865	1865 год
+Napoleon III Francena Casere	Наполеон III
+Russisc sprǣc	Русский язык
+Hloþwig XIV Francena Cyning	Людовик XIV
+Vladimir Putin	Путин, Владимир Владимирович
+Loðwic-Philippus Francena Cyning	Луи-Филипп I
+Þēodacynewīse	Содружество наций
+Hlāf	Хлеб
+Taurica	Крым
+Līfclēofa	Клетка
+Blōd	Кровь
+Īwungplega	Компьютерная игра
+Rumǣnisc sprǣc	Румынский язык
+Regn	Дождь
+Medumweder	Климат
+Woruldlicu wearmung	Глобальное потепление
+Eorþbeofung	Землетрясение
+Museum on Dēoraby	Музей и художественная галерея Дерби
+Winston Churchill	Черчилль, Уинстон
+Nelson Mandela	Мандела, Нельсон
+10. gēarhundred	X век
+Fȳrbeorg	Вулкан
+Wolcen	Облака
+Īwungplegtōl	Игровая приставка
+Wind	Ветер
+Lyfthelm	Атмосфера
+Pintel	Мужской половой член
+Sprǣccræft	Лингвистика
+Flocc:Pulgaraland	Категория:Болгария
+Flocc:Francland	Категория:Франция
+Flocc:Glīƿdrēam	Категория:Музыка
+Flocc:Bōccræft	Категория:Литература
+Fox	Обыкновенная лисица
+Valladolid	Вальядолид
+Alexander Mæcedonia Cyning	Александр Македонский
+Hēaphandþōðer	Гандбол
+Hugo Chávez	Чавес, Уго
+Þēowdōm	Рабство
+Caffig	Кофе
+Meolc	Молоко
+Beorg	Гора
+Oferswefn	Гипноз
+Andrew Johnson	Джонсон, Эндрю
+Miami	Майами
+Americanisce Ingefeoht	Гражданская война в США
+Rio de Janeiro	Рио-де-Жанейро
+Bryttisce Rīce	Британская империя
+Albanisc sprǣc	Албанский язык
+Ucrægnisc sprǣc	Украинский язык
+Crabba (steorra)	Рак (созвездие)
+Swēonisc sprǣc	Шведский язык
+Denisc sprǣc	Датский язык
+Norðisc sprǣc	Норвежский язык
+Noam Chomsky	Хомский, Ноам
+Bæmisc sprǣc	Чешский язык
+Karl Marx	Маркс, Карл
+Lettisc sprǣc	Латышский язык
+Liþþuanisc sprǣc	Литовский язык
+Hinduismus	Индуизм
+Wīflicu brēost	Женская грудь
+Mot	Атом
+Crēacisc sprǣc	Греческий язык
+Weorcendebyrdness	Операционная система
+Īrisc sprǣc	Ирландский язык
+Ambihtlic Cīnisc sprǣc/ᚱᚢᚾ	Севернокитайский язык
+C. S. Lewis	Льюис, Клайв Стейплз
+Baku	Баку
+Hebrēisc sprǣc	Иврит
+Azeri sprǣc	Азербайджанский язык
+Wilisc sprǣc	Валлийский язык
+Scyttisce sprǣc	Шотландский язык (кельтский)
+John Locke	Локк, Джон
+Friedrich Nietzsche	Ницше, Фридрих
+Lifere	Печень
+Drēag (Fūdū)	Зомби
+Gārsecg	Океан
+Gautama Budda	Будда Шакьямуни
+Premier League	Английская Премьер-лига
+Mahomet	Мухаммед
+Ācweorna	Беличьи
+Rēmisc Cirice	Римско-католическая церковь
+Bengalisc sprǣc	Бенгальский язык
+Tunge	Язык (анатомия)
+Folcland Īegland	Фолклендские острова
+Manīeg	Остров Мэн
+Wiht (īeg)	Остров Уайт
+Elisabeþ II	Елизавета II
+ß	Эсцет
+John F. Kennedy	Кеннеди, Джон Фицджеральд
+Ronald Reagan	Рейган, Рональд
+Æ	Æ
+Ð	Ð
+Fernando Alonso	Алонсо, Фернандо
+Flocc:Feneswela	Категория:Венесуэла
+Þunreshæfen	Торсхавн
+11. Hāligmōnþes 2001. torngemōt	Террористические акты 11 сентября 2001 года
+Culfre	Голубиные
+Trēow	Дерево
+Cīese	Сыр
+Wīnberge	Виноград (ягода)
+Hunig	Мёд
+Eorþperu	Картофель
+Searuþræl	Робот
+Searucræft	Технология
+Feorrspreca	Телефон
+Lugo	Луго
+Hēahdēmere þāra Geāndena Rīca American	Главный судья США
+Windows 7	Windows 7
+Windows Vista	Windows Vista
+World Trade Center	Всемирный торговый центр
+Nelson Rockefeller	Рокфеллер, Нельсон Олдрич
+David Rockefeller	Рокфеллер, Дэвид
+One World Trade Center	Всемирный торговый центр 1
+Fidel Castro	Кастро, Фидель
+Rockefeller Center	Рокфеллеровский центр
+Flocc:Brasil	Категория:Бразилия
+Flocc:Rumǣnia	Категория:Румыния
+Hēafodgesceaft	Химический элемент
+Gemot	Молекула
+Cræftlicu endebyrdung	Система органического мира
+Lyft	Газ
+Lyftcræft	Воздушное судно
+Clāðas	Одежда
+Swēg	Звук
+Paper	Бумага
+Rīm	Число
+Bere	Ячмень обыкновенный
+Nirvana	Nirvana
+Weder	Погода
+Land þǣre worulde	Алфавитный список стран и территорий
+Bera	Медвежьи
+John Adams	Адамс, Джон (президент)
+Thomas Jefferson	Джефферсон, Томас
+James Madison	Мэдисон, Джеймс
+James Monroe	Монро, Джеймс
+John Quincy Adams	Адамс, Джон Куинси
+Andrew Jackson	Джексон, Эндрю
+Martin Van Buren	Ван Бюрен, Мартин
+William Henry Harrison	Гаррисон, Уильям Генри
+John Tyler	Тайлер, Джон
+James K. Polk	Полк, Джеймс Нокс
+Zachary Taylor	Тейлор, Закари
+Ǣtweg	Пищеварение
+Kylie Minogue	Миноуг, Кайли
+Āc	Дуб
+Pīntrēow	Сосна
+Āte	Овёс посевной
+Hwǣte	Пшеница
+Corn	Зерновые культуры
+Unmeaht	Инвалидность
+Gerīmbōc	Календарь
+Ādl	Болезнь
+Gregorisc gerīmbōc	Григорианский календарь
+Soria	Сория
+Manisc sprǣc	Мэнский язык
+Bysen:Stedefindend scite Breten	Шаблон:ПозКарта Великобритания
+Millard Fillmore	Филлмор, Миллард
+Franklin Pierce	Пирс, Франклин
+James Buchanan	Бьюкенен, Джеймс
+Pireni	Пиренеи
+Hālig Rōmānisc Rīce	Священная Римская империя
+Mongolrīce	Монгольская империя
+Oþomanisce Rīce	Османская империя
+Cirice Ednīwung	Реформация
+Wīcingas	Викинги
+Sweord	Меч
+Fȳrwǣpen	Огнестрельное оружие
+Iberia	Пиренейский полуостров
+Fȳrspringend	Взрывчатые вещества
+Campwægn	Танк
+Antwerpen	Антверпен
+Brycg (burh)	Брюгге
+Blæcberige	Ежевика
+Fenberge	Клюква
+Cīnisc gōsberige	Киви (фрукт)
+Retoromanisc sprǣc	Романшский язык
+Īsrēam	Мороженое
+Ceace	Пирожное
+Īsbrīw	Сорбе
+Dinegisc sprǣc	Навахо (язык)
+Meolcbrīw	Йогурт
+Montserrat	Монтсеррат
+Bysen:Location map Greenland	Шаблон:ПозКарта Дания Гренландия
+Wikicynn	Викивиды
+Arabisc sprǣc	Арабский язык
+Ian Magen	Ян-Майен
+Corsica	Корсика
+Affricanisc sprǣc	Африкаанс
+Forma Þegn þæs Geānedan Cynerīces	Премьер-министр Великобритании
+Santiago de Compostela	Сантьяго-де-Компостела
+Fiscoþ	Рыбная ловля
+Iquique	Икике
+La Serena (Cile)	Ла-Серена (Чили)
+Las Condes	Лас-Кондес
+Lebu	Лебу
+Lo Barnechea	Ло-Барнечеа
+Niðerscyttisc sprǣc	Шотландский язык (германский)
+Linux (cyrnel)	Ядро Linux
+Darwin (æhtendebyrd)	Darwin
+Emmen	Эммен (Нидерланды)
+Sofiet Gesamnung	Союз Советских Социалистических Республик
+Se Hlāford þāra Hringa	Властелин колец
+Hrūse	Земная кора
+Sīensearu	Фотоаппарат
+Gaðes	Кадис
+Llión	Леон (Испания)
+Fōt	Стопа
+Queen	Queen
+Freddie Mercury	Фредди Меркьюри
+Normandig	Нормандия
+Metallica	Metallica
+Wikipǣdia:Fulgōd gewritu	Википедия:Избранные статьи
+Lēoht (dæg)	День
+Wikipǣdia:Se Þorpes Wella	Википедия:Форум
+Vermont	Вермонт
+Jacksonville, Florida	Джэксонвилл
+Los Ángeles (Cile)	Лос-Анхелес (Чили)
+Eþna	Этна
+Æg	Яйцо
+Tibet	Тибет
+Handsprecend	Сотовый телефон
+Strȳta	Страус
+Corēa	Корея
+Wesend	Бизоны
+Mameceaster	Манчестер
+Turcas and Caicos Īegland	Теркс и Кайкос
+Blēocræft	Вышивание
+Wulf	Волк
+Major League Soccer	MLS
+Þōðer	Мяч
+Club de Gimnasia y Esgrima La Plata	Химнасия и Эсгрима (футбольный клуб, Ла-Плата)
+Nīwu Gecȳþnes	Новый Завет
+Ælfric Ercebiscop of Cantawarabyrig	Эльфрик Эбингдонский
+Middelseaxe	Мидлсекс
+San Pedro de la Paz	Сан-Педро-де-ла-Пас
+Scræf (fugol)	Бакланы
+Dūfedoppa	Пеликаны
+Nha Trang	Нячанг
+Podolsk	Подольск
+Pāpa	Папство
+Rafael Correa	Корреа, Рафаэль
+5	5 год
+Louvre	Лувр
+Sæfern	Северн
+Temes	Темза
+Tirana	Тирана
+Motorhead	Motörhead
+Afen	Эйвон (река, впадает в Бристольский залив)
+6	6 год
+Josh Duhamel	Дюамель, Джош
+Crīstesmæsse	Рождество Христово
+Bises	Високосный год
+Steve Jobs	Джобс, Стив
+Indo-Europisc sprǣchīred	Индоевропейские языки
+Breinigerberg	Брайнигерберг
+Muammar al-Gaddafi	Каддафи, Муаммар
+Tiger	Тигр
+Moru	Корнеплод
+Samsunghēap	Samsung
+Ēaster	Пасха
+Germanisca sprǣca	Германские языки
+Windows Mobile	Windows Mobile
+GNU Frēo Gewrita Amearcunge Lēaf	GNU FDL
+John Kerry	Керри, Джон
+Taiwan (īeg)	Тайвань
+Searusprecend	Смартфон
+Trōia	Троя
+Nīwe Eoforwīc (scīrung)	Нью-Йорк (значения)
+Ceafer	Жесткокрылые
+Scōh	Лёгкая обувь
+Baðanceaster	Бат (Англия)
+Īrland	Ирландия (остров)
+Bradanford	Брадфорд
+Ceasterscīr	Чешир
+Lonceasterscīr	Ланкашир
+Norþhymbraland	Нортамберленд
+Dūnholmscīr	Дарем (графство)
+Lincolnscīr	Линкольншир
+Snotingahāmscīr	Ноттингемшир
+Dēorabyscīr	Дербишир
+Scrobbesbyrigscīr	Шропшир
+Stæffordscīr	Стаффордшир
+Lægreceastrescīr	Лестершир
+Roteland	Ратленд (графство)
+Norþfolc	Норфолк
+Sūþfolc	Суффолк
+Grantabrycgscīr	Кембриджшир
+Norþhāmtūnescīr	Нортгемптоншир
+Westmidlandscīr	Уэст-Мидлендс
+Herefordscīr	Херефордшир
+Wigreceastrescīr	Вустершир
+Wæringscīr	Уорикшир
+Beadanfordscīr	Бедфордшир
+Cornweal	Корнуолл
+Bricgstōw	Бристоль
+Defenascīr	Девон (графство)
+Sumorsǣte	Сомерсет
+Dorsǣte	Дорсет
+Gleawcesterscīr	Глостершир
+Oxnafordscīr	Оксфордшир
+Wiltūnscīr	Уилтшир
+Hāmtūnescīr	Хэмпшир
+Bearrucscīr	Беркшир
+Buccingahāmscīr	Бакингемшир
+Ēastseaxe	Эссекс
+Sūþrīge	Суррей
+Cent	Кент
+Lundenceaster	Сити (Лондон)
+Westmoringaland	Уэстморленд (графство, Англия)
+Huntandūnscīr	Хантингдоншир
+Sūþseaxe	Суссекс
+Seofon	7 (число)
+Taylor Lautner	Лотнер, Тэйлор
+Cumbraland	Камберленд (графство)
+Jeremy Renner	Реннер, Джереми
+Īs	Лёд
+Fæder ūre	Отче наш
+Musée d'Orsay	Музей Орсе
+Hwerhwette	Огурец обыкновенный
+Edinburg	Эдинбург
+Hwīt	Белый цвет
+Sweart	Чёрный цвет
+Chris Pine	Пайн, Крис
+Lordi	Lordi
+6 (getæl)	6 (число)
+Ambihtlicu sprǣc	Официальный язык
+Heortæppel	Томат
+Phong Nha-Ke Bang	Фонгня-Кебанг
+Entrena	Энтрена
+Selena	Селена (певица)
+NASA	НАСА
+Merida (Feneswela)	Мерида (Венесуэла)
+Atlanta	Атланта
+Benito Mussolini	Муссолини, Бенито
+Bermuda	Бермудские Острова
+Hēafod	Голова
+Weolingtūn (Nīwe Sǣland)	Веллингтон
+Bryten	Великобритания (остров)
+Alfred Nobel	Нобель, Альфред
+Camb (tō hǣre)	Расчёска
+Mennisc līc	Человеческое тело
+Lila Downs	Даунс, Лила
+Andrew Garfield	Гарфилд, Эндрю
+Dottatiger	Гепард
+Albany on Nīwum Eoforwīce	Олбани (Нью-Йорк)
+Ūle	Совообразные
+Anguilla	Ангилья
+Guernsey	Гернси
+Scearpbeorgas	Шпицберген
+Hrycgdēor	Позвоночные
+Nowy Dwór Królewski	Новый-Двор-Кролевский
+Faroisc sprǣc	Фарерский язык
+Catt	Кошачьи
+Lytel Spēonland	Гаити (остров)
+Harrisburg	Гаррисберг
+Hamor	Молоток
+Picilemo	Пичилему
+Bryttiscan Fæmne Īegland	Британские Виргинские острова
+Flēoge	Двукрылые
+Norða	Арктика
+Hund	Псовые
+Fresisc sprǣc	Фризские языки
+Antoni Gaudí	Гауди, Антонио
+Cliferfētedēor	Парнокопытные
+Steorrfisc	Морские звёзды
+Eurasisc bleohcrāwe	Сойка
+Hrōc	Грач
+Ēotaland	Ютландия
+Niþeru Þēodsc sprǣc	Нижненемецкий язык
+Mölnlycke	Мёльнлюкке
+Coning	Дикий кролик
+Cuscan Rīce	Кушанское царство
+Tromsīeg	Тромсё
+Sandwīc	Сэндвич (город)
+Eormengyld Niccolò Cusano	Университет Николая Кузанского
+Montpelier on Uermonte	Монтпилиер (Вермонт)
+Geac	Як
+Palistiniscre Frēogunge Þēodnes	Организация освобождения Палестины
+Westgermanisca sprǣca	Западногерманские языки
+Taylor Swift	Свифт, Тейлор
+Cōcīega	Острова Кука
+Brocc	Барсук
+Sealterisc sprǣc	Восточнофризский язык
+Middelasia	Центральная Азия
+Langaland	Лангеланн
+Sealterland	Затерланд
+Ofersǣwisc rind	Корица (пряность)
+Jackson (Mississippi)	Джэксон (Миссисипи)
+Concord (Nīwu Hāmtūnscīr)	Конкорд (Нью-Гэмпшир)
+Annapolis	Аннаполис (Мэриленд)
+Eald Corēa	Кочосон
+Hreaðemūs	Рукокрылые
+Ēastrīce-Ungerland	Австро-Венгрия
+Tarnobrzeg	Тарнобжег
+Wesle	Хорьки
+Scīr	Графство
+Sandwīc (ǣt)	Сэндвич
+Spearwa	Воробьиные
+Eormanrīc	Германарих
+Francisco Franco	Франко, Франсиско
+Tarja Halonen	Халонен, Тарья
+Willis Tower	Уиллис-тауэр
+Cantwaraburg	Кентербери
+Cīna	Китайская цивилизация
+Tracter	Воронка
+Englisc lagu	Общее право
+Seolh	Ластоногие
+Ecser	Эчер
+Silesisc gereord	Силезский язык
+Zhengzhou	Чжэнчжоу
+Foresittend	Президент
+Frencisc Polynesia	Французская Полинезия
+Roðem	Руан
+Crīstesmæsse Īeg	Остров Рождества (Австралия)
+Bleohfugol	Попугаеобразные
+Cambihtere	Какаду
+Arabea	Аравийский полуостров
+Fȳstlāc	Бокс
+Seax	Нож
+Top Gear	Top Gear
+Tasmansǣ	Тасманово море
+Ceroke sprǣc	Чероки (язык)
+Campwīg be Tannebeorge	Грюнвальдская битва
+Īsbera	Белый медведь
+Hand	Кисть (анатомия)
+Tu Fu	Ду Фу
+Nīwe Scotta Ēaland	Новая Каледония
+Cecoslofacia	Чехословакия
+Lēaf	Лист
+Nepal Bhasa	Неварский язык
+Valparaíso (on Cilan)	Вальпараисо
+Annenkovīeg	Остров Анненкова
+Nathalia Dill	Дилл, Наталия
+Oaxaca	Оахака (штат)
+Tahitisc sprǣc	Таитянский язык
+Flemisc sprǣc	Фламандские диалекты
+Yasser Arafat	Ясир Арафат
+Oxnaford	Оксфорд
+Międzyrzec Podlaski	Мендзыжец-Подляский
+Tasmania	Тасмания
+Creto	Крит
+Saint-Dié-des-Vosges	Сен-Дье-де-Вож
+Eormengyld Oxnafordes	Оксфордский университет
+Þyrla	Вертолёт
+Sancte Elene Īeg	Остров Святой Елены
+Nicor	Обыкновенный бегемот
+Egisca Sǣ	Эгейское море
+Ichiro Mizuki	Мидзуки, Итиро
+Anastacia	Анастейша
+Eufrāte	Евфрат
+James A. Garfield	Гарфилд, Джеймс Абрам
+Cirice	Христианская церковь
+Persisc Sǣ	Персидский залив
+Sand	Песок
+Cyningestūn (Iamaica)	Кингстон (Ямайка)
+Lafor	Леопард
+Age of Empires	Age of Empires (серия игр)
+Tequixquiac	Текискьяк
+Ulysses S. Grant	Грант, Улисс
+Oklahoma City	Оклахома-Сити
+Meotedisca Mere	Азовское море
+William McKinley	Мак-Кинли, Уильям
+Cawel	Кочанная капуста
+Foresittend þāra Geāndena Rīca	Список президентов США
+Sūþgeorgia and þā Sūþsandwic Īegland	Южная Георгия и Южные Сандвичевы Острова
+Webbsīde	Сайт
+Catalão	Каталан (Гояс)
+Grover Cleveland	Кливленд, Стивен Гровер
+Ealdhēahþēodisc	Древневерхненемецкий язык
+Ealdseaxisc sprǣc	Древнесаксонский язык
+Satan	Сатана
+Wordstǣrcræft	Этимология
+Beorglēo	Пума
+Arabas	Арабы
+Proponditis	Мраморное море
+Ēagduru	Окно
+Chester A. Arthur	Артур, Честер Алан
+Riffeng	Уральские горы
+Rīcu þāra Geāndena Rīca American	Штат США
+Pitcearnīega	Острова Питкэрн
+Benjamin Harrison	Гаррисон, Бенджамин
+Rutherford B. Hayes	Хейс, Ратерфорд Бёрчард
+Wīnlendisc panðer	Ягуар
+Sūþaustralia	Южная Австралия
+Gotisc sprǣc	Готский язык
+Boise	Бойсе (город)
+Bāt	Лодка
+Awaisc sprǣc	Гуарани (язык)
+Gærsbēam	Bambuseae
+Interlingua	Интерлингва
+Bosporos	Босфор
+Smyrna	Измир
+Lemburg	Львов
+Cwēneland	Квинсленд
+Siligo	Силиго
+Puerto Montt	Пуэрто-Монт
+Iane Austen	Остин, Джейн
+Tægcwondo	Тхэквондо
+Middel Englisc sprǣc	Среднеанглийский язык
+Māorisc sprǣc	Маори (язык)
+Hannibal	Ганнибал
+Hōrdōm	Проституция
+Twinemniendlic nama	Биноминальная номенклатура
+Victoria (Australia)	Виктория (Австралия)
+Geugoslafia	Югославия
+Ætla	Аттила
+Scrælingas	Индейцы
+Arancón	Аранкон
+Willelm Heretoga of Grantanbrycge	Уильям, герцог Кембриджский
+Toshiro Mifune	Мифунэ, Тосиро
+Tallahassee	Таллахасси
+Sundorrīcehād	Независимость
+Bismarck (Norþdakota)	Бисмарк (Северная Дакота)
+Aucland	Окленд (Новая Зеландия)
+Iohannes Paulus I Pāpa	Иоанн Павел I
+John Michael Talbot	Талбот, Джон Майкл
+Acrotiri and Ðecelia	Акротири и Декелия
+Arara	Арара (Параиба)
+Cnēo	Коленный сустав
+Willelm I Engla Cyning	Вильгельм I Завоеватель
+Campora Sancte Iohannes	Кампора-Сан-Джованни
+Sīde	Шёлк
+Sint-Truiden	Синт-Трёйден
+Lēoðlic scātung	Фигурное катание
+Stefn (līfcræft)	Тип (биология)
+Heanrig VIII Engla Cyning	Генрих VIII
+Columbia (Sūþcarolīna)	Колумбия (Южная Каролина)
+Xena: Warrior Princess	Зена — королева воинов
+1880. gēar oþ 1889. gēar	1880-е годы
+Helena (Montana)	Хелена (Монтана)
+Eormengyld Biobiwes	Университет Био-Био
+Sufa	Сува
+Muntgumniscīr	Монтгомеришир
+Eorþmistel	Базилик душистый
+Lēohtfȳsend	Лазер
+Prēossland	Пруссия
+Cheyenne (Wyoming)	Шайенн (Вайоминг)
+Norðerne healftrendel	Северное полушарие
+Loidis	Лидс
+Fūcgī Beorg	Фудзияма
+Mūs	Домовые мыши
+Geolurēad	Оранжевый цвет
+Æcs	Топор
+Seofonbyrig	Трансильвания
+Tōl	Инструмент
+Alī	Али ибн Абу Талиб
+Hrān	Северный олень
+Stānhencg	Стоунхендж
+Ágreda	Агреда
+Amazonas	Амазонас
+Ajaccio	Аяччо
+Rodorcræft	Космический аппарат
+Lisa Gerrard	Джеррард, Лиза
+Thirty Seconds to Mars	Thirty Seconds to Mars
+Paulínia	Паулиния
+Pierre	Пирр (Южная Дакота)
+Crabba	Крабы
+God Nerie þā Cwēne	Гимн Великобритании
+Meteūtsiht	Диарея
+Anna Maria Jopek	Йопек, Анна Мария
+Horshwæl	Морж
+Fōrhēafod	Лоб
+Haile Selassie	Хайле Селассие I
+Caðum	Кан (Нормандия)
+Sonygegyld	Sony
+Mynet	Монета
+Sūðerne Healftrendel	Южное полушарие
+Cnihtas þæm Temple	Тамплиеры
+Americanisc fōtball	Американский футбол
+Tōþsticca	Зубочистка
+Folcmorðor	Геноцид
+Hociȝ	Хоккей с шайбой
+Swīnmūþa	Свиноуйсьце
+Īrisc Sǣ	Ирландское море
+Tracia	Фракия
+Mongolas	Монголы
+Mǣs	Маас
+Talcahuano	Талькауано
+Tahitīeg	Таити
+Ontynung	Откровение Иоанна Богослова
+Abel Tasman	Тасман, Абел Янсзон
+Gotan	Готы
+Nettfrumfindend	URL
+Ænglisc sprǣc	Древнеанглийский язык
+Englisc folc	Англичане
+Eoforwic	Йорк
+Iron Maiden	Iron Maiden
+Asterix	Астерикс (комикс)
+Grǣg	Серый цвет
+Wearm geard	Тропики
+Hwælhuntoþ	Китобойный промысел
+Sǣcū	Ламантины
+Gregorius Pāpa I	Григорий I (папа римский)
+Cȳta (lyftcræft)	Воздушный змей
+Þunor	Тор (мифология)
+Castel Goffredo	Кастель-Гоффредо
+Roðos	Родос
+Sanct	Святой
+Wikipǣdia:FAQ	Википедия:ЧАВО
+Galatasaray	Галатасарай (спортивное общество)
+Cycene	Кухня (помещение)
+Wæterdraca	Настоящие крокодилы
+Hlæstwægn	Грузовой автомобиль
+Carl Wēala Þēoden	Чарльз, принц Уэльский
+Villeneuve-d'Ascq	Вильнёв-д’Аск
+Crāwe	Вороны
+Sūþtun on Defnum	Плимут (Англия)
+Bryttisca Indisca Garsecg Landscipe	Британская территория в Индийском океане
+Dēoraby	Дерби (Англия)
+Francan	Франки
+Fealcen	Соколы
+Nightwish	Nightwish
+Mattheus se Godspellere	Левий Матфей
+Mac OS	Mac OS
+Leyden	Лейден
+Fiðerlēasere	Киви (птица)
+Montehermoso	Монтеермосо
+Louis the Pious	Людовик I Благочестивый
+Cwēnsǣ	Белое море
+Jim Morrison	Моррисон, Джим
+GNOME	GNOME
+Hāt	Теплота
+Spere	Копьё
+Charleston (Westvirginia)	Чарлстон (Западная Виргиния)
+Mynster	Монастырь
+Oxnaford Englisc Wordbōc	Оксфордский словарь английского языка
+Carl XVI Gustaf Swēona Cyning	Карл XVI Густав
+Świętochłowice	Свентохловице
+Nile	Нил (значения)
+Zac Efron	Эфрон, Зак
+Monte Carlo	Монте-Карло
+Elba	Эльба (остров)
+The Doors	The Doors
+Fylfōt	Свастика
+Hara	Зайцы (род)
+Rīcisc edisc	Национальный парк
+Boga	Лук (оружие)
+Byrdling	Сухопутные черепахи
+Bryttisc landbūnes	Британские заморские территории
+Brūn	Коричневый цвет
+Hjaltland	Шетландские острова
+Byrddæg	День рождения
+Æx-in-Profentse	Экс-ан-Прованс
+Gaza	Газа
+Īsbeorg	Айсберг
+Ephese	Эфес (город)
+Englisc wera rīcisc fōtballtēam	Сборная Англии по футболу
+Pratibha Patil	Патил, Пратибха
+Minte	Мята
+Spilcarte	Игральные карты
+Bysen:Commonscat	Шаблон:Commonscat
+Hālig Land	Святая земля
+Folcland Gewinn	Фолклендская война
+Beadu be Culme	Сражение под Кульмом
+Bēowulf	Беовульф
+Marīahæfen	Мариехамн
+Hrǣw	Труп
+IOS	IOS
+Lee Harvey Oswald	Освальд, Ли Харви
+Frumtæl	Простое число
+Þ	Торн (буква)
+Orlando	Орландо (Флорида)
+Saint Petersburg	Сент-Питерсберг (Флорида)
+Hereðaland	Хордаланн
+Sogn and þa Flēotas	Согн-ог-Фьюране
+Meore and Romsdæl	Мёре-ог-Ромсдал
+Troms	Тромс
+Dǣlere	Делимость
+Australisc fōtþōðer	Австралийский футбол
+Secglēac	Лук скорода
+Stānweall sacunga	Стоунволлские бунты
+Providencia (Cile)	Провиденсия (Чили)
+Punta Arenas	Пунта-Аренас
+Aaron	Аарон
+Wu-Tang Clan	Wu-Tang Clan
+Osgar I Swēona Cyning	Оскар I
+Hwēolrinnung	Велосипедный спорт
+Aquilegia	Аквилея
+Hyll	Холм
+Flocc:Cyningas	Категория:Короли
+Beorneslēah	Барнсли
+Soria (scīr)	Сория (провинция)
+San Carlos (on Cilan)	Сан-Карлос (Чили)
+El Royo	Эль-Ройо
+Harold V Norrena Cyning	Харальд V
+Þēodlic Dæg	Национальный праздник
+John Key	Кей, Джон
+Ēadweard I Engla Cyning	Эдуард I
+Vladimír Franz	Франц, Владимир
+Ariel Sharon	Шарон, Ариэль
+1050e	1050-е годы
+Æneid	Энеида
+Forma Frencisce Rīce	Первая империя
+Brādford	Бредеворт
+Se Holbytla	Хоббит, или Туда и обратно
+Eocene	Эоцен
+Strǣt	Улица
+Superman	Супермен
+Heorotbrēr	Жостер
+Wikipǣdia:Fulgōdra gewrita teohhunga	Википедия:Кандидаты в избранные статьи
+Wikipǣdia:Gōd gewrit genamunga	Википедия:Кандидаты в хорошие статьи
+Rætswīn	Морская свинка
+Iconium	Конья
+Emma Goldman	Гольдман, Эмма
+Iacobus I Grēatre Bryten Cyning	Яков I (король Англии)
+Crīstcirice	Крайстчерч
+Coronel Fabriciano	Коронел-Фабрисиану
+Babsk	Бабск
+Englisca Ingewinn	Английская революция
+Bengal	Бенгалия
+Morgenmete	Завтрак
+1060e	1060-е годы
+Pippen III Francena Cyning	Пипин Короткий
+Carl I (Grēatre Bryten Cyning)	Карл I (король Англии)
+Ȝealdor/ᚷᛖᚪᛚᛞᚩᚱ	Магия
+Cucler	Ложка
+Geþofted Rīcu American	Конфедеративные Штаты Америки
+Elpendbān	Слоновая кость
+Villarrobledo	Вильярробледо
+Temuco	Темуко
+Hloðwic I Francena Cyning	Хлодвиг I
+William Wallace	Уоллес, Уильям
+Bundesliga	Чемпионат Германии по футболу
+Fȳrland	Огненная Земля (архипелаг)
+Frēols þǣre Sunnan (on Meridan)	Ферия дель Соль
+Maria I Engla Cwēn	Мария I (королева Англии)
+Angelcirice	Церковь Англии
+Fuþorc	Руны
+Lēactric	Латук посевной
+Beadu Hǣstingum	Битва при Гастингсе
+Ēadweard VI Engla Cyning	Эдуард VI
+Jacques-Yves Cousteau	Кусто, Жак-Ив
+Horatio Nelson	Нельсон, Горацио
+Galilēa	Галилея
+Gaderscypefāna	Флаг Великобритании
+Foldlic clūt	Литосфера
+Þunor (weder)	Гром
+Þūma	Большой палец
+Ælfrēd Micela	Альфред Великий
+Hāmlǣrung	Домашнее обучение
+Teutoburg Weald Beadu	Битва в Тевтобургском лесу
+Bysen:Cite book	Шаблон:Cite book
+O Canada	Гимн Канады
+Biobío	Био-Био (река)
+Orcanege	Оркнейские острова
+Profentse	Прованс
+Predore	Предоре
+Seaxe	Саксы
+Willelm II Engla Cyning	Вильгельм II (король Англии)
+Limburgisc	Лимбургский язык
+Eallerīca Gotena Cyning	Аларих I
+Tygelwīg	Перетягивание каната
+Boētius	Боэций
+Hunigbēo	Медоносные пчёлы
+Abbod	Аббат
+Mæcedonia	Македония (область)
+Sameramis	Семирамида
+Pīp	Курительная трубка
+Aerosol	Аэрозоль
+Gangnihessou	Гангнихессу
+Ilfingburg	Эльблонг
+Mierce	Мерсия
+Þēodrīc Ēastgotena Cyning	Теодорих Великий
+Westseaxena Rīce	Уэссекс
+Hēahland	Северо-Шотландское нагорье
+Norþhymbra Rīce	Нортумбрия
+Wulfila	Вульфила
+Bram Stoker's Dracula	Дракула (фильм, 1992)
+Angeow	Анжу (область)
+2011 FIFA Frēona Woruldceampscipe	Чемпионат мира по футболу среди женщин 2011
+Alexander VI Pāpa	Александр VI
+Æppellēaf	Фиалка душистая
+Mexiciscu rīce	Административное деление Мексики
+Edward Braddock	Брэддок, Эдвард
+Cethāmīga	Чатем (архипелаг)
+Norþīg	Северный (остров, Новая Зеландия)
+Anne Cwēn	Анна (королева Великобритании)
+Sūþīeg	Южный (остров, Новая Зеландия)
+Dziecinów	Дзецинув (Отвоцкий повят)
+Sunnstede	Солнцестояние
+Wynton Rufer	Руфер, Уинтон
+Regnwyrm	Земляные черви
+Kara	Kara
+Ceadmere	Чад (озеро)
+Getalu Rōmāniscra Cāsera	Список римских императоров
+Heantun	Вулвергемптон
+Wascas	Баски
+Minerva	Минерва
+Fȳræg	Бомба
+Ashley Tisdale	Тисдейл, Эшли
+Þrondham	Трёнделаг
+Nīwe Woruld	Новый Свет
+Fȳrweorc	Фейерверк
+Æsc	Ясень
+Galwæg	Голуэй
+Ēadweard Andettere	Эдуард Исповедник
+Hramsa	Черемша
+Scīdfarung	Лыжный спорт
+World of Warcraft	World of Warcraft
+Byrig þāra Geāndena Rīca	Список городов США с населением более 100 тысяч жителей
+Nemniendlic cāsus	Именительный падеж
+Folcawanderung	Великое переселение народов
+Slayer	Slayer
+Biliþ and lēoþcræft	Живопись и поэзия
+Maria Scotta Cwēn	Мария Стюарт
+Indisc rīce	Штаты и территории Индии
+Scield	Щит
+Henry V Englalandes	Генрих V (король Англии)
+Sciþþia	Скифы
+Sceanca	Нога человека
+Pulgare	Болгары
+Lyftscip	Дирижабль
+Cnut se Micela	Кнуд Великий
+Saturnus	Сатурн (мифология)
+Exanceaster	Эксетер
+Sanctes Laurentes Ēa	Река Святого Лаврентия
+Mundlēow	Раковина (сантехника)
+Sūþhjaltland	Южные Шетландские острова
+Cartespil	Карточная игра
+Iscimbag	Ишимбай
+Basu Heorte	Пурпурное сердце (медаль)
+Marianburg	Мальборк
+Rudno	Рудно (Малопольское воеводство)
+Rosseg	Мейнленд (Оркнейские острова)
+Carl Fǣtta Francena Cyning	Карл III Толстый
+Þēodisc Āþbēorscipe	Германский союз
+Wikipǣdia:How to edit a page	Википедия:Как править статьи
+Cantwarabyrig eorþbeofung 2011.	Землетрясение в Крайстчерче (февраль 2011)
+Eorðæppelstycce	Картофель фри
+Rīnland	Рейнская область
+Eormengyld Tybingenes	Тюбингенский университет
+Blōdmearh	Кровяная колбаса
+Midsumor	Праздник летнего солнцестояния
+Timborwyrhta	Плотник
+Anlaf V Norrena Cyning	Улаф V
+Ēadweard Westseaxna Eorl	Эдуард, граф Уэссекский
+Hacun VII Norrena Cyning	Хокон VII
+Ecgbryht	Эгберт (король Уэссекса)
+Earnulf Carendran	Арнульф Каринтийский
+Bēda	Беда Достопочтенный
+Laplandes Gūþ	Лапландская война
+Willelm-Alexander Niðerlanda Cyning	Виллем-Александр
+Bredspearctellend	Планшетный компьютер
+Mathusal	Мафусаил
+Bægware	Бавары
+Europisc wild gingifer	Копытень европейский
+Bēowyrt	Аир обыкновенный
+Pontcysyllte Wætertyge	Акведук Понткисиллте
+Universidade Federal da Bahia	Университет штата Баия
+Nēohwæl	Нарвал
+Ajman	Аджман (эмират)
+Harold Godwinson	Гарольд II Годвинсон
+Ȳþrīdung	Сёрфинг
+Brū	Ресница
+Port:Stǣr	Флаг Таджикистана
+Kiæresburh	Шербур-Октевиль
+Bresl	Брецель
+CONCACAF	КОНКАКАФ
+Mentha arvensis	Мята полевая
+Searoburg	Солсбери (Англия)
+Lunden Ēage	Лондонский глаз
+Valdivia	Вальдивия
+Pachuca de Soto	Пачука-де-Сото
+Crāwlēac	Лук виноградничный
+Balsminte	Мята водная
+Dweorgedosle	Мята болотная
+Landbūnes	Зависимая территория
+Rēadingas	Рединг (Англия)
+Mængo	Манго (растение)
+Grēate Bryten Cynerīce	Королевство Великобритания
+Brōcminte	Мята длиннолистная
+Iane Grey Hlæfdige	Джейн Грей
+Charmed	Зачарованные
+Grammatisc cyn	Род (лингвистика)
+Nica Ūphebbung	Ника (восстание)
+Sihþ	Зрение человека
+Brycgāðexe	Гаттерия
+Hetware	Хатты (германское племя)
+Americanisc wera rīcisc fōtballtēam	Сборная США по футболу
+Maywood, Illinois	Мэйвуд (Иллинойс)
+Þrēo Coreaniscu Cynerīcu	Три корейских государства
+Feðer (blæces)	Ручка (канцелярия)
+Pening	Пфенниг
+Bryttisca Antarctisca Landscipe	Британская антарктическая территория
+Starcraft	StarCraft
+Seofon dēadlica synna	Главные грехи
+Zavodovski-īeg	Заводовский
+Finger	Средний палец
+Midwearme geardas	Умеренный климат
+Angleseg	Англси
+Niðerseaxisc sprǣc	Нижнесаксонские диалекты
+Māse	Синицевые
+Caselle Landi	Казелле-Ланди
+Penwiðsteort	Лендс-Энд
+Ratchet & Clank	Ratchet & Clank (игра)
+Æðelstān Engla Cyning	Этельстан
+Ras al-Khaimah	Рас-эль-Хайма (эмират)
+Elene Constantinoples	Елена Равноапостольная
+Nintendo DS	Nintendo DS
+Ēse	Асы
+Nīwe Francland	Новая Франция
+Englalandes Fana	Флаг Англии
+Cyclades	Киклады
+Trafalgar Sǣfeoht	Трафальгарское сражение
+Iosephine Francena Caserin	Жозефина Богарне
+Sōlate	Подсолнечник однолетний
+Cynelica Sciphere	Королевский военно-морской флот Великобритании
+Inbærnes	Ладан
+Difelinscīr	Дублин (традиционное графство)
+Æppelcyrnel (wǣpen)	Граната
+Helm	Каска
+Umm Al Quwain	Умм-эль-Кайвайн (эмират)
+Nīwes Sǣlandes þēodlīc fōtþōðerhēap	Сборная Новой Зеландии по футболу
+Ingang:Stǣr	Портал:История
+The Oval	Овал (стадион, Белфаст)
+2010 FIFA Woruldceampscipe	Чемпионат мира по футболу 2010
+Sunu	Сын
+Caltojar	Кальтохар
+Grīpfealcen	Кречет
+Snāwbordfarung	Сноуборд (вид спорта)
+Ōsgeard	Асгард
+Glīdflēogung	Параплан
+Mageoscīr	Мейо (графство)
+Berlanga de Duero	Берланга-де-Дуэро
+Blizzard Entertainment	Blizzard Entertainment
+Gerinnung	Свёртывание крови
+Dofras	Дувр
+Cannae Beadu	Битва при Каннах
+Herenuma	Плен
+Dȳfung	Дайвинг
+Daguerreotype	Дагеротипия
+Dūnholm	Дарем
+Þrēotīene Landbūnessa	Тринадцать колоний
+Brenda Song	Сонг, Бренда
+Lincoln	Линкольн (Англия)
+Syllīega	Силли
+Smallville (TV endebyrdnes)	Тайны Смолвиля
+Helen Clark	Кларк, Хелен Элизабет
+Būr	Комната
+Wēala Þēoden	Принц Уэльский
+Scōnīeg	Сконе (провинция)
+Milanes Bann	Миланский эдикт
+Francforta	Хот-дог
+Gelocen boge	Арбалет
+Meremægden	Морская дева
+Wichlawscīr	Уиклоу (графство)
+Striuelin	Стерлинг (Шотландия)
+Æðelred Unrǣd	Этельред Неразумный
+Twentig Þūsend Lēowena Under þǣm Sǣ	Двадцать тысяч льё под водой
+Baius	Байё
+Ballōn (lyftcræft)	Воздушный шар
+Colneceaster	Колчестер
+Meodu	Медовые напитки
+Met (Grammaticcræft)	Наклонение (лингвистика)
+Sǣelpend	Морские слоны
+Grytviken	Грютвикен
+Fox News	Fox News Channel
+Brīw	Каша
+Ēadweard se Ieldra	Эдуард Старший
+Iþacige	Итака (остров)
+Baius tæpped	Гобелен из Байё
+San Fabián de Alico	Сан-Фабиан (Чили)
+Montréal Canadiens	Монреаль Канадиенс
+Underburg	Пригород
+Sharjah	Шарджа (эмират)
+Antrimscīr	Антрим (графство)
+Vigdís Finnbogadóttir	Вигдис Финнбогадоттир
+Final Fantasy	Final Fantasy
+Norrena Cyning	Список королей Норвегии
+Westmynster	Вестминстер
+Ēadmund Æðeling	Эдмунд I
+Rachel McAdams	Макадамс, Рэйчел
+Fermanagh	Фермана
+Dūnscīr	Даун (графство)
+E Pluribus Unum	E pluribus unum
+Foresittend Franclandes	Президент Франции
+New Jersey Devils	Нью-Джерси Девилз
+Philadelphia Flyers	Филадельфия Флайерз
+Yun Chi-ho	Юн Чхи Хо
+Sancte Elene Īeg, Upstigeīeg and Tristan da Cunha	Острова Святой Елены, Вознесения и Тристан-да-Кунья
+Tirowen	Тирон (графство)
+Jack Ruby	Руби, Джек
+Ardmachusscīr	Арма (графство)
+Scene	Шаннон (река)
+Wīnland	Винланд
+Venom (trūðhlōð)	Venom
+Luel	Карлайл (Англия)
+Ēadgar Engla Cyning	Эдгар (король Англии)
+Kea	Кеа
+Itumbiara	Итумбиара
+A Night at the Opera	A Night at the Opera (альбом Queen)
+Queen (album)	Queen (альбом)
+Þunres Hamor	Мьёльнир
+Oben am jungen Rhein	Гимн Лихтенштейна
+Guinness	Гиннесс
+Łobez	Лобез
+Liðere	Праща
+Thomas Cranmer	Кранмер, Томас
+Tawpomere	Таупо (озеро)
+Universidad de Concepción	Университет Консепсьон
+Hameldūn (Nīwe Sǣland)	Гамильтон (Новая Зеландия)
+Stǣr þǣre Worulde	Всемирная история
+Rēad wulf	Рыжий волк
+Normandisca Forcyme	Нормандское завоевание Англии
+Vitacura	Витакура
+Yungay	Юнгай (Чили)
+Fif Scīr	Файф
+Carolina Hurricanes	Каролина Харрикейнз
+Nebrond	Нимрод
+Tampa Bay Lightning	Тампа Бэй Лайтнинг
+Scrobbesburh	Шрусбери
+Fæger hǣr	Блондины
+Napier (Nīwe Sǣland)	Нейпир
+Myrra	Мирра (смола)
+Harold III Norrena Cyning	Харальд III Суровый
+Fisc and styccu	Рыба и чипсы
+Middeltūn þǣra de Cahaignes	Милтон-Кинс
+Florida Panthers	Флорида Пантерз
+Washington Capitals	Вашингтон Кэпиталз
+Īrisc fōtþōðer	Гэльский футбол
+Nīwes Sǣlandes Þēodlic Stēormǣlhēap	Национальная партия Новой Зеландии
+West Loðene	Западный Лотиан
+Lonceaster	Ланкастер
+Sūþalpis	Южные Альпы (Новая Зеландия)
+Midloðene	Мидлотиан
+Neamere	Лох-Ней
+Wyrt	Зелень
+Maðante	Мант-ла-Жоли
+Ēast Loðene	Восточный Лотиан
+Fermat tæl	Числа Ферма
+Clackmannanscīr	Клакманнаншир (область)
+Liccidfeld	Личфилд
+Sūþorcanege	Южные Оркнейские острова
+Rænkīnes hātȝemet	Градус Ранкина
+Se Fēolagascipe þæs Hringes	Братство Кольца
+Cod	Тресковые
+Gold (bleoh)	Золотой цвет
+Holstānburg	Сисимиут
+Micel Ficgīeg	Вити-Леву
+Wrenna	Крапивниковые
+Ciricewæl	Керкуолл
+1984 (bōc)	1984 (роман)
+Folcaþing	Фолькетинг
+Underset gamen	Дополнение (компьютерные игры)
+Elig	Или (Англия)
+Getalu burga in Þēodsclande	Города Германии
+Innuendo	Innuendo
+Concepcion Hēafodcirice	Собор Непорочного Зачатия Пресвятой Девы Марии (Консепсьон, Чили)
+The Game	The Game (альбом Queen)
+Bancorena burg	Бангор
+Gēol	Йоль
+Washington Redskins	Вашингтон Редскинз
+Swīma	Головокружение
+Ægelesburg	Эйлсбери
+Tristania	Tristania
+Wuldor	Улль
+Ēsatrēowþ	Асатру
+Lāmwic	Леруик
+Westgeatland	Вестергётланд
+Rosenrot	Rosenrot (альбом)
+Wīcinga Ieldu	Эпоха викингов
+Victory (scip)	HMS Victory (1765)
+Sihhem	Наблус
+Beatrix Potter	Поттер, Беатрис
+Ēadgar Æðeling	Эдгар Этелинг
+Grēat Rōmisc Fȳr	Великий пожар Рима
+Mann	Личность
+Tollund wer	Человек из Толлунда
+Hēapplega	Командные виды спорта
+Levanger	Левангер
+Violetta Villas	Виолетта Виллас
+Ynce	Дюйм
+Gearwung (plega)	Физические упражнения
+Diablo (gamen)	Diablo (игра)
+Anggun	Анггун
+Verizon Center	Верайзон-центр
+Wīfa rihta forðung	Права женщин
+Apaxco	Апаско
+Cham	Хам
+Zune	Zune
+Nettþōðer	Нетбол
+Lox	Lynx (значения)
+In	IN
+Diablo	Diablo
+Wiltūn	Уилтон
+Roanoke	Роанок (значения)
+Cnut	Кнуд
+Acan tūn	Актон (значения)
+Eormengyld Ciles	Чилийский университет
+Sēremōnaþ 2007	Июнь 2007 года
+Offa Miercna Cyning	Оффа (король Мерсии)
+Mǣdmōnaþ 2006	Июль 2006 года
+Mǣdmōnaþ 2007.	Июль 2007 года
+Wēodmōnaþ 2007	Август 2007 года
+Engel	Ангел
+Sasha Cohen	Коэн, Саша
+Rachael Taylor	Тейлор, Рэйчел
+Æðelflǣd	Этельфледа Мерсийская
+Pat Benatar	Бенатар, Пэт
+Michelle Kwan	Кван, Мишель
+Wæstm	Сельскохозяйственные культуры
+Beate Eriksen	Эриксен, Бэате
+Berhte Cent Cwēn	Берта Кентская
+D.C. United	Ди Си Юнайтед
+Eowland	Эланд
+Starcraft II	StarCraft II: Wings of Liberty
+Allan Kardec	Аллан Кардек
+Deadache	Deadache
+Diablo III	Diablo III
+Sceadu (gyden)	Скади
+Diablo II	Diablo II
+Atlanta Thrashers	Атланта Трэшерз
+The God Delusion	Бог как иллюзия
+Canadisc fōtþōðer	Канадский футбол
+Hæstingas (missenlīc gewritu)	Гастингс (значения)
+Ealra Hālgena Ǣfen	Хэллоуин
+Ēostre	Остара
+Sūþtun	Саттон (значения)
+Weorcdæg	Рабочее время
+Leðerhosu	Ледерхозе (одежда)
+Bān	Кость
+7 World Trade Center	Всемирный торговый центр 7
+Vampire Knight	Рыцарь-Вампир
+Wēodmōnaþ 2006	Август 2006 года
+Ælfrīc Abbod of Egoneshame	Эльфрик Грамматик
+Ælle Sūþseaxna cyning	Элла (король Сассекса)
+Æðelbald West-Seaxna Cyning	Этельбальд (король Уэссекса)
+Æðelrǣd	Этельред I (король Мерсии)
+Æðelstān	Этельстан (значения)
+Ælfweard West-Seaxes	Этельвирд
+Bēagel	Бейгл
+Rēcels	Благовония
+Ūtwyrp	Радиовещание
+Iapanisc āttorcopplic crabba	Японский краб-паук
+Woruldlic Gemōt þāra Ciricena	Всемирный совет церквей
+Blæcesburg, Virginia	Блэксберг (Виргиния)
+Dūnhēafod	Лонстон
+Ériu	Эриу
+Marjorie Estiano	Маржори Эстиано
+Ítróttarfelag Fuglafjarðar	Фуглафьёрдур (футбольный клуб)
+Oresundes brycg	Эресуннский мост
+Ieshaiah	Исаия (значения)
+Denegield	Датские деньги
+Vadillo	Вадильо
+Dohtor	Дочь
+Spell Twēgra Burga	Повесть о двух городах
+Morbid Angel	Morbid Angel
+John Ashcroft	Эшкрофт, Джон Дэвид
+Alexander Ovechkin	Овечкин, Александр Михайлович
+Orosius	Павел Орозий
+Alexis Tsipras	Ципрас, Алексис
+Dufenal I Scotta	Дональд I (король Шотландии)
+Constontinus I Scotta Cyning	Константин I (король Шотландии)
+Joseph Serchuk	Серчук, Йозеф
+Seolfor (bleoh)	Серебряный цвет
+Babez for breakfast	Babez for Breakfast
+Philip Jaisohn	Со Джэпхиль
+Widukind	Видукинд Саксонский
+Wælheall Herig	Вальхалла (зал славы)
+Æbbandūn	Абингдон (Англия)
+Law & Order	Закон и порядок
+Westmannland	Вестманланд (провинция)
+Hengest	Хенгист Кентский
+Moretoin	Мортен (город)
+Leaves' Eyes	Leaves’ Eyes
+Corn Flakes	Кукурузные хлопья
+Amol	Амоль
+Penda Miercna Cyning	Пенда (король Мерсии)
+Dūnstān	Дунстан (архиепископ Кентерберийский)
+Mælcolm II Scotta Cyning	Малькольм II
+Ēadgar Scotta Cyning	Эдгар (король Шотландии)
+Constontinus II Scotta Cyning	Константин II (король Шотландии)
+Pak Hon-yong	Пак Хон Ён
+Americanisc frēona rīcisc fōtballtēam	Женская сборная США по футболу
+Obituary	Obituary
+Mǣdmōnaþ 2005	Июль 2005 года
+Winterfylleþ 2005	Октябрь 2005 года
+Berserca	Берсерк
+Minoru Yamasaki	Ямасаки, Минору
+Īslendisc stæfrǣw	Исландский алфавит
+Canceler	Канцлер
+Almaluez	Альмалуэс
+Pulgara Cyning	Правители Болгарии
+Cuneglæsse	Чернокорень лекарственный
+Ēadmund se Martyr	Эдмунд (король Восточной Англии)
+Australisca Witenagemōt	Парламент Австралии
+Lao	Лао
+Wīfel	Куркулионоидные
+Agalloch	Agalloch
+Godspell Mattheus	Евангелие от Матфея
+Ēadmund	Эдмунд
+Ajattara	Ajattara
+James Ēa	Джеймс (река)
+Ȝ	Ȝ
+Nazarēth	Назарет
+Rise of Nations	Rise of Nations
+Geþingedōm	Области Шотландии
+Getalu Smallville-belimpdǣla	Список эпизодов телесериала «Тайны Смолвиля»
+Kwara Rīce	Квара
+Windlesōra	Виндзор
+Ēastermōnaþ 2005	Апрель 2005 года
+Caroline Zhang	Чжан, Кэролайн
+America's Cup	Кубок Америки (регата)
+Wīnlendisc cystel	Каштан американский
+Rædwald Ēastengla Cyning	Редвальд
+Ēadbald	Эдбальд
+Oswiu Norþhymbra Cyning	Освиу
+Brian Jacques	Джейкс, Брайан
+Paramore	Paramore
+Recedham	Рочдейл
+Illative cāsus	Иллатив
+Herelic munucregol	Духовно-рыцарский орден
+Ǣȝhnōg	Эгг-ног
+Coritiba Foot Ball Club	Коритиба
+Tansonnhates Geondrīciscum Lyfthæfene	Таншоннят
+Þresc stīele	Трэш-метал
+The Chronicles of Narnia	Хроники Нарнии
+Aliud	Альюд
+Iacub Colas	Якуб Колас
+Baraona	Бараона
+James Hetfield	Хетфилд, Джеймс Алан
+Keane	Keane
+Medinaceli	Мединасели
+Láchar	Лачар
+Burgo de Osma-Ciudad de Osma	Бурго-де-Осма-Сьюдад-де-Осма
+Suellacabras	Суэльякабрас
+Yanguas	Янгуас
+Get Heavy	Get Heavy
+Pensacola	Пенсакола (Флорида)
+The Arockalypse	The Arockalypse
+Anath	Анат
+San Esteban de Gormaz	Сан-Эстебан-де-Гормас
+The Monsterican Dream	The Monsterican Dream
+Barbourscīr, Westvirginia	Барбур (округ, Западная Виргиния)
+Duval Scīr, Florida	Дувал (округ, Флорида)
+Hāmtūnscīr Scīr, West Virginia	Хэмпшир (округ, Западная Виргиния)
+Samsung Galaxy Note	Samsung Galaxy Note
+Perfume	Perfume
+Park Jung-yang	Пак Чжон-ян
+Beadu Cealdre Hȳðe	Сражение при Колд-Харбор
+Rōwrenoc (Virginia)	Роанок (Виргиния)
+Sūþtūn Hōh	Саттон-Ху
+Tuidi	Туид (река)
+Sǣbeorg	Подводная гора
+Dornwaraceaster	Дорчестер
+Chris Pratt	Прэтт, Крис
+Walhshalh	Уолсолл
+Bēdesford, Virginia	Бедфорд (Виргиния)
+Ēadƿeard Æðeling Scīr, Virginia	Принс-Эдвард (округ, Виргиния)
+Angul	Ангельн
+Fiðele	Народная скрипка
+Cañamaque	Каньямаке
+Cambihtuc	Корелла
+Navaleno	Навалено
+Hwælsang	Песни китов
+Dasaratha Maurya	Дашаратха (династия Маурьев)
+Þrīnessunnandæg	День Святой Троицы (римский обряд)
+Brecenscīr	Брекнокшир
+Anna Ēastengla Cyning	Анна (король Восточной Англии)
+Simeon Varlamov	Варламов, Семён Александрович
+Debauchery	Debauchery
+Wettersteinplatz	Веттерштайнплац (станция метро)
+Niht (gyden)	Нотт
+Trévago	Треваго
+Tamer	Теймар (река, Великобритания)
+JavaScript weorcsearu	Движок JavaScript
+Dévanos	Деванос
+Læland	Лолланн
+Bukan	Букан
+God Hates Us All	God Hates Us All
+Gemǣne Rīca of Australie	Генерал-губернатор Австралии
+Ælmer	Эйлмер Малмсберийский
+Grahamland	Земля Грейама
+Wikipǣdia:Sceortpæþ	Википедия:ВП
+Ólvega	Ольвега
+Mirai Nagasu	Нагасу, Мирай
+Eormengyld Juraj Dobrila on Pula	Университет Пулы
+Scieppend	Бог-Творец
+Dopenid	Лысухи
+Swearttægelhara	Чернохвостый заяц
+Sybelhūs on Lundne	Банкетинг-хаус
+Beadu þæs Bogn	Битва на реке Бойн
+Puebla FC	Пуэбла (футбольный клуб)
+MorphOS	MorphOS
+Minga Guazú	Минга-Гуасу
+Atari Jaguar	Atari Jaguar
+Smallville (Gēar 4)	Тайны Смолвиля (четвёртый сезон)
+Hēffe Wehbig	Вахби, Хайфа
+Magaña	Маганья
+Ulfretūn	Ньюбери (Англия)
+Tæppa	Трубопроводный кран
+Smallville (Gēar 3)	Тайны Смолвиля (третий сезон)
+Tīdunghēap	Группа новостей
+Nile (trūðhlōð)	Nile
+Ilfing	Эльблонг (река)
+Scēaþ	Ножны
+Stǣr Angelþēode ciricean	Церковная история народа англов
+Rēan	Ран (мифология)
+Tæfingstoc	Тависток
+Negombo	Негомбо
+Centenera de Andaluz	Сентенера-де-Андалус
+Þrimilcemōnaþ 2005	Май 2005 года
+Blecinga īeg	Блекинге (провинция)
+Lox (catte)	Рыси
+Lǣden-ofgangena stæfrǣwa	Алфавиты на основе латинского
+Æfterra Gēola 2005.	Январь 2005 года
+Hoym	Хойм
+Hude (Oldenburg)	Худе (Ольденбург)
+World of Warcraft: Wrath of the Lich King	World of Warcraft: Wrath of the Lich King
+Ambihtlicu Cīnisc sprǣc	Путунхуа
+Mans	Графство Мэн
+Hwicce	Хвикке
+Falster	Фальстер
+Janus (Windows beta)	Windows 3.x
+Ealdfriþ	Элдфрит
+Difelinburg	Дублинский замок
+SOX leoht-fæt	Натриевая газоразрядная лампа
+Madrynhȳð	Пуэрто-Мадрин
+Solmōnaþ 2005	Февраль 2005 года
+Hāligmōnaþ 2005	Сентябрь 2005 года
+Wuduhen	Пастушок-уэка
+Gawain and se Grēna Cniht	Сэр Гавейн и Зелёный Рыцарь
+Maroare	Моравы
+Chrono Trigger	Chrono Trigger
+Antônio Fagundes	Фагундес, Антонио
+Télépopmusik	Télépopmusik
+Bloomesdæg	Блумсдэй
+Banffscīr	Банфшир
+Bardanstapol	Барнстапл
+Bellingshausenīeg	Остров Беллинсгаузена
+Wedrebi	Уэзерби
+Adreminte	Пижма девичья
+Stæfford	Стаффорд
+Almarza	Альмарса
+Aldealices	Альдеалисес
+Aldealafuente	Альдеалафуэнте
+Alentisque	Алентиске
+Adradas	Адрадас
+Alconaba	Альконаба
+Abejar	Абехар
+Almajano	Альмахано
+Arenillas	Аренильяс
+Aldealpozo	Альдеальпосо
+Alcubilla de las Peñas	Алькубилья-де-лас-Пеньяс
+Aldealseñor	Альдеальсеньор
+Alcubilla de Avellaneda	Алькубилья-де-Авельянеда
+Covaleda	Коваледа
+Casarejos	Касарехос
+Cerbón	Сербон
+Calatañazor	Калатаньясор
+Almazul	Альмасуль
+Cidones	Сидонес
+Besliwdifca	Безлюдовка
+Alpanseque	Альпансеке
+Arcos de Jalón	Аркос-де-Халон
+Aldehuela de Periáñez	Альдеуэла-де-Перианьес
+Beratón	Бератон
+Almenar de Soria	Альменар-де-Сория
+Maján	Махан (Сория)
+Coscurita	Коскурита
+Barcones	Барконес
+Castilfrío de la Sierra	Кастильфрио-де-ла-Сьерра
+Castilruiz	Кастильруис
+Miño de Medinaceli	Миньо-де-Мединасели
+Vinuesa	Винуэса
+Cigudosa	Сигудоса
+Candilichera	Кандиличера
+Ausejo de la Sierra	Аусехо-де-ла-Сьерра
+Carabantes	Карабантес (Сория)
+Soliedra	Сольедра
+Taroda	Тарода
+Nepas	Непас
+Valtajeros	Вальтахерос
+Arévalo de la Sierra	Аревало-де-ла-Сьерра
+Pozalmuro	Посальмуро
+Cabrejas del Pinar	Кабрехас-дель-Пинар
+Villasayas	Вильясаяс
+Cubilla	Кубилья
+Castillejo de Robledo	Кастильехо-де-Робледо
+Escobosa de Almazán	Эскобоса-де-Альмасан
+Estepa de San Juan	Эстепа-де-Сан-Хуан
+Carrascosa de la Sierra	Карраскоса-де-ла-Сьерра
+Las Aldehuelas	Лас-Альдеуэлас
+Bayubas de Arriba	Баюбас-де-Арриба
+Borobia	Боробия
+Bliecos	Бльекос
+Buberos	Буберос
+Muriel Viejo	Мурьель-Вьехо
+Oncala	Онкала
+Fuentecambrón	Фуэнтекамброн
+Cabrejas del Campo	Кабрехас-дель-Кампо
+Frechilla de Almazán	Фречилья-де-Альмасан
+Ergo Proxy	Эрго Прокси
+Valdelagua del Cerro	Вальделагуа-дель-Серро
+Ciria	Сирия (Сория)
+Buitrago	Буитраго
+Talveila	Тальвейла
+Salduero	Сальдуэро
+Fuentes de Magaña	Фуэнтес-де-Маганья
+Viana de Duero	Вьяна-де-Дуэро
+Tardelcuende	Тарделькуэнде
+Duruelo de la Sierra	Дуруэло-де-ла-Сьерра
+Bayubas de Abajo	Баюбас-де-Абахо
+Fuentearmegil	Фуэнтеармехиль
+Fuentelmonge	Фуэнтельмонхе
+Rollamienta	Рольямьента
+Villar del Ala	Вильяр-дель-Ала
+Velilla de los Ajos	Велилья-де-лос-Ахос
+Momblona	Момблона
+Fresno de Caracena	Фресно-де-Карасена
+Valdegeña	Вальдехенья
+Velamazán	Веламасан
+Torlengua	Торленгуа
+Fuentecantos	Фуэнтекантос
+Carrascosa de Abajo	Карраскоса-де-Абахо
+Pinilla del Campo	Пинилья-дель-Кампо
+Serón de Nágima	Серон-де-Нахима
+Blacos	Блакос
+Valdeavellano de Tera	Вальдеавельяно-де-Тера
+Narros	Наррос
+Valdeprado	Вальдепрадо
+Borjabad	Борхабад
+Fuentelsaz de Soria	Фуэнтельсас-де-Сория
+San Leonardo de Yagüe	Сан-Леонардо-де-Ягуэ
+Muriel de la Fuente	Мурьель-де-ла-Фуэнте
+Villar del Río	Вильяр-дель-Рио
+Valderrodilla	Вальдерродилья
+Espejón	Эспехон
+Liceras	Лисерас
+Matalebreras	Маталебрерас
+Quintana Redonda	Кинтана-Редонда
+Nafría de Ucero	Нафрия-де-Усеро
+Sotillo del Rincón	Сотильо-дель-Ринкон
+Torrubia de Soria	Торрубия-де-Сория
+Noviercas	Новьеркас
+Tajueco	Тахуэко
+Valdenebro	Вальденебро
+Villaciervos	Вильясьервос
+Villanueva de Gormaz	Вильянуэва-де-Гормас
+Yelo	Ело (Испания)
+Montenegro de Cameros	Монтенегро-де-Камерос
+Ucero	Усеро
+Langa de Duero	Ланга-де-Дуэро
+Quiñonería	Киньонерия
+Villar del Campo	Вильяр-дель-Кампо
+Portillo de Soria	Портильо-де-Сория
+Gormaz	Гормас
+Santa Cruz de Yanguas	Санта-Крус-де-Янгуас
+Villaseca de Arciel	Вильясека-де-Арсьель
+Reznos	Реснос
+Cueva de Ágreda	Куэва-де-Агреда
+Nolay	Нолай
+Cirujales del Río	Сирухалес-дель-Рио
+Caracena	Карасена (Сория)
+Cubo de la Solana	Кубо-де-ла-Солана
+Miño de San Esteban	Миньо-де-Сан-Эстебан
+Fuentestrún	Фуэнтеструн
+Espeja de San Marcelino	Эспеха-де-Сан-Марселино
+Matamala de Almazán	Матамала-де-Альмасан
+La Póveda de Soria	Ла-Поведа-де-Сория
+Los Rábanos	Лос-Рабанос
+Quintanas de Gormaz	Кинтанас-де-Гормас
+Santa María de Huerta	Санта-Мария-де-Уэрта
+San Pedro Manrique	Сан-Педро-Манрике
+Velilla de la Sierra	Велилья-де-ла-Сьерра
+Valdemaluque	Вальдемалуке
+San Felices	Сан-Фелисес
+Renieblas	Реньеблас
+Morón de Almazán	Морон-де-Альмасан
+Los Villares de Soria	Лос-Вильярес-де-Сория
+Torreblacos	Торреблакос
+Vizmanos	Висманос
+Tejado	Техадо
+Retortillo de Soria	Ретортильо-де-Сория
+Herrera de Soria	Эррера-де-Сория
+Deza	Деса
+Monteagudo de las Vicarías	Монтеагудо-де-лас-Викариас
+La Riba de Escalote	Ла-Риба-де-Эскалоте
+Montejo de Tiermes	Монтехо-де-Тьермес
+La Losilla	Ла-Лосилья
+Recuerda	Рекуэрда
+Tajahuerce	Тахауэрсе
+Santa María de las Hoyas	Санта-Мария-де-лас-Ойяс
+Fuentepinilla	Фуэнтепинилья
+Golmayo	Гольмайо
+Rioseco de Soria	Риосеко-де-Сория
+Gómara	Гомара
+Hwǣlbordfarung	Скейтбординг
+Weogornaceasterscīrsēaw	Вустерский соус
+Picilemwes eorþbeofung 2010 gēares	Землетрясение в Пичилему (2010)
+Getalu ambihtlicra sprǣca	Список государственных языков
+Maybach Exelero	Maybach Exelero
+Īslendisc frēona rīcisc fōtþōðerhēap	Женская сборная Исландии по футболу
+Dēaðas in 2005. gēare	Список умерших в 2005 году
+York University	Йоркский университет
+Hrēþmōnaþ 2005	Март 2005 года
+Cirenceaster	Сайренсестер
+Strēoneshalh	Уитби (Англия)
+BloodRayne 2	BloodRayne 2
+Gēolmōnaþ 2004	Декабрь 2004 года
+Brytenwealda	Бретвальда
+Glamorgan	Гламорган
+Winterfylleþ 2004	Октябрь 2004 года
+Sǣearmlandes Rīcisc Edisc	Национальный парк Фьордленд
+Port Authority of New York and New Jersey	Портовое управление Нью-Йорка и Нью-Джерси
+Getalu īega be landware	Список островов по населению
+Denisc and Norþwegisc stæfrǣw	Датско-норвежский алфавит
+Street Fighter IV	Street Fighter IV
+Help:Innoþ	Википедия:Справка
+Wikipǣdia:Tutorial	Википедия:Первые шаги
+Wīntrēow	Лоза
+Brycgstōwīeg	Бристол
+Witch Hunter Robin	Witch Hunter Robin
+Twilight of the Thunder God	Twilight of the Thunder God
+Smallville (Gēar 5)	Тайны Смолвиля (пятый сезон)
+Deorwente	Деруэнт (приток Трента)
+Oenoīeg	Оэно
+3 World Trade Center	Всемирный торговый центр 3
+Granta	Кам (река)
+Hāligmōnaþ 2006	Сентябрь 2006 года
+2009–10 NHL tīma	НХЛ в сезоне 2009/2010
+John Clare	Клэр, Джон
+Molinos de Duero	Молинос-де-Дуэро
+Vozmediano	Восмедьяно
+Hinojosa del Campo	Инохоса-дель-Кампо
+Elpendīeg	Остров Мордвинова
+Dærentamūða	Дартмут
+Elenesburh	Хеленсборо (Шотландия)
+Exanmūþa	Эксмут
+Sūþern Strēamflēot	Кангерлуссуак
+Tottaness	Тотнес
+Mældūn	Молдон
+Burns Niht	День рождения Роберта Бёрнса
+Vrahovice	Враговице
+Walhshalh Weald	Уолсолл-Вуд
+Gēatland	Готланд
+Būc	Желудок человека
+Loppestre	Омары
+Blōtmōnaþ 2004	Ноябрь 2004 года
+Rello	Рельо
+Nīwes Sǣlandes Weorces Stēormǣlhēap	Лейбористская партия Новой Зеландии
+Rebollar	Ребольяр (Сория)
+Unicron	Юникрон
+Garray	Гаррай
+Stēamwægn	Паровой автомобиль
+Simeon II Pulgara Cyning	Симеон II
+Lopphāma	Уэта
+Heortæppelbroþ	Томатный суп
+Cutey Honey	Cutey Honey
+Umm Culþþūm	Умм Кульсум
+2 World Trade Center	Всемирный торговый центр 2
+Stæffordscīr hord	Стаффордширское сокровище
+Gemyndigung Twintorra	Национальный мемориал и музей 11 сентября
+Swamphæn	Султанки
+Froggmann	Боевые пловцы
+Beadu Omdurmanes	Сражение при Омдурмане
+Ninus	Нин (мифология)
+Lundene Foreweard (1839.)	Лондонский договор (1839)
+Hellraiser	Восставший из ада (фильм)
+Æsir–Vanir þurhgefeht	Война асов и ванов
+Elisabeþ Cwēn Land	Земля Королевы Елизаветы
+Wikipǣdia:Ambihtsecghof	Википедия:Посольство
+Mǣþ	Сенокос
+National Hockey League	Национальная хоккейная лига
+Frōm	Фрум (город)
+Perþscīr	Пертшир
+Flyhthæfen	Аэропорт
+Drēag	Драугр
+Universidad de Santiago de Chile	Университет де Сантьяго де Чили
+Mare	Мара (демон)
+Sandeg, Orcanege	Сандей
+Leskovīeg	Остров Лескова
+Stǣrlice gemynddagas	Шаблон:Список дней года
+Pecland	Пик-Дистрикт
+KMFDM	KMFDM
+Women's Professional Soccer	Women's Professional Soccer
+Agnes Monica	Агнес Моника
+Windlesōra and Mægdenhȳþ	Виндзор и Мейденхед
+Wīdsīð	Видсид
+Evile	Evile
+Pasquier Quesnel	Кенель, Паскье
+Eoh	Эйваз
+Feoh (rūnstæf)	Феху
+Flocc:Ƿeras	Категория:Мужчина
+Flocc:Ƿīf	Категория:Женщины
+Flocc:Þēodscland	Категория:Германия
+Flocc:Italia	Категория:Италия
+Flocc:Geānedu Rīcu American	Категория:США
+Flocc:Russland	Категория:Россия
+Flocc:Canada	Категория:Канада
+Flocc:Geānede Cynerīce	Категория:Великобритания
+Flocc:Spēonland	Категория:Испания
+Flocc:Cīna	Категория:Китай
+Flocc:Iapan	Категория:Япония
+Flocc:Australia	Категория:Австралия
+Flocc:Mexico	Категория:Мексика
+Flocc:Indea	Категория:Индия
+Flocc:Saudisc Arabea	Категория:Саудовская Аравия
+Flocc:Israhēl	Категория:Израиль
+Flocc:Turcland	Категория:Турция
+Flocc:Sūðaffrica	Категория:ЮАР
+Flocc:Ǣgypt	Категория:Египет
+Flocc:Persealand	Категория:Иран
+Flocc:Nīwe Sǣland	Категория:Новая Зеландия
+Flocc:Argentina	Категория:Аргентина
+Axa on Defenum	Акс (река)
+Traversayīega	Архипелаг Траверсе
+Wergyld	Вергельд
+Flocc:Afghanistan	Категория:Афганистан
+Flocc:Algeria	Категория:Алжир
+Flocc:Ēastrīce	Категория:Австрия
+Flocc:Bangladesc	Категория:Бангладеш
+Flocc:Cūba	Категория:Куба
+Flocc:Sigelhearwenaland	Категория:Эфиопия
+Flocc:Indonesia	Категория:Индонезия
+Flocc:Irac	Категория:Ирак
+Flocc:Niðerland	Категория:Нидерланды
+Flocc:Nigeria	Категория:Нигерия
+Flocc:Pacistan	Категория:Пакистан
+Flocc:Pōlaland	Категория:Польша
+Flocc:Portugal	Категория:Португалия
+Flocc:Sudan	Категория:Судан
+Flocc:Tansania	Категория:Танзания
+Flocc:Ucrægna	Категория:Украина
+Flocc:Fietnam	Категория:Вьетнам
+Flocc:Rōmānisc Cāsere	Категория:Римская империя
+Flocc:Sycedēor	Категория:Млекопитающие
+Flocc:Fugolas	Категория:Птицы
+Flocc:Plantan	Категория:Растения
+Flocc:Stǣr	Категория:История
+Flocc:Ferscipe	Категория:Общество
+Flocc:Gelēafan	Категория:Религия
+Flocc:Plegan	Категория:Спорт
+Flocc:Sprǣc	Категория:Язык
+Flocc:Eorþ	Категория:Земля
+Victor Iusccenco	Ющенко, Виктор Андреевич
+Slowly We Rot	Slowly We Rot
+Surtur Rising	Surtur Rising
+Gealdor	Гальд
+Palmerland	Земля Палмера
+Hocig	Хоккей
+Frēodōm	Фридом
+Īsensmiþ	Кузнец
+Visokoi-īeg	Высокий (остров, Южные Сандвичевы острова)
+Wiogoraceastre	Вустер
+Abbodesse	Аббатиса
+Ganet	Morus (птицы)
+Mōr	Торфяник
+Ranko Matasović	Матасович, Ранко
+Três Pontas	Трес-Понтас
+Truso	Трусо
+The Miracles	The Miracles
+Tasca1:	Тироновы значки
+Hwæl	Киты
+Richard Pearse	Пирс, Ричард
+Flocc:Scīrung	Категория:Многозначные термины
+Flocc:Olympisc Gamen	Категория:Олимпийские игры
+Flocc:Crīstendōm	Категория:Христианство
+Flocc:Alladōm	Категория:Ислам
+Offa, Nigeria	Оффа (Нигерия)
+Mǣþhild	Матильда
+Decatur	Декейтер
+Ammomanes	Вьюрковые жаворонки
+Ātmǣl	Овсяная каша
+Earn	Орлиные
+Bresl/ᚱᚢᚾ	Крендель
+Scyrte	Юбка
+Irac Cyning	Список королей Ирака
+Oferferung on Francenarīce	Транспорт во Франции
+Smallville	Смолвиль
+Elpend	Слоновые
+Elworuldontygenes	Альтерглобализм
+Bochotnica	Бохотница
+Grantasæte	Гранчестер
+Adesa	Тесло
+Mageo	Мейо (город)
+Beormas	Пермяне
+Sceota	Кумжа
+Camila Morgado	Моргаду, Камила
+Flocc:Styccelicu gewritu	Категория:Незавершённые статьи
+Flocc:Wikipedia categorization	Категория:Википедия:Категоризация
+Flocc:Sidaþing	Категория:Культура
+Flocc:Gēar	Категория:Годы
+Flocc:Worulddǣl	Категория:Континенты
+Flocc:Lyftcræftas	Категория:Воздушные суда
+Getalu þāra Atari Jaguares gamena	Список игр для Atari Jaguar
+Gealdorstæf	Исландские магические знаки
+Nexus: The Jupiter Incident	Nexus: The Jupiter Incident
+Gnæt	Гнус
+Wikipǣdia:Gecorene gemynddagas	Проект:События дня
+Bysen:Stēorungsunnanendebyrdnes	Шаблон:Солнечная система
+Wikipǣdia:Nīwe ēacan	Проект:Знаете ли вы
+Wikipǣdia:Wikibōceras	Википедия:Википедист
+Scearseax	Бритвенный станок
+Wikipǣdia:Snell bīcniend	Википедия:Алфавитный указатель
+Wikipǣdia:Recentchanges	Справка:Свежие правки
+Basu	Пурпурный цвет
+Yfelland Ƿeard	Страж Пустоши (Badlands Guardian)
+Bysen:Succession box	Шаблон:Succession box
+Flocc:Flēogeball	Категория:Волейбол
+Flocc:Wikipedia bots	Категория:Участники:Боты
+Port:Gefērscipe	Портал:Общество
+Ened	Утки
+Bysen:Cquote	Шаблон:Цитата
+Flocc:Þēodisc	Категория:Персоналии:Германия
+Eormengyld ''Guglielmo Marconi''	Университет Гульельмо Маркони
+Flocc:Land	Категория:Страны
+Catherine	Catherine
+Wikipǣdia:Bewitendas	Википедия:Администраторы
+Flocc:Lēode	Категория:Люди
+Wikipǣdia:Bēna tō and fram bewitendhāde	Википедия:Заявки на статус администратора
+Flocc:Tīd	Категория:Время
+Flocc:Bodiȝlār	Категория:Анатомия
+Wikipǣdia:Betwuxsprǽclice bendas	Википедия:Интервики
+Flocc:Leornung	Категория:Образование
+Cyningesbeorg	Кёнигсберг
+Ægypt	Египет
+Yulia Lipnitskaya	Липницкая, Юлия Вячеславовна
+Flocc:Ūtwitan	Категория:Философы
+Bysen:Bot	Шаблон:Bot
+Wikipǣdia:Hwæt Wikipǣdia Nis	Википедия:Чем не является Википедия
+Canada	Канада
+Flocc:Ungerland	Категория:Венгрия
+Flocc:Belgice	Категория:Бельгия
+Flocc:Cipros	Категория:Республика Кипр
+Flocc:Cecland	Категория:Чехия
+Flocc:Denemearc	Категория:Дания
+Flocc:Estland	Категория:Эстония
+Flocc:Finnland	Категория:Финляндия
+Flocc:Crecaland	Категория:Греция
+Flocc:Lettland	Категория:Латвия
+Flocc:Īsland	Категория:Исландия
+Flocc:Letseburg	Категория:Люксембург
+Flocc:Liþuania	Категория:Литва
+Flocc:Melita	Категория:Мальта
+Flocc:Swēoland	Категория:Швеция
+Flocc:Slofacia	Категория:Словакия
+Flocc:Īrland Cynewīse	Категория:Ирландская Республика
+Flocc:Fulgōd ȝeƿritu	Категория:Википедия:Избранные статьи
+Amy Robach	Робач, Эми
+Flocc:Spærcletelle gamen	Категория:Компьютерные игры
+Heofon	Небеса
+Fresland	Фрисландия (историческая область)
+Flocc:Microsoft	Категория:Microsoft
+Wikipǣdia:Edit summary	Википедия:Описание изменений
+Bysen:Flagicon	Шаблон:Флаг
+Flocc:Land on Europan	Категория:Страны Европы
+Flocc:Europe	Категория:Европа
+Flocc:Wikipedia:Help	Категория:Википедия:Справка
+Help:Mōtungtramet	Википедия:Страницы обсуждений
+Wikipǣdia:Efenealde belimpas	Портал:Текущие события
+Bysen:Documentation	Шаблон:Doc
+Wikipǣdia:Protected pages	Википедия:Правила защиты страниц
+Flocc:Wikibōceras	Категория:Википедия:Участники
+Wikipǣdia:Gemǣnscipes Ingang	Википедия:Портал сообщества
+Flocc:Brūcendsprǣc	Категория:Википедия:Участники по языкам
+Wikipǣdia:Fīf styde	Википедия:Пять столпов
+Wikipǣdia:Ānsund styccegewrit	Википедия:Заготовка статьи
+Wikipǣdia:Bealu	Википедия:Вандализм
+Sung Jae-ki	Сон Джэги
+Sundorrīcesdæg	День независимости
+Bysen:Softredirect	Шаблон:Soft redirect
+Bysen:Delete	Шаблон:К быстрому удалению
+Snægel	Брюхоногие
+Bryttisce Wealdendas	Список монархов Британских островов
+Flocc:Searucræft	Категория:Технология
+Flocc:Sprǣca	Категория:Языки
+Flocc:Gerīmbōc	Категория:Календарь
+Flocc:Hāliȝdagas	Категория:Праздники
+Help:Onbregdan nīwne tramet	Википедия:Как создать статью
+Flocc:Wikipǣdia	Категория:Википедия
+Flocc:Unȝebēacniende trametas	Категория:Неиндексируемые страницы
+Flocc:Pages with broken file links	Категория:Страницы со ссылками на отсутствующие файлы
+Wikipǣdia:Manual of Style	Википедия:Оформление статей
+Bysen:-	Шаблон:-
+Bysen:Navbox	Шаблон:Navbox
+Flocc:Byrig on Persum	Категория:Города Ирана
+Bysen:Sēðung þurfed	Шаблон:Нет источника
+Angelfresisca sprǣca	Англо-фризские языки
+Flocc:Fana bysen	Категория:Шаблоны:Флаги
+Bysen:((	Шаблон:((
+Bysen:!-	Шаблон:!-
+Bysen:!!	Шаблон:!!
+Bysen:=	Шаблон:=
+Bysen:Navbar	Шаблон:Tnavbar
+Bysen:Unicode	Шаблон:Unicode
+Bysen:E	Шаблон:E
+Bysen:Clear	Шаблон:Clear
+Bysen:Col-break	Шаблон:Столбец
+Bysen:Col-begin	Шаблон:Столбцы
+Bysen:Col-end	Шаблон:Столбцы/конец
+Bysen:Color	Шаблон:Color
+Bysen:Anchor	Шаблон:Якорь
+Wikipǣdia:List of articles all languages should have	Википедия:Список статей, которые должны быть во всех языковых версиях
+Flocc:Affrica	Категория:Африка
+Flocc:Mǣdmōnaþ	Категория:Июль
+Flocc:Þorpas	Категория:Сёла
+Flocc:Bēc	Категория:Книги
+Flocc:Mōnþas	Категория:Месяцы
+Bysen:Wikisource	Шаблон:Викитека
+Bysen:Babel	Шаблон:Babel
+Bysen:Commons	Шаблон:Commons
+Bysen:Reflist	Шаблон:Примечания
+Wikipǣdia:Fulgōdra gewrita hwætgōdnesse	Википедия:Что такое избранная статья
+Bysen:Stycce	Шаблон:Заготовка
+Bysen:Brūcend de	Шаблон:User de
+Bysen:Brūcend de-1	Шаблон:User de-1
+Bysen:Brūcend el	Шаблон:User el
+Bysen:Brūcend es	Шаблон:User es
+Bysen:Brūcend de-3	Шаблон:User de-3
+Bysen:Brūcend en-3	Шаблон:User en-3
+Bysen:Brūcend el-1	Шаблон:User el-1
+Bysen:Brūcend en-1	Шаблон:User en-1
+Bysen:Brūcend en-2	Шаблон:User en-2
+Bysen:Brūcend eo-2	Шаблон:User eo-2
+Bysen:Brūcend en-4	Шаблон:User en-4
+Bysen:Brūcend fi	Шаблон:User fi
+Bysen:Brūcend en-0	Шаблон:User en-0
+Bysen:Brūcend es-4	Шаблон:User es-4
+Bysen:Brūcend en	Шаблон:User en
+Bysen:Brūcend de-2	Шаблон:User de-2
+Bysen:Brūcend es-1	Шаблон:User es-1
+Bysen:Brūcend fi-1	Шаблон:User fi-1
+Bysen:Brūcend fr-1	Шаблон:User fr-1
+Flocc:Līf	Категория:Жизнь
+Bysen:Brūcend he-2	Шаблон:User he-2
+Bysen:Brūcend it-3	Шаблон:User it-3
+Bysen:User sk	Шаблон:User sk
+Bysen:Brūcend fr-2	Шаблон:User fr-2
+Bysen:Brūcend ja	Шаблон:User ja
+Bysen:Brūcend ja-1	Шаблон:User ja-1
+Bysen:Brūcend it-1	Шаблон:User it-1
+Bysen:Brūcend fr	Шаблон:User fr
+Cosco	Куско
+Flocc:Solmōnaþ	Категория:Февраль
+Flocc:1949	Категория:1949 год
+Bysen:Stedefindend scite/Writ	Шаблон:ПозКарта/Инфо
+Flocc:Ceorfdēor	Категория:Насекомые
+Flocc:Asia	Категория:Азия
+Flocc:Cile	Категория:Чили
+Flocc:21e gēarhundred	Категория:XXI век
+Flocc:Lesotho	Категория:Лесото
+Flocc:Brūcend uk	Категория:User uk
+Flocc:Sūðamerica	Категория:Южная Америка
+Flocc:Brūcend uk-M	Категория:User uk-N
+Flocc:1918	Категория:1918 год
+Flocc:1954	Категория:1954 год
+Flocc:Ǣt	Категория:Пища
+Flocc:1946	Категория:1946 год
+Flocc:Gyldfōtþōðer	Категория:Футбол
+Flocc:1945	Категория:1945 год
+Bysen:Mod	Шаблон:Mod
+Flocc:1926	Категория:1926 год
+Bysen:NowCommons	Шаблон:Перенесено на Викисклад
+Bysen:Brūcend sv	Шаблон:User sv
+Flocc:1920	Категория:1920 год
+Bysen:Brūcend it	Шаблон:User it
+Bysen:Brūcend uk	Шаблон:User uk
+Bysen:Brūcend es-2	Шаблон:User es-2
+Bysen:Infobox Football club	Шаблон:Карточка ФК
+Bysen:Welcome	Шаблон:Приветствие
+Flocc:Bysen mid ūtweardum hlence	Категория:Шаблоны:Внешние ссылки
+Bysen:Mōnþas	Шаблон:Месяцы
+Bysen:Country data Slovakia	Шаблон:Флагификация/Словакия
+Bysen:Country data Czech Republic	Шаблон:Флагификация/Чехия
+Bysen:Country data Honduras	Шаблон:Флагификация/Гондурас
+Bysen:Country data Bolivia	Шаблон:Флагификация/Боливия
+Bysen:Country data Denemearc	Шаблон:Флагификация/Дания
+Bysen:Country data Īsland	Шаблон:Флагификация/Исландия
+Bysen:Country data Poland	Шаблон:Флагификация/Польша
+Bysen:Scire in Irlande	Шаблон:Административное деление Ирландии
+Bysen:Wikivar	Шаблон:Wikivar
+Flocc:Brūcend fr-1	Категория:User fr-1
+Bysen:Country data Norway	Шаблон:Флагификация/Норвегия
+Bysen:Wikiquote	Шаблон:Викицитатник
+Bysen:Country data Mexico	Шаблон:Флагификация/Мексика
+Bysen:Affrica	Шаблон:Страны Африки
+Bysen:Infobox television	Шаблон:Телепередача
+Flocc:Americisc Awendung Wig	Категория:Американская революция
+Bysen:FWB	Шаблон:FWB
+Bysen:Geānedu Rīcu American	Шаблон:Административные единицы США
+Bysen:Country data Australia	Шаблон:Флагификация/Австралия
+Bysen:Cyþþubox ieg	Шаблон:Остров
+Bysen:Country data France	Шаблон:Флагификация/Франция
+Bysen:Ambox	Шаблон:Ambox
+Flocc:Americanisc stǣr	Категория:История США
+Bysen:Infobox Country	Шаблон:Государство
+Bysen:Max	Шаблон:Max
+Bysen:Country data Austria	Шаблон:Флагификация/Австрия
+Bysen:Infobox Mīlitisc Gemōt	Шаблон:Вооружённый конфликт
+Bysen:Country data Finland	Шаблон:Флагификация/Финляндия
+Bysen:Country data Japan	Шаблон:Флагификация/Япония
+Bysen:Start box	Шаблон:Start box
+Bysen:Cleanup	Шаблон:Чистить
+Flocc:Crabbas	Категория:Крабы
+Bysen:Cite journal	Шаблон:Cite journal
+Bysen:Lang-ar	Шаблон:Lang-ar
+Bysen:Brūcend es-0	Шаблон:User es-0
+Bysen:Cite news	Шаблон:Cite news
+Bysen:Featured article	Шаблон:Избранная статья
+Bysen:Country data Russia	Шаблон:Флагификация/Россия
+Flocc:Paris	Категория:Париж
+Flocc:Brūcend en-4	Категория:User en-4
+Flocc:Brūcend en	Категория:User en
+Flocc:Croatia	Категория:Хорватия
+Flocc:Brūcend en-2	Категория:User en-2
+Bysen:Infobox	Шаблон:Карточка
+Bysen:Main other	Шаблон:Main other
+Flocc:Francena cyningas	Категория:Короли Франции
+Flocc:Stafas	Категория:Алфавиты
+Wikipǣdia:Gecorene gemynddagas/23 Hāligmōnaþ	Шаблон:События дня:09-23
+Bysen:Template other	Шаблон:Template other
+Wikipǣdia:Gecorene gemynddagas/4 Solmōnaþ	Шаблон:События дня:02-4
+Wikipǣdia:Gecorene gemynddagas/22 Hāligmōnaþ	Шаблон:События дня:09-22
+Bysen:Lang-da	Шаблон:Lang-da
+Wikipǣdia:Gecorene gemynddagas/30 Blōtmōnaþ	Шаблон:События дня:11-30
+Wikipǣdia:Gecorene gemynddagas/18 Solmōnaþ	Шаблон:События дня:02-18
+Wikipǣdia:Gecorene gemynddagas/28 Æfterra Gēola	Шаблон:События дня:01-28
+Bysen:Legend	Шаблон:Легенда
+Wikipǣdia:Gecorene gemynddagas/14 Æfterra Gēola	Шаблон:События дня:01-14
+Bysen:Lang-got	Шаблон:Lang-got
+Wikipǣdia:Gecorene gemynddagas/25 Solmōnaþ	Шаблон:События дня:02-25
+Wikipǣdia:Gecorene gemynddagas/10 Wēodmōnaþ	Шаблон:События дня:08-10
+Flocc:Bryttisce wrīteras	Категория:Писатели Великобритании
+Wikipǣdia:Gecorene gemynddagas/15 Winterfylleþ	Шаблон:События дня:10-15
+Wikipǣdia:Gecorene gemynddagas/31 Wēodmōnaþ	Шаблон:События дня:08-31
+Wikipǣdia:Gecorene gemynddagas/12 Blōtmōnaþ	Шаблон:События дня:11-12
+Wikipǣdia:Gecorene gemynddagas/30 Mǣdmōnaþ	Шаблон:События дня:07-30
+Wikipǣdia:Gecorene gemynddagas/3 Wēodmōnaþ	Шаблон:События дня:08-3
+Wikipǣdia:Gecorene gemynddagas/27 Wēodmōnaþ	Шаблон:События дня:08-27
+Bysen:Cite web	Шаблон:Cite web
+Wikipǣdia:Gecorene gemynddagas/21 Æfterra Gēola	Шаблон:События дня:01-21
+Wikipǣdia:Gecorene gemynddagas/8 Solmōnaþ	Шаблон:События дня:02-8
+Bysen:Country data Italy	Шаблон:Флагификация/Италия
+Wikipǣdia:Gecorene gemynddagas/20 Æfterra Gēola	Шаблон:События дня:01-20
+Wikipǣdia:Gecorene gemynddagas/23 Æfterra Gēola	Шаблон:События дня:01-23
+Wikipǣdia:Gecorene gemynddagas/28 Hāligmōnaþ	Шаблон:События дня:09-28
+Bysen:Imdb title	Шаблон:Imdb title
+Wikipǣdia:Gecorene gemynddagas/31 Gēolmōnaþ	Шаблон:События дня:12-31
+Wikipǣdia:Gecorene gemynddagas/1 Solmōnaþ	Шаблон:События дня:02-1
+Wikipǣdia:Gecorene gemynddagas/14 Gēolmōnaþ	Шаблон:События дня:12-14
+Wikipǣdia:Gecorene gemynddagas/25 Æfterra Gēola	Шаблон:События дня:01-25
+Wikipǣdia:Gecorene gemynddagas/6 Wēodmōnaþ	Шаблон:События дня:08-6
+Wikipǣdia:Gecorene gemynddagas/24 Wēodmōnaþ	Шаблон:События дня:08-24
+Wikipǣdia:Gecorene gemynddagas/9 Blōtmōnaþ	Шаблон:События дня:11-9
+Wikipǣdia:Gecorene gemynddagas/18 Æfterra Gēola	Шаблон:События дня:01-18
+Wikipǣdia:Gecorene gemynddagas/17 Wēodmōnaþ	Шаблон:События дня:08-17
+Wikipǣdia:Gecorene gemynddagas/27 Mǣdmōnaþ	Шаблон:События дня:07-27
+Wikipǣdia:Gecorene gemynddagas/20 Wēodmōnaþ	Шаблон:События дня:08-20
+Wikipǣdia:Gecorene gemynddagas/1 Winterfylleþ	Шаблон:События дня:10-1
+Wikipǣdia:Gecorene gemynddagas/5 Winterfylleþ	Шаблон:События дня:10-5
+Wikipǣdia:Gecorene gemynddagas/8 Winterfylleþ	Шаблон:События дня:10-8
+Wikipǣdia:Talk page	Википедия:Правила обсуждений
+Wikipǣdia:Gecorene gemynddagas/15 Solmōnaþ	Шаблон:События дня:02-15
+Bysen:Notice	Шаблон:Notice
+Bysen:Pp-template	MediaWiki:Protectedpagetext
+Bysen:·	Шаблон:·
+Bysen:Brūcend nl-1	Шаблон:User nl-1
+Bysen:Infobox Winodland	Шаблон:НП-Польша
+Bysen:Min	Шаблон:Min
+Bysen:Wiktionarypar2	Шаблон:Викисловарь
+Bysen:Brūcend nl-2	Шаблон:User nl-2
+Bysen:Infobox Ice Hockey Player	Шаблон:Хоккеист
+Bysen:Country data Sweden	Шаблон:Флагификация/Швеция
+Flocc:Byrig on Dēnum	Категория:Города Дании
+Bysen:Lang-ang	Шаблон:Lang-ang
+Flocc:Eorþtilþ	Категория:Сельское хозяйство
+Bysen:Babel-4	Шаблон:Babel-4
+Wikipǣdia:Gecorene gemynddagas/26 Blōtmōnaþ	Шаблон:События дня:11-26
+Wikipǣdia:Gecorene gemynddagas/26 Wēodmōnaþ	Шаблон:События дня:08-26
+Wikipǣdia:Gecorene gemynddagas/12 Gēolmōnaþ	Шаблон:События дня:12-12
+Wikipǣdia:Gecorene gemynddagas/25 Gēolmōnaþ	Шаблон:События дня:12-25
+Wikipǣdia:Gecorene gemynddagas/10 Æfterra Gēola	Шаблон:События дня:01-10
+Wikipǣdia:Gecorene gemynddagas/31 Æfterra Gēola	Шаблон:События дня:01-31
+Wikipǣdia:Gecorene gemynddagas/6 Winterfylleþ	Шаблон:События дня:10-6
+Wikipǣdia:Gecorene gemynddagas/6 Hrēþmōnaþ	Шаблон:События дня:03-6
+Wikipǣdia:Gecorene gemynddagas/18 Hrēþmōnaþ	Шаблон:События дня:03-18
+Wikipǣdia:Gecorene gemynddagas/17 Winterfylleþ	Шаблон:События дня:10-17
+Wikipǣdia:Gecorene gemynddagas/27 Hrēþmōnaþ	Шаблон:События дня:03-27
+Wikipǣdia:Gecorene gemynddagas/19 Hrēþmōnaþ	Шаблон:События дня:03-19
+Wikipǣdia:Gecorene gemynddagas/2 Winterfylleþ	Шаблон:События дня:10-2
+Wikipǣdia:Gecorene gemynddagas/2 Mǣdmōnaþ	Шаблон:События дня:07-2
+Wikipǣdia:Gecorene gemynddagas/10 Hrēþmōnaþ	Шаблон:События дня:03-10
+Wikipǣdia:Gecorene gemynddagas/1 Ēastermōnaþ	Шаблон:События дня:04-1
+Wikipǣdia:Gecorene gemynddagas/31 Mǣdmōnaþ	Шаблон:События дня:07-31
+Wikipǣdia:Gecorene gemynddagas/12 Wēodmōnaþ	Шаблон:События дня:08-12
+Wikipǣdia:Gecorene gemynddagas/26 Solmōnaþ	Шаблон:События дня:02-26
+Wikipǣdia:Gecorene gemynddagas/17 Mǣdmōnaþ	Шаблон:События дня:07-17
+Wikipǣdia:Gecorene gemynddagas/5 Wēodmōnaþ	Шаблон:События дня:08-5
+Wikipǣdia:Gecorene gemynddagas/16 Hāligmōnaþ	Шаблон:События дня:09-16
+Wikipǣdia:Gecorene gemynddagas/31 Winterfylleþ	Шаблон:События дня:10-31
+Wikipǣdia:Gecorene gemynddagas/12 Solmōnaþ	Шаблон:События дня:02-12
+Wikipǣdia:Gecorene gemynddagas/15 Æfterra Gēola	Шаблон:События дня:01-15
+Wikipǣdia:Gecorene gemynddagas/19 Hāligmōnaþ	Шаблон:События дня:09-19
+Wikipǣdia:Gecorene gemynddagas/16 Æfterra Gēola	Шаблон:События дня:01-16
+Wikipǣdia:Gecorene gemynddagas/13 Mǣdmōnaþ	Шаблон:События дня:07-13
+Wikipǣdia:Gecorene gemynddagas/2 Æfterra Gēola	Шаблон:События дня:01-2
+Wikipǣdia:Gecorene gemynddagas/9 Mǣdmōnaþ	Шаблон:События дня:07-9
+Wikipǣdia:Gecorene gemynddagas/10 Solmōnaþ	Шаблон:События дня:02-10
+Wikipǣdia:Gecorene gemynddagas/5 Hrēþmōnaþ	Шаблон:События дня:03-5
+Wikipǣdia:Gecorene gemynddagas/29 Sēremōnaþ	Шаблон:События дня:06-29
+Wikipǣdia:Gecorene gemynddagas/14 Blōtmōnaþ	Шаблон:События дня:11-14
+Wikipǣdia:Gecorene gemynddagas/6 Æfterra Gēola	Шаблон:События дня:01-6
+Wikipǣdia:Gecorene gemynddagas/18 Mǣdmōnaþ	Шаблон:События дня:07-18
+Wikipǣdia:Gecorene gemynddagas/23 Mǣdmōnaþ	Шаблон:События дня:07-23
+Wikipǣdia:Gecorene gemynddagas/1 Mǣdmōnaþ	Шаблон:События дня:07-1
+Wikipǣdia:Gecorene gemynddagas/20 Gēolmōnaþ	Шаблон:События дня:12-20
+Wikipǣdia:Gecorene gemynddagas/30 Wēodmōnaþ	Шаблон:События дня:08-30
+Wikipǣdia:Gecorene gemynddagas/11 Wēodmōnaþ	Шаблон:События дня:08-11
+Wikipǣdia:Gecorene gemynddagas/9 Wēodmōnaþ	Шаблон:События дня:08-9
+Wikipǣdia:Gecorene gemynddagas/29 Blōtmōnaþ	Шаблон:События дня:11-29
+Wikipǣdia:Gecorene gemynddagas/2 Ēastermōnaþ	Шаблон:События дня:04-2
+Wikipǣdia:Gecorene gemynddagas/12 Mǣdmōnaþ	Шаблон:События дня:07-12
+Wikipǣdia:Gecorene gemynddagas/29 Wēodmōnaþ	Шаблон:События дня:08-29
+Wikipǣdia:Gecorene gemynddagas/24 Sēremōnaþ	Шаблон:События дня:06-24
+Wikipǣdia:Gecorene gemynddagas/25 Blōtmōnaþ	Шаблон:События дня:11-25
+Wikipǣdia:Gecorene gemynddagas/21 Wēodmōnaþ	Шаблон:События дня:08-21
+Wikipǣdia:Gecorene gemynddagas/29 Mǣdmōnaþ	Шаблон:События дня:07-29
+Wikipǣdia:Gecorene gemynddagas/29 Æfterra Gēola	Шаблон:События дня:01-29
+Wikipǣdia:Gecorene gemynddagas/5 Gēolmōnaþ	Шаблон:События дня:12-5
+Wikipǣdia:Gecorene gemynddagas/25 Hrēþmōnaþ	Шаблон:События дня:03-25
+Wikipǣdia:Gecorene gemynddagas/22 Hrēþmōnaþ	Шаблон:События дня:03-22
+Wikipǣdia:Gecorene gemynddagas/9 Hrēþmōnaþ	Шаблон:События дня:03-9
+Wikipǣdia:Gecorene gemynddagas/12 Hrēþmōnaþ	Шаблон:События дня:03-12
+Wikipǣdia:Gecorene gemynddagas/11 Hrēþmōnaþ	Шаблон:События дня:03-11
+Wikipǣdia:Gecorene gemynddagas/19 Gēolmōnaþ	Шаблон:События дня:12-19
+Wikipǣdia:Gecorene gemynddagas/24 Solmōnaþ	Шаблон:События дня:02-24
+Wikipǣdia:Gecorene gemynddagas/13 Solmōnaþ	Шаблон:События дня:02-13
+Wikipǣdia:Gecorene gemynddagas/20 Solmōnaþ	Шаблон:События дня:02-20
+Wikipǣdia:Gecorene gemynddagas/5 Æfterra Gēola	Шаблон:События дня:01-5
+Wikipǣdia:Gecorene gemynddagas/15 Hrēþmōnaþ	Шаблон:События дня:03-15
+Wikipǣdia:Gecorene gemynddagas/23 Solmōnaþ	Шаблон:События дня:02-23
+Wikipǣdia:Gecorene gemynddagas/13 Hrēþmōnaþ	Шаблон:События дня:03-13
+Wikipǣdia:Gecorene gemynddagas/15 Hāligmōnaþ	Шаблон:События дня:09-15
+Wikipǣdia:Gecorene gemynddagas/15 Gēolmōnaþ	Шаблон:События дня:12-15
+Wikipǣdia:Gecorene gemynddagas/4 Hāligmōnaþ	Шаблон:События дня:09-4
+Wikipǣdia:Gecorene gemynddagas/8 Hāligmōnaþ	Шаблон:События дня:09-8
+Wikipǣdia:Gecorene gemynddagas/18 Gēolmōnaþ	Шаблон:События дня:12-18
+Wikipǣdia:Gecorene gemynddagas/4 Hrēþmōnaþ	Шаблон:События дня:03-4
+Wikipǣdia:Gecorene gemynddagas/4 Winterfylleþ	Шаблон:События дня:10-4
+Wikipǣdia:Gecorene gemynddagas/21 Blōtmōnaþ	Шаблон:События дня:11-21
+Wikipǣdia:Gecorene gemynddagas/1 Hāligmōnaþ	Шаблон:События дня:09-1
+Wikipǣdia:Gecorene gemynddagas/3 Mǣdmōnaþ	Шаблон:События дня:07-3
+Wikipǣdia:Gecorene gemynddagas/4 Mǣdmōnaþ	Шаблон:События дня:07-4
+Wikipǣdia:Gecorene gemynddagas/13 Æfterra Gēola	Шаблон:События дня:01-13
+Wikipǣdia:Gecorene gemynddagas/28 Sēremōnaþ	Шаблон:События дня:06-28
+Wikipǣdia:Gecorene gemynddagas/7 Sēremōnaþ	Шаблон:События дня:06-7
+Wikipǣdia:Gecorene gemynddagas/6 Hāligmōnaþ	Шаблон:События дня:09-6
+Wikipǣdia:Gecorene gemynddagas/25 Hāligmōnaþ	Шаблон:События дня:09-25
+Wikipǣdia:Gecorene gemynddagas/27 Æfterra Gēola	Шаблон:События дня:01-27
+Wikipǣdia:Gecorene gemynddagas/6 Mǣdmōnaþ	Шаблон:События дня:07-6
+Wikipǣdia:Gecorene gemynddagas/15 Mǣdmōnaþ	Шаблон:События дня:07-15
+Wikipǣdia:Gecorene gemynddagas/10 Hāligmōnaþ	Шаблон:События дня:09-10
+Wikipǣdia:Gecorene gemynddagas/26 Hāligmōnaþ	Шаблон:События дня:09-26
+Wikipǣdia:Gecorene gemynddagas/20 Hāligmōnaþ	Шаблон:События дня:09-20
+Wikipǣdia:Gecorene gemynddagas/16 Mǣdmōnaþ	Шаблон:События дня:07-16
+Wikipǣdia:Gecorene gemynddagas/14 Mǣdmōnaþ	Шаблон:События дня:07-14
+Wikipǣdia:Gecorene gemynddagas/25 Mǣdmōnaþ	Шаблон:События дня:07-25
+Wikipǣdia:Gecorene gemynddagas/12 Æfterra Gēola	Шаблон:События дня:01-12
+Wikipǣdia:Gecorene gemynddagas/23 Wēodmōnaþ	Шаблон:События дня:08-23
+Wikipǣdia:Gecorene gemynddagas/22 Sēremōnaþ	Шаблон:События дня:06-22
+Wikipǣdia:Gecorene gemynddagas/16 Wēodmōnaþ	Шаблон:События дня:08-16
+Wikipǣdia:Gecorene gemynddagas/30 Gēolmōnaþ	Шаблон:События дня:12-30
+Wikipǣdia:Gecorene gemynddagas/4 Blōtmōnaþ	Шаблон:События дня:11-4
+Wikipǣdia:Gecorene gemynddagas/3 Æfterra Gēola	Шаблон:События дня:01-3
+Wikipǣdia:Gecorene gemynddagas/30 Hāligmōnaþ	Шаблон:События дня:09-30
+Wikipǣdia:Gecorene gemynddagas/8 Æfterra Gēola	Шаблон:События дня:01-8
+Wikipǣdia:Gecorene gemynddagas/1 Hrēþmōnaþ	Шаблон:События дня:03-1
+Wikipǣdia:Gecorene gemynddagas/14 Solmōnaþ	Шаблон:События дня:02-14
+Wikipǣdia:Gecorene gemynddagas/7 Winterfylleþ	Шаблон:События дня:10-7
+Wikipǣdia:Gecorene gemynddagas/19 Solmōnaþ	Шаблон:События дня:02-19
+Wikipǣdia:Gecorene gemynddagas/28 Hrēþmōnaþ	Шаблон:События дня:03-28
+Wikipǣdia:Gecorene gemynddagas/20 Hrēþmōnaþ	Шаблон:События дня:03-20
+Wikipǣdia:Gecorene gemynddagas/6 Solmōnaþ	Шаблон:События дня:02-6
+Wikipǣdia:Gecorene gemynddagas/7 Solmōnaþ	Шаблон:События дня:02-7
+Wikipǣdia:Gecorene gemynddagas/21 Solmōnaþ	Шаблон:События дня:02-21
+Wikipǣdia:Gecorene gemynddagas/1 Wēodmōnaþ	Шаблон:События дня:08-1
+Wikipǣdia:Gecorene gemynddagas/14 Hrēþmōnaþ	Шаблон:События дня:03-14
+Wikipǣdia:Gecorene gemynddagas/28 Solmōnaþ	Шаблон:События дня:02-28
+Wikipǣdia:Gecorene gemynddagas/27 Hāligmōnaþ	Шаблон:События дня:09-27
+Wikipǣdia:Gecorene gemynddagas/8 Mǣdmōnaþ	Шаблон:События дня:07-8
+Wikipǣdia:Gecorene gemynddagas/11 Hāligmōnaþ	Шаблон:События дня:09-11
+Wikipǣdia:Gecorene gemynddagas/22 Mǣdmōnaþ	Шаблон:События дня:07-22
+Wikipǣdia:Gecorene gemynddagas/28 Wēodmōnaþ	Шаблон:События дня:08-28
+Wikipǣdia:Gecorene gemynddagas/1 Blōtmōnaþ	Шаблон:События дня:11-1
+Wikipǣdia:Gecorene gemynddagas/2 Solmōnaþ	Шаблон:События дня:02-2
+Wikipǣdia:Gecorene gemynddagas/4 Wēodmōnaþ	Шаблон:События дня:08-4
+Wikipǣdia:Gecorene gemynddagas/22 Gēolmōnaþ	Шаблон:События дня:12-22
+Wikipǣdia:Gecorene gemynddagas/20 Winterfylleþ	Шаблон:События дня:10-20
+Wikipǣdia:Gecorene gemynddagas/28 Mǣdmōnaþ	Шаблон:События дня:07-28
+Wikipǣdia:Gecorene gemynddagas/17 Æfterra Gēola	Шаблон:События дня:01-17
+Wikipǣdia:Gecorene gemynddagas/3 Solmōnaþ	Шаблон:События дня:02-3
+Bysen:Lang-sr	Шаблон:Lang-sr
+Wikipǣdia:Gecorene gemynddagas/7 Mǣdmōnaþ	Шаблон:События дня:07-7
+Wikipǣdia:Gecorene gemynddagas/24 Mǣdmōnaþ	Шаблон:События дня:07-24
+Wikipǣdia:Gecorene gemynddagas/21 Mǣdmōnaþ	Шаблон:События дня:07-21
+Wikipǣdia:Gecorene gemynddagas/6 Sēremōnaþ	Шаблон:События дня:06-6
+Wikipǣdia:Gecorene gemynddagas/11 Mǣdmōnaþ	Шаблон:События дня:07-11
+Wikipǣdia:Gecorene gemynddagas/8 Wēodmōnaþ	Шаблон:События дня:08-8
+Wikipǣdia:Gecorene gemynddagas/15 Wēodmōnaþ	Шаблон:События дня:08-15
+Wikipǣdia:Gecorene gemynddagas/10 Mǣdmōnaþ	Шаблон:События дня:07-10
+Wikipǣdia:Gecorene gemynddagas/16 Hrēþmōnaþ	Шаблон:События дня:03-16
+Wikipǣdia:Gecorene gemynddagas/14 Winterfylleþ	Шаблон:События дня:10-14
+Wikipǣdia:Gecorene gemynddagas/17 Hrēþmōnaþ	Шаблон:События дня:03-17
+Wikipǣdia:Gecorene gemynddagas/24 Hrēþmōnaþ	Шаблон:События дня:03-24
+Wikipǣdia:Gecorene gemynddagas/21 Hrēþmōnaþ	Шаблон:События дня:03-21
+Wikipǣdia:Gecorene gemynddagas/5 Solmōnaþ	Шаблон:События дня:02-5
+Wikipǣdia:Gecorene gemynddagas/3 Winterfylleþ	Шаблон:События дня:10-3
+Wikipǣdia:Gecorene gemynddagas/7 Hāligmōnaþ	Шаблон:События дня:09-7
+Wikipǣdia:Gecorene gemynddagas/26 Mǣdmōnaþ	Шаблон:События дня:07-26
+Wikipǣdia:Gecorene gemynddagas/14 Sēremōnaþ	Шаблон:События дня:06-14
+Flocc:Beorgas	Категория:Горы
+Bysen:Brūcend ru	Шаблон:User ru
+Flocc:20e gēarhundred	Категория:XX век
+Bysen:IPA	Шаблон:IPA1
+Bysen:Bēc þǣre Nīwan Gecȳþnesse	Шаблон:Книги Нового Завета
+Bysen:HāligmōnaþGerīmbōc	Шаблон:Календарь на сентябрь
+Bysen:USpresidents	Шаблон:Президенты США
+Wikipǣdia:Gecorene gemynddagas/7 Hrēþmōnaþ	Шаблон:События дня:03-7
+Wikipǣdia:Gecorene gemynddagas/29 Hrēþmōnaþ	Шаблон:События дня:03-29
+Flocc:Bysen Brūcend Box Spræc	Категория:Шаблоны участников:По языкам
+Wikipǣdia:Gecorene gemynddagas/28 Ēastermōnaþ	Шаблон:События дня:04-28
+Flocc:Hwæsingatūn	Категория:Вашингтон (штат)
+Flocc:Wihta	Категория:Мифические существа
+Wikipǣdia:Gecorene gemynddagas/30 Hrēþmōnaþ	Шаблон:События дня:03-30
+Wikipǣdia:Gecorene gemynddagas/22 Solmōnaþ	Шаблон:События дня:02-22
+Wikipǣdia:Gecorene gemynddagas/31 Hrēþmōnaþ	Шаблон:События дня:03-31
+Wikipǣdia:Gecorene gemynddagas/23 Hrēþmōnaþ	Шаблон:События дня:03-23
+Wikipǣdia:Gecorene gemynddagas/17 Solmōnaþ	Шаблон:События дня:02-17
+Bysen:Birth date and age	Шаблон:Родился
+Bysen:MONTHNAME	Шаблон:MONTHNAME
+Wikipǣdia:Gecorene gemynddagas/30 Æfterra Gēola	Шаблон:События дня:01-30
+Wikipǣdia:Gecorene gemynddagas/9 Solmōnaþ	Шаблон:События дня:02-9
+Wikipǣdia:Gecorene gemynddagas/8 Hrēþmōnaþ	Шаблон:События дня:03-8
+Bysen:Sortname	Шаблон:Sortname
+Flocc:Gebēd	Категория:Молитвы
+Wikipǣdia:Gecorene gemynddagas/29 Solmōnaþ	Шаблон:События дня:02-29
+Wikipǣdia:Gecorene gemynddagas/2 Hrēþmōnaþ	Шаблон:События дня:03-2
+Bysen:Country data Ireland	Шаблон:Флагификация/Ирландия
+Wikipǣdia:Gecorene gemynddagas/27 Solmōnaþ	Шаблон:События дня:02-27
+Wikipǣdia:Gecorene gemynddagas/26 Hrēþmōnaþ	Шаблон:События дня:03-26
+Flocc:Country data templates	Категория:Шаблоны:Флагификация
+Bysen:Namespace detect	Шаблон:Namespace detect
+Wikipǣdia:Gecorene gemynddagas/Solmōnaþ	Проект:События дня/Февраль
+Bysen:Fmbox	Шаблон:Fmbox
+Bysen:Country data England	Шаблон:Флагификация/Англия
+Flocc:19e gēarhundred	Категория:XIX век
+Flocc:Wrīteras	Категория:Писатели
+Bysen:Country data Switzerland	Шаблон:Флагификация/Швейцария
+Flocc:Eormengyld	Категория:Университеты
+Bysen:Lang-cs	Шаблон:Lang-cs
+Bysen:Lang-he	Шаблон:Lang-he
+Bysen:Infobox OS	Шаблон:Карточка ОС
+Bysen:Both	Шаблон:Both
+Bysen:Brūcend pt-1	Шаблон:User pt-1
+Flocc:Æfterra Gēola	Категория:Январь
+Bysen:Lang-fa	Шаблон:Lang-fa
+Bysen:End tab	Портал:Древняя Русь/Шапка/Конец вкладок
+Bysen:Brūcend pl	Шаблон:User pl
+Bysen:Brūcend nl	Шаблон:User nl
+Bysen:Tab	Портал:Древняя Русь/Шапка/Вкладка
+Bysen:Brūcend pl-0	Шаблон:User pl-0
+Wikipǣdia:Gecorene gemynddagas/12 Winterfylleþ	Шаблон:События дня:10-12
+Bysen:Brūcend no-2	Шаблон:User no-2
+Bysen:Start tab	Портал:Древняя Русь/Шапка
+Wikipǣdia:Gecorene gemynddagas/11 Solmōnaþ	Шаблон:События дня:02-11
+Bysen:Australia	Шаблон:Административное деление Австралии
+Wikipǣdia:Gecorene gemynddagas/5 Blōtmōnaþ	Шаблон:События дня:11-5
+Wikipǣdia:Gecorene gemynddagas/11 Æfterra Gēola	Шаблон:События дня:01-11
+Wikipǣdia:Gecorene gemynddagas/3 Hāligmōnaþ	Шаблон:События дня:09-3
+Wikipǣdia:Gecorene gemynddagas/24 Hāligmōnaþ	Шаблон:События дня:09-24
+Bysen:Rtl-lang	Шаблон:Rtl-lang
+Bysen:Please don't change this page	Википедия:Введение 2
+Bysen:CAN	Шаблон:CAN
+Bysen:Lang-de	Шаблон:Lang-de
+Bysen:Country data Austria-Hungary	Шаблон:Флагификация/Австро-Венгрия
+Bysen:Sæternes Bōtm	Шаблон:Спутники Сатурна
+Bysen:Lang-la	Шаблон:Lang-la
+Flocc:Wucu	Категория:Неделя
+Bysen:Lang-af	Шаблон:Lang-af
+Wikipǣdia:Gecorene gemynddagas/Gēolmōnaþ	Проект:События дня/Декабрь
+Bysen:Infobox Album	Шаблон:Музыкальный альбом
+Bysen:User	Шаблон:User
+Wikipǣdia:Gecorene gemynddagas/16 Gēolmōnaþ	Шаблон:События дня:12-16
+Wikipǣdia:Gecorene gemynddagas/9 Æfterra Gēola	Шаблон:События дня:01-9
+Wikipǣdia:Gecorene gemynddagas/7 Æfterra Gēola	Шаблон:События дня:01-7
+Wikipǣdia:Gecorene gemynddagas/19 Mǣdmōnaþ	Шаблон:События дня:07-19
+Wikipǣdia:Gecorene gemynddagas/13 Wēodmōnaþ	Шаблон:События дня:08-13
+Wikipǣdia:Gecorene gemynddagas/12 Hāligmōnaþ	Шаблон:События дня:09-12
+Wikipǣdia:Gecorene gemynddagas/2 Hāligmōnaþ	Шаблон:События дня:09-2
+Wikipǣdia:Gecorene gemynddagas/7 Wēodmōnaþ	Шаблон:События дня:08-7
+Wikipǣdia:Gecorene gemynddagas/4 Ēastermōnaþ	Шаблон:События дня:04-4
+Wikipǣdia:Gecorene gemynddagas/22 Æfterra Gēola	Шаблон:События дня:01-22
+Wikipǣdia:Gecorene gemynddagas/4 Æfterra Gēola	Шаблон:События дня:01-4
+Wikipǣdia:Gecorene gemynddagas/19 Wēodmōnaþ	Шаблон:События дня:08-19
+Wikipǣdia:Gecorene gemynddagas/18 Hāligmōnaþ	Шаблон:События дня:09-18
+Wikipǣdia:Gecorene gemynddagas/4 Gēolmōnaþ	Шаблон:События дня:12-4
+Wikipǣdia:Gecorene gemynddagas/2 Wēodmōnaþ	Шаблон:События дня:08-2
+Wikipǣdia:Gecorene gemynddagas/21 Gēolmōnaþ	Шаблон:События дня:12-21
+Wikipǣdia:Gecorene gemynddagas/20 Mǣdmōnaþ	Шаблон:События дня:07-20
+Wikipǣdia:Gecorene gemynddagas/18 Wēodmōnaþ	Шаблон:События дня:08-18
+Wikipǣdia:Gecorene gemynddagas/24 Æfterra Gēola	Шаблон:События дня:01-24
+Wikipǣdia:Brōðra rǣdscēawung	Википедия:Рецензирование
+Bysen:Year nav	Шаблон:Навигация для года
+Flocc:Flyhthæfenan on Fietname	Категория:Аэропорты Вьетнама
+Bysen:Brūcend pl-1	Шаблон:User pl-1
+Flocc:Gebed	Категория:Христианские молитвы
+Flocc:Cyningas of Englalande	Категория:Короли Англии
+Flocc:Bryttisce cyningas	Категория:Правители Великобритании
+Bysen:Brūcend fr-3	Шаблон:User fr-3
+Bysen:GRA mid rīce namum	Шаблон:Карта США с метками
+Bysen:Imdb name	Шаблон:Imdb name
+Flocc:Tunisia	Категория:Тунис
+Bysen:PD	Шаблон:PD-because
+Bysen:Wikispell	Шаблон:Викиновости
+Bysen:Brūcend lt	Шаблон:User lt
+Bysen:Cc-by-sa-2.0	Шаблон:CC-BY-SA-2.0
+Bysen:Oppose	Шаблон:Против
+Bysen:Coord/link	Шаблон:Coord/link
+Bysen:Infobox UK place	Шаблон:НП-Великобритания
+Bysen:Brūcend de-5	Шаблон:User de-5
+Bysen:Brūcend is-1	Шаблон:User is-1
+Bysen:Brūcend is-2	Шаблон:User is-2
+Bysen:Brūcend is	Шаблон:User is
+Bysen:Brūcend de-0	Шаблон:User de-0
+Bysen:Brūcend fr-5	Шаблон:User fr-5
+Bysen:Brūcend en-5	Шаблон:User en-5
+Bysen:Dagas þǣre wuce	Шаблон:Неделя
+Flocc:Þēodisc burg	Категория:Населённые пункты Германии
+Bysen:Brūcend fr-0	Шаблон:User fr-0
+Flocc:Norþ Carolīna	Категория:Северная Каролина
+Flocc:Puerto Rico	Категория:Пуэрто-Рико
+Bysen:ColBreak	Шаблон:Multicol-break
+Flocc:Byrig þāra Geāndena Rīca American	Категория:Города США
+Bysen:Country data West Germany	Шаблон:Флагификация/ФРГ
+Bysen:Lang-ru	Шаблон:Lang-ru
+Bysen:Country data East Germany	Шаблон:Флагификация/ГДР
+Bysen:Brūcend it-0	Шаблон:User it-0
+Bysen:Browsebar	Шаблон:Индекс
+Bysen:Timeline Temperature Conversion	Шаблон:Диаграмма перевода температур
+Bysen:SolmōnaþGerīmbōc	Шаблон:Календарь на февраль
+Flocc:Brittisca Here	Категория:Сухопутные войска Великобритании
+Bysen:Disambig	Шаблон:Неоднозначность
+Flocc:Byrig on Israhēlum	Категория:Населённые пункты Израиля
+Bysen:Country data Nazi Germany	Шаблон:Флагификация/Третий рейх
+Bysen:Doi	Шаблон:DOI
+Bysen:Country data German Empire	Шаблон:Флагификация/Германская империя
+Flocc:Coreanisc stǣr	Категория:История Кореи
+Bysen:Fb	Шаблон:Футбол
+Bysen:Lang-grc	Шаблон:Lang-grc
+Bysen:Brūcend ksh	Шаблон:User ksh
+Bysen:Infobox Film	Шаблон:Фильм
+Bysen:Lang-en	Шаблон:Lang-en
+Bysen:Lang-id	Шаблон:Lang-id
+Flocc:Byrig on Belgum	Категория:Населённые пункты Бельгии
+Bysen:Brūcend sv-2	Шаблон:User sv-2
+Bysen:Brūcend it-2	Шаблон:User it-2
+Bysen:Lang-fr	Шаблон:Lang-fr
+Flocc:Angelseaxisc Englaland	Категория:Англосаксонский период Англии
+Bysen:Fossil range	Шаблон:Диапазон времени
+Bysen:Australia Labelled Map	Шаблон:Административное деление Австралии (Labelled Map)
+Bysen:Brūcend pt-0	Шаблон:User pt-0
+Bysen:Editnotice	Шаблон:Editnotice
+Bysen:Betwuxwici	Шаблон:Языковой раздел
+Flocc:Byrig in þǣm Niðerlandum	Категория:Города Нидерландов
+Wikipǣdia:Gecorene gemynddagas/Hāligmōnaþ	Проект:События дня/Сентябрь
+Bysen:Coord	Шаблон:Coord
+Bysen:Brūcend pt-3	Шаблон:User pt-3
+Bysen:Brūcend pt-2	Шаблон:User pt-2
+Flocc:Wyoming	Категория:Вайоминг
+Wikipǣdia:Gecorene gemynddagas/14 Hāligmōnaþ	Шаблон:События дня:09-14
+Wikipǣdia:Gecorene gemynddagas/20 Sēremōnaþ	Шаблон:События дня:06-20
+Wikipǣdia:Gecorene gemynddagas/22 Wēodmōnaþ	Шаблон:События дня:08-22
+Wikipǣdia:Gecorene gemynddagas/9 Hāligmōnaþ	Шаблон:События дня:09-9
+Wikipǣdia:Gecorene gemynddagas/13 Hāligmōnaþ	Шаблон:События дня:09-13
+Wikipǣdia:Gecorene gemynddagas/1 Æfterra Gēola	Шаблон:События дня:01-1
+Wikipǣdia:Gecorene gemynddagas/14 Wēodmōnaþ	Шаблон:События дня:08-14
+Wikipǣdia:Gecorene gemynddagas/6 Gēolmōnaþ	Шаблон:События дня:12-6
+Bysen:Brūcend fr-4	Шаблон:User fr-4
+Flocc:Grēneland	Категория:Гренландия
+Wikipǣdia:Gecorene gemynddagas/Winterfylleþ	Проект:События дня/Октябрь
+Bysen:Brūcend la-1	Шаблон:User la-1
+Bysen:Land on Europan	Шаблон:Страны Европы
+Bysen:Brūcend el-0	Шаблон:User el-0
+Flocc:User sk	Категория:User sk
+Flocc:Brūcend eo	Категория:User eo
+Flocc:Brūcend fr	Категория:User fr
+Flocc:Brūcend cy	Категория:User cy
+Flocc:Brūcend ang	Категория:User ang
+Flocc:Brūcend la	Категория:User la
+Flocc:Brūcend lt	Категория:User lt
+Flocc:Brūcend pt	Категория:User pt
+Flocc:Brūcend sv	Категория:User sv
+Flocc:Brūcend fr-3	Категория:User fr-3
+Flocc:Brūcend ang-3	Категория:User ang-3
+Flocc:Brūcend it-3	Категория:User it-3
+Flocc:Brūcend pl-3	Категория:User pl-3
+Flocc:Brūcend fi-1	Категория:User fi-1
+Flocc:Brūcend cy-1	Категория:User cy-1
+Flocc:Brūcend ang-1	Категория:User ang-1
+Flocc:Brūcend nl-1	Категория:User nl-1
+Flocc:Brūcend pl-1	Категория:User pl-1
+Flocc:Brūcend fr-4	Категория:User fr-4
+Flocc:Brūcend it-4	Категория:User it-4
+Flocc:Brūcend pl-4	Категория:User pl-4
+Flocc:Brūcend fr-2	Категория:User fr-2
+Flocc:Brūcend cy-2	Категория:User cy-2
+Flocc:Brūcend it-2	Категория:User it-2
+Flocc:Brūcend la-2	Категория:User la-2
+Flocc:Brūcend pl-2	Категория:User pl-2
+Flocc:Brūcend sv-2	Категория:User sv-2
+Flocc:Brūcend fr-M	Категория:User fr-N
+Flocc:Brūcend ang-N	Категория:User ang-N
+Flocc:Brūcend is-M	Категория:User is-N
+Flocc:Brūcend lt-N	Категория:User lt-N
+Flocc:Brūcend nl-M	Категория:User nl-N
+Flocc:Brūcend ru-M	Категория:User ru-N
+Flocc:Brūcend fr-5	Категория:User fr-5
+Flocc:Feormung	Категория:Развлечения
+Flocc:Hēafodstōlas þæs Sericus Gārsecges	Категория:Столицы Океании
+Flocc:Law & Order	Категория:Закон и порядок
+Flocc:Turcas and Caicos Īegland	Категория:Теркс и Кайкос
+Flocc:Tudoryld	Категория:Англия при Тюдорах
+Bysen:Sūþhjaltland	Шаблон:Южные Шетландские острова
+Flocc:Articles that need to be wikified	Категория:Википедия:Статьи к викификации
+Flocc:Byrig on Canadan	Категория:Населённые пункты Канады
+Flocc:Īega	Категория:Острова
+Flocc:Sericus Garsecg	Категория:Тихий океан
+Flocc:User sk-N	Категория:User sk-N
+Flocc:Brūcend de	Категория:User de
+Flocc:Brūcend de-2	Категория:User de-2
+Flocc:Brūcend de-3	Категория:User de-3
+Flocc:Brūcend de-4	Категория:User de-4
+Flocc:Brūcend el	Категория:User el
+Flocc:Brūcend el-1	Категория:User el-1
+Flocc:Brūcend el-2	Категория:User el-2
+Flocc:Brūcend el-3	Категория:User el-3
+Flocc:Brūcend el-4	Категория:User el-4
+Flocc:Brūcend el-N	Категория:User el-N
+Flocc:Sūþgeorgia and þā Sūþsandwic Īegland	Категория:Южная Георгия и Южные Сандвичевы острова
+Flocc:Brūcend en-3	Категория:User en-3
+Flocc:Brūcend en-5	Категория:User en-5
+Flocc:Brūcend en-M	Категория:User en-N
+Flocc:Brūcend eo-2	Категория:User eo-2
+Flocc:Brūcend es	Категория:User es
+Flocc:Brūcend es-1	Категория:User es-1
+Flocc:Brūcend es-2	Категория:User es-2
+Flocc:Puilla	Категория:Апулия
+Flocc:Brūcend es-3	Категория:User es-3
+Flocc:Brūcend es-4	Категория:User es-4
+Bysen:Brūcend es-5	Шаблон:User es-5
+Flocc:Brūcend es-N	Категория:User es-N
+Flocc:Brūcend fi	Категория:User fi
+Flocc:Brūcend fi-M	Категория:User fi-N
+Flocc:Brūcend fo	Категория:User fo
+Flocc:Brūcend fo-1	Категория:User fo-1
+Flocc:Brūcend fo-M	Категория:User fo-N
+Flocc:Brūcend is	Категория:User is
+Flocc:Brūcend is-1	Категория:User is-1
+Flocc:Brūcend is-2	Категория:User is-2
+Flocc:Byrig on Mexican	Категория:Населённые пункты Мексики
+Flocc:Mexiciscu rīce	Категория:Административное деление Мексики
+Bysen:Brūcend la-3	Шаблон:User la-3
+Flocc:Frencisc Guiana	Категория:Французская Гвиана
+Ǣht	Имущество
+Flocc:Hebrēisc sprǣc	Категория:Иврит
+Flocc:Brūcend pt-3	Категория:User pt-3
+Flocc:Bryttisc bōccræft	Категория:Литература Великобритании
+Flocc:Brūcend pl-N	Категория:User pl-N
+Flocc:Brūcend pt-1	Категория:User pt-1
+Flocc:Byrig on Feneswelan	Категория:Населённые пункты Венесуэлы
+Bysen:Country data Germany	Шаблон:Флагификация/Германия
+Bysen:Country data Geāned Cynerīce	Шаблон:Флагификация/Великобритания
+Wikipǣdia:Gecorene gemynddagas/17 Gēolmōnaþ	Шаблон:События дня:12-17
+Wikipǣdia:Gecorene gemynddagas/Mǣdmōnaþ	Проект:События дня/Июль
+Bysen:Lang-be	Шаблон:Lang-be
+Bysen:Cite encyclopedia	Шаблон:Cite encyclopedia
+Bysen:Country data Scotland	Шаблон:Флагификация/Шотландия
+Flocc:Brūcend it	Категория:User it
+Flocc:Brūcend it-1	Категория:User it-1
+Flocc:Rīcu þāra Geāndena Rīca American	Категория:Штаты США
+Flocc:Brūcend ksh	Категория:User ksh
+Bysen:Mpl	Шаблон:Mpl
+Flocc:Brūcend la-1	Категория:User la-1
+Wikipǣdia:Gecorene gemynddagas/29 Hāligmōnaþ	Шаблон:События дня:09-29
+Flocc:Brūcend la-3	Категория:User la-3
+Flocc:Brūcend la-4	Категория:User la-4
+Wikipǣdia:Gecorene gemynddagas/5 Hāligmōnaþ	Шаблон:События дня:09-5
+Flocc:Byrig on Īslande	Категория:Населённые пункты Исландии
+Bysen:Cite doi	Шаблон:Cite doi
+Flocc:Fȳrbeorgas	Категория:Вулканы
+Flocc:Dēorabyscīr	Категория:Дербишир
+Flocc:Byrig on Latie	Категория:Коммуны Лацио
+Bysen:Englaland Scīra	Шаблон:Церемониальные графства Англии
+Flocc:Feohtan	Категория:Боевые искусства
+Flocc:Blōtmōnaþ	Категория:Ноябрь
+Flocc:Difelinscīr	Категория:Дублин (графство)
+Wikipǣdia:Babel	Википедия:Вавилон
+Bysen:Help contents back	Шаблон:Help contents back
+Flocc:Byrig on Australie	Категория:Населённые пункты Австралии
+Flocc:Scopas	Категория:Поэты
+Bysen:BlōtmōnaþGerīmbōc	Шаблон:Календарь на ноябрь
+Flocc:Hāligmōnaþ	Категория:Сентябрь
+Flocc:Winterfylleþ	Категория:Октябрь
+Flocc:Sǣ	Категория:Моря
+Flocc:Gēolmōnaþ	Категория:Декабрь
+Flocc:Wēodmōnaþ	Категория:Август
+Flocc:Þrimilcemōnaþ	Категория:Май
+Bysen:ÞrimilcemōnaþGerīmbōc	Шаблон:Календарь на май
+Flocc:Brandenburg	Категория:Бранденбург
+Flocc:Englaland	Категория:Англия
+Seringas	Китайцы
+Wikipǣdia:Gecorene gemynddagas/22 Blōtmōnaþ	Шаблон:События дня:11-22
+Flocc:Ēastermōnaþ	Категория:Апрель
+Bysen:Lang-it	Шаблон:Lang-it
+Bysen:Coord/dms2dec	Шаблон:Coord/dms2dec
+Flocc:Brūcend es-5	Категория:User es-5
+Bysen:Country data Brazil	Шаблон:Флагификация/Бразилия
+Flocc:Gestorfen in 988	Категория:Умершие в 988 году
+Flocc:Wæter	Категория:Вода
+Flocc:Hēafod and swēor	Категория:Голова
+Flocc:Geboren in 121	Категория:Родившиеся в 121 году
+Bysen:Lang-mi	Шаблон:Lang-mi
+Flocc:180	Категория:180 год
+Flocc:Gestorfen in 180	Категория:Умершие в 180 году
+Flocc:Drincas	Категория:Напитки
+Flocc:Gestorfen in 2005	Категория:Умершие в 2005 году
+Flocc:450	Категория:450 год
+Wikipǣdia:Administrators' how-to guide	Википедия:Памятка администратору
+Bysen:Start date and age	Шаблон:Start date and age
+Flocc:Geboren in 1974	Категория:Родившиеся в 1974 году
+Flocc:Geboren in 1899	Категория:Родившиеся в 1899 году
+Flocc:Oklahoma	Категория:Оклахома
+Flocc:Iapanisc sangeras	Категория:Певцы и певицы Японии
+Flocc:Forman Þegnas	Категория:Премьер-министры
+Flocc:Geboren in 1954	Категория:Родившиеся в 1954 году
+Flocc:850	Категория:850 год
+Flocc:Geboren in 850	Категория:Родившиеся в 850 году
+Flocc:Hwītrussland	Категория:Белоруссия
+Flocc:Alberta	Категория:Альберта
+Flocc:Ontario	Категория:Онтарио
+Flocc:Nīwe Scotland	Категория:Новая Шотландия
+Flocc:899	Категория:899 год
+Flocc:Gestorfen in 899	Категория:Умершие в 899 году
+Flocc:Geocon Landscipe	Категория:Территория Юкон
+Flocc:Massachusetts	Категория:Массачусетс
+Flocc:924	Категория:924 год
+Flocc:Gestorfen in 924	Категория:Умершие в 924 году
+Bysen:Editprotected	Шаблон:Editprotected
+Bysen:Brūcend ang-0	Шаблон:User ang-0
+Bysen:Country data Ungerland	Шаблон:Флагификация/Венгрия
+Flocc:Land on Affrice	Категория:Страны Африки
+Bysen:ÆfterraGēolaGerīmbōc	Шаблон:Календарь на январь
+Bysen:Canadan underrīce	Шаблон:Административное деление Канады
+Bysen:Template reference list	Шаблон:Ссылки в шаблоне
+Flocc:Geboren in 1239	Категория:Родившиеся в 1239 году
+Flocc:1249	Категория:1249 год
+Bysen:Brūcend la-0	Шаблон:User la-0
+Flocc:1289	Категория:1289 год
+Flocc:1305	Категория:1305 год
+Flocc:Gestorfen in 1305	Категория:Умершие в 1305 году
+Flocc:1307	Категория:1307 год
+Wikipǣdia:Gecorene gemynddagas/Blōtmōnaþ	Проект:События дня/Ноябрь
+Bysen:Brūcend pt-4	Шаблон:User pt-4
+Bysen:Country data New Zealand	Шаблон:Флагификация/Новая Зеландия
+Bysen:Brūcend es-3	Шаблон:User es-3
+Flocc:Ēa Franclandes	Категория:Реки Франции
+Flocc:Brūcend pt-2	Категория:User pt-2
+Flocc:Brūcend pt-4	Категория:User pt-4
+Flocc:Brūcend pt-N	Категория:User pt-N
+Flocc:Brūcend ru	Категория:User ru
+Flocc:Brūcend sv-M	Категория:User sv-N
+Flocc:1634	Категория:1634 год
+Flocc:1638	Категория:1638 год
+Bysen:En icon	Шаблон:Ref-en
+Flocc:1719	Категория:1719 год
+Flocc:Gestorfen in 1719	Категория:Умершие в 1719 году
+Bysen:Country data Faroe Islands	Шаблон:Флагификация/Фарерские острова
+Flocc:121	Категория:121 год
+Bysen:Lang	Шаблон:Lang
+Wikipǣdia:Gecorene gemynddagas/21 Hāligmōnaþ	Шаблон:События дня:09-21
+Bysen:Country data Americanisc	Шаблон:Флагификация/США
+Bysen:Template example row	Шаблон:Template example row
+Flocc:Trēowu	Категория:Деревья
+Bysen:Infobox ea	Шаблон:Река
+Flocc:Geboren in 1634	Категория:Родившиеся в 1634 году
+Flocc:Geboren in 1638	Категория:Родившиеся в 1638 году
+Flocc:Geboren in 1852	Категория:Родившиеся в 1852 году
+Flocc:Geboren in 1892	Категория:Родившиеся в 1892 году
+Flocc:Geboren in 1918	Категория:Родившиеся в 1918 году
+Flocc:Geboren in 1945	Категория:Родившиеся в 1945 году
+Flocc:Geboren in 1949	Категория:Родившиеся в 1949 году
+Flocc:Geboren in 1981	Категория:Родившиеся в 1981 году
+Flocc:Geboren in 1993	Категория:Родившиеся в 1993 году
+Flocc:1715	Категория:1715 год
+Wikipǣdia:Gecorene gemynddagas/Ēastermōnaþ	Проект:События дня/Апрель
+Bysen:Period color	Шаблон:Цвет ГХШ
+Flocc:11e gēarhundred	Категория:XI век
+Flocc:988	Категория:988 год
+Flocc:10e gēarhundred	Категория:X век
+Flocc:7e gēarhundred	Категория:VII век
+Bysen:WēodmōnaþGerīmbōc	Шаблон:Календарь на август
+Flocc:1239	Категория:1239 год
+Flocc:Gestorfen in 1307	Категория:Умершие в 1307 году
+Flocc:Corsica	Категория:Корсика
+Flocc:Gestorfen in 1715	Категория:Умершие в 1715 году
+Flocc:Russisce bōccræft	Категория:Литература России
+Flocc:Sardinia	Категория:Сардиния
+Bysen:Lang-hi	Шаблон:Lang-hi
+Flocc:Florida	Категория:Флорида
+Flocc:Normandig	Категория:Нормандия
+Flocc:Francena caseras	Категория:Императоры Франции
+Flocc:Nevada	Категория:Невада
+Flocc:Nebraska	Категория:Небраска
+Flocc:Norþ Dakota	Категория:Северная Дакота
+Flocc:Nīwe Eoforwīc	Категория:Нью-Йорк (штат)
+Flocc:Rhode Īeg	Категория:Род-Айленд
+Flocc:Louisiāna	Категория:Луизиана
+Flocc:Marianland	Категория:Мэриленд
+Flocc:Maine	Категория:Мэн
+Flocc:Minnesota	Категория:Миннесота
+Flocc:Michigan	Категория:Мичиган
+Flocc:Mississippi	Категория:Миссисипи
+Flocc:Missouri	Категория:Миссури
+Flocc:Vermont	Категория:Вермонт
+Flocc:Virginia	Категория:Виргиния
+Flocc:Idaho	Категория:Айдахо
+Flocc:Iowa	Категория:Айова
+Flocc:Arkansas	Категория:Арканзас
+Flocc:Alaska	Категория:Аляска
+Flocc:Arizona	Категория:Аризона
+Flocc:Alabama	Категория:Алабама
+Flocc:Ohio	Категория:Огайо
+Flocc:Westvirginia	Категория:Западная Виргиния
+Flocc:Wisconsin	Категория:Висконсин
+Flocc:Indiāna	Категория:Индиана
+Flocc:Illinois	Категория:Иллинойс
+Flocc:Kansas	Категория:Канзас
+Flocc:California	Категория:Калифорния
+Flocc:Kentucky	Категория:Кентукки
+Flocc:Connecticut	Категория:Коннектикут
+Flocc:Colorado	Категория:Колорадо
+Flocc:Texas	Категория:Техас
+Flocc:Hawaii	Категория:Гавайи
+Bysen:WPMILHIST Infobox style	Шаблон:WPMILHIST Infobox style
+Flocc:Ōðru Woruldgūþ	Категория:Вторая мировая война
+Flocc:Nīwes Sǣlandes byrig	Категория:Населённые пункты Новой Зеландии
+Flocc:Hundas	Категория:Собаки
+Flocc:OS X gamen	Категория:Игры для OS X
+Flocc:Cattas	Категория:Кошачьи
+Wikipǣdia:Gecorene gemynddagas/16 Solmōnaþ	Шаблон:События дня:02-16
+Wikipǣdia:Gecorene gemynddagas/25 Wēodmōnaþ	Шаблон:События дня:08-25
+Flocc:Russisce wrīteras	Категория:Писатели России
+Bysen:•	Шаблон:•
+Flocc:1066	Категория:1066 год
+Flocc:Gestorfen in 1066	Категория:Умершие в 1066 году
+Bysen:WinterfylleþGerīmbōc	Шаблон:Календарь на октябрь
+Flocc:Angola	Категория:Ангола
+Flocc:Botswana	Категория:Ботсвана
+Flocc:Elpendbānrima	Категория:Кот-д’Ивуар
+Flocc:Æriþrea	Категория:Эритрея
+Flocc:Gabon	Категория:Габон
+Flocc:Gambia	Категория:Гамбия
+Flocc:Guinea	Категория:Гвинея
+Flocc:Camerun	Категория:Камерун
+Flocc:Grēnenæs Īega	Категория:Кабо-Верде
+Flocc:Cenia	Категория:Кения
+Flocc:Liberia	Категория:Либерия
+Flocc:Libia	Категория:Ливия
+Flocc:Morocco	Категория:Марокко
+Flocc:Mauritania	Категория:Мавритания
+Flocc:1451	Категория:1451 год
+Flocc:Namibia	Категория:Намибия
+Flocc:Caribisc Sǣ	Категория:Карибское море
+Flocc:Delaware	Категория:Делавэр
+Flocc:Georgia (America)	Категория:Джорджия
+Flocc:Montāna	Категория:Монтана
+Flocc:Eall gewritu þe hlȳtrunge þurfaþ	Категория:Википедия:Статьи к переработке
+Bysen:Merge	Шаблон:К объединению
+Flocc:Tennessee	Категория:Теннесси
+Flocc:Baden-Wyrttemberg	Категория:Баден-Вюртемберг
+Flocc:1852	Категория:1852 год
+Flocc:1892	Категория:1892 год
+Flocc:Gestorfen in 1926	Категория:Умершие в 1926 году
+Flocc:1973	Категория:1973 год
+Flocc:Gestorfen in 1973	Категория:Умершие в 1973 году
+Flocc:1975	Категория:1975 год
+Flocc:1981	Категория:1981 год
+Flocc:Gestorfen in 1982	Категория:Умершие в 1982 году
+Flocc:2004	Категория:2004 год
+Flocc:Gestorfen in 2004	Категория:Умершие в 2004 году
+Flocc:2005	Категория:2005 год
+Flocc:2006	Категория:2006 год
+Flocc:2007	Категория:2007 год
+Flocc:2008	Категория:2008 год
+Flocc:Ēa	Категория:Реки
+Bysen:Brūcend el-2	Шаблон:User el-2
+Bysen:Brūcend fo-1	Шаблон:User fo-1
+Bysen:Brūcend fo-3	Шаблон:User fo-3
+Bysen:Brūcend la-2	Шаблон:User la-2
+Bysen:Brūcend no-1	Шаблон:User no-1
+Bysen:Brūcend pl-2	Шаблон:User pl-2
+Bysen:Brūcend pt	Шаблон:User pt
+Flocc:Sūþsudan	Категория:Южный Судан
+Flocc:Cead	Категория:Чад
+Flocc:Uganda	Категория:Уганда
+Flocc:Rōmānisce Cāseras	Категория:Римские императоры
+Flocc:Brūcend nl	Категория:User nl
+Flocc:Sūþhjaltland	Категория:Южные Шетландские острова
+Flocc:Brūcend no-1	Категория:User no-1
+Flocc:Brūcend no-2	Категория:User no-2
+Flocc:Brūcend no	Категория:User no
+Flocc:Niðerlanda Cyningas	Категория:Короли Нидерландов
+Flocc:Norrena cyningas	Категория:Короли Норвегии
+Flocc:Swēona cyningas	Категория:Короли Швеции
+Flocc:Armenia	Категория:Армения
+Flocc:Bahrain	Категория:Бахрейн
+Flocc:Mennisc bodiȝlār	Категория:Анатомия человека
+Flocc:Feorrsīen	Категория:Телевидение
+Flocc:14e gēarhundred	Категория:XIV век
+Flocc:13e gēarhundred	Категория:XIII век
+Flocc:2e gēarhundred	Категория:II век
+Flocc:4e gēarhundred	Категория:IV век
+Flocc:5e gēarhundred	Категория:V век
+Flocc:18e gēarhundred	Категория:XVIII век
+Flocc:6e gēarhundred	Категория:VI век
+Flocc:Arabea	Категория:Аравийский полуостров
+Flocc:Nīwlicu Word	Категория:Неологизм
+Flocc:Nīwesǣlendisce wrīteras	Категория:Писатели Новой Зеландии
+Flocc:Seaxland-Anhalt	Категория:Саксония-Анхальт
+Flocc:Niðerseaxland	Категория:Нижняя Саксония
+Flocc:Russe	Категория:Русские
+Flocc:Unƿǣre lēode	Категория:Персонажи
+Flocc:Crēcisc ūtwitan	Категория:Философы Греции
+Flocc:Sūþseaxe	Категория:Суссекс
+Flocc:Bægwaraland	Категория:Бавария
+Flocc:Superman	Категория:Супермен
+Flocc:Ēage	Категория:Глаз
+Flocc:Corn	Категория:Хлебные зерновые культуры
+Flocc:Nīweoforwīcburg	Категория:Нью-Йорк
+Flocc:Norþfolc	Категория:Норфолк
+Flocc:Norþhāmtūnescīr	Категория:Нортгемптоншир
+Flocc:NBC	Категория:NBC
+Flocc:Gamen	Категория:Отдых
+Flocc:Snotingahāmscīr	Категория:Ноттингемшир
+Flocc:15e gēarhundred	Категория:XV век
+Flocc:Georgia (land)	Категория:Грузия
+Flocc:Cambodia	Категория:Камбоджа
+Flocc:Americanisc sangeras	Категория:Певцы и певицы США
+Flocc:Bryttisce scopas	Категория:Поэты Великобритании
+Flocc:Stǣr þæs Cynerices Greatbryttenes	Категория:История Великобритании
+Flocc:Iamaica	Категория:Ямайка
+Bysen:Lang-hy	Шаблон:Lang-hy
+Flocc:Scotta cyningas	Категория:Короли Шотландии
+Flocc:Bryttiscan Fæmne Īegland	Категория:Британские Виргинские острова
+Flocc:Corēa	Категория:Корея
+Flocc:Burma	Категория:Мьянма
+Flocc:Taprabane	Категория:Шри-Ланка
+Bysen:Col-3	Шаблон:Col-3
+Flocc:Tacgicastan	Категория:Таджикистан
+Flocc:Ēasttimor	Категория:Восточный Тимор
+Flocc:Turcmenistan	Категория:Туркмения
+Flocc:Usbecastan	Категория:Узбекистан
+Flocc:Geānedan Arabiscan Bregorīce	Категория:Объединённые Арабские Эмираты
+Flocc:9e gēarhundred	Категория:IX век
+Flocc:Sofiet Gesamnung	Категория:СССР
+Bysen:Bēc þǣre Ealdan Gecȳþnesse	Шаблон:Книги Ветхого Завета
+Bysen:Brūcend de-4	Шаблон:User de-4
+Flocc:Searwa stycce	Категория:Незавершённые статьи о технике
+Flocc:Wēalas	Категория:Уэльс
+Flocc:Blizzard Entertainment	Категория:Blizzard Entertainment
+Flocc:Foresittendas þāra Geāndena Rīca American	Категория:Президенты США
+Flocc:Europisc stǣr	Категория:История Европы
+Flocc:Hascemisce Cynerīce þæs Iordanes	Категория:Иордания
+Flocc:Bosnia and Herzegovina	Категория:Босния и Герцеговина
+Flocc:Norþweg	Категория:Норвегия
+Flocc:Barbados	Категория:Барбадос
+Flocc:Paraguay	Категория:Парагвай
+Flocc:Ficgiege	Категория:Фиджи
+Flocc:Lēohtenstān	Категория:Лихтенштейн
+Flocc:Uruguay	Категория:Уругвай
+Flocc:Andorra	Категория:Андорра
+Flocc:Serbia	Категория:Сербия
+Flocc:Ecuador	Категория:Эквадор
+Flocc:Peru	Категория:Перу
+Flocc:Bolifia	Категория:Боливия
+Flocc:Albania	Категория:Албания
+Flocc:Monaco	Категория:Монако
+Flocc:Land on Norðamerican	Категория:Страны Северной Америки
+Flocc:Fiscas	Категория:Рыбы
+Flocc:Wyrta	Категория:Овощи
+Flocc:Ofet	Категория:Фрукты
+Flocc:Nīwu Gecȳþnes	Категория:Новый Завет
+Flocc:Musea	Категория:Музеи
+Flocc:Rímcræft	Категория:Функции
+Flocc:Landscipas Swēolandes	Категория:Лены Швеции
+Flocc:Stǣrlice Sprǣccræft	Категория:Сравнительно-историческое языкознание
+Flocc:Dūnholmscīr	Категория:Дарем
+Flocc:Manga	Категория:Манга
+Flocc:Eoferwicscīr	Категория:Йоркшир
+Flocc:Oferhæleðas	Категория:Супергерои
+Flocc:Calpis	Категория:Гибралтар
+Flocc:Beadwe	Категория:Сражения
+Flocc:Weorcendebyrdnessa	Категория:Операционные системы
+Flocc:Mexicorīce	Категория:Штаты Мексики
+Flocc:Hidalgo Rīce	Категория:Идальго
+Flocc:Hetwaraland	Категория:Гессен
+Flocc:Lunden	Категория:Лондон
+Flocc:Lincolnscīr	Категория:Линкольншир
+Bysen:Incubator	Шаблон:Инкубатор
+Flocc:Wikimedian geweorc	Категория:Викимедиа
+Flocc:Wiltūnscīr	Категория:Уилтшир
+Flocc:Wigreceastrescīr	Категория:Вустершир
+Flocc:Americanisce Ingefeoht	Категория:Гражданская война в США
+Flocc:Byrig on Tuscanie	Категория:Коммуны Тосканы
+Flocc:Dēor	Категория:Животные
+Flocc:Hweorfdēor	Категория:Позвоночные
+Flocc:Pitcearnīega	Категория:Питкэрн
+Flocc:Cægman Īegland	Категория:Каймановы острова
+Flocc:Folcland Īegland	Категория:Фолклендские острова
+Flocc:Land on Sūðamerican	Категория:Страны Южной Америки
+Flocc:Colombia	Категория:Колумбия
+Bysen:Contents pages (header bar)	Википедия:Содержание Википедии/Навигация
+Flocc:Anime	Категория:Аниме
+Flocc:Oxnafordscīr	Категория:Оксфордшир
+Flocc:Hociȝ	Категория:Хоккей
+Flocc:Heortfordscīr	Категория:Хартфордшир
+Flocc:Sicilia	Категория:Сицилия
+Flocc:Grantabrycgscīr	Категория:Кембриджшир
+Flocc:Þēodacynewīse	Категория:Содружество наций
+Flocc:Līþ	Категория:Алкогольные напитки
+Flocc:Spearctellas	Категория:Игровые приставки
+Flocc:Englisc scīr	Категория:Графства Англии
+Flocc:Æþelingas	Категория:Князья
+Flocc:Ceasterscīr	Категория:Чешир
+Flocc:Sūþrige	Категория:Суррей
+Flocc:Defenascīr	Категория:Девон
+Flocc:Rōmāniscu Folclār	Категория:Римская мифология
+Flocc:Beadanfordscīr	Категория:Бедфордшир
+Flocc:Bergan	Категория:Ягоды
+Flocc:Bēor	Категория:Пиво
+Flocc:Sang	Категория:Песни
+Flocc:Eormengyld byrig	Категория:Университетские города
+Flocc:Hēafodstōlas	Категория:Столицы государств
+Flocc:Byrig on Paraguay	Категория:Населённые пункты Парагвая
+Flocc:Stōwlice hēafodstōlas Canadan	Категория:Города Канады
+Flocc:Ēastseaxe	Категория:Эссекс
+Flocc:Middelasia	Категория:Центральная Азия
+Flocc:Indisca Underworulddǣl	Категория:Южная Азия
+Flocc:NFL	Категория:Национальная футбольная лига
+Flocc:Tuscania	Категория:Тоскана
+Flocc:Latium	Категория:Лацио
+Flocc:Lonceasterscīr	Категория:Ланкашир
+Flocc:Hāmtūnescīr	Категория:Хэмпшир
+Flocc:Brūcend pl	Категория:User pl
+Flocc:Gleawcesterscīr	Категория:Глостершир
+Flocc:Rōmānisca sprǣca	Категория:Романские языки
+Flocc:Fōr	Категория:Транспорт
+Flocc:Sund	Категория:Плавание
+Flocc:Hēapplegan	Категория:Командные виды спорта
+Flocc:Toys	Категория:Игрушки
+Flocc:Hīwscipe	Категория:Семья
+Flocc:Cornweall	Категория:Корнуолл
+Flocc:Cīna Caseras	Категория:Императоры Китая
+Flocc:Antarctica	Категория:Антарктида
+Flocc:Norðamerica	Категория:Северная Америка
+Flocc:Sangestre	Категория:Певцы и певицы
+Flocc:Euxinus	Категория:Чёрное море
+Flocc:Meras	Категория:Озёра
+Bysen:Flagcountry	Шаблон:Флагификация
+Bysen:Country data Weimar Republic	Шаблон:Флагификация/Веймарская республика
+Flocc:Sweartbeorg	Категория:Черногория
+Flocc:Indisc Gārsecg	Категория:Индийский океан
+Flocc:Wægnas	Категория:Автомобиль
+Bysen:Brūcend af-2	Шаблон:User af-2
+Wealhmoru	Морковь посевная
+Flocc:Byrig on Francum	Категория:Населённые пункты Франции
+Flocc:Cent	Категория:Кент
+Flocc:Byrig on Fietname	Категория:Города Вьетнама
+Flocc:Byrig on þǣm Ucrægnan	Категория:Города Украины
+Flocc:Byrig on Eotolwarum	Категория:Города Италии
+Flocc:Beorgas on Brettum	Категория:Горы Великобритании
+Flocc:Scotland	Категория:Шотландия
+Flocc:Spēonisc bōccræft	Категория:Литература Испании
+Flocc:Cumbraland	Категория:Камберленд
+Flocc:Hēafodstōlas in Europe	Категория:Столицы европейских государств
+Flocc:Hēafodstōlas in Asie	Категория:Столицы азиатских государств
+Flocc:Þēodisc Hǣðenscipe	Категория:Германское язычество
+Flocc:Norðerne Īrland	Категория:Северная Ирландия
+Flocc:Nīwesǣlendisc bōccræft	Категория:Литература Новой Зеландии
+Flocc:Īrisc bōccræft	Категория:Литература Ирландии
+Bysen:CompactTOC	Шаблон:CompactTOC8
+Flocc:Geāsparedu līc	Категория:Мумии
+Flocc:Wendelsǣ	Категория:Средиземноморье
+Flocc:Byrig on Finnum	Категория:Населённые пункты Финляндии
+Flocc:Byrig on Cile	Категория:Населённые пункты Чили
+Flocc:Byrig on Illinoise	Категория:Населённые пункты штата Иллинойс
+Bysen:Wikia	Шаблон:Wikia
+Flocc:World Trade Center	Категория:Всемирный торговый центр
+Bysen:Rounddown	Шаблон:Rounddown
+Flocc:Loidis	Категория:Лидс
+Flocc:Australisc Hēafodburg Landscipe	Категория:Австралийская столичная территория
+Flocc:Brūcend de-5	Категория:User de-5
+Bysen:Country data Cænada	Шаблон:Флагификация/Канада
+Bysen:Color box	Шаблон:Цветной прямоугольник
+Flocc:Angleseg	Категория:Англси
+Flocc:Cyþþubox	Категория:Википедия:Вертикальные навигационные шаблоны
+Bysen:Country data Barbados	Шаблон:Флагификация/Барбадос
+Bysen:Country data Empire of Japan	Шаблон:Флагификация/Японская империя
+Bysen:Country data Free French	Шаблон:Флагификация/Свободная Франция
+Bysen:Country data Martinique	Шаблон:Флагификация/Мартиника
+Bysen:Country data Åland Islands	Шаблон:Флагификация/Аландские острова
+Bysen:Lang-pl	Шаблон:Lang-pl
+Bysen:Brūcend pl-3	Шаблон:User pl-3
+Bysen:Brūcend pl-4	Шаблон:User pl-4
+Flocc:Flæmingaland	Категория:Фландрия
+Flocc:Byrig on Difelinscīre	Категория:Населённые пункты и районы города-графства Дублин
+Flocc:Ēastengla cyningas	Категория:Короли Восточной Англии
+Flocc:Miercna cyningas	Категория:Короли Мерсии
+Flocc:Norþhymbra cyningas	Категория:Короли Нортумбрии
+Flocc:Westseaxna cyningas	Категория:Короли Уэссекса
+Trojany (Masovian Voivodship)	Трояны (Мазовецкое воеводство)
+Flocc:Willelm Shakespeare	Категория:Уильям Шекспир
+Flocc:Byrig þāra Faroiscan Īegena	Категория:Города Фарерских островов
+Flocc:Sigelhearwena Cāseras	Категория:Императоры Эфиопии
+Flocc:Land on Asie	Категория:Страны Азии
+Flocc:Windows gamen	Категория:Игры для Windows
+Bysen:Dispute-resolution	Шаблон:Разрешение конфликтов
+Bysen:Landskap	Шаблон:Провинции Швеции
+Flocc:Wicibōceras in þǣm Geānlǣhtum Rīcum American	Категория:Википедия:Участники из США
+Bysen:Plegere-stycce	Шаблон:Actor-stub
+Bysen:Nigerie Rīce	Шаблон:Штаты Нигерии
+Flocc:Wikipedia protected edit requests	Категория:Википедия:Запросы на изменения защищённых страниц
+Bysen:Brūcend la-4	Шаблон:User la-4
+Bysen:Brūcend it-4	Шаблон:User it-4
+Bysen:Brūcend fo	Шаблон:User fo
+Bysen:Brūcend el-4	Шаблон:User el-4
+Bysen:Brūcend el-3	Шаблон:User el-3
+Bysen:Brūcend cy-2	Шаблон:User cy-2
+Bysen:Brūcend cy-1	Шаблон:User cy-1
+Bysen:Brūcend ang	Шаблон:User ang
+Bysen:Lang-ty	Шаблон:Lang-ty
+Bysen:Lang-ti	Шаблон:Lang-ti
+Bysen:Lang-sq	Шаблон:Lang-sq
+Bysen:Lang-ro	Шаблон:Lang-ro
+Bysen:Lang-kl	Шаблон:Lang-kl
+Bysen:IPAc-en	Шаблон:IPAc-en
+Bysen:Lang-es	Шаблон:Lang-es
+Bysen:Lang-cy	Шаблон:Lang-cy
+Bysen:Lang-bn	Шаблон:Lang-bn
+Bysen:ĒastermōnaþGerīmbōc	Шаблон:Календарь на апрель
+Flocc:Westmoringaland	Категория:Уэстморленд
+Bysen:SēremōnaþGerīmbōc	Шаблон:Календарь на июнь
+Bysen:HrēþmōnaþGerīmbōc	Шаблон:Календарь на март
+Flocc:Westmidlandscīr	Категория:Западный Мидлендс
+Flocc:West Loðene	Категория:Западный Лотиан
+Bysen:StarCraft endebyrdnes	Шаблон:Starcraft
+Flocc:Wæringscīr	Категория:Уорикшир
+Flocc:Wīcinga Ieldu	Категория:Эпоха викингов
+Wikipǣdia:Gecorene gemynddagas/Wēodmōnaþ	Проект:События дня/Август
+Flocc:Seolh	Категория:Ластоногие
+Flocc:Quebec	Категория:Квебек
+Flocc:Bryttisce ofersǣ landscipas	Категория:Заморские территории Великобритании
+Flocc:Ostsǣ	Категория:Балтийское море
+Flocc:Bysen Brūcend Box	Категория:Википедия:Юзербоксы
+Flocc:Dēaþstīele glīwdrēame clīwene	Категория:Дэт-метал-группы
+Flocc:Clackmannanscīr	Категория:Клакманнаншир
+Flocc:Gūþ	Категория:Война
+Flocc:Ēastgermanisca sprǣca	Категория:Восточногерманские языки
+Flocc:Ēast Loðene	Категория:Восточный Лотиан
+Flocc:Fif Scīr	Категория:Файф
+Flocc:Lēoðlic scātung	Категория:Фигурное катание
+Bysen:Lang-zh	Шаблон:Lang-zh
+Bysen:Lang-mn	Шаблон:Lang-mn
+Bysen:Lang-fi	Шаблон:Lang-fi
+Bysen:Lang-sv	Шаблон:Lang-sv
+Flocc:Frencisc Polynesia	Категория:Французская Полинезия
+Flocc:Germanisca sprǣca	Категория:Германские языки
+Flocc:Glamorgan	Категория:Гламорган
+Bysen:Precision1	Шаблон:Precision1
+Bysen:Precision/tz	Шаблон:Precision/tz
+Bysen:Precision/tz/1	Шаблон:Precision/tz/1
+Flocc:Herefordscīr	Категория:Херефордшир
+Flocc:Rōmānisc stǣr	Категория:История Рима
+Flocc:Huntandunscīr	Категория:Хантингдоншир
+Flocc:Īshocig	Категория:Хоккей с шайбой
+Flocc:Īrland	Категория:Ирландия
+Flocc:Constantinopolis	Категория:Стамбул
+Wikipǣdia:Page history	Справка:История изменений
+Flocc:Mintan	Категория:Яснотковые
+Flocc:Bysen Sprǣc	Категория:Шаблоны lang-x
+Flocc:Lægreceastrescīr	Категория:Лестершир
+Flocc:Langbeardnaland	Категория:Ломбардия
+Wikipǣdia:Snellbred	Википедия:Шпаргалка
+Flocc:Midloðene	Категория:Мидлотиан
+Flocc:Rōm	Категория:Рим
+Flocc:Rūncræft	Категория:Руны
+Flocc:Roteland	Категория:Ратленд
+Flocc:Sancte Elene Īeg, Upstigeīeg and Tristan da Cunha	Категория:Острова Святой Елены, Вознесения и Тристан-да-Кунья
+Flocc:Hjaltland	Категория:Шетландские острова
+Flocc:Scipu	Категория:Суда и корабли
+Flocc:Scrobbesbyrigscīr	Категория:Шропшир
+Flocc:Byrig on Seringum	Категория:Населённые пункты Китая
+Flocc:Byrig on Pennsyluanie	Категория:Населённые пункты Пенсильвании
+Flocc:Napoleon I Francena Casere	Категория:Наполеон I
+Flocc:NHL	Категория:Национальная хоккейная лига
+Flocc:Byrig on Nīwum Hāmtūnscīre	Категория:Города Нью-Гэмпшира
+Flocc:Americanisc fōtball	Категория:Американский футбол
+Flocc:Stæffordscīr	Категория:Стаффордшир
+Flocc:Bermuda	Категория:Бермудские острова
+Flocc:Bearrucscīr	Категория:Беркшир
+Flocc:Norþgermanisca sprǣca	Категория:Скандинавские языки
+Flocc:São Paulo	Категория:Сан-Паулу
+Flocc:Ucrægnisc sprǣc	Категория:Украинский язык
+Flocc:Westgermanisca sprǣca	Категория:Западногерманские языки
+Flocc:Dȳfung	Категория:Дайвинг
+Flocc:Wichlawscīr	Категория:Уиклоу (графство)
+Flocc:Nīwre Gecȳþnesse bōc	Категория:Книги Нового Завета
+Flocc:Antrimscīr	Категория:Антрим
+Flocc:Mageoscīr	Категория:Мейо (графство)
+Flocc:Celtisc sprǣc	Категория:Кельтские языки
+Flocc:Coritiba Foot Ball Club	Категория:ФК «Коритиба»
+Flocc:Wendelsǣs īega	Категория:Острова Средиземного моря
+Flocc:Orcanege	Категория:Оркнейские острова
+Flocc:Byrig on Brasile	Категория:Населённые пункты Бразилии
+Flocc:Byrig on Perwe	Категория:Населённые пункты Перу
+Flocc:Byrig on Polum	Категория:Населённые пункты Польши
+Flocc:Byrig on Russum	Категория:Населённые пункты России
+Flocc:Tūnas on Mageoscīre	Категория:Населённые пункты графства Мейо
+Flocc:Gyldfōtþōðres styccelicu gewritu	Категория:Незавершённые статьи о футболе
+Flocc:Byrig	Категория:Города
+Flocc:Brūcend fo-3	Категория:User fo-3
+Flocc:Personal life	Категория:Личная жизнь
+Flocc:Brūcend ang-0	Категория:User ang-0
+Flocc:Byrig on Idahon	Категория:Населённые пункты штата Айдахо
+Flocc:Byrig on Westvirginie	Категория:Населённые пункты Западной Виргинии
+Flocc:Byrig on Brettum	Категория:Города Великобритании
+Bysen:Year in other calendars	Шаблон:Год в других календарях
+Flocc:Byrig on Grēnelande	Категория:Населённые пункты Гренландии
+Flocc:Brūcend en-1	Категория:User en-1
+Flocc:Geboren in 1946	Категория:Родившиеся в 1946 году
+Flocc:Brūcend de-1	Категория:User de-1
+Flocc:Geboren in 1920	Категория:Родившиеся в 1920 году
+Flocc:Germanisc mægþ	Категория:Германцы
+Flocc:Īrisce Scīre	Категория:Графства Ирландии
+Flocc:Byrig on Turcum	Категория:Населённые пункты Турции
+Flocc:Byrig on Cumbralande	Категория:Города Камбрии
+Hunna Rīce	Империя гуннов
+Bysen:Virginia	Шаблон:Виргиния
+Bysen:Kylie Minogue	Шаблон:Кайли Миноуг
+Bysen:GēolmōnaþGerīmbōc	Шаблон:Календарь на декабрь
+Bysen:MǣdmōnaþGerīmbōc	Шаблон:Календарь на июль
+Wikipǣdia:Gecorene gemynddagas/Sēremōnaþ	Проект:События дня/Июнь
+Wikipǣdia:Gecorene gemynddagas/Æfterra Gēola	Проект:События дня/Январь
+Wikipǣdia:Gecorene gemynddagas/Hrēþmōnaþ	Проект:События дня/Март
+Wikipǣdia:Gecorene gemynddagas/Þrimilcemōnaþ	Проект:События дня/Май
+Bysen:Start date	Шаблон:Start date
+Wikipǣdia:10 þing þe þu nāst ymbe Wicipǣdian	Википедия:Десять фактов о Википедии
+Bysen:Brūcend ang-2	Шаблон:User ang-2
+Bysen:Brūcend ang-1	Шаблон:User ang-1
+Bysen:Brūcend ang-3	Шаблон:User ang-3
+Bysen:Elementbox isotopes decay	Шаблон:Строка изотопа
+Bleohcrāwe	Сойки (значения)
+Bysen:Italy-hist-stub	Шаблон:Italy-hist-stub
+Bysen:Lang-kw	Шаблон:Lang-kw
+Bysen:Eald-Rōm-stycce	Шаблон:Roma-stub
+Bysen:Lang-sco	Шаблон:Lang-sco
+Bysen:Beadu-stycce	Шаблон:Battle-stub
+2013 FA Cup Final	Финал Кубка Англии по футболу 2013
+Wikipǣdia:In the news section on the Main Page	Портал:Текущие события/Правила добавления записей в шаблоны
+Swǣfe	Швабия
+Wikipǣdia:Templates	Википедия:Шаблоны
+Wikipǣdia:IPA for Nīƿenglisce	Таблица МФА для английского языка
+Hindberge	Малина
+Læsse Asia	Малая Азия
+Bysen:End	Шаблон:End box
+Tirzah	Фирца (в Библии)
+Bysen:Syndrigebocstafas	Шаблон:Спецсимволы
+Bysen:Ice hockey team roster	Шаблон:Текущий состав хоккейного клуба
+Lorde	Лорд (певица)
+Georgius Grantanbrycge Æþeling	Джордж Кембриджский
+Flocc:Wæstmas	Категория:Сельскохозяйственные культуры
+Gingifer	Имбирь (пряность)
+Module:Arguments	Модуль:Arguments
+Syndrig:RecentChanges	Служебная:Свежие правки
+Flocc:Byrig on Langbeardum	Категория:Коммуны Ломбардии
+Flocc:Gestorfen in 1975	Категория:Умершие в 1975 году
+Tæfl	Хнефатафл

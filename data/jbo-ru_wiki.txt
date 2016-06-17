@@ -1,0 +1,1553 @@
+frikytu'a	Африка
+pongu'e	Япония
+ketytu'a	Южная Америка
+noreg	Норвегия
+airland	Ирландия
+madjiar	Венгрия
+sangu'e	Испания
+mergu'e	Соединённые Штаты Америки
+beldjym	Бельгия
+lEtsyburg	Люксембург
+terdi	Земля
+remna	Человек разумный
+gugdrsu,omi	Финляндия
+sueriges	Швеция
+danmark	Дания
+polskas	Польша
+lietuvas	Литва
+italias	Италия
+elvetias	Швейцария
+ysteraic	Австрия
+xesygu'e	Греция
+turk	Турция
+birje	Пиво
+potygu'e	Португалия
+rontu'a	Европа
+zdotu'a	Азия
+bemtu'a	Северная Америка
+ziptu'a	Антарктида
+uikipidias	Википедия
+nederland	Нидерланды
+pinji	Пенис у животных
+niu,IORK. zei tcadu	Нью-Йорк
+.uacintyn. zei tcadu	Вашингтон (округ Колумбия)
+berlin	Берлин
+skami	Компьютер
+tcadrjenevu	Женева
+byRAK.obamas	Обама, Барак
+uruguais	Уругвай
+london	Лондон
+plise	Яблоко
+paris	Париж
+mexygu'e	Мексика
+atlantik. zei braxamsi	Атлантический океан
+pasifik. zei braxamsi	Тихий океан
+kalifornias	Калифорния
+pavma'i	Январь
+relma'i	Февраль
+mars	Марс
+kenias	Кения
+itiopias	Эфиопия
+cinfo	Лев
+fasygu'e	Франция
+esperantos	Эсперанто
+gerku	Собака
+ritygu'e	Великобритания
+mlatu	Кошка
+jugygu'e	Китайская Народная Республика
+fasybau	Французский язык
+finpe	Рыбы
+razgu'e	Бразилия
+rukygu'e	Россия
+xamsi	Море
+xekri xamsi	Чёрное море
+alybamas	Алабама
+sankt. paulos	Сан-Паулу
+dotygu'e	Германия
+belrus	Белоруссия
+dotybau	Немецкий язык
+island	Исландия
+estis	Эстония
+saturn	Сатурн
+ci'i	Бесконечность
+djordj. ualker. buc	Буш, Джордж Уокер
+vurgu'e	Украина
+tcesk.zei gubyseltru	Чехия
+slovensk	Словакия
+slovEni,as	Словения
+moldovas	Молдавия
+romanias	Румыния
+bylgAri,as	Болгария
+romas	Рим
+xrvatskas	Хорватия
+andoras	Андорра
+kazaksTAN	Казахстан
+maltas	Мальта
+brusel.	Брюссельский столичный регион
+kubas	Куба
+beliz	Белиз
+bidgu'e	Индонезия
+vulfygan.amade,us.motsart	Моцарт, Вольфганг Амадей
+ludvix.fan.beitoven	Бетховен, Людвиг ван
+nanfi'ogu'e	Южно-Африканская Республика
+jexygu'e	Алжир
+djacu	Вода
+tciles	Чили
+iesus	Иисус Христос
+galileos.galileis	Галилей, Галилео
+merkurios	Меркурий
+citri	История
+venus	Венера
+bangu	Язык
+barda tarci bo girzu	Галактика
+iupiter	Юпитер
+uranos	Уран (планета)
+neptun	Нептун
+kesyske	Астрономия
+singapura	Сингапур
+saske	Наука
+mu'eske	Космология
+pluton	Плутон
+lictenctain	Лихтенштейн
+.adolf. .itlyr.	Гитлер, Адольф
+remoi ke terdi nunjamna	Вторая мировая война
+ubuntus	Ubuntu
+linuks	Linux
+cmaci	Математика
+U2	U2
+xigzo	Бозон Хиггса
+serbias	Сербия
+lunra	Луна
+sralygu'e	Австралия
+termu'eske	Физика
+getygu'e	Аргентина
+perus	Перу
+mivyske	Биология
+berti zei .dcosyn	Корейская Народно-Демократическая Республика
+danlu kamjikyzi'e	Права животных
+dalske	Зоология
+musyjda	Ислам
+spaske	Ботаника
+lex.wauensas.	Валенса, Лех
+lion	Лион
+ropno gunma	Европейский союз
+ninmu	Женщина
+pemci	Поэзия
+badna	Банан
+napoleon	Наполеон I
+tarci	Звезда
+solri	Солнце
+lu'is. pastyr.	Пастер, Луи
+viktor.ugos	Гюго, Виктор
+poltu'a	Океания
+solri ciste	Солнечная система
+baltik. xamsi	Балтийское море
+cidro	Водород
+solnavni	Гелий
+roksodna	Литий
+jinmrberilo	Бериллий
+djedi	Сутки
+nicte	Ночь
+nanca	Год
+ctona'a	Век
+tcadrkatovitse	Катовице
+jicmrboro	Бор (элемент)
+.nikolaus.kopernikus	Коперник, Николай
+tabno	Углерод
+trano	Азот
+kijno	Кислород
+plini	Планета
+zgike	Музыка
+lil.	Лилль
+moskovas	Москва
+li'orkliru	Фтор
+ninynavni	Неон
+sankt. peterburg	Санкт-Петербург
+tcad	Чад
+sodna	Натрий
+lidgusyjinme	Магний
+jinmrmalume	Алюминий
+zis. poi cnino	Новая Зеландия
+xingu'e	Индия
+cancmu	Кремний
+fasysodna	Франций
+sackycmu	Фосфор
+tirse	Железо
+sliri	Сера
+kliru	Хлор
+.uiliam. cekspir.	Шекспир, Уильям
+laznynavni	Аргон
+sodnrkali	Калий
+bogjinme	Кальций
+cnisa	Свинец
+mongolo	Монголия
+jinmrskandi	Скандий
+jinmrtitani	Титан (элемент)
+benesuel	Венесуэла
+caxmati	Шахматы
+tcingis. xan	Чингисхан
+jinmrvanadi	Ванадий
+rogjinme	Хром
+xirma	Домашняя лошадь
+danlu	Животные
+surinam	Суринам
+jinmrmanga	Марганец
+paraguais	Парагвай
+gudjanas	Гайана
+larcu	Искусство
+ekuador	Эквадор
+jinmlreni	Рений
+kolombias	Колумбия
+ridjinme	Кобальт
+jarjinme	Вольфрам
+nikle	Никель
+bu'ojda	Буддизм
+bolivias	Боливия
+jinmrbosmi	Осмий
+tunka	Медь
+spati	Растения
+zinki	Цинк
+leonardos.davintcis	Леонардо да Винчи
+djamaikas	Ямайка
+guatemal	Гватемала
+onduras	Гондурас
+artik.zei braxamsi	Северный Ледовитый океан
+salbador	Сальвадор
+iran	Иран
+raksygu'e	Ирак
+kostarikas	Коста-Рика
+brogu'e	Израиль
+nowy.sontc	Новы-Сонч
+panamas	Панама
+jorgu'e	Иордания
+nikaraguas	Никарагуа
+ku,uait	Кувейт
+luaos	Лаос
+lu'orgu'e	Ливан
+oregon	Орегон
+mejgu'e	Малайзия
+nepal	Непал
+kisygu'e	Пакистан
+djogu'e	Саудовская Аравия
+stalin.	Сталин, Иосиф Виссарионович
+sixygu'e	Сирия
+platon	Платон
+fasyjinme	Галлий
+dotyjinme	Германий
+aristoteles	Аристотель
+tais	Таиланд
+arseniko	Мышьяк
+lurcmu	Селен
+jinmrdiridi	Иридий
+xunkliru	Бром
+jinmrplati	Платина
+vietnam	Вьетнам
+novosibirsk	Новосибирск
+snanu zei .xanguk	Республика Корея
+mipnavni	Криптон
+afyganisTAN	Афганистан
+jyryrys. tolkien	Толкин, Джон Рональд Руэл
+xunsodna	Рубидий
+solji	Золото
+begygu'e	Бангладеш
+xorxes.luis.borxes	Борхес, Хорхе Луис
+sokrates	Сократ
+angol	Ангола
+tanzanias	Танзания
+margu	Ртуть
+pilipinas	Филиппины
+jinmrtali	Таллий
+aisak.niuton	Ньютон, Исаак
+la opyn,strit,map	OpenStreetMap
+albert. ainctain	Эйнштейн, Альберт
+jinmrstronti	Стронций
+jinmrtitri	Иттрий
+jinmrbismu	Висмут
+tunis	Тунис
+zambias	Замбия
+zimbabues	Зимбабве
+beidjin	Пекин
+benin	Бенин
+botsuanas	Ботсвана
+kongos	Республика Конго
+ob	Обь
+roltrusi'o zei.kongos	Демократическая Республика Конго
+jicmrpoloni	Полоний
+badenvirtemberg	Баден-Вюртемберг
+klirlxastati	Астат
+gabon	Габон
+kamerun	Камерун
+libgu'e	Ливия
+morgu'e	Марокко
+mosambik	Мозамбик
+namibias	Намибия
+nixerias	Нигерия
+carl. daruin.	Дарвин, Чарлз
+ugandas	Уганда
+jinmrzirkoni	Цирконий
+senegal	Сенегал
+sieras. leon	Сьерра-Леоне
+somalias	Сомали
+jinmrni,obi	Ниобий
+.iulius. kaisar.	Гай Юлий Цезарь
+sudan	Судан
+mlibdena	Молибден
+runjinme	Технеций
+gunma natmi	Организация Объединённых Наций
+ligytedyske	Геология
+tutske	География
+risna	Сердце
+besna	Головной мозг
+skari	Цвет
+pragas	Прага
+rukyjinme	Рутений
+zgujinme	Родий
+jinmrpaladi	Палладий
+rijno	Серебро
+jinmrkadmu	Кадмий
+blajinme	Индий
+tinci	Олово
+jinmrvurani	Уран (элемент)
+antimoni	Сурьма
+tedjicmu	Теллур
+jinmrplutoni	Плутоний
+zirkliru	Иод
+jinmrneptuni	Нептуний
+fangynavni	Ксенон
+blasodna	Цезий
+jinmrproktini	Протактиний
+tijyjinme	Барий
+lidycevjinme	Торий
+jinmrxafni	Гафний
+jinmrtaktini	Актиний
+jinmrtantalu	Тантал (элемент)
+bil. klinton	Клинтон, Билл
+dircyjinme	Радий
+dircynavni	Радон
+mymbais	Мумбаи
+jinmlruterfordi	Резерфордий
+jinmrdubni	Дубний
+jinmrsiborgi	Сиборгий
+xindo braxamsi	Индийский океан
+karibes. zei xamsi	Карибское море
+jinmrbori	Борий
+jinmrxasi	Хассий
+jinmrmaitneri	Мейтнерий
+kolorados	Колорадо
+jinmrdarmctati	Дармштадтий
+crisa	Лето
+cteduncitsi	Равноденствие
+sanbau	Испанский язык
+io'an.zebastian.bax	Бах, Иоганн Себастьян
+niu,IORK	Нью-Йорк (штат)
+jinmrseri	Церий
+jinmrprase,odimi	Празеодим
+jinmrne,odimi	Неодим
+lenin	Ленин, Владимир Ильич
+ronjinme	Европий
+uetersen	Итерзен
+la canko	Windows
+manilias.	Манила
+buenosaires	Буэнос-Айрес
+mexygu'e tcadu	Мехико
+tokios	Токио
+atenas	Афины
+bagdad	Багдад
+nil.armstryg.	Армстронг, Нил
+berti xamsi	Северное море
+eliogabalus	Гелиогабал
+jinmrlantano	Лантан
+fagycevjinme	Прометий
+jinmrsamari	Самарий
+jinmrgadolini	Гадолиний
+jinmrterbi	Тербий
+jinmrdisprosi	Диспрозий
+jinmrxolmi	Гольмий
+jinmrberbi	Эрбий
+jinmrtuli	Тулий
+Ho Chi Minh tcadu	Хошимин
+jinmrtiterbi	Иттербий
+jinmrluteti	Лютеций
+stace lijda befi la .iecuax	Церковь истинного Иисуса
+glibau	Английский язык
+merjinme	Америций
+jinmrkuri	Кюрий
+dong. xois.	Донгхой
+konsepSION	Консепсьон (город, Чили)
+jinmrberkeli	Берклий
+jinmrkaliforni	Калифорний
+jinmrtainctaini	Эйнштейний
+jinmrfermi	Фермий
+jinmrmendelevi	Менделевий
+jinmrnobeli	Нобелий
+jinmrlorensi	Лоуренсий
+konskovola	Коньсковоля
+2000moi	2000 год
+2003moi	2003 год
+2002moi	2002 год
+2001moi	2001 год
+tabrelkijno	Диоксид углерода
+2004moi	2004 год
+2005moi	2005 год
+2006moi	2006 год
+2007moi	2007 год
+1901moi	1901 год
+carl. dygol.	Де Голль, Шарль
+1903moi	1903 год
+1904moi	1904 год
+1907moi	1907 год
+1906moi	1906 год
+1908moi	1908 год
+1992moi	1992 год
+1991moi	1991 год
+1990moi	1990 год
+1993moi	1993 год
+1994moi	1994 год
+1995moi	1995 год
+1996moi	1996 год
+1911moi	1911 год
+1913moi	1913 год
+1916moi	1916 год
+1997moi	1997 год
+1998moi	1998 год
+1999moi	1999 год
+1917moi	1917 год
+cidja	Пища
+nilsutra lo gusni	Скорость света
+pavma'i 1moi	1 января
+pavma'i 2moi	2 января
+pavma'i 3moi	3 января
+1919moi	1919 год
+pavma'i 4moi	4 января
+1923moi	1923 год
+cmaplini	Карликовая планета
+pavma'i 5moi	5 января
+pavma'i 6moi	6 января
+dutydikca kantu	Электрон
+pavma'i 7moi	7 января
+pavma'i 9moi	9 января
+pavma'i 10moi	10 января
+pavma'i 17moi	17 января
+pavma'i 18moi	18 января
+pavma'i 19moi	19 января
+pavma'i 20moi	20 января
+pavma'i 21moi	21 января
+pavma'i 22moi	22 января
+pavma'i 23moi	23 января
+latmo sosygugje'a	Римская империя
+pavma'i 24moi	24 января
+pavma'i 25moi	25 января
+pavma'i 26moi	26 января
+maikrosaft	Microsoft
+pavma'i 27moi	27 января
+pavma'i 28moi	28 января
+pavma'i 29moi	29 января
+pavma'i 30moi	30 января
+pavma'i 31moi	31 января
+pavrelma'i 9moi	9 декабря
+relma'i 1moi	1 февраля
+relma'i 2moi	2 февраля
+relma'i 3moi	3 февраля
+kuruf	Курув
+relma'i 4moi	4 февраля
+relma'i 5moi	5 февраля
+relma'i 6moi	6 февраля
+relma'i 7moi	7 февраля
+relma'i 8moi	8 февраля
+relma'i 9moi	9 февраля
+relma'i 10moi	10 февраля
+xumske	Химия
+relma'i 14moi	14 февраля
+relma'i 13moi	13 февраля
+relma'i 15moi	15 февраля
+relma'i 11moi	11 февраля
+relma'i 12moi	12 февраля
+relma'i 19moi	19 февраля
+relma'i 17moi	17 февраля
+relma'i 16moi	16 февраля
+relma'i 18moi	18 февраля
+relma'i 20moi	20 февраля
+relma'i 21moi	21 февраля
+relma'i 22moi	22 февраля
+relma'i 23moi	23 февраля
+relma'i 24moi	24 февраля
+relma'i 25moi	25 февраля
+relma'i 26moi	26 февраля
+relma'i 27moi	27 февраля
+relma'i 28moi	28 февраля
+cibma'i 2moi	2 марта
+cibma'i 3moi	3 марта
+cibma'i 5moi	5 марта
+cibma'i 1moi	1 марта
+cibma'i 7moi	7 марта
+cibma'i 8moi	8 марта
+cibma'i 4moi	4 марта
+cibma'i 10moi	10 марта
+cibma'i 11moi	11 марта
+cibma'i 6moi	6 марта
+cibma'i 13moi	13 марта
+cibma'i 9moi	9 марта
+cibma'i 12moi	12 марта
+cibma'i 15moi	15 марта
+cibma'i 14moi	14 марта
+cibma'i 16moi	16 марта
+cibma'i 17moi	17 марта
+cibma'i 18moi	18 марта
+cibma'i 19moi	19 марта
+1989moi	1989 год
+1988moi	1988 год
+cibma'i 20moi	20 марта
+1987moi	1987 год
+1986moi	1986 год
+1985moi	1985 год
+1984moi	1984 год
+cibma'i 21moi	21 марта
+1983moi	1983 год
+cibma'i 22moi	22 марта
+1982moi	1982 год
+1981moi	1981 год
+1980moi	1980 год
+cibma'i 23moi	23 марта
+xiouz.of.mait.and.madjik to 5moi toi	Heroes of Might and Magic V
+cibma'i 24moi	24 марта
+cibma'i 25moi	25 марта
+cibma'i 26moi	26 марта
+cibma'i 27moi	27 марта
+cibma'i 28moi	28 марта
+cibma'i 29moi	29 марта
+cibma'i 30moi	30 марта
+cibma'i 31moi	31 марта
+1970moi	1970 год
+1971moi	1971 год
+1972moi	1972 год
+1973moi	1973 год
+1974moi	1974 год
+1975moi	1975 год
+1976moi	1976 год
+1977moi	1977 год
+1978moi	1978 год
+1969moi	1969 год
+vonma'i 15moi	15 апреля
+vonma'i 13moi	13 апреля
+vonma'i 12moi	12 апреля
+vonma'i 14moi	14 апреля
+vonma'i 11moi	11 апреля
+vonma'i 10moi	10 апреля
+vonma'i 8moi	8 апреля
+vonma'i 9moi	9 апреля
+vonma'i 7moi	7 апреля
+vonma'i 6moi	6 апреля
+vonma'i 5moi	5 апреля
+vonma'i 4moi	4 апреля
+vonma'i 3moi	3 апреля
+vonma'i 1moi	1 апреля
+vonma'i 2moi	2 апреля
+vonma'i 16moi	16 апреля
+vonma'i 17moi	17 апреля
+vonma'i 18moi	18 апреля
+vonma'i 19moi	19 апреля
+vonma'i 20moi	20 апреля
+vonma'i 21moi	21 апреля
+vonma'i 22moi	22 апреля
+vonma'i 23moi	23 апреля
+vonma'i 24moi	24 апреля
+vonma'i 25moi	25 апреля
+vonma'i 26moi	26 апреля
+vonma'i 27moi	27 апреля
+vonma'i 28moi	28 апреля
+vonma'i 29moi	29 апреля
+vonma'i 30moi	30 апреля
+mumyma'i 1moi	1 мая
+mumyma'i 2moi	2 мая
+mumyma'i 3moi	3 мая
+mumyma'i 4moi	4 мая
+mumyma'i 5moi	5 мая
+mumyma'i 6moi	6 мая
+mumyma'i 7moi	7 мая
+mumyma'i 8moi	8 мая
+mumyma'i 29moi	29 мая
+xavma'i 6moi	6 июня
+xavma'i 1moi	1 июня
+1968moi	1968 год
+1967moi	1967 год
+1966moi	1966 год
+1965moi	1965 год
+1964moi	1964 год
+xavma'i 29moi	29 июня
+arnold. cyvartseneger	Шварценеггер, Арнольд
+zelma'i 2moi	2 июля
+zelma'i 4moi	4 июля
+zelma'i 1moi	1 июля
+1963moi	1963 год
+pavrelma'i 26moi	26 декабря
+1962moi	1962 год
+bivma'i 24moi	24 августа
+fraiburg	Фрайбург-им-Брайсгау
+marna snexu'i	Марихуана
+sozma'i 26moi	26 сентября
+antuan. dy. sant,egzuperis	Сент-Экзюпери, Антуан де
+pavrelma'i 31moi	31 декабря
+pavnonma'i 29moi	29 октября
+pavypavma'i 8moi	8 ноября
+pavypavma'i 2moi	2 ноября
+xunre	Красный цвет
+.ganymid.	Ганимед (спутник)
+anil. zei rirxe	Нил
+1961moi	1961 год
+1960moi	1960 год
+amazonas. zei rirxe	Амазонка
+Wikipedia:ciptumla	Википедия:Песочница
+alxebra	Алгебра
+remna xadyske	Анатомия человека
+rirxe	Река
+kuritcibas	Куритиба
+pitr.djeksyn	Джексон, Питер
+kongzi	Конфуций
+korbin blys	Блю, Корбин
+Category:cmaci	Категория:Математика
+ronru'u	Евро
+mijytu'a xamsi	Средиземное море
+xi'ojda	Христианство
+Template:zdotu'a	Шаблон:Страны Азии
+Template:tugni	Шаблон:За
+rismi	Рис (продукт питания)
+braplu	Континент
+cipni	Птицы
+monZON	Монсон
+masti	Месяц
+1948moi	1948 год
+1949moi	1949 год
+almaZAN	Альмасан
+Huang Xianfan	Хуан Сяньфань
+1956moi	1956 год
+1941moi	1941 год
+1945moi	1945 год
+1958moi	1958 год
+1926moi	1926 год
+1947moi	1947 год
+1944moi	1944 год
+1952moi	1952 год
+krilytabno	Алмаз
+bil. geits	Гейтс, Билл
+ponbau	Японский язык
+ralju ckupau	Заглавная страница
+1959moi	1959 год
+pistabno	Графит
+1957moi	1957 год
+siberias	Сибирь
+baikal. zei lalxu	Байкал
+mitcelyngelos	Микеланджело
+makax	Мекка
+tces.gevaras	Че Гевара, Эрнесто
+ma'os. dzedon.	Мао Цзэдун
+vibna	Влагалище женщины
+pijyske	Философия
+Category:sutra vimcu	Категория:Википедия:К быстрому удалению
+pipno	Фортепиано
+tcati	Чай
+kaurpo'esi'o	Коммунизм
+nonje'asi'o	Анархизм
+viltrusi'o	Фашизм
+gugde	Страна
+1452moi	1452 год
+1453moi	1453 год
+Category:kesyske	Категория:Астрономия
+Stanisław Lem	Лем, Станислав
+sa'aras.zei kutytu'a	Сахара
+jgita	Гитара
+karl.fridrix.gaus	Гаусс, Карл Фридрих
+1627moi	1627 год
+1807moi	1807 год
+1809moi	1809 год
+19xyxymoi	XX век
+1725moi	1725 год
+1812moi	1812 год
+20xyxymoi	XXI век
+1814moi	1814 год
+1815moi	1815 год
+18xyxymoi	XIX век
+17xyxymoi	XVIII век
+15moi na'acto	XV век
+caurceisi'o	Атеизм
+emis.nyter	Нётер, Эмми
+friko gunma	Африканский союз
+ginske	Генетика
+plajva	Политика
+roltrusi'o	Демократия
+maris.kuris	Склодовская-Кюри, Мария
+aleksandr. puckin	Пушкин, Александр Сергеевич
+jmive	Организм
+mark.tuein	Марк Твен
+.alan turin	Тьюринг, Алан
+cemtrusi'o	Социализм
+tadjycolnunte'a	Терроризм
+kristoforos.kolombos.	Колумб, Христофор
+ernan.kortes	Кортес, Эрнан
+.iuxil.gygaxin.	Гагарин, Юрий Алексеевич
+banli lalxu	Великие озёра
+dzipo braxamsi	Южный океан
+kerlo	Ухо
+nazbi	Нос
+kanla	Глаз
+mabru	Млекопитающие
+xanto	Слон
+ritcard. stalman	Столлман, Ричард Мэттью
+rirni	Родители
+1830moi	1830 год
+1831moi	1831 год
+1743moi	1743 год
+1834moi	1834 год
+1836moi	1836 год
+leonard.euler	Эйлер, Леонард
+1848moi	1848 год
+1683moi	1683 год
+1852moi	1852 год
+1691moi	1691 год
+1862moi	1862 год
+1780moi	1780 год
+1869moi	1869 год
+rukybau	Русский язык
+1782moi	1782 год
+1870moi	1870 год
+flalu	Право
+zginroknro	Рок-н-ролл
+1788moi	1788 год
+xelso citri	История Греции
+nanba	Хлеб
+1794moi	1794 год
+1882moi	1882 год
+1885moi	1885 год
+1887moi	1887 год
+jugbau	Китайский язык
+ji'esle	Клетка
+fepri	Лёгкие
+samselkei	Компьютерная игра
+ctuske	Педагогика
+samsmacu	Компьютерная мышь
+rarske	Естествознание
+tedyske	Науки о Земле
+.uinstyn. tcyrtcil.	Черчилль, Уинстон
+dilnu	Облака
+logji	Логика
+gerna	Грамматика
+vlile carna xamsi brife	Тропический циклон
+nintendos	Nintendo
+dinske	Экономика (наука)
+bauske	Лингвистика
+zdosible'u	Китайское письмо
+latmo lerfu	Латинский алфавит
+Category:bulgarias	Категория:Болгария
+Category:fasygu'e	Категория:Франция
+Category:zgike	Категория:Музыка
+zgirjazu	Джаз
+remce'u	Общество
+lanzu	Семья
+nanmu	Мужчина
+remna selcru	Права человека
+selbaise'u	Рабство
+ckafi	Кофе
+ladru	Молоко
+cmana	Гора
+simon.bolivar	Боливар, Симон
+rios. dis. djaneiros	Рио-де-Жанейро
+canxais.	Шанхай
+euklides	Евклид
+jo'anes. kepler.	Кеплер, Иоганн
+maks.plank	Планк, Макс
+kuarizmis	Аль-Хорезми
+nom.tcomskis	Хомский, Ноам
+karl. marks	Маркс, Карл
+volter	Вольтер
+ratni	Атом
+gusni	Свет
+xesybau	Греческий язык
+samplabau	Язык программирования
+bangrmalti	Мальтийский язык
+lijda	Религия
+rynes dekart	Декарт, Рене
+zikmunt. freut.	Фрейд, Зигмунд
+lijdrdjaina	Джайнизм
+.adam. smit.	Смит, Адам
+ractu	Кролики
+menske	Психология
+braxamsi	Океан
+sidartas.gautamas	Будда Шакьямуни
+marde	Этика
+vasxu	Дыхание
+bybycys	Би-би-си
+moklu	Рот
+canti	Пищеварительная система человека
+lerfu	Буква
+Ronald Reagan	Рейган, Рональд
+bangrklingo	Клингонский язык
+kampindi	Бедность
+kanba solgrixra	Козерог (созвездие)
+jaurbei solgrixra	Водолей (созвездие)
+Category:benesuel	Категория:Венесуэла
+dikni selratni cartu	Периодическая система химических элементов
+respa	Пресмыкающиеся
+banfi	Земноводные
+skoselti'e	Хордовые
+sutra binxo	Революция
+cirla	Сыр
+sakta	Сахар
+mi'irlarcu	Технология
+fonxa	Телефон
+kulnu	Культура
+xukmi veljmina	Химическое соединение
+sapme'ocmaci	Арифметика
+Category:razgu'e	Категория:Бразилия
+Category:romanias	Категория:Румыния
+selratni	Химический элемент
+fancu	Функция (математика)
+xumsle	Молекула
+dicmakseldi'e	Электромагнитное излучение
+maircpukai	Гравитация
+gos	Го
+skina	Фильм
+jinme	Металлы
+gasta	Сталь
+gapci	Газ
+sligu	Твёрдое тело
+sance	Звук
+cipra	Математическое доказательство
+namcu	Число
+relcimdyna'u	Комплексное число
+mitre	Метр
+snidu	Секунда
+zumri	Кукуруза сахарная
+kelvo	Кельвин
+cintylarcu	Живопись
+dansu	Танец
+rutni menli	Искусственный интеллект
+uuxan	Ухань
+gugde liste	Алфавитный список стран и территорий
+prucitri	Первобытное общество
+rokci cedra	Каменный век
+ransu cedra	Бронзовый век
+cribe	Медвежьи
+tixa	Тыхы
+gurni	Зерновые культуры
+madjan	Маджонг
+cripu	Мост
+silna	Соли
+treci'e	Международная система единиц
+nacycmaci	Теория чисел
+jungo ke banli bitmu	Великая Китайская стена
+mulna'u	Целое число
+la'ortu'a	Латинская Америка
+mexygu'e xamsi	Мексиканский залив
+cladakyxa'i	Меч
+remoi me la fernandos. pe la .aragon	Фердинанд II (король Арагона)
+pavycimdyna'u	Вещественное число
+frederik. bastias	Бастиа, Фредерик
+drupepa	Костянка
+djirafa	Жираф
+sofygu'e	Союз Советских Социалистических Республик
+selrunme	Температура плавления
+Queen	Queen
+rober.cuman	Шуман, Робер
+konstantinupolis	Константинополь
+monopolis	Монополия (игра)
+tibet	Тибет
+strutione	Страус
+dcosyn/xanguk	Корея
+1927moi	1927 год
+abumoi mivytcuxu'i	Витамин A
+1955moi	1955 год
+1954moi	1954 год
+1953moi	1953 год
+1951moi	1951 год
+1950moi	1950 год
+1946moi	1946 год
+1943moi	1943 год
+1942moi	1942 год
+1940moi	1940 год
+1939moi	1939 год
+1937moi	1937 год
+1936moi	1936 год
+1934moi	1934 год
+1933moi	1933 год
+1932moi	1932 год
+1930moi	1930 год
+mlijilkle	Щёлочноземельные металлы
+binjimkle	Переходные металлы
+klirylei	Галогены
+luvr	Лувр
+1928moi	1928 год
+xindo ropno bangu	Индоевропейские языки
+tirxu	Тигр
+cidjrspageti	Спагетти
+bertu'a	Скандинавия
+samske	Информатика
+kacna'u	Натуральное число
+sornai bacru alfabeta	Международный фонетический алфавит
+sovmabru	Однопроходные
+ctile	Нефть
+lalxu	Озеро
+di,orsais. zei muzga	Музей Орсе
+remske	Антропология
+daplu	Остров
+blabi	Белый цвет
+paltoga	Палтога
+997moi	997 год
+stedu	Голова
+timske	Метеорология
+jacke'o	Градус Цельсия
+sirenias	Сирены (млекопитающие)
+troneim	Тронхейм
+1xyxyxymoi	2-е тысячелетие
+0xyxyxymoi	1-е тысячелетие
+1812moi nanca jamna	Англо-американская война
+2xyxyxymoi	3-е тысячелетие
+pifcpi	Птицы-носороги
+jmive remske	Физическая антропология
+beryrontu'a	Северная Европа
+mijropno	Центральная Европа
+sanga	Пение
+selpliske	Прикладные исследования
+paiton	Python
+denmi	Плотность
+pinpedi	Ластоногие
+avril.lavin	Лавин, Аврил
+tunba	Сиблинги
+sumji	Сложение
+runbau	Искусственный язык
+pardali	Оцелот
+lev. trotskis	Троцкий, Лев Давидович
+cionmau la barda	Большая панда
+bercribe	Белый медведь
+runbau liste	Список искусственных языков
+rarbau	Естественный язык
+pidjni	Пиджин
+plugri	Архипелаг
+fla,ui,us.klaudius.iulianus	Юлиан Отступник
+xeldraci	Актёр
+fla,ui,us.klaudius.io,ui,anus	Иовиан
+la by sy dy poi gubni	OpenBSD
+zgitci	Музыкальные инструменты
+zbabu	Мыло
+198xymoi	1980-е годы
+199xymoi	1990-е годы
+makfartci	Компас
+rutrpaupau	Папайя
+200xymoi	2000-е годы
+liste be lo merja'a	Список президентов США
+nikitas. xrucof.	Хрущёв, Никита Сергеевич
+rabybau	Арабы
+titikakas. zei lalxu	Титикака
+voksnaske	Фонетика
+mergu'e vipygu'e	Штат США
+192moi na'ardekto	1920-е годы
+marji	Материя (физика)
+bambusa	Bambuseae
+interlingua	Интерлингва
+mleske	Эстетика
+finci'a	Писатель
+lojban.	Ложбан
+loglan	Логлан
+ctemidju	Полночь
+ki'orna'a	Тысячелетие
+zgifi'i	Композитор
+rianys	Рианна
+tokiponas	Токипона
+volapuk	Волапюк
+Tociro Mifune	Мифунэ, Тосиро
+zgirpopu	Поп-музыка
+alzaitu	Олива европейская
+boxna	Волна
+preske	Учитель
+genlalske	Синтаксис
+zunsna	Согласные
+zatsi'o	Экзистенциализм
+nobel.zei termu'eske velne'u	Нобелевская премия по физике
+rafske	Морфология (лингвистика)
+184moi na'ardekto	1840-е годы
+ka sezga'o	Аутизм
+remna kamfarvi namcu	Индекс человеческого развития
+smuske	Семантика
+lastu	Латунь
+dekna'a	Десятилетие
+selpinxe	Напиток
+jordo rirxe	Иордан
+vraga	Рычаг
+merko jecta vlile binxo fasnu	Война за независимость США
+odbenu	Морж
+snage'a	Фонология
+kurt.gedyl	Гёдель, Курт
+dujro'i	Магматические горные породы
+biork	Бьорк
+be'ejda be lei fanmo djedi cespre bei la iecy,ys.krist	Церковь Иисуса Христа Святых последних дней
+trixexo	Ламантины
+dikca mi'irlarcu	Электротехника
+kantrbocuni	Бозон
+xasyske	Океанология
+mataios	Левий Матфей
+mu'amad.djunus	Юнус, Мухаммад
+ranmi	Легенда
+ritcard.dokinz	Докинз, Ричард
+gynus	GNU
+182moi na'ardekto	1820-е годы
+imazixen	Берберы
+The Doors	The Doors
+rikteropu	Трубкозуб
+fla,ui,us.iulius konstantius	Констанций II
+ma'arlinsi	Горный хребет
+djosef.smit	Смит, Джозеф
+auskalerik	Баскские земли
+grin.deis	Green Day
+363moi	363 год
+fedoras	Fedora
+nalfendi kacna'u	Простое число
+Template:selro'i datyta'e	Шаблон:Минерал
+Template:Taxobox	Шаблон:Taxobox
+jbonunsla	Велосипедный спорт
+toiotas	Toyota
+visbis	Висбю
+astrid. lindgren	Линдгрен, Астрид
+sambau	Машинный код
+gombesa	Целакантообразные
+rafsi	Аффикс
+.siluren. cedran.	Силурийский период
+la glico selmikce	Английский пациент
+.devon. cedran.	Девонский период
+karl. von. klausevits	Клаузевиц, Карл фон
+me la napoleon nunjamna	Наполеоновские войны
+sampla	Программирование
+tcimpazi	Шимпанзе
+aris.puakares	Пуанкаре, Анри
+bolci danti cecla xarci	Пушка
+nimre	Цитрус
+akenatyn	Эхнатон
+onkapi	Окапи
+cmevla	Имя
+nalre'ucti	Вегетарианство
+oradeas	Орадя
+nalvelganzu sligu	Аморфные тела
+fu'ivla	Заимствование
+rokci pelji jinci	Камень, ножницы, бумага
+gismu	Корень (лингвистика)
+namsos	Намсус
+kalkopairait	Халькопирит
+condi jorne xamsi	Жёлоб
+mivyfu'i	Клонирование (биология)
+1036 .ganymed.	(1036) Ганимед
+snanilsutra	Скорость звука
+skalduna	Баски
+nikolaus.lobatceskis	Лобачевский, Николай Иванович
+ketlete	Индекс массы тела
+konstantius.xlorus	Констанций I Хлор
+me la .OIdipus. stura	Эдипов комплекс
+.ganymidis.	Ганимед
+cange	Ферма
+befsraku	Харакири
+iosef.ben.matitia'uv	Иосиф Флавий
+kumte	Верблюдовые
+sordaivla	Множественное число
+Wikipedia:galfi lo ckupau ta'i ma kau	Википедия:Как править статьи
+moresnet	Мореснет
+spatrmeliace	Мелиевые
+mari'an.re'iefskis	Реевский, Мариан
+jgenanba	Брецель
+euklidi tamcmaci	Евклидова геометрия
+prolog	Пролог (язык программирования)
+kauntyr. straik	Counter-Strike
+starkraft	StarCraft
+la .alkubi,er. ci'efanc.	Пузырь Алькубьерре
+nunjamna le gligu'e la zanzibar	Англо-занзибарская война
+Nagardjunas	Нагарджуна
+fi'orxruki	Цесарковые
+cagyske	Агрономия
+voncimdyna'u	Кватернион
+nikaraguas. zei lalxu	Никарагуа (озеро)
+cevni	Божество
+mluske to pijyske	Феноменология
+tabra	Медные духовые музыкальные инструменты
+cicna	Сине-зелёный цвет
+banpliske	Прагматика
+baklanme	Овцебык
+vlaba'u	Произношение
+gerna selcni	Наклонение (лингвистика)
+ve'erze'erna'u	Поле (физика)
+banli vlile carna xamsi brife de'i 1780moi nanca	Великий ураган 1780 года
+ponslakyle'u	Кана
+teingyld.	Рапунцель: Запутанная история
+gramin. zei banxa	Grameen Bank
+bancuvysi'o	Языковой пуризм
+.i mi pacna da	У меня есть мечта
+ka'o	Мнимая единица
+peljma daskysmacu	Желтоногая сумчатая мышь
+latmo veldetri	Римский календарь
+rafael.del.riegos	Риего-и-Нуньес, Рафаэль
+poxiol	Похьёла
+finpre	Изобретатель
+detri	Календарная дата
+dat.seventiz.cous	Шоу 70-х
+la cabna cedra	Наша эра
+la uigyn	Уиган
+1812moi nanca bancu zgike sidbo selfinti	1812 год (увертюра)
+dys.uar.yv.dys.uyrldz.	Война миров
+nu damba befi la berstici	Battle for Wesnoth
+nenzenkai	Возбуждение (физика)
+prenu	Личность
+noltrusi'o	Монархизм
+galbisybau	Высокий исландский
+king.kong	Кинг-Конг
+keinritli	Актёрское искусство
+favmapti	Гомология (биология)
+dasri pe la .mobius.	Лента Мёбиуса
+gletu	Спаривание
+parikuTIN	Парикутин
+lubin	Любин
+lujvo	Сложное слово
+xalo,uin	Хэллоуин
+soliaris to cuktrnovela toi	Солярис (роман)
+la nolraiseltru be la .araukanias. joi la patagonias.	Королевство Араукания и Патагония
+andis. kafmen	Кауфман, Энди
+ma'a fa'u mi'a	Инклюзив
+la'e pe abufy.ibu lu le nanca li panono zo'u skina tersitna panonomei	100 известных цитат из американских фильмов за 100 лет по версии AFI
+ni'icpa	Вывод (рассуждение)
+dijyselpla	Синька (копия чертежа)
+fyl.xous.	Полный дом
+manri febybi'o nejni	Удельная теплота парообразования и конденсации
+kijytcini	Степень окисления
+leon. to skina toi	Леон (фильм)
+luk.besyn	Бессон, Люк
+manri dujbi'o nejni	Удельная теплота плавления
+cimni smani cmacyje'u	Теорема о бесконечных обезьянах
+glanejni sroka'e	Удельная теплоёмкость
+manti saske	Мирмекология
+Patrícia Pillar	Пилар, Патрисия
+sliders	Скользящие
+kaizers.orkestras.	Kaizers Orchestra
+muicerangas	Муишеранга
+kanji	Вычисление
+la jaumoi sonci	Тринадцатый воин
+tcadrklaipeda	Клайпеда
+pigazanos	Пигаццано
+neptunz. to remei toi	The Neptunes
+fyrd.rak.frym.dys.syn.	Третья планета от Солнца
+remna girzu	Социальная группа
+gubytrusi'o	Республиканизм
+krilysu'a	Кристаллическая структура
+nalseljunbau	Lingua Ignota
+cipra mukti sampla	Разработка через тестирование
+daplrxometepe	Ометепе
+febvi	Температура кипения
+purdi	Сад
+utsunomiya lines	Линия Уцуномия
+dainosorz.	Динозавры (телесериал)
+cionmau	Панда
+dilcyna'u	Рациональное число
+pyrfekt.streindjyrz.	Идеальные незнакомцы
+Category:dotygu'e	Категория:Германия
+Category:italias	Категория:Италия
+Category:mergu'e	Категория:США
+Category:rukygu'e	Категория:Россия
+Category:kadnygu'e	Категория:Канада
+Category:ritygu'e	Категория:Великобритания
+Category:sangu'e	Категория:Испания
+Category:pongu'e	Категория:Япония
+Category:sralygu'e	Категория:Австралия
+Category:mexygu'e	Категория:Мексика
+Category:xingu'e	Категория:Индия
+Category:djogu'e	Категория:Саудовская Аравия
+Category:brogu'e	Категория:Израиль
+Category:turk	Категория:Турция
+Category:nanfi'ogu'e	Категория:ЮАР
+Category:misrygu'e	Категория:Египет
+Category:iran	Категория:Иран
+Category:getygu'e	Категория:Аргентина
+Category:jexygu'e	Категория:Алжир
+Category:osteraix	Категория:Австрия
+Category:kubas	Категория:Куба
+Category:itiopias	Категория:Эфиопия
+Category:bidgu'e	Категория:Индонезия
+Category:raksygu'e	Категория:Ирак
+Category:nederland	Категория:Нидерланды
+Category:nixerias	Категория:Нигерия
+Category:kisygu'e	Категория:Пакистан
+Category:polskas	Категория:Польша
+Category:potygu'e	Категория:Португалия
+Category:singapura	Категория:Сингапур
+Category:snanu zei .xanguk	Категория:Южная Корея
+Category:sudan	Категория:Судан
+Category:elvetias	Категория:Швейцария
+Category:tanzanias	Категория:Танзания
+Category:vurgu'e	Категория:Украина
+Category:vietnam	Категория:Вьетнам
+Category:mabru	Категория:Млекопитающие
+Category:termu'eske	Категория:Физика
+Category:mivyske	Категория:Биология
+Category:xumske	Категория:Химия
+Category:citri	Категория:История
+Category:tutske	Категория:География
+Category:lijda	Категория:Религия
+Category:gunma natmi	Категория:ООН
+sutra denmi bo binxo senta	Пикноклин
+gymbis	Гамби
+Lima Duarte	Лима Дуарте
+Category:pijyske	Категория:Философия
+Category:menske	Категория:Психология
+Category:bu'ojda	Категория:Буддизм
+Category:musyjda	Категория:Ислам
+la xunre je blanu stizu	Красно-синий стул
+prototaksitizi	Прототакситы
+Maria Fernanda Cândido	Кандиду, Мария Фернанда
+cmavo	Служебные слова
+sumti	Актант
+Marcello Antony	Антони, Марселу
+liste be tivni pagbu be la'o gy. sliders gy.	Список эпизодов телесериала «Скользящие»
+pacruxydinj	Castlevania (серия игр)
+kinzbapre	Кинорежиссёр
+ninxinronbau	Современный индоевропейский
+Category:na mulno	Категория:Незавершённые статьи
+Category:kulnu	Категория:Культура
+Category:nanca	Категория:Годы
+makykai	Магнетизм
+na'orteryratni	Атомная масса
+Category:gugde	Категория:Страны
+Wikipedia:administrator	Википедия:Администраторы
+Category:kazaksTAN	Категория:Казахстан
+Category:prenu	Категория:Люди
+Wikipedia:bots	Википедия:Бот
+Category:plajva	Категория:Политика
+Category:larcu	Категория:Искусство
+misrygu'e	Египет
+Template:Bot	Шаблон:Bot
+kadnygu'e	Канада
+Category:madjiar	Категория:Венгрия
+Category:beldjym	Категория:Бельгия
+Category:tcesk.zei gubyseltru	Категория:Чехия
+Category:danmark	Категория:Дания
+Category:estis	Категория:Эстония
+Category:xesygu'e	Категория:Греция
+Category:island	Категория:Исландия
+Category:luksymbyrg	Категория:Люксембург
+Category:lietuvas	Категория:Литва
+Category:maltas	Категория:Мальта
+Category:sueriges	Категория:Швеция
+Category:slovensk	Категория:Словакия
+Category:slovEni,as	Категория:Словения
+Category:samselkei	Категория:Компьютерные игры
+Category:maikrosaft	Категория:Microsoft
+Category:rontu'a	Категория:Европа
+Template:Documentation	Шаблон:Doc
+Category:pilno admin	Категория:Википедия:Администраторы
+Category:pilno bangu	Категория:Википедия:Участники по языкам
+Wikipedia:lo mu pe'a kamju be la .uikipedias.	Википедия:Пять столпов
+.sung. .jae-gi.	Сон Джэги
+bakni	Крупный рогатый скот
+Template:Softredirect	Шаблон:Soft redirect
+Template:ko vimcu	Шаблон:К быстрому удалению
+Category:bangu	Категория:Языки
+Wikipedia:clinoi pe loi finselkai	Википедия:Оформление статей
+kanguru	Кенгуру
+Template:!-	Шаблон:!-
+Template:Clear	Шаблон:Clear
+Wikipedia:liste be le tcevai ckupau	Википедия:Список статей, которые должны быть во всех языковых версиях
+Category:frikytu'a	Категория:Африка
+Category:cukta	Категория:Книги
+Template:babel	Шаблон:Babel
+Template:na mulno	Шаблон:Заготовка
+Template:pilno de	Шаблон:User de
+Template:pilno es	Шаблон:User es
+Template:pilno en-3	Шаблон:User en-3
+Template:pilno en-1	Шаблон:User en-1
+Template:pilno en-2	Шаблон:User en-2
+Template:pilno en	Шаблон:User en
+Template:pilno de-2	Шаблон:User de-2
+Template:pilno fr-1	Шаблон:User fr-1
+Category:relma'i	Категория:Февраль
+Category:1957moi	Категория:1957 год
+Category:1949moi	Категория:1949 год
+Category:1927moi	Категория:1927 год
+Category:1919moi	Категория:1919 год
+Category:moldovas	Категория:Молдавия
+Category:zdotu'a	Категория:Азия
+Category:tciles	Категория:Чили
+Category:20xyxymoi	Категория:XXI век
+Category:ketytu'a	Категория:Южная Америка
+Category:1930moi	Категория:1930 год
+Category:1936moi	Категория:1936 год
+Category:1947moi	Категория:1947 год
+Category:1937moi	Категория:1937 год
+Category:1940moi	Категория:1940 год
+Category:1934moi	Категория:1934 год
+Category:1960moi	Категория:1960 год
+Category:1943moi	Категория:1943 год
+Category:1951moi	Категория:1951 год
+Category:1942moi	Категория:1942 год
+Category:1959moi	Категория:1959 год
+Category:1928moi	Категория:1928 год
+Category:1913moi	Категория:1913 год
+Category:1954moi	Категория:1954 год
+Category:mejgu'e	Категория:Малайзия
+Category:1941moi	Категория:1941 год
+Category:1955moi	Категория:1955 год
+Category:1950moi	Категория:1950 год
+Category:1977moi	Категория:1977 год
+Category:1946moi	Категория:1946 год
+Category:1948moi	Категория:1948 год
+Category:1932moi	Категория:1932 год
+Category:1945moi	Категория:1945 год
+Template:Mod	Шаблон:Mod
+Category:1923moi	Категория:1923 год
+Category:1917moi	Категория:1917 год
+Category:1904moi	Категория:1904 год
+Category:1926moi	Категория:1926 год
+Category:1907moi	Категория:1907 год
+Template:pilno es-2	Шаблон:User es-2
+Category:1908moi	Категория:1908 год
+Template:coi	Шаблон:Приветствие
+Category:1901moi	Категория:1901 год
+Category:1903moi	Категория:1903 год
+Category:1933moi	Категория:1933 год
+Template:masti	Шаблон:Месяцы
+Category:1952moi	Категория:1952 год
+Category:bauske	Категория:Лингвистика
+Category:1911moi	Категория:1911 год
+Category:1906moi	Категория:1906 год
+Category:pilno fr-1	Категория:User fr-1
+Template:frikytu'a	Шаблон:Страны Африки
+Template:gugde datni	Шаблон:Государство
+Category:paris	Категория:Париж
+Category:pilno en	Категория:User en
+Category:pilno zh	Категория:User zh
+Category:xrvatskas	Категория:Хорватия
+Category:pilno zh-N	Категория:User zh-N
+Category:pilno en-2	Категория:User en-2
+Template:tertcita tanxe	Шаблон:Карточка
+Category:cagyske	Категория:Сельское хозяйство
+Category:19xyxymoi	Категория:XX век
+Template:IPA	Шаблон:IPA1
+Category:18xyxymoi	Категория:XIX век
+Template:talkback	Шаблон:Ответ
+Category:1958moi	Категория:1958 год
+Category:1956moi	Категория:1956 год
+Category:1944moi	Категория:1944 год
+Category:pavma'i	Категория:Январь
+Category:1916moi	Категория:1916 год
+Category:1939moi	Категория:1939 год
+Category:mu'eske	Категория:Космология
+Template:nanca cartu	Шаблон:Навигация для года
+Template:na tugni	Шаблон:Против
+selratni liste fi lo namcu	Список химических элементов
+Template:suzmunski	Шаблон:Неоднозначность
+Category:1962moi	Категория:1962 год
+Category:mongolo	Категория:Монголия
+Category:1953moi	Категория:1953 год
+Template:braplu	Шаблон:Континенты
+Category:pilno fr	Категория:User fr
+Category:pilno pt	Категория:User pt
+Category:pilno fr-2	Категория:User fr-2
+Category:pilno fr-N	Категория:User fr-N
+Category:pilno de	Категория:User de
+Category:pilno de-2	Категория:User de-2
+Category:pilno de-N	Категория:User de-N
+Category:pilno en-3	Категория:User en-3
+Category:pilno en-N	Категория:User en-N
+Category:pilno es	Категория:User es
+Category:pilno es-N	Категория:User es-N
+Category:168xymoi	Категория:1680-е
+Category:1452moi	Категория:1452 год
+Category:pilno pl-N	Категория:User pl-N
+Category:sezga'o	Категория:Аутизм
+Category:1812moi	Категория:1812 год
+Category:197xymoi	Категория:1970-е
+Category:189xymoi	Категория:1890-е
+Category:1691moi	Категория:1691 год
+Category:samske	Категория:Информатика
+Category:solri ciste	Категория:Солнечная система
+Category:1453moi	Категория:1453 год
+Template:vimcu meta	Шаблон:Db-meta
+Category:363moi	Категория:363 год
+Category:belrus	Категория:Белоруссия
+Category:997moi	Категория:997 год
+solri barna	Солнечные пятна
+Category:194xymoi	Категория:1940-е
+Category:190xymoi	Категория:1900-е
+Category:191xymoi	Категория:1910-е
+Category:192xymoi	Категория:1920-е
+Category:193xymoi	Категория:1930-е
+Category:195xymoi	Категория:1950-е
+Category:196xymoi	Категория:1960-е
+Category:198xymoi	Категория:1980-е
+Category:199xymoi	Категория:1990-е
+Category:200xymoi	Категория:2000-е
+Category:pilno pt-N	Категория:User pt-N
+Category:1627moi	Категория:1627 год
+Category:1683moi	Категория:1683 год
+Category:1725moi	Категория:1725 год
+Category:1780moi	Категория:1780 год
+Category:182xymoi	Категория:1820-е
+Category:181xymoi	Категория:1810-е
+Category:185xymoi	Категория:1850-е
+Category:16xyxymoi	Категория:XVII век
+Category:188xymoi	Категория:1880-е
+Category:172xymoi	Категория:1720-е
+Category:187xymoi	Категория:1870-е
+Category:178xymoi	Категория:1780-е
+Category:186xymoi	Категория:1860-е
+Category:179xymoi	Категория:1790-е
+Category:036xymoi	Категория:360-е
+Category:180xymoi	Категория:1800-е
+Category:145xymoi	Категория:1450-е
+Category:09xyxymoi	Категория:X век
+Category:ninkle	Категория:Благородные газы
+Category:angol	Категория:Ангола
+Category:botsuanas	Категория:Ботсвана
+Category:gabon	Категория:Габон
+Category:kamerun	Категория:Камерун
+Category:kenias	Категория:Кения
+Category:libgu'e	Категория:Ливия
+Category:morgu'e	Категория:Марокко
+Category:mosambik	Категория:Мозамбик
+Category:namibias	Категория:Намибия
+Category:1743moi	Категория:1743 год
+Category:1782moi	Категория:1782 год
+Category:1788moi	Категория:1788 год
+Category:1794moi	Категория:1794 год
+Category:1807moi	Категория:1807 год
+Category:1809moi	Категория:1809 год
+Category:1814moi	Категория:1814 год
+Category:1815moi	Категория:1815 год
+Category:1830moi	Категория:1830 год
+Category:1834moi	Категория:1834 год
+Category:1836moi	Категория:1836 год
+Category:1848moi	Категория:1848 год
+Category:1852moi	Категория:1852 год
+Category:1862moi	Категория:1862 год
+Category:1869moi	Категория:1869 год
+Category:1870moi	Категория:1870 год
+Category:1882moi	Категория:1882 год
+Category:1885moi	Категория:1885 год
+Category:1887moi	Категория:1887 год
+Category:1961moi	Категория:1961 год
+Category:1964moi	Категория:1964 год
+Category:1965moi	Категория:1965 год
+Category:1966moi	Категория:1966 год
+Category:1967moi	Категория:1967 год
+Category:1969moi	Категория:1969 год
+Category:1970moi	Категория:1970 год
+Category:1972moi	Категория:1972 год
+Category:1973moi	Категория:1973 год
+Category:1974moi	Категория:1974 год
+Category:1975moi	Категория:1975 год
+Category:1976moi	Категория:1976 год
+Category:1978moi	Категория:1978 год
+Category:1980moi	Категория:1980 год
+Category:1981moi	Категория:1981 год
+Category:1982moi	Категория:1982 год
+Category:1983moi	Категория:1983 год
+Category:1984moi	Категория:1984 год
+Category:1985moi	Категория:1985 год
+Category:1986moi	Категория:1986 год
+Category:1987moi	Категория:1987 год
+Category:1988moi	Категория:1988 год
+Category:1989moi	Категория:1989 год
+Category:1990moi	Категория:1990 год
+Category:1991moi	Категория:1991 год
+Category:1992moi	Категория:1992 год
+Category:1993moi	Категория:1993 год
+Category:1994moi	Категория:1994 год
+Category:1995moi	Категория:1995 год
+Category:1996moi	Категория:1996 год
+Category:1997moi	Категория:1997 год
+Category:1999moi	Категория:1999 год
+Category:2000moi	Категория:2000 год
+Category:2001moi	Категория:2001 год
+Category:2002moi	Категория:2002 год
+Category:2004moi	Категория:2004 год
+Category:2005moi	Категория:2005 год
+Category:2006moi	Категория:2006 год
+Category:2007moi	Категория:2007 год
+Template:pilno pt	Шаблон:User pt
+Template:pilno zh-1	Шаблон:User zh-1
+Category:zambias	Категория:Замбия
+Category:senegal	Категория:Сенегал
+Category:sieras. leon	Категория:Сьерра-Леоне
+Category:zimbabues	Категория:Зимбабве
+Category:ligykle	Категория:Твёрдое тело
+Category:somalias	Категория:Сомали
+Category:tcad	Категория:Чад
+Category:ugandas	Категория:Уганда
+Category:banskepre	Категория:Лингвисты
+Category:pilipinas	Категория:Филиппины
+Category:pilno zh-1	Категория:User zh-1
+Category:tivni	Категория:Телевидение
+Category:sixygu'e	Категория:Сирия
+Category:174xymoi	Категория:1740-е
+Category:184xymoi	Категория:1840-е
+Category:099xymoi	Категория:990-е
+Category:13xyxymoi	Категория:XIV век
+Category:15xyxymoi	Категория:XVI век
+Category:03xyxymoi	Категория:IV век
+Category:17xyxymoi	Категория:XVIII век
+Category:1xyxyxymoi	Категория:II тысячелетие
+Category:0xyxyxymoi	Категория:I тысячелетие
+Category:xindo ropno bangu	Категория:Индоевропейские языки
+Category:1963moi	Категория:1963 год
+Category:selratni	Категория:Химические элементы
+Category:14xyxymoi	Категория:XV век
+Category:berti zei .xanguk	Категория:Корейская Народно-Демократическая Республика
+Category:1831moi	Категория:1831 год
+Category:1968moi	Категория:1968 год
+Category:djamaikas	Категория:Ямайка
+Category:1998moi	Категория:1998 год
+Category:luaos	Категория:Лаос
+Category:lu'orgu'e	Категория:Ливан
+Category:nepal	Категория:Непал
+Category:2003moi	Категория:2003 год
+Category:sofygu'e	Категория:СССР
+Category:1971moi	Категория:1971 год
+Category:jorgu'e	Категория:Иордания
+Category:kostarikas	Категория:Коста-Рика
+Category:surinam	Категория:Суринам
+Category:nikaraguas	Категория:Никарагуа
+Category:noreg	Категория:Норвегия
+Category:panamas	Категория:Панама
+Category:paraguais	Категория:Парагвай
+Category:lictenctain	Категория:Лихтенштейн
+Category:onduras	Категория:Гондурас
+Category:uruguais	Категория:Уругвай
+Category:andoras	Категория:Андорра
+Category:serbias	Категория:Сербия
+Category:beliz	Категория:Белиз
+Category:salbador	Категория:Сальвадор
+Category:ekuador	Категория:Эквадор
+Category:perus	Категория:Перу
+Category:bolivias	Категория:Боливия
+Category:remske	Категория:Антропология
+Category:gudjanas	Категория:Гайана
+Category:kolombias	Категория:Колумбия
+Category:zgitci	Категория:Музыкальные инструменты
+Category:timske	Категория:Метеорология
+Category:gackle	Категория:Газы
+Category:jinkle	Категория:Металлы
+Category:pilno pl	Категория:User pl
+Category:dansu	Категория:Танец
+Category:162xymoi	Категория:1620-е
+Category:169xymoi	Категория:1690-е
+Category:2xyxyxymoi	Категория:III тысячелетие
+Category:kaurpo'esi'o	Категория:Коммунизм
+Category:logji	Категория:Логика
+Category:bemtu'a	Категория:Северная Америка
+Template:JULIANDAY.DAY	Шаблон:JULIANDAY.DAY
+Category:183xymoi	Категория:1830-е
+Category:guatemal	Категория:Гватемала
+najgenja	Морковь посевная
+trojany	Трояны (Мазовецкое воеводство)
+Category:la'ortu'a	Категория:Латинская Америка
+Category:skoselti'e	Категория:Хордовые
+Category:pilno jbo	Категория:User jbo
+Category:pilno jbo-1	Категория:User jbo-1
+Category:skari	Категория:Цвет
+Category:selpliske	Категория:Прикладные науки
+Category:loglan	Категория:Логлан
+Category:lojban	Категория:Ложбан
+Category:pilno en-1	Категория:User en-1
+Category:pilno de-1	Категория:User de-1
+Template:pilno jbo-1	Шаблон:User jbo-1
+toldi	Булавоусые чешуекрылые
+Special:RecentChanges	Служебная:Свежие правки

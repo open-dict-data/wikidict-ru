@@ -1,0 +1,539 @@
+Afirka	Африка
+Japan	Япония
+Norway	Норвегия
+Ireland	Ирландия
+Hungariya	Венгрия
+An Spàinn	Испания
+Amurika	Соединённые Штаты Америки
+Beljik	Бельгия
+Luksamburg	Люксембург
+Duniya	Земля
+Yan-adam	Человек разумный
+Finland	Финляндия
+Sweden	Швеция
+Denmark	Дания
+Poland	Польша
+Lithuania	Литва
+Italiya	Италия
+Switzerland	Швейцария
+Austriya	Австрия
+Greek	Греция
+Turkiyya	Турция
+Portugal	Португалия
+Turai	Европа
+Asiya	Азия
+Amirka ta Arewa	Северная Америка
+Wikipedia	Википедия
+Berlin	Берлин
+Airbus	Airbus
+Na'ura	Компьютер
+Yanar gizo	Интернет
+Barack Obama	Обама, Барак
+Pariis	Париж
+Kenya	Кения
+Ethiopia	Эфиопия
+Zaki	Лев
+Faransa	Франция
+Esperanto	Эсперанто
+Kare	Собака
+Birtaniya	Великобритания
+Kyanwa	Кошка
+Sin	Китайская Народная Республика
+Kifi	Рыбы
+Rasha	Россия
+Teku	Море
+São Paulo	Сан-Паулу
+Jamus	Германия
+Iceland	Исландия
+Istoniya	Эстония
+Jirgin sama	Самолёт
+Ɗaya	1 (число)
+Biyu	2 (число)
+Uku	3 (число)
+Huɗu	4 (число)
+Biyar	5 (число)
+Laitfiya	Латвия
+Ukraniya	Украина
+Kazech	Чехия
+Slofakiya	Словакия
+Sloveniya	Словения
+MOldufiniya	Молдавия
+Romainiya	Румыния
+Bulgairiya	Болгария
+Masadoiniya	Республика Македония
+Albaniya	Албания
+Kroatiya	Хорватия
+Azerbaijan	Азербайджан
+Andorra	Андорра
+Cyprus	Республика Кипр
+Georgia (country)	Грузия
+Kazakystan	Казахстан
+Malta	Мальта
+Monaco	Монако
+Montenegro	Черногория
+Vatican	Ватикан
+San Marino	Сан-Марино
+Indonesiya	Индонезия
+Afirka ta kudu	Южно-Африканская Республика
+Aljeriya	Алжир
+Uzbekistan	Узбекистан
+Ruwa	Вода
+Chile	Чили
+Isa Almasihu	Иисус Христос
+Singafora	Сингапур
+Ilmi	Наука
+Liechtenstein	Лихтенштейн
+Hitler	Гитлер, Адольф
+Facebook	Facebook
+Baharain	Бахрейн
+Armeniya	Армения
+Serbiya	Сербия
+Wata	Луна
+Santanbul	Стамбул
+Asturaliya	Австралия
+Koriya ta Arewa	Корейская Народно-Демократическая Республика
+Kambodiya	Камбоджа
+Musulunci	Ислам
+Rana	Солнце
+Angela Merkel	Меркель, Ангела
+Timor-Leste	Восточный Тимор
+Duniyoyi	Планета
+Cadi	Чад
+Indiya	Индия
+Mangolia	Монголия
+Dabba	Животные
+Shuka	Растения
+Kaza	Курица
+Jersey	Джерси (остров)
+Aladu	Домашняя свинья
+Iran	Иран
+Irak	Ирак
+Isra'ila	Израиль
+Yemen	Йемен
+Jordan	Иордания
+Kyrgystan	Киргизия
+Kuwait	Кувейт
+Laos	Лаос
+Lebanon	Ливан
+Maldives	Мальдивы
+Maleziya	Малайзия
+Myanmar	Мьянма
+Nepal	Непал
+Oman	Оман
+Pakistan	Пакистан
+Qatar	Катар
+Saudiyya	Саудовская Аравия
+Sri Lanka	Шри-Ланка
+Siriya	Сирия
+Tajikistan	Таджикистан
+Thailand	Таиланд
+Turkmenistan	Туркмения
+Taraiyar larabawa	Объединённые Арабские Эмираты
+Vietnam	Вьетнам
+Koriya ta Kudu	Республика Корея
+Da Simpsons	Симпсоны
+Afghanistan	Афганистан
+Bangladash	Бангладеш
+Mali	Мали
+Angola	Ангола
+Bhutan	Бутан
+Brunei	Бруней
+Filipin	Филиппины
+Togo	Того
+Benin	Бенин
+Botswana	Ботсвана
+Burkina faso	Буркина-Фасо
+Burundi	Бурунди
+Jamhuriyar dimokuradiyya Kwango	Демократическая Республика Конго
+Gine	Гвинея
+Kameru	Камерун
+Libya	Ливия
+Muritaniya	Мавритания
+Nijar	Нигер
+Nijeriya	Нигерия
+Uganda	Уганда
+Senegal	Сенегал
+Julius Caesar	Гай Юлий Цезарь
+Sudan	Судан
+Majalisar Ɗinkin Duniya	Организация Объединённых Наций
+Kofi Annan	Аннан, Кофи
+Montevideo	Монтевидео
+Biri	Обезьяны
+Augustus	Октавиан Август
+Gibraltar	Гибралтар
+Mota	Автомобиль
+Buenos Aires	Буэнос-Айрес
+Abarba	Ананас крупнохохолковый
+Zinedine Yazid Zidane	Зидан, Зинедин
+Baibûl	Библия
+Gaskiyan Cocin Isa	Церковь истинного Иисуса
+Concepción, Chile	Консепсьон (город, Чили)
+Końskowola	Коньсковоля
+Maciji	Змеи
+Kimiya	Химия
+Lima	Лима
+Santiago de Chile	Сантьяго
+Osasco	Озаску
+Dong Hoi Filin	Донгхой (аэропорт)
+Curitiba	Куритиба
+Confucius	Конфуций
+Kiristancìì	Христианство
+Nahiya	Континент
+Tsuntsu	Птицы
+Main Page	Заглавная страница
+Saratov	Саратов
+Bus	Автобус
+Åland	Аландские острова
+Makkah	Мекка
+Canary Islands	Канарские острова
+Category:Candidates for speedy deletion	Категория:Википедия:К быстрому удалению
+Sahara	Сахара
+Kyautar Nobel	Нобелевская премия
+Sauro	Комары
+Raƙumi	Верблюды
+Giwa	Слон
+Ƙudan zuma	Пчёлы
+Margaret Thatcher	Тэтчер, Маргарет
+Nelson Mandela	Мандела, Нельсон
+Category:Fàransà	Категория:Франция
+Hakkokin Yan-adam	Права человека
+Hong Kong	Гонконг
+Rio de Janeiro	Рио-де-Жанейро
+Addini	Религия
+Muhammad	Мухаммед
+Isle of Man	Остров Мэн
+Ronald Reagan	Рейган, Рональд
+Fernando Alonso	Алонсо, Фернандо
+Bishiya	Дерево
+APACHE	Apache
+Lissafi	Число
+Masara	Кукуруза сахарная
+Ƙasashen Duniya	Алфавитный список стран и территорий
+Dabbar beya	Медвежьи
+Sankara	Злокачественная опухоль
+Kurãme	Нарушение слуха
+Polio	Полиомиелит
+Makaman nukiliya	Ядерное оружие
+Macau	Макао
+Raƙumin dawa	Жираф
+Wikipedia:Community Portal	Википедия:Форум
+Jimina	Страус
+Tara	9 (число)
+Jaki	Домашний осёл
+Tuje	Дрофиные
+Jamhuriyar Sin	Тайвань
+Bakwai	7 (число)
+Takwas	8 (число)
+Dabbar rendiya	Оленевые
+Tafarnuwa	Чеснок
+Shida	6 (число)
+Moshchena	Мощёная
+Paltoga	Палтога
+Selena	Селена (певица)
+Goma	10 (число)
+Guernsey	Гернси
+Kahuhu	Удод
+Kyankyaso	Таракановые
+Galantoyi	Белый аист
+Kada	Крокодилы
+Kurciya	Горлицы
+Zaƙami	Дурман обыкновенный
+Hausawa	Хауса (народ)
+Mošovce	Мошовце
+Benazir Bhutto	Бхутто, Беназир
+Mahmoud Ahmadinejad	Ахмадинежад, Махмуд
+Dokokin nan goma	Десять заповедей
+Damisa	Леопард
+Ido	Идо
+Larabawa	Арабы
+Madinah	Медина
+Gyaɗa	Арахис культурный
+Ɗari	100 (число)
+Hawainiya	Хамелеоны
+Firinji	Холодильник
+Khomeini	Хомейни, Рухолла Мусави
+Ɗaɗɗoya	Базилик душистый
+Zirin Gaza	Сектор Газа
+Ashirin	20 (число)
+Arbaʼin	40 (число)
+Palestin autonomija	Палестинская национальная администрация
+Talatin	30 (число)
+Dubu	Тысяча
+Desmond Tutu	Туту, Десмонд
+Villeneuve-d'Ascq	Вильнёв-д’Аск
+Tsibirin Bermuda	Бермудский треугольник
+Dabgi	Трубкозуб
+Kotun Shari'ar Miyagun Laifuka	Международный уголовный суд
+Template:Commonscat	Шаблон:Commonscat
+Afirnawan Amirka	Афроамериканцы
+Ƙwayoyin cuta na Ebola	Геморрагическая лихорадка Эбола
+Hausa	Хауса (язык)
+Ali Khamenei	Али Хаменеи
+Sao Vang Filin	Шаованг (аэропорт)
+Sittin	60 (число)
+Tsamiya	Тамаринд
+Kuɓewa	Бамия
+Rogo	Маниок съедобный
+Karkandan	Чёрный носорог
+Cutar murar aladu	Пандемия гриппа H1N1 в 2009 году
+Umaru Musa Yar'Adua	Яр-Адуа, Умару
+Abbott (bakin dutse)	Аббот (кратер)
+Abbe (bakin dutse)	Аббе (кратер)
+Tattalin arzikin duniya	Финансовый кризис
+Dila	Обыкновенный шакал
+Balbela	Египетская цапля
+Rimi	Хлопковое дерево
+Ashuwaki	Сальвадора персидская
+Zamfara	Замфара
+Zariya	Зариа
+Zirman	Клещевина
+Kuka	Баобаб
+Ɓauna	Африканский буйвол
+Alkama	Пшеница мягкая
+Kwari	Комнатная муха
+Gweba	Гуайява
+Zabo	Цесарковые
+Dage	Медоед
+Herzegovina	Герцеговина
+CFA franc ( sefar yammaci Afirka)	Франк КФА
+Kaduna	Кадуна
+Gwaggon biri	Павиан анубис
+Boko Haram	Боко харам
+Jaffna	Джафна (город)
+Maiduguri	Майдугури
+Afifiya	Черепахи
+Gwaza	Таро (растение)
+Soso	Люффа
+Zogale	Моринга масличная
+Casaʼin	90 (число)
+Jibda	Африканская цивета
+Dumya	Шпорцевый гусь
+Ƙirƙa	Гривет
+Batsiya	Ориби
+Benik Afobe	Афобе, Беник
+43 (adadan)	43 (число)
+Shamuwa	Белобрюхий аист
+Baba	Индигофера
+Kanya	Хурма мушмуловидная
+Dadis Mousa Camara	Камара, Мусса Дади
+Mayen kifi	Малый пегий зимородок
+Agadez	Агадес (город)
+Mazo	Бушбок
+Marek Grechuta	Грехута, Марек
+Jan baki	Красноклювый ткач
+Ajami	Аджам (письменность)
+Gauraka	Венценосный журавль
+Kumurci	Черношеяя кобра
+Matiyu	Евангелие от Матфея
+Akala (rapper)	Akala
+Kwara	Квара
+Julia Savicheva	Савичева, Юлия Станиславовна
+Gwamki	Лошадиная антилопа
+Tan Son Nhat Filin	Таншоннят
+Babba da jaka	Африканский марабу
+Labarin kasa na Nijeriya	География Нигерии
+Waaken Santanbul	Голубиный горох
+Carki	Буйволовые скворцы
+Jihar Katsina	Кацина
+Danya	Марула
+Kano	Кано (штат)
+Ybe	Йобе
+Tamanin	80 (число)
+Sabaʼin	70 (число)
+Hamsin	50 (число)
+Yanyawa	Африканская лисица
+Wushi-wushi	Рыжая свистящая утка
+Ƙirinjijiya	Белолицая свистящая утка
+Gada	Кустарниковый дукер
+Da Nang Filin	Дананг (аэропорт)
+Yankan Allah	Красногорлая амадина
+VietJet Air	VietJet Air
+Hazbiya	Крапчатый голубь
+51 (adadan)	51 (число)
+Ca Mau Filin	Камау (аэропорт)
+Help:Contents	Википедия:Справка
+Alan A'Court	А’Курт, Алан
+Hankaka	Пегий ворон
+C. W. Alcock	Алкок, Чарльз Уильям
+Kabarai	Большой масковый ткач
+Cilakowa	Африканский серый ток
+Compton (bakin dutse)	Комптон (кратер)
+Jetstar Pacific Airlines	Jetstar Pacific Airlines
+Aya	Чуфа
+Category:Turkiyya	Категория:Турция
+Category:Afirka ta kudu	Категория:ЮАР
+Category:Nijeriya	Категория:Нигерия
+Category:Vietnam	Категория:Вьетнам
+Category:Tsuntsu	Категория:Птицы
+Category:Shuka	Категория:Растения
+Category:Addini	Категория:Религия
+Category:Duniya	Категория:Земля
+Hausa Bakwai	Города-государства хауса
+Karfasa	Тиляпии (род)
+Shaho	Орлиные
+Gamba	Andropogon gayanus
+Tarwaɗa	Кармут
+Tsada	Ксимения американская
+Garafuni	Момордика бальзамическая
+Albert Adomah	Адома, Альберт
+Riɗi	Кунжут индийский
+Category:Stubs	Категория:Незавершённые статьи
+ESB Villeneuve-d'Ascq	ЕСБ Вильнёв-д’Аск
+Colin Addison	Эддисон, Колин
+Template:Tl	Шаблон:Tl
+Template:Userbox	Шаблон:Userbox
+Adebayo Akinfenwa	Акинфенва, Адебайо
+Category:Ƙasā̀shē	Категория:Страны
+Wikipedia:Administrators	Википедия:Администраторы
+Christopher Anderson (footballer)	Андерсон, Кристофер
+Andomsky Pogost	Андомский Погост
+Misra	Египет
+Yawan Jama'a, Yana da Muhimmanci	Движение за оптимальную численность населения
+Template:Bot	Шаблон:Bot
+Kanada	Канада
+Category:Slovakia	Категория:Словакия
+Category:Tūrai	Категория:Европа
+Template:Documentation	Шаблон:Doc
+Wikipedia:Community portal	Википедия:Портал сообщества
+Category:User languages	Категория:Википедия:Участники по языкам
+Sung Jae-ki	Сон Джэги
+Saniya	Крупный рогатый скот
+Template:Softredirect	Шаблон:Soft redirect
+Template:Delete	Шаблон:К быстрому удалению
+Category:Wikipedia	Категория:Википедия
+Wikipedia:General disclaimer	Википедия:Отказ от ответственности
+Wikipedia:Statistics	Википедия:Статистика
+Template:Navbox	Шаблон:Navbox
+Conductive tawada	Электропроводящие краски
+Template:=	Шаблон:=
+Template:Navbar	Шаблон:Tnavbar
+Template:Unicode	Шаблон:Unicode
+Template:Col-break	Шаблон:Столбец
+Template:Col-begin	Шаблон:Столбцы
+Template:Col-end	Шаблон:Столбцы/конец
+Wikipedia:Vital articles	Википедия:Список статей, которые должны быть во всех языковых версиях
+Category:Afirka	Категория:Африка
+Category:Adadan	Категория:Числа
+Template:Babel	Шаблон:Babel
+Template:Reflist	Шаблон:Примечания
+Template:Stub	Шаблон:Заготовка
+Template:User af-1	Шаблон:User af-1
+Template:User als-1	Шаблон:User als-1
+Template:User ar-1	Шаблон:User ar-1
+Template:User ast-1	Шаблон:User ast-1
+Template:User az	Шаблон:User az
+Template:See also	Шаблон:См. также
+Template:User da-2	Шаблон:User da-2
+Template:User da	Шаблон:User da
+Template:User ca-1	Шаблон:User ca-1
+Template:User ca-4	Шаблон:User ca-4
+Template:User be-2	Шаблон:User be-2
+Template:User da-1	Шаблон:User da-1
+Template:User cs-1	Шаблон:User cs-1
+Template:User bg-1	Шаблон:User bg-1
+Template:User de	Шаблон:User de
+Template:User de-1	Шаблон:User de-1
+Template:User el	Шаблон:User el
+Template:User de-3	Шаблон:User de-3
+Template:User en-3	Шаблон:User en-3
+Template:User el-1	Шаблон:User el-1
+Template:User en-1	Шаблон:User en-1
+Template:User en-2	Шаблон:User en-2
+Template:User en-4	Шаблон:User en-4
+Template:User en	Шаблон:User en
+Template:User de-2	Шаблон:User de-2
+Template:User tr-2	Шаблон:User tr-2
+Template:User tr	Шаблон:User tr
+Category:Asiya	Категория:Азия
+Category:User uk	Категория:User uk
+Category:User uk-N	Категория:User uk-N
+Template:Mod	Шаблон:Mod
+Template:User uk	Шаблон:User uk
+Template:ITA	Шаблон:ITA
+Template:Wikivar	Шаблон:Wikivar
+Template:Image label	Шаблон:Метка изображения
+Template:Ambox	Шаблон:Ambox
+Template:Infobox Country	Шаблон:Государство
+Template:Tmbox	Шаблон:Tmbox
+Template:Cite journal	Шаблон:Cite journal
+Category:User en-4	Категория:User en-4
+Category:User en	Категория:User en
+Category:User en-2	Категория:User en-2
+Template:Infobox	Шаблон:Карточка
+Template:Cite web	Шаблон:Cite web
+Template:Ombox	Шаблон:Ombox
+Template:Pp-template	MediaWiki:Protectedpagetext
+Template:Mbox templates	Шаблон:Mbox templates
+Template:IPA	Шаблон:IPA1
+Category:Amurika	Категория:Америка
+Template:MONTHNAME	Шаблон:MONTHNAME
+Template:Namespace detect	Шаблон:Namespace detect
+Template:Country data Nigeria	Шаблон:Флагификация/Нигерия
+Template:Image label end	Шаблон:Image label end
+Template:Purge	Шаблон:Очистить кэш
+Template:Sportivo	Шаблон:Спортсмен
+Kungiyar Agaji Ta Red Cross Ta Duniya	Международный комитет Красного Креста
+Template:Image label small	Шаблон:Image label small
+Template:Disambig	Шаблон:Неоднозначность
+Category:User az	Категория:User az
+Category:User be	Категория:User be
+Category:User cs-1	Категория:User cs-1
+Category:User da-1	Категория:User da-1
+Category:User ar-1	Категория:User ar-1
+Category:User be-2	Категория:User be-2
+Category:User da-2	Категория:User da-2
+Category:User tr-2	Категория:User tr-2
+Category:User af	Категория:User af
+Category:User af-1	Категория:User af-1
+Category:User als	Категория:User als
+Category:User als-1	Категория:User als-1
+Category:User ar	Категория:User ar
+Category:User ast	Категория:User ast
+Category:User ast-1	Категория:User ast-1
+Category:User az-N	Категория:User az-N
+Category:User bar	Категория:User bar
+Category:User bar-1	Категория:User bar-1
+Category:User bg	Категория:User bg
+Category:User bg-1	Категория:User bg-1
+Category:User ca	Категория:User ca
+Category:User ca-1	Категория:User ca-1
+Category:User ca-4	Категория:User ca-4
+Category:User cs	Категория:User cs
+Category:User da	Категория:User da
+Category:User de	Категория:User de
+Category:User de-2	Категория:User de-2
+Category:User de-3	Категория:User de-3
+Category:User el	Категория:User el
+Category:User el-1	Категория:User el-1
+Category:User el-N	Категория:User el-N
+Category:User en-3	Категория:User en-3
+Category:User en-N	Категория:User en-N
+Template:Nastaliq	Шаблон:Nastaliq
+Category:User tr	Категория:User tr
+Category:User tr-N	Категория:User tr-N
+Category:Bishiya	Категория:Деревья
+Template:As of	Шаблон:На
+Category:Kudi	Категория:Валюты
+Template:DecreasePositive	Шаблон:Положительное падение
+Category:Ingila kwallon kafa players	Категория:Футболисты Англии
+Category:Kifi	Категория:Рыбы
+Category:Amfani	Категория:Фрукты
+Category:Dabba	Категория:Животные
+Kabewa	Тыква обыкновенная
+Iska	Воздух
+Template:FULLROOTPAGENAME	Шаблон:FULLROOTPAGENAME
+Trojany	Трояны (Мазовецкое воеводство)
+Doya	Ямс
+Template:Image label begin	Шаблон:Image label begin
+Template:Ns has subpages	Шаблон:Ns имеет подстраницы
+Category:User en-1	Категория:User en-1
+Category:User de-1	Категория:User de-1
+Category:User da-N	Категория:User da-N
+Template:Start date	Шаблон:Start date
+Malan boɗe ido	Булавоусые чешуекрылые
+Chuba Akpom	Акпом, Чуба
+Module:Convert	Модуль:Convert
+Special:RecentChanges	Служебная:Свежие правки
+Module:InfoboxImage	Модуль:InfoboxImage
+Module:Infobox	Модуль:Карточка
+Adam Armstrong (footballer)	Армстронг, Адам (футболист)

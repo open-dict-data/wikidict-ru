@@ -1,0 +1,1768 @@
+Aprika	Африка
+Siapan	Япония
+Saut Amerika	Южная Америка
+Nowe	Норвегия
+Inglan	Англия
+Skotlan	Шотландия
+Wels	Уэльс
+Noten Aialan	Северная Ирландия
+Ripablik bilong Aialan	Ирландия
+Hangari	Венгрия
+Spen	Испания
+Ol Yunaitet Stet	Соединённые Штаты Америки
+Beljiam	Бельгия
+Giraun	Земля
+Pinlan	Финляндия
+Suwidan	Швеция
+Denmak	Дания
+Polan	Польша
+Lituwenia	Литва
+Itali	Италия
+Suwisalan	Швейцария
+Ostria	Австрия
+Gris	Греция
+Teki	Турция
+Posugol	Португалия
+Yurop	Европа
+Esia	Азия
+Not Amerika	Северная Америка
+Wikipedia	Википедия
+Ol Nitelan	Нидерланды
+Niu Yok Siti	Нью-Йорк
+Wasington DC	Вашингтон (округ Колумбия)
+Berlin	Берлин
+Berne	Берн
+Intanet	Интернет
+Barack Obama	Обама, Барак
+Landen	Лондон
+Kairo	Каир
+Paris	Париж
+Meksiko	Мексика
+Solwara Atlantik	Атлантический океан
+Solwara Pasifik	Тихий океан
+Mande	Понедельник
+Janueri	Январь
+Februeri	Февраль
+Mas	Март
+Epril	Апрель
+Me	Май
+Jun	Июнь
+Julai	Июль
+Ogas	Август
+Septemba	Сентябрь
+Oktoba	Октябрь
+Novemba	Ноябрь
+Disemba	Декабрь
+Tunde	Вторник
+Trinde	Среда
+Fonde	Четверг
+Fraide	Пятница
+Sarere	Суббота
+Sande	Воскресенье
+Frens	Франция
+Esperanto	Эсперанто
+Yunaitet Kingdom	Великобритания
+Ol Manmeri Ripablik bilong Saina	Китайская Народная Республика
+Tok Frens	Французский язык
+Wiktionary	Викисловарь
+Rasia	Россия
+San Paulu	Сан-Паулу
+Siamani	Германия
+Belaras	Белоруссия
+Tok Jeman	Немецкий язык
+Aislan	Исландия
+God	Бог
+Estonia	Эстония
+George Walker Bush	Буш, Джордж Уокер
+Latvia	Латвия
+Yukren	Украина
+Sek Ripablik	Чехия
+Slovakia	Словакия
+Vilnius	Вильнюс
+Romenia	Румыния
+Balgeria	Болгария
+Rom	Рим
+Albenia	Албания
+Greenland	Гренландия (административная единица)
+Krowesia	Хорватия
+Azerbaijan	Азербайджан
+Andora	Андорра
+Saipras	Республика Кипр
+San Marino	Сан-Марино
+Brussels	Брюссель
+Indonisia	Индонезия
+Saut Aprika	Южно-Африканская Республика
+Woso	Варшава
+Tok Aislan	Исландский язык
+Jisas	Иисус Христос
+Histori	История
+Tokples	Язык
+Yurenes (planet)	Уран (планета)
+Nicolas Sarkozy	Саркози, Николя
+Estronomi	Астрономия
+Ubuntu	Ubuntu
+Szczecin	Щецин
+Ol matematik	Математика
+U2	U2
+Tok Latin	Латинский язык
+Armenia	Армения
+Sebia	Сербия
+Mun (i stap long heven)	Луна
+Ostrelia	Австралия
+Save long laip	Биология
+Not Koria	Корейская Народно-Демократическая Республика
+Islam	Ислам
+Lyon	Лион
+Sofia	София
+Banana	Банан
+San	Солнце
+Osenia	Океания
+Wikimedia Commons	Викисклад
+Buk	Книга
+De	Сутки
+Yia	Год
+Oslo	Осло
+Katowice	Катовице
+Planet	Планета
+Lille	Лилль
+Mosko	Москва
+Tok Itali	Итальянский язык
+Niu Silan	Новая Зеландия
+India	Индия
+Tuvalu	Тувалу
+Tonga	Тонга
+Samoa	Самоа
+Solomon Ailans	Соломоновы Острова
+Vanuatu	Вануату
+Papua Niugini	Папуа — Новая Гвинея
+Nauru	Науру
+Ol Masol Ailan	Маршалловы Острова
+Kiribas	Кирибати
+Fiji	Фиджи
+Abus	Животные
+At	Искусство
+Budisim	Буддизм
+Sayor	Растения
+Irak	Ирак
+Israel	Израиль
+Panama	Панама
+Yemen	Йемен
+Tok Polan	Польский язык
+Amerika (Kontinen)	Америка
+Malaysia	Малайзия
+Platon	Платон
+Ripablik bilong Saina	Китайская Республика
+Aristoteles	Аристотель
+Tailan	Таиланд
+Vietnam	Вьетнам
+Saut Koria	Республика Корея
+Socrates	Сократ
+Bhutan	Бутан
+Brunai	Бруней
+Albert Einstein	Эйнштейн, Альберт
+Yelo (kala)	Жёлтый цвет
+Beijing	Пекин
+Gabon	Габон
+Gandi	Махатма Ганди
+Lesoto	Лесото
+Naijiria	Нигерия
+Senegal	Сенегал
+Sierra Leone	Сьерра-Леоне
+Julius Caesar	Гай Юлий Цезарь
+Save long giraun	География
+Kala	Цвет
+Blu (kala)	Синий цвет
+Bill Clinton	Клинтон, Билл
+Yerusalem	Иерусалим
+Kolorado	Колорадо
+Chicago	Чикаго
+Tok Spen	Испанский язык
+Mani	Деньги
+Uetersen	Итерзен
+Augustus Caesar	Октавиан Август
+Trajan	Траян
+Tokyo	Токио
+Bagdad	Багдад
+Stockholm	Стокгольм
+Dublin	Дублин
+Reykjavik	Рейкьявик
+Talin	Таллин
+Riga	Рига
+Bratislava	Братислава
+Budapest	Будапешт
+Katolik	Католицизм
+Baibel	Библия
+Ho Chi Minh City	Хошимин
+Tru Jisas Lotu	Церковь истинного Иисуса
+Tokples Inglis	Английский язык
+Andorra la Vella	Андорра-ла-Велья
+Kuala Lumpur	Куала-Лумпур
+Taipei	Тайбэй
+Đồng Hới	Донгхой
+Concepción	Консепсьон (город, Чили)
+Ottawa	Оттава
+Końskowola	Коньсковоля
+2000	2000 год
+2003	2003 год
+2002	2002 год
+2001	2001 год
+2008	2008 год
+2004	2004 год
+2005	2005 год
+2006	2006 год
+2007	2007 год
+1901	1901 год
+1902	1902 год
+1903	1903 год
+1904	1904 год
+1905	1905 год
+1907	1907 год
+1906	1906 год
+1908	1908 год
+1909	1909 год
+1992	1992 год
+1991	1991 год
+1990	1990 год
+1993	1993 год
+1994	1994 год
+1995	1995 год
+1996	1996 год
+1910	1910 год
+1911	1911 год
+1912	1912 год
+1913	1913 год
+1914	1914 год
+1915	1915 год
+1916	1916 год
+1997	1997 год
+1998	1998 год
+1999	1999 год
+1917	1917 год
+1918	1918 год
+1920	1920 год
+1919	1919 год
+1921	1921 год
+1922	1922 год
+1923	1923 год
+1924	1924 год
+Kurów	Курув
+1989	1989 год
+1988	1988 год
+1987	1987 год
+1986	1986 год
+1985	1985 год
+1984	1984 год
+1983	1983 год
+1982	1982 год
+1981	1981 год
+1980	1980 год
+1970	1970 год
+1971	1971 год
+1972	1972 год
+1973	1973 год
+1974	1974 год
+1975	1975 год
+1976	1976 год
+1977	1977 год
+1978	1978 год
+1979	1979 год
+1969	1969 год
+Benedict XVI	Бенедикт XVI
+1968	1968 год
+1967	1967 год
+1966	1966 год
+1965	1965 год
+1964	1964 год
+Palermo	Палермо
+Soka	Футбол
+1963	1963 год
+1962	1962 год
+Madrid	Мадрид
+Michael Jackson	Джексон, Майкл
+Göttingen	Гёттинген
+Kambra	Канберра
+Ret (kala)	Красный цвет
+1961	1961 год
+Dakar	Дакар
+Grup:Ol templet bilong tokples	Категория:Википедия:Шаблоны
+1960	1960 год
+Freetown	Фритаун
+Wes Papua	Западная Новая Гвинея
+Skul	Школа
+Osasku	Озаску
+Ples balus Dong Hoi	Донгхой (аэропорт)
+Kuritiba	Куритиба
+Jonathan Winters	Уинтерс, Джонатан
+Sean Connery	Коннери, Шон
+Kongzi	Конфуций
+Corbin Bleu	Блю, Корбин
+Grup:Ol matematik	Категория:Математика
+Templet:Country data Iran	Шаблон:Флагификация/Иран
+Euro	Евро
+Jason Lee	Ли, Джейсон Майкл
+Lotu Kristen	Христианство
+Kontinen	Континент
+Kapitol	Столица
+Monzón	Монсон
+Mun (taim)	Месяц
+1948	1948 год
+1949	1949 год
+Almazán	Альмасан
+1956	1956 год
+1941	1941 год
+1945	1945 год
+1958	1958 год
+1926	1926 год
+1947	1947 год
+1944	1944 год
+1952	1952 год
+Tokples Siapan	Японский язык
+Ensaiklopedia	Энциклопедия
+Fran pes	Заглавная страница
+1959	1959 год
+1957	1957 год
+Frank Lloyd Wright	Райт, Фрэнк Ллойд
+Betlehem	Вифлеем
+Pilosopi	Философия
+Grup:All articles proposed for deletion	Категория:Википедия:К быстрому удалению
+Piano	Фортепиано
+Ti	Чай
+Hebe Camargo	Камарго, Эбе
+Grup:Estronomi	Категория:Астрономия
+Carcassonne	Каркасон
+Sahara	Сахара
+1801	1801 год
+1802	1802 год
+1803	1803 год
+1804	1804 год
+1805	1805 год
+1806	1806 год
+1807	1807 год
+1808	1808 год
+1809	1809 год
+1810	1810 год
+1811	1811 год
+1812	1812 год
+1813	1813 год
+1814	1814 год
+1815	1815 год
+1816	1816 год
+1817	1817 год
+1818	1818 год
+1819	1819 год
+1820	1820 год
+1821	1821 год
+1822	1822 год
+1823	1823 год
+1824	1824 год
+1825	1825 год
+1826	1826 год
+1827	1827 год
+Buda	Будда
+Politikis	Политика
+Gavman	Правительство
+Kantri	Государство
+Kamel	Верблюды
+1828	1828 год
+1829	1829 год
+1830	1830 год
+1831	1831 год
+1832	1832 год
+1833	1833 год
+1834	1834 год
+1835	1835 год
+1836	1836 год
+1837	1837 год
+1838	1838 год
+1839	1839 год
+1840	1840 год
+1841	1841 год
+1842	1842 год
+1843	1843 год
+1844	1844 год
+Tok Rasia	Русский язык
+Toksave long ol raits bilong ol manmeri long olgeta hap bilong dispela giraun	Всеобщая декларация прав человека
+Tok Balgeria	Болгарский язык
+Nelson Mandela	Мандела, Нельсон
+Lajik	Логика
+Grama	Грамматика
+Ikonimikis	Экономика (наука)
+Yen bilong Siapan	Японская иена
+Stadi bilong pasin bilong ol tokples	Лингвистика
+Hangul	Хангыль
+Grup:Pranis	Категория:Франция
+"Weird Al" Yankovic	«Странный Эл» Янкович
+Alexander Makedon	Александр Македонский
+Edukesen	Образование
+Famili	Семья
+Kopi	Кофе
+Sol	Сеул
+Tokples long Albenia	Албанский язык
+Valencia	Валенсия
+Tok Denmak	Датский язык
+Tok Nowe	Норвежский язык
+Tok Slovakia	Словацкий язык
+Tok Hangari	Венгерский язык
+Tok Lituwenia	Литовский язык
+Tok Belaras	Белорусский язык
+Tok Gris	Греческий язык
+Tok Aialan	Ирландский язык
+Imel	Электронная почта
+Tokples Pesia	Персидский язык
+Lotu	Религия
+Tok Koria	Корейский язык
+Tok Vietnam	Вьетнамский язык
+Georg Wilhelm Friedrich Hegel	Гегель, Георг Вильгельм Фридрих
+Judaisim	Иудаизм
+Immanuel Kant	Кант, Иммануил
+Saikolosi	Психология
+Sidarta	Будда Шакьямуни
+Martin Luther	Лютер, Мартин
+Elisabet II	Елизавета II
+Ronald Reagan	Рейган, Рональд
+Fernando Alonso	Алонсо, Фернандо
+David Beckham	Бекхэм, Дэвид
+Gordon Brown	Браун, Гордон
+Tebol bilong ol elemen	Периодическая система химических элементов
+Diwai	Дерево
+Kubuntu	Kubuntu
+Grup:Romenia	Категория:Румыния
+Egrikalsa	Сельское хозяйство
+Elektroniks	Электроника
+Ol kantri	Алфавитный список стран и территорий
+Kensa	Злокачественная опухоль
+Soria	Сория
+Ponferrada	Понферрада
+Templet:Location map Iceland	Шаблон:ПозКарта Исландия
+Villarreal	Вильярреаль
+Templet:Location map Samoa	Шаблон:ПозКарта Самоа
+Mislata	Мислата
+Kokonas	Кокосовая пальма
+Ferdinand de Saussure	Соссюр, Фердинанд де
+Unserdeutsch	Унзердойч
+Kyushu	Кюсю
+Honshu	Хонсю
+Shikoku	Сикоку
+Ista Ailan	Остров Пасхи
+Ethnologue	Ethnologue
+Bensheim	Бенсхайм
+Queen	Queen
+Freddie Mercury	Фредди Меркьюри
+Wol	Мир (Земля)
+Vemont	Вермонт
+Koria	Корея
+1925	1925 год
+1927	1927 год
+1955	1955 год
+1954	1954 год
+1953	1953 год
+1951	1951 год
+1950	1950 год
+1946	1946 год
+1943	1943 год
+1942	1942 год
+1940	1940 год
+1939	1939 год
+1938	1938 год
+1937	1937 год
+1936	1936 год
+1935	1935 год
+1934	1934 год
+1933	1933 год
+1932	1932 год
+1931	1931 год
+1930	1930 год
+1929	1929 год
+Pyongyang	Пхеньян
+Nupela Testamen	Новый Завет
+Nha Trang	Нячанг
+Maya Angelou	Майя Энджелоу
+Pop	Папство
+Rafael Correa	Корреа, Рафаэль
+Busares	Бухарест
+1928	1928 год
+Olpela Testamen	Ветхий Завет
+Indo-Yuropien famili bilong tokples	Индоевропейские языки
+Breinigerberg	Брайнигерберг
+Gyeonggi	Кёнгидо
+Ol Tokples Siamanik	Германские языки
+Sosiolosi	Социология
+Taiwan	Тайвань
+Bahai	Бахаи
+Aialan	Ирландия (остров)
+7	7 год
+Wik	Неделя
+Antropolosi	Антропология
+Ailan	Остров
+Moshchena	Мощёная
+Akiolosi	Археология
+George H. W. Bush	Буш, Джордж Герберт Уокер
+Paltoga	Палтога
+Quang Binh Provins	Куангбинь
+Protestan	Протестантизм
+Bryan Cranston	Крэнстон, Брайан
+Bikpela Briten	Великобритания (остров)
+Kadinol daireksion	Стороны света
+Lila Downs	Даунс, Лила
+Famili bilong tokples	Генетическая классификация языков
+Pichilemu	Пичилему
+Pukpuk	Крокодилы
+Amerika	Amerika
+Cabañas Raras	Кабаньяс-Рарас
+Ardón (León)	Ардон (Леон)
+Algadefe	Альгадефе
+Acebedo	Асебедо
+Los Barrios de Luna	Лос-Барриос-де-Луна
+Fresno de la Vega	Фресно-де-ла-Вега
+La Antigua (Spen)	Ла-Антигуа (Испания)
+Almanza	Альманса (Леон)
+El Burgo Ranero	Эль-Бурго-Ранеро
+Boca de Huérgano	Бока-де-Уэргано
+Bustillo del Páramo	Бустильо-дель-Парамо
+Boñar	Боньяр
+Alija del Infantado	Алиха-дель-Инфантадо
+Brazuelo	Брасуэло
+Berlanga del Bierzo	Берланга-дель-Бьерсо
+Cabreros del Río	Кабрерос-дель-Рио
+Bercianos del Real Camino	Берсьянос-дель-Реаль-Камино
+Burón (León)	Бурон (Леон)
+Bercianos del Páramo	Берсьянос-дель-Парамо
+Kokomo	Птицы-носороги
+Danny DeVito	Де Вито, Дэнни
+Jerry Springer	Спрингер, Джерри
+Sentrel Amerika	Центральная Америка
+Kaunti	Графство
+Ecser	Эчер
+Zhengzhou	Чжэнчжоу
+Avril Lavigne	Лавин, Аврил
+Rouen	Руан
+Valery Leontiev	Леонтьев, Валерий Яковлевич
+Tok Hawai	Гавайский язык
+Hiri Motu	Хири-моту
+Niu Kaledonia	Новая Каледония
+Marlon Brando	Брандо, Марлон
+Tok Pisin	Ток-писин
+Mošovce	Мошовце
+Ajetiv bilong nambawan kain	Имя прилагательное
+Ido	Идо
+44 yia i go bipo Jisas	44 год до н. э.
+Bislama	Бислама
+Hokkaido	Хоккайдо
+Charles Bronson	Бронсон, Чарльз
+Borneo	Калимантан
+Siligo	Силиго
+Apia	Апиа
+Pot Mosbi	Порт-Морсби
+.ru	.ru
+.ad	.ad
+Cork	Корк
+Arancón	Аранкон
+.am	.am
+.de	.de
+.fr	.fr
+Melanesia	Меланезия
+.au	.au
+Maket	Рынок
+.at	.at
+Pot Vila	Порт-Вила
+Auckland Grammar School	Оклендская гимназия
+.us	.us
+.es	.es
+.pl	.pl
+.uk	.uk
+Kaukau	Батат
+Yokohama	Иокогама
+.al	.al
+.az	.az
+.ee	.ee
+.bg	.bg
+.jp	.jp
+.it	.it
+Lubuntu	Lubuntu
+.ca	.ca
+.ch	.ch
+Maikroekonomiks	Макроэкономика
+.be	.be
+Ágreda	Агреда
+.by	.by
+.fj	.fj
+.cl	.cl
+.bt	.bt
+Hobat	Хобарт
+Niugini	Новая Гвинея
+.tv	.tv
+23 yia i go bipo Jisas	23 год до н. э.
+.se	.se
+.kz	.kz
+.hu	.hu
+.ua	.ua
+.mx	.mx
+.no	.no
+.id	.id
+.tr	.tr
+.eu	.eu
+.sk	.sk
+Julia Gillard	Гиллард, Джулия
+.to	.to
+.lv	.lv
+Saikoanalisis	Психоанализ
+.tj	.tj
+.kp	.kp
+Frank Gorshin	Горшин, Фрэнк
+.ro	.ro
+.nr	.nr
+.ke	.ke
+.vu	.vu
+.ws	.ws
+.sm	.sm
+.tk	.tk
+Kevin Rudd	Радд, Кевин
+Plak bilong Siapan	Флаг Японии
+Jim Morrison	Моррисон, Джим
+Dan Castellaneta	Кастелланета, Дэн
+Cubillos del Sil	Кубильос-дель-Силь
+Igüeña	Игуэнья
+Noceda del Bierzo	Носеда-дель-Бьерсо
+Castropodame	Кастроподаме
+Páramo del Sil	Парамо-дель-Силь
+Molinaseca	Молинасека
+Toreno	Торено
+Folgoso de la Ribera	Фольгосо-де-ла-Рибера
+.nu	.nu
+Sancedo	Санседо
+The Doors	The Doors
+Pécs	Печ (город, Венгрия)
+Sios	Храмовая архитектура
+Plak bilong Pinlan	Флаг Финляндии
+Templet:Commons category	Шаблон:Commonscat
+Morgan Freeman	Фримен, Морган
+Plak bilong Albenia	Флаг Албании
+Dire Straits	Dire Straits
+Richard Attenborough	Аттенборо, Ричард
+Templet:Taxobox	Шаблон:Taxobox
+Siete Aguas	Сьете-Агуас
+Burjassot	Бурхасот
+El Royo	Эль-Ройо
+János Áder	Адер, Янош
+Viktor Orbán	Орбан, Виктор
+Reyero	Рейеро
+La Ercina	Ла-Эрсина
+Niu Briten	Новая Британия
+La Robla	Ла-Робла
+Santa Colomba de Curueño	Санта-Коломба-де-Куруэньо
+Santa María del Monte de Cea	Санта-Мария-дель-Монте-де-Сеа
+San Cristóbal de la Polantera	Сан-Кристобаль-де-ла-Полантера
+Otto Sander	Зандер, Отто
+Santa María del Páramo	Санта-Мария-дель-Парамо
+Santa Elena de Jamuz	Санта-Элена-де-Хамус
+San Justo de la Vega	Сан-Хусто-де-ла-Вега
+Xubuntu	Xubuntu
+Plak bilong Solomon Ailans	Флаг Соломоновых Островов
+Nonvailens	Ненасилие
+Debrecen	Дебрецен
+Plak bilong Kanada	Флаг Канады
+Quintana y Congosto	Кинтана-и-Конгосто
+Matallana de Torío	Матальяна-де-Торио
+Harrison Ford	Форд, Харрисон
+Plak bilong Andora	Флаг Андорры
+Kimi ga Yo	Гимн Японии
+Szeged	Сегед
+Plak bilong Ostrelia	Флаг Австралии
+Plak bilong Hangari	Флаг Венгрии
+Plak bilong Azerbaijan	Флаг Азербайджанской Республики
+Plak bilong Nowe	Флаг Норвегии
+Robin Williams	Уильямс, Робин
+Gary Oldman	Олдмен, Гэри
+Tauns long Burgos provins	Муниципалитеты Бургоса
+Ol taun bilong León provins	Муниципалитеты Леона
+Tauns long Soria provins	Муниципалитеты Сории
+Plak bilong Aislan	Флаг Исландии
+Plak bilong Indonisia	Флаг Индонезии
+Plak bilong Skotlan	Флаг Шотландии
+Miskolc	Мишкольц
+Donald Sutherland	Сазерленд, Дональд
+Peter O'Toole	О’Тул, Питер
+Eli Wallach	Уоллак, Илай
+Mickey Rooney	Микки Руни
+Godelleta	Годельета
+Plak bilong Tuvalu	Флаг Тувалу
+Holly Hunter	Хантер, Холли
+Kristen	Христианин
+Stet	Штат
+Meditesen	Медитация
+James Garner	Гарнер, Джеймс
+Joey King	Кинг, Джоуи
+Pacific Games	Тихоокеанские игры
+Plak bilong Kiribas	Флаг Кирибати
+Saut Ailan	Южный (остров, Новая Зеландия)
+Plak bilong Spen	Флаг Испании
+Dziecinów	Дзецинув (Отвоцкий повят)
+Haus bilong binen	Пчелиные соты
+Michael Caine	Майкл Кейн
+Steve Irwin	Ирвин, Стив
+Plak bilong Saut Koria	Флаг Республики Корея
+Plak bilong Slovenia	Флаг Словении
+Plak bilong Romenia	Флаг Румынии
+Grup:Manmeri bilong Hangari	Венгры
+Dunedin	Данидин
+Kamikaze	Камикадзе
+Lucillo	Лусильо
+Cimanes de la Vega	Симанес-де-ла-Вега
+Cebrones del Río	Себронес-дель-Рио
+Quintana del Marco	Кинтана-дель-Марко
+San Millán de los Caballeros	Сан-Мильян-де-лос-Кабальерос
+Cubillas de Rueda	Кубильяс-де-Руэда
+Cea (León)	Сеа (Леон)
+Garrafe de Torío	Гаррафе-де-Торио
+Santa María de Ordás	Санта-Мария-де-Ордас
+Cuadros	Куадрос (Леон)
+Llamas de la Ribera	Льямас-де-ла-Рибера
+Riello	Риельо
+Palacios de la Valduerna	Паласьос-де-ла-Вальдуэрна
+Castrocalbón	Кастрокальбон
+Carrocera	Карросера
+Murias de Paredes	Мурьяс-де-Паредес
+Rioseco de Tapia	Риосеко-де-Тапия
+Santa Cristina de Valmadrigal	Санта-Кристина-де-Вальмадригаль
+Kuman	Куман (язык)
+Grajal de Campos	Грахаль-де-Кампос
+Santa María de la Isla	Санта-Мария-де-ла-Исла
+Campo de Villavidel	Кампо-де-Вильявидель
+Crémenes	Кременес
+Cimanes del Tejar	Симанес-дель-Техар
+Castilfalé	Кастильфале
+Quintana del Castillo	Кинтана-дель-Кастильо
+Campazas	Кампасас
+Pajares de los Oteros	Пахарес-де-лос-Отерос
+San Pedro Bercianos	Сан-Педро-Берсьянос
+Santa Marina del Rey	Санта-Марина-дель-Рей
+Cebanico	Себанико
+Gordaliza del Pino	Гордалиса-дель-Пино
+Castrillo de la Valduerna	Кастрильо-де-ла-Вальдуэрна
+Pozuelo del Páramo	Посуэло-дель-Парамо
+Prado de la Guzpeña	Прадо-де-ла-Гуспенья
+Matanza (León)	Матанса (деревня)
+Santa Colomba de Somoza	Санта-Коломба-де-Сомоса
+Cubillas de los Oteros	Кубильяс-де-лос-Отерос
+Mansilla Mayor	Мансилья-Майор
+Gordoncillo	Гордонсильо
+San Esteban de Nogales	Сан-Эстебан-де-Ногалес
+Regueras de Arriba	Регерас-де-Арриба
+Luyego	Луйего
+Maraña	Маранья
+Castrotierra de Valmadrigal	Кастротьерра-де-Вальмадригаль
+Magaz de Cepeda	Магас-де-Сепеда
+Matadeón de los Oteros	Матадеон-де-лос-Отерос
+Castrillo de Cabrera	Кастрильо-де-Кабрера
+Gusendos de los Oteros	Гусендос-де-лос-Отерос
+Chozas de Abajo	Чосас-де-Абахо
+Roperuelos del Páramo	Роперуэлос-дель-Парамо
+Phu Quoc	Фукуок
+Wikipedia:Save long senisim pes	Википедия:Как править статьи
+Buai	Бетелевая пальма
+Brobergen	Броберген
+Daka	Бетель
+Klostu Tudak	Сумерки (фильм, 2008)
+Plak bilong Niu Silan	Флаг Новой Зеландии
+Kaunti Cork	Корк (графство)
+St. Peter's College, Auckland	Колледж Святого Петра (Окленд)
+Siaman Niugini	Германская Новая Гвинея
+Behaviourisim	Бихевиоризм
+Samuel L. Jackson	Джексон, Сэмюэл Лерой
+Caltojar	Кальтохар
+Berlanga de Duero	Берланга-де-Дуэро
+Kumul	Райские птицы
+Christopher Lee	Ли, Кристофер
+Helen Clark	Кларк, Хелен Элизабет
+Lev Vygotsky	Выготский, Лев Семёнович
+Plak bilong Fiji	Флаг Фиджи
+Plak bilong Papua Niugini	Флаг Папуа — Новой Гвинеи
+Plak bilong Nauru	Флаг Науру
+Plak bilong Vanuatu	Флаг Вануату
+Plak bilong Wels	Флаг Уэльса
+Mike Myers	Майерс, Майк
+Zelda Williams	Уильямс, Зельда
+Plak bilong Tonga	Флаг Тонга
+Plak bilong Samoa	Флаг Самоа
+Plak bilong Palau	Флаг Палау
+Christopher Plummer	Пламмер, Кристофер
+E pluribus unum	E pluribus unum
+Expo 2010	Всемирная выставка (2010)
+James Woods	Вудс, Джеймс
+Nancy Reagan	Рейган, Нэнси
+Ol provinis bilong Swidan	Провинции Швеции
+Plak bilong ol Masol Ailan	Флаг Маршалловых Островов
+Kina	Кина
+Bogenvil	Бугенвиль (остров)
+Plak bilong Niue	Флаг Ниуэ
+Roger Ebert	Эберт, Роджер
+Bill Cosby	Косби, Билл
+Niu Ailan ailan	Новая Ирландия (остров)
+Jimmie Johnson	Джонсон, Джимми
+Rabaul	Рабаул
+Saksak	Саго
+Plak bilong Hawai	Флаг Гавайев
+Nesenel mak bilong Ostrelia	Герб Австралии
+Eartha Kitt	Китт, Эрта
+Phyllis Diller	Диллер, Филлис
+Plak bilong Polinesia bilong Pranis	Флаг Французской Полинезии
+Rhea Perlman	Перлман, Реа
+Ian McShane	Макшейн, Иэн
+Plak bilong Nofok Ailan	Флаг Острова Норфолк
+Shelley Duvall	Дюваль, Шелли
+Plak bilong Guam	Флаг Гуама
+Julie Newmar	Джули Ньюмар
+Carol Channing	Чэннинг, Кэрол
+Dixie Carter	Картер, Дикси
+Makó	Мако (город)
+Joan Rivers	Риверз, Джоан
+Camponaraya	Кампонарая
+Elizabeth Peña	Пенья, Элизабет
+Edie McClurg	Макклёрг, Эди
+Plak bilong Tokelau	Флаг Токелау
+Yumi, Yumi, Yumi	Гимн Вануату
+Nesenel mak bilong Papua Niugini	Эмблема Папуа — Новой Гвинеи
+Marcus Stephen	Стивен, Маркус
+Małgorzata Braunek	Браунек, Малгожата
+Carl Reiner	Райнер, Карл
+Martin Landau	Ландау, Мартин
+Tate Donovan	Донован, Тейт
+Vadillo	Вадильо
+Dick Van Dyke	Ван Дайк, Дик
+Don Ameche	Амичи, Дон
+Brad Bird	Бёрд, Брэд
+Gary Coleman	Коулман, Гэри
+Rip Torn	Торн, Рип
+Jeff Gordon	Гордон, Джефф
+Hal Holbrook	Холбрук, Хэл
+Richard Griffiths	Гриффитс, Ричард
+Donald Pleasence	Плезенс, Дональд
+Michael Somare	Сомаре, Майкл Томас
+Apisai Ielemia	Иелемиа, Аписаи
+Plak bilong Wolis na Futuna	Флаг Уоллис и Футуна
+Madang (provins)	Маданг (провинция)
+Michael Jeter	Джетер, Майкл
+Brad Dourif	Дуриф, Брэд
+Craig T. Nelson	Нельсон, Крэйг
+Larry the Cable Guy	Ларри-кабельщик
+Olaf Stapledon	Стэплдон, Олаф
+Burgess Meredith	Мередит, Бёрджесс
+Richard Schiff	Шифф, Ричард
+Nicanor Parra	Парра, Никанор
+David Cross	Кросс, Дэвид (актёр)
+Bobcat Goldthwait	Голдтуэйт, Бобкэт
+Bry-sur-Marne	Бри-сюр-Марн
+Con Dao	Кондао
+Richard Kiel	Кил, Ричард
+Almaluez	Альмалуэс
+Derek Sikua	Сикуа, Дерек
+Valencia de Don Juan	Валенсия-де-Дон-Хуан
+Valdefresno	Вальдефресно
+Cesar Romero	Ромеро, Сизар
+Jackie Gleason	Глисон, Джеки
+Buk bilong Momon	Книга Мормона
+Astorga	Асторга
+Fernanda Torres	Торрес, Фернанда
+Ham Lini	Лини, Хам
+Ples balus Tan Son Nhat	Таншоннят
+Michael Clarke Duncan	Дункан, Майкл Кларк
+Aliud	Альюд
+Baraona	Бараона
+Medinaceli	Мединасели
+Burgo de Osma-Ciudad de Osma, Soria	Бурго-де-Осма-Сьюдад-де-Осма
+Suellacabras	Суэльякабрас
+Yanguas	Янгуас
+San Esteban de Gormaz	Сан-Эстебан-де-Гормас
+Comares	Комарес
+.nl	.nl
+Alcoy	Алькой
+Goroka	Горока
+Daru	Дару (город)
+Espinosa de los Monteros (Burgos)	Эспиноса-де-лос-Монтерос
+Cañamaque	Каньямаке
+Navaleno	Навалено
+Las Omañas	Лас-Оманьяс
+Matt Frewer	Фрюэр, Мэтт
+Carrot Top	Кэррот Топ
+Alotau	Алотау
+Seeheim-Jugenheim	Зехайм-Югенхайм
+Trévago	Треваго
+Madang (taun)	Маданг (город)
+Valdepiélago	Вальдепьелаго
+Villademor de la Vega	Вильядемор-де-ла-Вега
+Dévanos	Деванос
+Simbu	Симбу
+Zotes del Páramo	Сотес-дель-Парамо
+Priaranza del Bierzo	Приаранса-дель-Бьерсо
+Fuentes de Carbajal	Фуэнтес-де-Карбахаль
+Kundiawa	Кундиава
+Lae	Лаэ (город)
+Bulolo	Булоло
+Magani	Валлаби
+Ólvega	Ольвега
+Arawa	Арава (Папуа — Новая Гвинея)
+O Arise, All You Sons	Гимн Папуа — Новой Гвинеи
+Villamartín de Don Sancho	Вильямартин-де-Дон-Санчо
+Sobrado	Собрадо
+Magaña	Маганья
+Eliana	Элиана
+Abajas (Burgos)	Абахас
+Itero del Castillo (Burgos)	Итеро-дель-Кастильо
+Wes Niu Briten	Западная Новая Британия
+Blupela kumul	Синяя райская птица
+Izagre	Исагре
+Centenera de Andaluz	Сентенера-де-Андалус
+Is Sepik	Восточный Сепик
+Cacabelos	Какабелос
+Histori long Koria	История Кореи
+Paul Winchell	Уинчелл, Пол
+Soto de la Vega	Сото-де-ла-Вега
+Jenny Slate	Слейт, Дженни
+Junta de Traslaloma (Burgos)	Хунта-де-Траслалома
+Mansilla de las Mulas	Мансилья-де-лас-Мулас
+Atapuerca	Атапуэрка (муниципалитет)
+Oro	Оро (провинция)
+Sandaun	Сандаун
+Is Niu Briten	Восточная Новая Британия
+Valderas	Вальдерас
+Gradefes	Градефес
+Onzonilla	Онсонилья
+Sahagún	Саагун
+Almarza	Альмарса
+Aldealices	Альдеалисес
+Aldealafuente	Альдеалафуэнте
+Alentisque	Алентиске
+Adradas	Адрадас
+Alconaba	Альконаба
+Abejar	Абехар
+Almajano	Альмахано
+Arenillas	Аренильяс
+Aldealpozo	Альдеальпосо
+Alcubilla de las Peñas	Алькубилья-де-лас-Пеньяс
+Aldealseñor	Альдеальсеньор
+Alcubilla de Avellaneda	Алькубилья-де-Авельянеда
+Covaleda	Коваледа
+Casarejos	Касарехос
+Cerbón	Сербон
+Calatañazor	Калатаньясор
+Almazul	Альмасуль
+Cidones	Сидонес
+Alpanseque	Альпансеке
+Arcos de Jalón	Аркос-де-Халон
+Aldehuela de Periáñez	Альдеуэла-де-Перианьес
+Beratón	Бератон
+Almenar de Soria	Альменар-де-Сория
+Maján	Махан (Сория)
+Coscurita	Коскурита
+Barcones	Барконес
+Castilfrío de la Sierra	Кастильфрио-де-ла-Сьерра
+Castilruiz	Кастильруис
+Miño de Medinaceli	Миньо-де-Мединасели
+Vinuesa	Винуэса
+Cigudosa	Сигудоса
+Candilichera	Кандиличера
+Ausejo de la Sierra	Аусехо-де-ла-Сьерра
+Carabantes	Карабантес (Сория)
+Soliedra	Сольедра
+Taroda	Тарода
+Nepas	Непас
+Valtajeros	Вальтахерос
+Arévalo de la Sierra	Аревало-де-ла-Сьерра
+Pozalmuro	Посальмуро
+Cabrejas del Pinar	Кабрехас-дель-Пинар
+Villasayas	Вильясаяс
+Cubilla	Кубилья
+Castillejo de Robledo	Кастильехо-де-Робледо
+Escobosa de Almazán	Эскобоса-де-Альмасан
+Estepa de San Juan	Эстепа-де-Сан-Хуан
+Carrascosa de la Sierra	Карраскоса-де-ла-Сьерра
+Las Aldehuelas	Лас-Альдеуэлас
+Bayubas de Arriba	Баюбас-де-Арриба
+Borobia	Боробия
+Bliecos	Бльекос
+Buberos	Буберос
+Muriel Viejo	Мурьель-Вьехо
+Oncala	Онкала
+Fuentecambrón	Фуэнтекамброн
+Cabrejas del Campo	Кабрехас-дель-Кампо
+Frechilla de Almazán	Фречилья-де-Альмасан
+Valdelagua del Cerro	Вальделагуа-дель-Серро
+Ciria	Сирия (Сория)
+Buitrago	Буитраго
+Talveila	Тальвейла
+Salduero	Сальдуэро
+Fuentes de Magaña	Фуэнтес-де-Маганья
+Viana de Duero	Вьяна-де-Дуэро
+Tardelcuende	Тарделькуэнде
+Duruelo de la Sierra	Дуруэло-де-ла-Сьерра
+Bayubas de Abajo	Баюбас-де-Абахо
+Fuentearmegil	Фуэнтеармехиль
+Fuentelmonge	Фуэнтельмонхе
+Rollamienta	Рольямьента
+Villar del Ala	Вильяр-дель-Ала
+Velilla de los Ajos	Велилья-де-лос-Ахос
+Momblona	Момблона
+Fresno de Caracena	Фресно-де-Карасена
+Valdegeña	Вальдехенья
+Velamazán	Веламасан
+Torlengua	Торленгуа
+Fuentecantos	Фуэнтекантос
+Carrascosa de Abajo	Карраскоса-де-Абахо
+Pinilla del Campo	Пинилья-дель-Кампо
+Serón de Nágima	Серон-де-Нахима
+Blacos	Блакос
+Valdeavellano de Tera	Вальдеавельяно-де-Тера
+Narros	Наррос
+Valdeprado	Вальдепрадо
+Borjabad	Борхабад
+Fuentelsaz de Soria	Фуэнтельсас-де-Сория
+San Leonardo de Yagüe	Сан-Леонардо-де-Ягуэ
+Muriel de la Fuente	Мурьель-де-ла-Фуэнте
+Villar del Río	Вильяр-дель-Рио
+Valderrodilla	Вальдерродилья
+Espejón	Эспехон
+Liceras	Лисерас
+Matalebreras	Маталебрерас
+Quintana Redonda	Кинтана-Редонда
+Nafría de Ucero	Нафрия-де-Усеро
+Sotillo del Rincón	Сотильо-дель-Ринкон
+Torrubia de Soria	Торрубия-де-Сория
+Noviercas	Новьеркас
+Tajueco	Тахуэко
+Valdenebro	Вальденебро
+Villaciervos	Вильясьервос
+Villanueva de Gormaz	Вильянуэва-де-Гормас
+Yelo (Spen)	Ело (Испания)
+Montenegro de Cameros	Монтенегро-де-Камерос
+Ucero	Усеро
+Langa de Duero	Ланга-де-Дуэро
+Quiñonería	Киньонерия
+Villar del Campo	Вильяр-дель-Кампо
+Portillo de Soria	Портильо-де-Сория
+Gormaz	Гормас
+Santa Cruz de Yanguas	Санта-Крус-де-Янгуас
+Villaseca de Arciel	Вильясека-де-Арсьель
+Reznos	Реснос
+Cueva de Ágreda	Куэва-де-Агреда
+Nolay	Нолай
+Cirujales del Río	Сирухалес-дель-Рио
+Caracena	Карасена (Сория)
+Cubo de la Solana	Кубо-де-ла-Солана
+Miño de San Esteban	Миньо-де-Сан-Эстебан
+Fuentestrún	Фуэнтеструн
+Espeja de San Marcelino	Эспеха-де-Сан-Марселино
+Matamala de Almazán	Матамала-де-Альмасан
+La Póveda de Soria	Ла-Поведа-де-Сория
+Los Rábanos	Лос-Рабанос
+Quintanas de Gormaz	Кинтанас-де-Гормас
+Velilla de la Sierra	Велилья-де-ла-Сьерра
+Valdemaluque	Вальдемалуке
+San Felices	Сан-Фелисес
+Renieblas	Реньеблас
+Morón de Almazán	Морон-де-Альмасан
+Los Villares de Soria	Лос-Вильярес-де-Сория
+Torreblacos	Торреблакос
+Vizmanos (Soria)	Висманос
+Tejado	Техадо
+Retortillo de Soria	Ретортильо-де-Сория
+Herrera de Soria	Эррера-де-Сория
+Deza	Деса
+Monteagudo de las Vicarías	Монтеагудо-де-лас-Викариас
+La Riba de Escalote	Ла-Риба-де-Эскалоте
+Montejo de Tiermes	Монтехо-де-Тьермес
+La Losilla	Ла-Лосилья
+Recuerda	Рекуэрда
+Tajahuerce	Тахауэрсе
+Santa María de las Hoyas	Санта-Мария-де-лас-Ойяс
+Fuentepinilla	Фуэнтепинилья
+Golmayo	Гольмайо
+Rioseco de Soria	Риосеко-де-Сория
+Gómara, Soria	Гомара
+Barca, Soria	Барка (Сория)
+Niu Ailan	Новая Ирландия (провинция)
+Kinsale	Кинсейл
+Cihuela	Сиуэла
+Pilosopi long Wes	Западная философия
+Trabadelo	Трабадело
+Hospital de Órbigo	Оспиталь-де-Орбиго
+Villafranca del Bierzo	Вильяфранка-дель-Бьерсо
+Sepik	Сепик (река)
+Westen Provins	Западная провинция (Папуа — Новая Гвинея)
+Sauten Hailans	Саутерн-Хайлендс
+Westen Hailans	Уэстерн-Хайлендс
+Isten Hailans	Истерн-Хайлендс
+Morobe	Моробе
+Buñol	Буньоль
+Enga	Энга
+Manus	Манус (провинция)
+Sentral Provins	Центральная провинция (Папуа — Новая Гвинея)
+Milen Be	Милн-Бей
+Gulf Provins	Галф (провинция)
+Villadangos del Páramo	Вильядангос-дель-Парамо
+Vega de Valcarce	Вега-де-Валькарсе
+Valverde de la Virgen	Вальверде-де-ла-Вирхен
+Olmedillo de Roa (Burgos)	Ольмедильо-де-Роа
+Calzada del Coto	Кальсада-дель-Кото
+Valdesamario	Вальдесамарио
+Val de San Lorenzo	Валь-де-Сан-Лоренсо
+Villaquilambre	Вильякиламбре
+Valdemora	Вальдемора
+Espinosa del Camino (Burgos)	Эспиноса-дель-Камино
+Villares de Órbigo	Вильярес-де-Орбиго
+Orbaneja Riopico (Burgos)	Орбанеха-Риопико
+Nebreda (Burgos)	Небреда
+Paul L. Smith	Смит, Пол Лоуренс
+Galbarros (Burgos)	Гальбаррос
+Tony Ramos	Тони Рамос
+Riego de la Vega	Риего-де-ла-Вега
+Benuza	Бенуса
+Villamanín	Вильяманин
+Molinos de Duero	Молинос-де-Дуэро
+Vozmediano	Восмедьяно
+Hinojosa del Campo	Инохоса-дель-Кампо
+Budka Suflera	Budka Suflera
+Mendi	Менди (Папуа — Новая Гвинея)
+Vanimo	Ванимо
+Kavieng	Кавиенг
+Maun Hagen	Маунт-Хаген
+Kokopo	Кокопо
+Popondetta	Попондетта
+Lorengau	Лоренгау
+Wewak	Вевак
+Rello	Рельо
+Casey Kasem	Кейсем, Кейси
+Rebollar	Ребольяр (Сория)
+Garray	Гаррай
+Iglesias (Burgos)	Иглесиас (Бургос)
+Plak bilong Ista Ailan	Флаг Острова Пасхи
+Bembibre	Бембибре
+Takuu	Такуу
+Ples balus	Аэропорт
+Pat Carroll	Кэрролл, Пэт
+Kerema (taun)	Керема
+Tim Conway	Конуэй, Тим
+Lamington (maunten)	Ламингтон (вулкан)
+Nesenel Kapitol Distrik	Национальный столичный округ (Папуа — Новая Гвинея)
+Cármenes	Карменес
+Palacios del Sil	Паласьос-дель-Силь
+Cabrillanes	Кабрильянес
+Grup:Siamani	Категория:Германия
+Grup:Itali	Категория:Италия
+Grup:Ol Yunaitet Stet	Категория:США
+Grup:Kanada	Категория:Канада
+Grup:Yunaitet Kingdom	Категория:Великобритания
+Grup:Spen	Категория:Испания
+Grup:Siapan	Категория:Япония
+Grup:Ostrelia	Категория:Австралия
+Grup:India	Категория:Индия
+Grup:Isrel	Категория:Израиль
+Grup:Ijip	Категория:Египет
+Grup:Niu Silan	Категория:Новая Зеландия
+La Bañeza	Ла-Баньеса
+Carracedelo	Карраседело
+Carucedo	Каруседо
+Corullón	Корульон
+Castrocontrigo	Кастроконтриго
+Fabero	Фаберо
+Grup:Indonisia	Категория:Индонезия
+Grup:Irak	Категория:Ирак
+Grup:Polan	Категория:Польша
+Grup:Saut Koria	Категория:Южная Корея
+Grup:Tailan	Категория:Таиланд
+Grup:Yukren	Категория:Украина
+Grup:Vietnam	Категория:Вьетнам
+Grup:Ol pisin	Категория:Птицы
+Grup:Ol Sayor	Категория:Растения
+Grup:Save long Laip	Категория:Биология
+Grup:Kemistri	Категория:Химия
+Grup:Histori	Категория:История
+Grup:Save long giraun	Категория:География
+Grup:Sosaiti	Категория:Общество
+Grup:Lotu	Категория:Религия
+Grup:Saiens	Категория:Наука
+Grup:Giraun	Категория:Земля
+Mun	Мун
+Vegas del Condado	Вегас-дель-Кондадо
+Borrenes	Борренес
+Santovenia de la Valdoncina	Сантовения-де-ла-Вальдонсина
+La Pola de Gordón	Ла-Пола-де-Гордон
+Villablino	Вильяблино
+Torre del Bierzo	Торре-дель-Бьерсо
+Vega de Espinareda	Вега-де-Эспинареда
+Barjas	Бархас
+Cistierna	Систьерна
+Jurisdicción de Lara (Burgos)	Хурисдиксьон-де-Лара
+Arganza (León)	Арганса
+Valdevimbre	Вальдевимбре
+Villaturiel	Вильятурьель
+Valdepolo	Вальдеполо
+Gumiel de Mercado (Burgos)	Гумьель-де-Меркадо
+Oquillas (Burgos)	Окильяс
+Villamañán	Вильяманьян
+Puente de Domingo Flórez	Пуэнте-де-Доминго-Флорес
+Olmillos de Muñó (Burgos)	Ольмильос-де-Муньо
+Encío (Burgos)	Энсио
+Ibeas de Juarros (Burgos)	Ибеас-де-Хуаррос
+Urdiales del Páramo	Урдьялес-дель-Парамо
+Sena de Luna	Сена-де-Луна
+Oña (Burgos)	Онья
+Grisaleña (Burgos)	Грисаленья
+Zazuar (Burgos)	Сасуар
+Zarzosa de Río Pisuerga (Burgos)	Сарсоса-де-Рио-Писуэрга
+Zael (Burgos)	Саэль (Испания)
+Lerma (Burgos)	Лерма (Испания)
+Villaquejida	Вильякехида
+Sariegos	Сарьегос
+Corbillos de los Oteros	Корбильос-де-лос-Отерос
+Vega de Infanzones	Вега-де-Инфансонес
+Peranzanes	Перансанес
+Sabero	Саберо
+Candín (León)	Кандин
+Valderrueda	Вальдерруэда
+Puebla de Lillo	Пуэбла-де-Лильо
+Soto y Amío	Сото-и-Амио
+Laguna de Negrillos	Лагуна-де-Негрильос
+Villarejo de Órbigo	Вильярехо-де-Орбиго
+La Vecilla	Ла-Весилья
+San Andrés del Rabanedo	Сан-Андрес-дель-Рабанедо
+Villazala	Вильясала
+Villamontán de la Valduerna	Вильямонтан-де-ла-Вальдуэрна
+Nava de Roa (Burgos)	Нава-де-Роа
+Villasabariego	Вильясабарьего
+Oencia	Оэнсия
+Encinedo	Энсинедо
+Zuñeda (Burgos)	Суньеда
+Escobar de Campos	Эскобар-де-Кампос
+Destriana	Дестриана
+Villagatón	Вильягатон
+Laguna Dalga	Лагуна-Дальга
+Iglesiarrubia (Burgos)	Иглесьяррубия
+Gumiel de Izán (Burgos)	Гумьель-де-Исан
+Posada de Valdeón	Посада-де-Вальдеон
+Valderrey	Вальдеррей
+Joarilla de las Matas	Хоарилья-де-лас-Матас
+Neila (Burgos)	Нейла
+Santiago Millas	Сантьяго-Мильяс
+Turcia	Турсия
+Prioro	Приоро
+Valdelugueros	Вальделугерос
+Santas Martas	Сантас-Мартас
+Vegaquemada	Вегакемада
+Pobladura de Pelayo García	Побладура-де-Пелайо-Гарсия
+Navas de Bureba (Burgos)	Навас-де-Буреба
+Vegacervera	Вегасервера
+San Adrián del Valle	Сан-Адриан-дель-Валье
+Valdefuentes del Páramo	Вальдефуэнтес-дель-Парамо
+Jaramillo Quemado (Burgos)	Харамильо-Кемадо
+Jaramillo de la Fuente (Burgos)	Харамильо-де-ла-Фуэнте
+La Gallega (Burgos)	Ла-Гальега
+Villabraz	Вильябрас
+Villamejil	Вильямехиль
+Villaornate y Castro	Вильяорнате-и-Кастро
+Valverde-Enrique	Вальверде-Энрике
+Villaobispo de Otero	Вильяобиспо-де-Отеро
+Oseja de Sajambre	Осеха-де-Сахамбре
+Villazanzo de Valderaduey	Вильясансо-де-Вальдерадуэй
+Villanueva de las Manzanas	Вильянуэва-де-лас-Мансанас
+Villamandos	Вильямандос
+Villamol	Вильямоль
+Villaselán	Вильяселан
+Villamoratiel de las Matas	Вильяморатьель-де-лас-Матас
+Toral de los Guzmanes	Тораль-де-лос-Гусманес
+Benavides	Бенавидес
+Junta de Villalba de Losa (Burgos)	Хунта-де-Вильяльба-де-Лоса
+Estépar (Burgos)	Эстепар
+Carrizo	Каррисо
+Vallecillo	Вальесильо
+Espinosa de Cervera (Burgos)	Эспиноса-де-Сервера
+Úrbel del Castillo (Burgos)	Урбель-дель-Кастильо
+Grijalba (Burgos)	Грихальба
+Balboa (León)	Бальбоа (Леон)
+Ranko Matasović	Матасович, Ранко
+Villadecanes	Вильядеканес
+Regina Duarte	Дуарте, Режина
+Grup:Ol pes bilong kliaim ol link	Категория:Многозначные термины
+Grup:Pilosopi	Категория:Философия
+Grup:Saikolosi	Категория:Психология
+Grup:Budisim	Категория:Буддизм
+Grup:Kristen	Категория:Христианство
+Grup:Islam	Категория:Ислам
+Isar (Burgos)	Исар
+Pangu Pati	Партия Пангу
+Histori long Papua Niugini	История Папуа — Новой Гвинеи
+Benedicta Boccoli	Бенедикта Бокколи
+Carolina Ferraz	Феррас, Каролина
+Wabag	Вабаг
+Thiago Lacerda	Тьяго Ласерда
+Conrad Bain	Бэйн, Конрад
+Grup:Ol pes i liklik tumas	Категория:Незавершённые статьи
+Grup:Ol planet	Категория:Планеты
+Grup:Kontinen	Категория:Континенты
+Lenny Henry	Генри, Ленни
+Templet:Footer SolarSystem	Шаблон:Солнечная система
+Templet:T	Шаблон:Tl
+Templet:Babel bokis	Шаблон:Userbox
+Susan Egan	Иган, Сьюзан
+Templet:Wikipediatokples	Шаблон:Wikipedialang
+Grup:Ol kantri	Категория:Страны
+Grup:Ekonomikis	Категория:Экономика
+Wikipedia:Administrators	Википедия:Администраторы
+Grup:Manmeri	Категория:Люди
+Wikipedia:AutoWikiBrowser	Википедия:AutoWikiBrowser
+Grup:Politikis	Категория:Политика
+Grup:Saiens bilong ai	Категория:Оптика
+Ijip	Египет
+Templet:Bot	Шаблон:Bot
+Kanada	Канада
+Grup:Hangari	Категория:Венгрия
+Grup:Estonia	Категория:Эстония
+Grup:Gris	Категория:Греция
+Grup:Latvia	Категория:Латвия
+Grup:Aislan	Категория:Исландия
+Grup:Lituwenia	Категория:Литва
+Grup:Slovakia	Категория:Словакия
+Wikipedia:Copyrights	Википедия:Авторские права
+Templet:Flagicon	Шаблон:Флаг
+Grup:Ol kantri long Yurop	Категория:Страны Европы
+Grup:Yurop	Категория:Европа
+Templet:Template doc	Шаблон:Doc
+Grup:Yusa tokples	Категория:Википедия:Участники по языкам
+Wikipedia:Faipela lo	Википедия:Пять столпов
+Sung Jae-gi	Сон Джэги
+Bulmakau	Крупный рогатый скот
+Templet:Softredirect	Шаблон:Soft redirect
+Templet:Delete	Шаблон:К быстрому удалению
+Grup:Ol tokples	Категория:Языки
+Grup:Grama	Категория:Грамматика
+Solija	Солдат
+Grup:Ol siti na taun bilong kantri	Категория:Населённые пункты по странам
+Templet:Navbox	Шаблон:Navbox
+Bikpela magani	Кенгуру
+Templet:Shortcut	Шаблон:Shortcut
+Nina Andrycz	Андрыч, Нина
+Templet:!-	Шаблон:!-
+Templet:!!	Шаблон:!!
+Templet:Tnavbar	Шаблон:Tnavbar
+Templet:Unicode	Шаблон:Unicode
+Templet:Small	Шаблон:Small
+Templet:Clear	Шаблон:Clear
+Templet:Color	Шаблон:Color
+Templet:Nowrap	Шаблон:Nobr
+Templet:Anchor	Шаблон:Якорь
+Wikipedia:Ol pes i mas stap long Wikipedia	Википедия:Список статей, которые должны быть во всех языковых версиях
+Grup:Elektroniks	Категория:Электроника
+Templet:Babel	Шаблон:Babel
+Templet:Commons	Шаблон:Commons
+Templet:Reflist	Шаблон:Примечания
+Templet:Stub	Шаблон:Заготовка
+Templet:User ar-1	Шаблон:User ar-1
+Templet:User ast-1	Шаблон:User ast-1
+Templet:User az	Шаблон:User az
+Templet:Yusa eo-1	Шаблон:User eo-1
+Templet:See also	Шаблон:См. также
+Templet:User da	Шаблон:User da
+Templet:User ca-1	Шаблон:User ca-1
+Templet:User cs-1	Шаблон:User cs-1
+Templet:User eo-3	Шаблон:User eo-3
+Templet:User de	Шаблон:User de
+Templet:User de-1	Шаблон:User de-1
+Templet:User el	Шаблон:User el
+Templet:User es	Шаблон:User es
+Templet:User de-3	Шаблон:User de-3
+Templet:User en-3	Шаблон:User en-3
+Templet:User en-1	Шаблон:User en-1
+Templet:User en-2	Шаблон:User en-2
+Templet:User eo-2	Шаблон:User eo-2
+Templet:User en-4	Шаблон:User en-4
+Templet:User en-0	Шаблон:User en-0
+Templet:User en	Шаблон:User en
+Templet:User de-2	Шаблон:User de-2
+Templet:User es-1	Шаблон:User es-1
+Templet:User fa	Шаблон:User fa
+Templet:User fr-1	Шаблон:User fr-1
+Grup:Laip	Категория:Жизнь
+Templet:User hu-N	Шаблон:User hu
+Templet:User sk	Шаблон:User sk
+Templet:User tr-2	Шаблон:User tr-2
+Templet:User fr-2	Шаблон:User fr-2
+Templet:User ja	Шаблон:User ja
+Templet:User ja-1	Шаблон:User ja-1
+Templet:User it-1	Шаблон:User it-1
+Templet:User fr	Шаблон:User fr
+Templet:Unsigned	Шаблон:Unsigned
+Templet:Country data Tajikistan	Шаблон:Флагификация/Таджикистан
+Grup:Azerbaijan	Категория:Азербайджан
+Grup:Esia	Категория:Азия
+Grup:Castile na León	Категория:Кастилия и Леон
+Templet:Country data Kuwait	Шаблон:Флагификация/Кувейт
+Templet:Mod	Шаблон:Mod
+Templet:User es-2	Шаблон:User es-2
+Templet:NewUser	Шаблон:Приветствие
+Templet:Ref-ru	Шаблон:Ref-ru
+Templet:WikipediaSista	Шаблон:Сообщество Википедии
+Templet:Country data Belgium	Шаблон:Флагификация/Бельгия
+Templet:Country data Slovakia	Шаблон:Флагификация/Словакия
+Templet:Country data El Salvador	Шаблон:Флагификация/Сальвадор
+Templet:Country data Panama	Шаблон:Флагификация/Панама
+Templet:Country data Tunisia	Шаблон:Флагификация/Тунис
+Templet:Country data Czech Republic	Шаблон:Флагификация/Чехия
+Templet:Country data Cuba	Шаблон:Флагификация/Куба
+Templet:Country data Indonesia	Шаблон:Флагификация/Индонезия
+Templet:Country data Senegal	Шаблон:Флагификация/Сенегал
+Templet:Country data Madagascar	Шаблон:Флагификация/Мадагаскар
+Templet:Country data Albania	Шаблон:Флагификация/Албания
+Templet:Country data Macau	Шаблон:Флагификация/Макао
+Templet:Country data Kenya	Шаблон:Флагификация/Кения
+Templet:Country data Republic of China	Шаблон:Флагификация/Китайская Республика
+Templet:Country data Nicaragua	Шаблон:Флагификация/Никарагуа
+Templet:Country data Honduras	Шаблон:Флагификация/Гондурас
+Templet:Country data Uzbekistan	Шаблон:Флагификация/Узбекистан
+Templet:Country data Dominican Republic	Шаблон:Флагификация/Доминиканская Республика
+Templet:Country data Togo	Шаблон:Флагификация/Того
+Templet:Country data Guatemala	Шаблон:Флагификация/Гватемала
+Grup:Lingwistikis	Категория:Лингвистика
+Templet:Country data Haiti	Шаблон:Флагификация/Гаити
+Templet:Country data Mali	Шаблон:Флагификация/Мали
+Templet:Country data Iceland	Шаблон:Флагификация/Исландия
+Templet:Country data Poland	Шаблон:Флагификация/Польша
+Templet:ITA	Шаблон:ITA
+Templet:Country data Bulgaria	Шаблон:Флагификация/Болгария
+Templet:Country data Bosnia and Herzegovina	Шаблон:Флагификация/БиГ
+Templet:Cc-by-sa-3.0	Шаблон:CC-BY-SA-3.0
+Grup:Yusa fr-1	Категория:User fr-1
+Templet:Country data Norway	Шаблон:Флагификация/Норвегия
+Templet:Country data South Africa	Шаблон:Флагификация/ЮАР
+Templet:Country data Trinidad and Tobago	Шаблон:Флагификация/Тринидад и Тобаго
+Templet:Country data Sri Lanka	Шаблон:Флагификация/Шри-Ланка
+Templet:Country data Mexico	Шаблон:Флагификация/Мексика
+Templet:Country data Greece	Шаблон:Флагификация/Греция
+Templet:Country data Luxembourg	Шаблон:Флагификация/Люксембург
+Templet:Country data Saudi Arabia	Шаблон:Флагификация/Саудовская Аравия
+Templet:Country data Croatia	Шаблон:Флагификация/Хорватия
+Templet:Country data United Arab Emirates	Шаблон:Флагификация/ОАЭ
+Templet:Country data U.S. Virgin Islands	Шаблон:Флагификация/Виргинские Острова (США)
+Templet:Country data Morocco	Шаблон:Флагификация/Марокко
+Templet:Collapsible list	Шаблон:Collapsible list
+Templet:Country data Ostrelia	Шаблон:Флагификация/Австралия
+Templet:Country data France	Шаблон:Флагификация/Франция
+Templet:Ambox	Шаблон:Ambox
+Templet:Steady	Шаблон:Нет изменений
+Templet:Infobokis Kantri	Шаблон:Государство
+Templet:Column-count	Шаблон:Column-count
+Templet:Country data Laos	Шаблон:Флагификация/Лаос
+Templet:Fi icon	Шаблон:Ref-fi
+Templet:Collapsible option	Шаблон:Опция скрытия
+Templet:Str left	Шаблон:Str left
+Templet:Country data Nepal	Шаблон:Флагификация/Непал
+Templet:Country data Finland	Шаблон:Флагификация/Финляндия
+Templet:Country data Japan	Шаблон:Флагификация/Япония
+Templet:Country data Netherlands	Шаблон:Флагификация/Нидерланды
+Templet:Cite journal	Шаблон:Cite journal
+Templet:Country data Azerbaijan	Шаблон:Флагификация/Азербайджан
+Templet:User es-0	Шаблон:User es-0
+Templet:Country data Libya	Шаблон:Флагификация/Ливия
+Grup:Yusa en-4	Категория:User en-4
+Grup:Yusa en	Категория:User en
+Grup:Yusa en-2	Категория:User en-2
+Templet:Infobokis	Шаблон:Карточка
+Templet:Yusa eo	Шаблон:User eo
+Templet:User zh	Шаблон:User zh
+Templet:Navbox/core	Шаблон:Navbox/core
+Templet:Template other	Шаблон:Template other
+Templet:Legend	Шаблон:Легенда
+Templet:Country data Italy	Шаблон:Флагификация/Италия
+Templet:Ombox	Шаблон:Ombox
+Templet:Cc-by-2.5	Шаблон:CC-BY-2.5
+Templet:Pp-template	MediaWiki:Protectedpagetext
+Templet:·	Шаблон:·
+Templet:Ol daireksion	Шаблон:Стороны света
+Templet:Wiktionary	Шаблон:Викисловарь
+Templet:Mbox templates	Шаблон:Mbox templates
+Templet:Country data Sweden	Шаблон:Флагификация/Швеция
+Templet:Ref-lang	Шаблон:Ref-lang
+Grup:Egrikalsa	Категория:Сельское хозяйство
+Templet:Infobokis Setelmen	Шаблон:НП
+Templet:User ru	Шаблон:User ru
+Templet:IPA	Шаблон:IPA1
+Grup:Ol planet bilong Sola Sistem	Категория:Планеты Солнечной системы
+Templet:Country data Costa Rica	Шаблон:Флагификация/Коста-Рика
+Templet:Country data India	Шаблон:Флагификация/Индия
+Grup:Language user templates	Категория:Шаблоны участников:По языкам
+Templet:Rellink	Шаблон:Rellink
+Templet:MONTHNAME	Шаблон:MONTHNAME
+Templet:Commons category-inline	Шаблон:Commonscat-inline
+Templet:Cc-by-sa-2.5	Шаблон:CC-BY-SA-2.5
+Templet:Country data European Union	Шаблон:Флагификация/Европейский союз
+Templet:Country data Portugal	Шаблон:Флагификация/Португалия
+Templet:MONTHNUMBER	Шаблон:MONTHNUMBER
+Templet:Taxobox colour	Шаблон:Taxobox color
+Grup:Kantri data bilong ol plak templet	Категория:Шаблоны:Флагификация
+Templet:Namespace detect	Шаблон:Namespace detect
+Templet:PD-USGov	Шаблон:PD-USGov
+Templet:Fmbox	Шаблон:Fmbox
+Templet:Country data China	Шаблон:Флагификация/Китай
+Templet:Country data Inglan	Шаблон:Флагификация/Англия
+Templet:Country data Turkey	Шаблон:Флагификация/Турция
+Templet:Country data Switzerland	Шаблон:Флагификация/Швейцария
+Templet:Tok-cs	Шаблон:Lang-cs
+Templet:Country data Philippines	Шаблон:Флагификация/Филиппины
+Templet:Country data Malaysia	Шаблон:Флагификация/Малайзия
+Templet:Country data Zimbabwe	Шаблон:Флагификация/Зимбабве
+Templet:Infobokis Plak	Шаблон:Карточка флага
+Templet:Infobokis Planet	Шаблон:Карточка планеты
+Grup:Politikis long kontinen	Категория:Политика по регионам
+Templet:Ethnologue	Шаблон:Ethnologue
+Templet:Infobokis Websait	Шаблон:Карточка сайта
+Templet:SCO	Шаблон:SCO
+Templet:Documentation subpage	Шаблон:Docpage
+Templet:CcTLD	Шаблон:Национальные домены верхнего уровня
+Templet:POL	Шаблон:POL
+Templet:Div col	Шаблон:Кол
+Templet:Tok-de	Шаблон:Lang-de
+Templet:Cc-by-3.0	Шаблон:CC-BY-3.0
+Templet:Tok-la	Шаблон:Lang-la
+Templet:Harim stori	Шаблон:Слушать статью
+Templet:Unreferenced	Шаблон:Нет ссылок
+Templet:Year nav	Шаблон:Навигация для года
+Grup:Ples balus long Vietnam	Категория:Аэропорты Вьетнама
+Templet:Emergency-bot-shutoff	Шаблон:Аварийное выключение бота
+Templet:User pl-1	Шаблон:User pl-1
+Templet:Prettytable	Шаблон:Prettytable
+Templet:Cc-by-1.0	Шаблон:CC-BY-1.0
+Templet:Transl	Шаблон:Transl
+Templet:Infobokis kantri bilong bipo	Шаблон:Историческое государство
+Templet:Redirect	Шаблон:Перенаправление
+Templet:Age in days	Шаблон:Days between
+Templet:Cc-by-sa-2.0	Шаблон:CC-BY-SA-2.0
+Templet:JULIANDAY	Шаблон:JULIANDAY
+Templet:Infobokis Kontinen	Шаблон:Материк
+Templet:User de-0	Шаблон:User de-0
+Templet:Ol de bilong dispela wik	Шаблон:Неделя
+Templet:Nobold	Шаблон:Nobold
+Templet:Gregorian serial date	Шаблон:GSD
+Grup:Yusa ja-N	Категория:User ja-N
+Templet:Cc-by-sa-2.5,2.0,1.0	Шаблон:CC-BY-SA-2.5,2.0,1.0
+Templet:Tok-ru	Шаблон:Lang-ru
+Templet:Br separated entries	Шаблон:Br separated entries
+Templet:FebrueriKalendar	Шаблон:Календарь на февраль
+Templet:Disambig	Шаблон:Неоднозначность
+Templet:Country data Hong Kong	Шаблон:Флагификация/Гонконг
+Grup:Niuspepa	Категория:Газеты
+Templet:Para	Шаблон:Para
+Templet:User no	Шаблон:User no
+Templet:Tok-en	Шаблон:Lang-en
+Templet:PD-user	Шаблон:PD-user
+Templet:Mp	Шаблон:Mp
+Templet:Country data Qatar	Шаблон:Флагификация/Катар
+Templet:User it-2	Шаблон:User it-2
+Templet:Ref-de	Шаблон:Ref-de
+Templet:Geological range	Шаблон:Диапазон времени
+Templet:Country data Israel	Шаблон:Флагификация/Израиль
+Templet:Nts	Шаблон:Nts
+Templet:Country data Pakistan	Шаблон:Флагификация/Пакистан
+Templet:Country data Ghana	Шаблон:Флагификация/Гана
+Templet:Country data Romania	Шаблон:Флагификация/Румыния
+Templet:Country data South Korea	Шаблон:Флагификация/Республика Корея
+Templet:Ileksen-tebol	Шаблон:Election table
+Templet:Convert	Шаблон:Convert
+Templet:InterWiki	Шаблон:Языковой раздел
+Templet:FranPesolIntawiki	Шаблон:Интервики на заглавной
+Templet:Coord	Шаблон:Coord
+Templet:Europe topic	Шаблон:Страны Европы
+Grup:Yusa sk	Категория:User sk
+Grup:Yusa eo	Категория:User eo
+Grup:Yusa fr	Категория:User fr
+Grup:Yusa hu-N	Категория:User hu-N
+Grup:Yusa ja	Категория:User ja
+Grup:Yusa th	Категория:User th
+Grup:Yusa fr-3	Категория:User fr-3
+Grup:Yusa ja-3	Категория:User ja-3
+Grup:Yusa pl-1	Категория:User pl-1
+Grup:Yusa hu-4	Категория:User hu-4
+Grup:Yusa fr-2	Категория:User fr-2
+Grup:Yusa hu-2	Категория:User hu-2
+Grup:Yusa it-2	Категория:User it-2
+Grup:Yusa ja-2	Категория:User ja-2
+Grup:Yusa fr-N	Категория:User fr-N
+Grup:Yusa ru-N	Категория:User ru-N
+Grup:Ol kapitol bilong Osenia	Категория:Столицы Океании
+Grup:Yusa ca	Категория:User ca
+Grup:Yusa ca-1	Категория:User ca-1
+Grup:Ailan	Категория:Острова
+Grup:Quang Binh provins	Категория:Куангбинь
+Grup:Yusa sk-N	Категория:User sk-N
+Grup:Yusa de	Категория:User de
+Grup:Yusa de-2	Категория:User de-2
+Grup:Yusa de-3	Категория:User de-3
+Grup:Yusa de-N	Категория:User de-N
+Grup:Yusa el	Категория:User el
+Grup:Yusa el-N	Категория:User el-N
+Grup:Yusa en-0	Категория:User en-0
+Grup:Yusa en-3	Категория:User en-3
+Grup:Yusa en-N	Категория:User en-N
+Grup:Yusa eo-1	Категория:User eo-1
+Grup:Yusa eo-2	Категория:User eo-2
+Grup:Yusa eo-3	Категория:User eo-3
+Grup:Yusa eo-4	Категория:User eo-4
+Grup:Yusa es	Категория:User es
+Grup:Yusa es-1	Категория:User es-1
+Grup:Yusa eu	Категория:User eu
+Grup:Yusa eu-1	Категория:User eu-1
+Grup:Yusa hsb	Категория:User hsb
+Grup:Yusa hsb-1	Категория:User hsb-1
+Grup:Yusa hu	Категория:User hu
+Grup:Yusa hu-1	Категория:User hu-1
+Grup:Yusa hu-3	Категория:User hu-3
+Grup:Politikis long kantri	Категория:Политика по странам
+Templet:Country data Germany	Шаблон:Флагификация/Германия
+Templet:Country data United Kingdom	Шаблон:Флагификация/Великобритания
+Templet:Cl	Шаблон:Cl
+Templet:Country data Skotlan	Шаблон:Флагификация/Шотландия
+Grup:Yusa it	Категория:User it
+Grup:Yusa it-1	Категория:User it-1
+Grup:Yusa ja-1	Категория:User ja-1
+Grup:Ol stet bilong Ol Yunaitet Stet	Категория:Штаты США
+Grup:Ol provins bilong Vietnam	Категория:Провинции Вьетнама
+Templet:Ol provins bilong Papua Niugini	Шаблон:Административное деление Папуа — Новой Гвинеи
+Grup:Ol provins bilong Papua Niugini	Категория:Провинции Папуа — Новой Гвинеи
+Grup:Lukluk bilong manmeri	Категория:Зрение
+Grup:Yusa ru-1	Категория:User ru-1
+Wikipedia:Babel	Википедия:Вавилон
+Templet:Tdeprecated	Шаблон:Устаревший шаблон
+Templet:Cc-by-sa-1.0	Шаблон:CC-BY-SA-1.0
+Templet:·wrap	Шаблон:·wrap
+Templet:User sv-1	Шаблон:User sv-1
+Templet:MoS-guideline	Шаблон:Руководство по содержимому статей
+Grup:Ol siti na taun bilong Polan	Категория:Города Польши
+Templet:Country data Brazil	Шаблон:Флагификация/Бразилия
+Grup:7	Категория:7 год
+Templet:PD-old-70	Шаблон:PD-old-70
+Grup:Paradisaeidae	Категория:Райские птицы
+Grup:Saiens long Manmeri na Ples	Категория:Общественные науки
+Templet:Country data Hungary	Шаблон:Флагификация/Венгрия
+Grup:Ol tokples bilong Esia	Категория:Языки Азии
+Grup:Ol kantri long Aprika	Категория:Страны Африки
+Templet:JanueriKalendar	Шаблон:Календарь на январь
+Grup:Yusa ru	Категория:User ru
+Grup:Yusa ru-2	Категория:User ru-2
+Grup:Yusa ru-3	Категория:User ru-3
+Grup:Yusa ru-4	Категория:User ru-4
+Grup:Yusa vi	Категория:User vi
+Templet:Ref-en	Шаблон:Ref-en
+Templet:Spaces	Шаблон:Nbsp
+Templet:Lang	Шаблон:Lang
+Templet:Template example row	Шаблон:Template example row
+Templet:Nowrap end	Шаблон:Nowrap end
+Templet:As of	Шаблон:На
+Templet:User hsb-1	Шаблон:User hsb-1
+Grup:Vemont	Категория:Вермонт
+Grup:Kolorado	Категория:Колорадо
+Templet:PD-self	Шаблон:PD-self
+Templet:Cc-sa-1.0	Шаблон:CC-SA-1.0
+Templet:ENG	Шаблон:ENG
+Templet:Merge	Шаблон:К объединению
+Grup:Politikis long PNG	Категория:Политика Папуа — Новой Гвинеи
+Templet:User hu-1	Шаблон:User hu-1
+Templet:User no-1	Шаблон:User no-1
+Templet:User ru-1	Шаблон:User ru-1
+Grup:Ubuntu	Категория:Ubuntu
+Grup:Manmeri bilong Belaras	Категория:Белорусы
+Grup:Manmeri bilong Papua Niugini	Категория:Персоналии:Папуа — Новая Гвинея
+Templet:Country data Kosovo	Шаблон:Флагификация/Республика Косово
+Grup:Intanet kod	Категория:Национальные домены верхнего уровня
+Templet:Country data Aruba	Шаблон:Флагификация/Аруба
+Grup:User no-2	Категория:User no-2
+Grup:User no	Категория:User no
+Grup:Armenia	Категория:Армения
+Grup:Bhutan	Категория:Бутан
+Templet:Country data Antigua and Barbuda	Шаблон:Флагификация/Антигуа и Барбуда
+Grup:Ples balus	Категория:Аэропорты
+Grup:Ol nesenel plak	Категория:Флаги государств
+Grup:Not Koria	Категория:Корейская Народно-Демократическая Республика
+Grup:Manmeri bilong Nauru	Категория:Персоналии:Науру
+Grup:Manmeri bilong Ostrelia	Категория:Персоналии:Австралия
+Grup:Vanuatu	Категория:Вануату
+Grup:Korea	Категория:Корея
+Templet:Country data Wels	Шаблон:Флагификация/Уэльс
+Templet:Ref-info	Шаблон:Ref-info
+Templet:Country data Papua Niugini	Шаблон:Флагификация/Папуа — Новая Гвинея
+Grup:Papua Niugini	Категория:Папуа — Новая Гвинея
+Grup:Ol kantri long Pasifik	Категория:Страны Океании
+Grup:Ol kantri long Not Amerika	Категория:Страны Северной Америки
+Grup:Ol tokples bilong Yurop	Категория:Языки Европы
+Grup:Ol maunten bilong Papua Niugini	Категория:Горы Папуа — Новой Гвинеи
+Templet:Incubator	Шаблон:Инкубатор
+Grup:Ol Abus	Категория:Животные
+Grup:Ol kantri long Saut Amerika	Категория:Страны Южной Америки
+Grup:Ol bokis bilong musik	Категория:Музыкальные инструменты
+Grup:Piano	Категория:Фортепиано
+Grup:Ol kapitol bilong kantri	Категория:Столицы государств
+Grup:Akiolosi	Категория:Археология
+Grup:Ilektrisiti	Категория:Электричество
+Grup:Yusa pl	Категория:User pl
+Grup:Famili	Категория:Семья
+Templet:Infobokis Tokples	Шаблон:Язык
+Grup:Osenia	Категория:Океания
+Grup:Ol tokples bilong Osenia	Категория:Языки Австралии и Океании
+Grup:Ol kapitol bilong Not Amerika	Категория:Столицы североамериканских государств
+Grup:Ol ailan bilong Papua Niugini	Категория:Острова Папуа — Новой Гвинеи
+Grup:Kalsa bilong Papua Niugini	Категория:Культура Папуа — Новой Гвинеи
+Grup:Ol kapitol bilong Yurop	Категория:Столицы европейских государств
+Grup:Ol kapitol bilong Esia	Категория:Столицы азиатских государств
+Grup:Ol tokples bilong Vanuatu	Категория:Языки Вануату
+Grup:Ol tokples bilong Papua Niugini	Категория:Языки Папуа — Новой Гвинеи
+Templet:CompactTOC	Шаблон:CompactTOC8
+Templet:FOTW	Шаблон:FOTW
+Templet:NUMBEROF	Шаблон:NUMBEROF
+Templet:WAL	Шаблон:WAL
+Templet:Country data Spain	Шаблон:Флагификация/Испания
+Templet:PD-old-100	Шаблон:PD-old-100
+Templet:User info	Шаблон:User info
+Templet:Country data Canada	Шаблон:Флагификация/Канада
+Templet:Color box	Шаблон:Цветной прямоугольник
+Templet:Country data Anguilla	Шаблон:Флагификация/Ангилья
+Templet:Country data Cocos (Keeling) Islands	Шаблон:Флагификация/Кокосовые острова
+Templet:Country data Isle of Man	Шаблон:Флагификация/Остров Мэн
+Templet:Country data Singapore	Шаблон:Флагификация/Сингапур
+Templet:Tok-pl	Шаблон:Lang-pl
+Trojany	Трояны (Мазовецкое воеводство)
+Grup:Ol kantri long Esia	Категория:Страны Азии
+Templet:Tok-is	Шаблон:Lang-is
+Templet:MasKalendar	Шаблон:Календарь на март
+Templet:Sister	Шаблон:Sister
+Grup:Bogenvil	Категория:Автономный регион Бугенвиль
+Grup:Is Sepik	Категория:Восточный Сепик
+Templet:Precision	Шаблон:Precision/tz
+Grup:Aialan	Категория:Ирландия
+Grup:Linux	Категория:Linux
+Grup:Tebol bilong ol elemen	Категория:Периодическая система
+Grup:Ol siti na taun bilong Vanuatu	Категория:Населённые пункты Вануату
+Grup:León provins	Категория:Леон
+Grup:Burgos provins	Категория:Бургос
+Grup:Kala	Категория:Цвет
+Grup:Ol yunit bilong taim	Категория:Единицы измерения времени
+Grup:Alicante provins	Категория:Аликанте
+Grup:Morobe	Категория:Моробе
+Grup:Ol siti na taun bilong Brasil	Категория:Населённые пункты Бразилии
+Grup:Ol siti na taun	Категория:Города
+Templet:PD-textlogo	Шаблон:PD-textlogo
+Grup:Yusa en-1	Категория:User en-1
+Grup:Yusa de-1	Категория:User de-1
+Templet:Nowrap begin	Шаблон:Nowrap begin
+Templet:NUMBEROF/data	Шаблон:NUMBEROF/data
+Templet:PD-author/mk	Шаблон:PD-author
+Templet:PD-Ukraine	Шаблон:PD-Ukraine
+Templet:PD-RU-exempt	Шаблон:PD-RU-exempt
+Templet:Userbox-level	Участник:Box/Уровень
+Templet:Start date	Шаблон:Start date
+Templet:User hu-2	Шаблон:User hu-2
+Templet:User hu-4	Шаблон:User hu-4
+Templet:User hu-3	Шаблон:User hu-3
+Templet:1000	Шаблон:1000
+Templet:PD-old	Шаблон:PD-old
+Templet:Yunaitet Kingdom ol konstituent na afiliesion	Шаблон:Соединённое Королевство
+Templet:Style/IPA	Шаблон:Style/IPA
+Templet:Style/yid	Шаблон:Style/yid
+Templet:User bi-1	Шаблон:User bi-1
+Templet:Country data Cameroon	Шаблон:Флагификация/Камерун
+Sipesol:Nupela senis	Служебная:Свежие правки
