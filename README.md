@@ -1,132 +1,132 @@
-# wikidict-ja - Wikipedia Bilingual Reference Data (Japanese)
+# wikidict-ru - Wikipedia Bilingual Reference Data (Russian)
 
-This repository makes available parallelized interwiki link data from [Wikidata](https://www.wikidata.org/), which can be used, among other things, for the purpose of creating large offline Japanese dictionaries.
+This repository makes available parallelized interwiki link data from [Wikidata](https://www.wikidata.org/), which can be used, among other things, for the purpose of creating large offline Russian dictionaries.
 
 ## Data
 
-The data directory contains subdirectories arranged in order of [ISO language code](http://en.wikipedia.org/wiki/ISO_639-1). The target language in each case is `ja` (Japanese).
+The data directory contains subdirectories arranged in order of [ISO language code](http://en.wikipedia.org/wiki/ISO_639-1). The target language in each case is `ru` (Russian).
 
-The basic filename pattern is `[ISO]-ja_wiki.txt`, with `[ISO]` being the source language ISO code. A list of all language pairs is [below](#available-language-pairs).
+The basic filename pattern is `[ISO]-ru_wiki.txt`, with `[ISO]` being the source language ISO code. A list of all language pairs is [below](#available-language-pairs).
 
 ## Available language pairs
 
 Language codes | Language names
 -------------- | --------------
-`af-ja` | Afrikaans => Japanese
-`am-ja` | Amharic => Japanese
-`ang-ja` | Anglo-Saxon => Japanese
-`ar-ja` | Arabic => Japanese
-`arc-ja` | Aramaic => Japanese
-`bg-ja` | Bulgarian => Japanese
-`bi-ja` | Bislama => Japanese
-`bn-ja` | Bengali => Japanese
-`bo-ja` | Tibetan => Japanese
-`br-ja` | Breton => Japanese
-`bs-ja` | Bosnian => Japanese
-`ca-ja` | Catalan => Japanese
-`cdo-ja` | Min Dong => Japanese
-`chr-ja` | Cherokee => Japanese
-`chy-ja` | Cheyenne => Japanese
-`cr-ja` | Cree => Japanese
-`cs-ja` | Czech => Japanese
-`cy-ja` | Welsh => Japanese
-`da-ja` | Danish => Japanese
-`de-ja` | German => Japanese
-`el-ja` | Greek => Japanese
-`en-ja` | English => Japanese
-`eo-ja` | Esperanto => Japanese
-`es-ja` | Spanish => Japanese
-`et-ja` | Estonian => Japanese
-`eu-ja` | Basque => Japanese
-`fa-ja` | Persian => Japanese
-`ff-ja` | Fula => Japanese
-`fi-ja` | Finnish => Japanese
-`fr-ja` | French => Japanese
-`ga-ja` | Irish => Japanese
-`gan-ja` | Gan => Japanese
-`gd-ja` | Scottish Gaelic => Japanese
-`gu-ja` | Gujarati => Japanese
-`gv-ja` | Manx => Japanese
-`ha-ja` | Hausa => Japanese
-`hak-ja` | Hakka => Japanese
-`haw-ja` | Hawaiian => Japanese
-`he-ja` | Hebrew => Japanese
-`hi-ja` | Hindi => Japanese
-`hr-ja` | Croatian => Japanese
-`ht-ja` | Haitian => Japanese
-`hu-ja` | Hungarian => Japanese
-`hy-ja` | Armenian => Japanese
-`id-ja` | Indonesian => Japanese
-`ig-ja` | Igbo => Japanese
-`is-ja` | Icelandic => Japanese
-`it-ja` | Italian => Japanese
-`iu-ja` | Inuktitut => Japanese
-`jbo-ja` | Lojban => Japanese
-`jv-ja` | Javanese => Japanese
-`ka-ja` | Georgian => Japanese
-`kg-ja` | Kongo => Japanese
-`ki-ja` | Kikuyu => Japanese
-`kl-ja` | Greenlandic => Japanese
-`km-ja` | Khmer => Japanese
-`ko-ja` | Korean => Japanese
-`la-ja` | Latin => Japanese
-`lg-ja` | Luganda => Japanese
-`lo-ja` | Lao => Japanese
-`lt-ja` | Lithuanian => Japanese
-`lv-ja` | Latvian => Japanese
-`mg-ja` | Malagasy => Japanese
-`mi-ja` | Maori => Japanese
-`mn-ja` | Mongolian => Japanese
-`ms-ja` | Malay => Japanese
-`mt-ja` | Maltese => Japanese
-`nah-ja` | Nahuatl => Japanese
-`ne-ja` | Nepali => Japanese
-`nl-ja` | Dutch => Japanese
-`nn-ja` | Norwegian (Nynorsk) => Japanese
-`no-ja` | Norwegian => Japanese
-`nv-ja` | Navajo => Japanese
-`ny-ja` | Chichewa => Japanese
-`oc-ja` | Occitan => Japanese
-`pa-ja` | Punjabi => Japanese
-`pi-ja` | Pali => Japanese
-`pl-ja` | Polish => Japanese
-`ps-ja` | Pashto => Japanese
-`pt-ja` | Portuguese => Japanese
-`qu-ja` | Quechua => Japanese
-`ro-ja` | Romanian => Japanese
-`ru-ja` | Russian => Japanese
-`sa-ja` | Sanskrit => Japanese
-`se-ja` | Northern Sami => Japanese
-`sh-ja` | Serbo-Croatian => Japanese
-`sk-ja` | Slovak => Japanese
-`sl-ja` | Slovenian => Japanese
-`sn-ja` | Shona => Japanese
-`so-ja` | Somali => Japanese
-`sq-ja` | Albanian => Japanese
-`sr-ja` | Serbian => Japanese
-`sv-ja` | Swedish => Japanese
-`sw-ja` | Kiswahili => Japanese
-`ta-ja` | Tamil => Japanese
-`te-ja` | Telugu => Japanese
-`th-ja` | Thai => Japanese
-`tl-ja` | Tagalog => Japanese
-`tpi-ja` | Tok Pisin => Japanese
-`tr-ja` | Turkish => Japanese
-`ug-ja` | Uyghur => Japanese
-`uk-ja` | Ukrainian => Japanese
-`ur-ja` | Urdu => Japanese
-`vi-ja` | Vietnamese => Japanese
-`wo-ja` | Wolof => Japanese
-`wuu-ja` | Wu => Japanese
-`xh-ja` | Xhosa => Japanese
-`yi-ja` | Yiddish => Japanese
-`yo-ja` | Yoruba => Japanese
-`za-ja` | Zhuang => Japanese
-`zh-ja` | Chinese (Mandarin) => Japanese
-`zh_classical-ja` | Classical Chinese => Japanese
-`zh_min_nan-ja` | Min Nan => Japanese
-`zh_yue-ja` | Cantonese => Japanese
-`zu-ja` | Zulu => Japanese
+`af-ru` | Afrikaans => Russian
+`am-ru` | Amharic => Russian
+`ang-ru` | Anglo-Saxon => Russian
+`ar-ru` | Arabic => Russian
+`arc-ru` | Aramaic => Russian
+`bg-ru` | Bulgarian => Russian
+`bi-ru` | Bislama => Russian
+`bn-ru` | Bengali => Russian
+`bo-ru` | Tibetan => Russian
+`br-ru` | Breton => Russian
+`bs-ru` | Bosnian => Russian
+`ca-ru` | Catalan => Russian
+`cdo-ru` | Min Dong => Russian
+`chr-ru` | Cherokee => Russian
+`chy-ru` | Cheyenne => Russian
+`cr-ru` | Cree => Russian
+`cs-ru` | Czech => Russian
+`cy-ru` | Welsh => Russian
+`da-ru` | Danish => Russian
+`de-ru` | German => Russian
+`el-ru` | Greek => Russian
+`en-ru` | English => Russian
+`eo-ru` | Esperanto => Russian
+`es-ru` | Spanish => Russian
+`et-ru` | Estonian => Russian
+`eu-ru` | Basque => Russian
+`fa-ru` | Persian => Russian
+`ff-ru` | Fula => Russian
+`fi-ru` | Finnish => Russian
+`fr-ru` | French => Russian
+`ga-ru` | Irish => Russian
+`gan-ru` | Gan => Russian
+`gd-ru` | Scottish Gaelic => Russian
+`gu-ru` | Gujarati => Russian
+`gv-ru` | Manx => Russian
+`ha-ru` | Hausa => Russian
+`hak-ru` | Hakka => Russian
+`haw-ru` | Hawaiian => Russian
+`he-ru` | Hebrew => Russian
+`hi-ru` | Hindi => Russian
+`hr-ru` | Croatian => Russian
+`ht-ru` | Haitian => Russian
+`hu-ru` | Hungarian => Russian
+`hy-ru` | Armenian => Russian
+`id-ru` | Indonesian => Russian
+`ig-ru` | Igbo => Russian
+`is-ru` | Icelandic => Russian
+`it-ru` | Italian => Russian
+`iu-ru` | Inuktitut => Russian
+`ja-ru` | Japanese => Russian
+`jbo-ru` | Lojban => Russian
+`jv-ru` | Javanese => Russian
+`ka-ru` | Georgian => Russian
+`kg-ru` | Kongo => Russian
+`ki-ru` | Kikuyu => Russian
+`kl-ru` | Greenlandic => Russian
+`km-ru` | Khmer => Russian
+`ko-ru` | Korean => Russian
+`la-ru` | Latin => Russian
+`lg-ru` | Luganda => Russian
+`lo-ru` | Lao => Russian
+`lt-ru` | Lithuanian => Russian
+`lv-ru` | Latvian => Russian
+`mg-ru` | Malagasy => Russian
+`mi-ru` | Maori => Russian
+`mn-ru` | Mongolian => Russian
+`ms-ru` | Malay => Russian
+`mt-ru` | Maltese => Russian
+`nah-ru` | Nahuatl => Russian
+`ne-ru` | Nepali => Russian
+`nl-ru` | Dutch => Russian
+`nn-ru` | Norwegian (Nynorsk) => Russian
+`no-ru` | Norwegian => Russian
+`nv-ru` | Navajo => Russian
+`ny-ru` | Chichewa => Russian
+`oc-ru` | Occitan => Russian
+`pa-ru` | Punjabi => Russian
+`pi-ru` | Pali => Russian
+`pl-ru` | Polish => Russian
+`ps-ru` | Pashto => Russian
+`pt-ru` | Portuguese => Russian
+`qu-ru` | Quechua => Russian
+`ro-ru` | Romanian => Russian
+`sa-ru` | Sanskrit => Russian
+`se-ru` | Northern Sami => Russian
+`sh-ru` | Serbo-Croatian => Russian
+`sk-ru` | Slovak => Russian
+`sl-ru` | Slovenian => Russian
+`sn-ru` | Shona => Russian
+`so-ru` | Somali => Russian
+`sq-ru` | Albanian => Russian
+`sr-ru` | Serbian => Russian
+`sv-ru` | Swedish => Russian
+`sw-ru` | Kiswahili => Russian
+`ta-ru` | Tamil => Russian
+`te-ru` | Telugu => Russian
+`th-ru` | Thai => Russian
+`tl-ru` | Tagalog => Russian
+`tpi-ru` | Tok Pisin => Russian
+`tr-ru` | Turkish => Russian
+`ug-ru` | Uyghur => Russian
+`uk-ru` | Ukrainian => Russian
+`ur-ru` | Urdu => Russian
+`vi-ru` | Vietnamese => Russian
+`wo-ru` | Wolof => Russian
+`wuu-ru` | Wu => Russian
+`xh-ru` | Xhosa => Russian
+`yi-ru` | Yiddish => Russian
+`yo-ru` | Yoruba => Russian
+`za-ru` | Zhuang => Russian
+`zh-ru` | Chinese (Mandarin) => Russian
+`zh_classical-ru` | Classical Chinese => Russian
+`zh_min_nan-ru` | Min Nan => Russian
+`zh_yue-ru` | Cantonese => Russian
+`zu-ru` | Zulu => Russian
 
 ## Statistics
 
@@ -134,136 +134,136 @@ Language codes | Language names
 
 Language pair | # of entries
 ------------- | ------------
-`af-ja` | 19757
-`am-ja` | 5248
-`ang-ja` | 2013
-`ar-ja` | 92688
-`arc-ja` | 1256
-`bg-ja` | 73969
-`bi-ja` | 415
-`bn-ja` | 16401
-`bo-ja` | 2504
-`br-ja` | 24172
-`bs-ja` | 22447
-`ca-ja` | 114711
-`cdo-ja` | 2148
-`chr-ja` | 445
-`chy-ja` | 505
-`cr-ja` | 90
-`cs-ja` | 104876
-`cy-ja` | 21405
-`da-ja` | 75187
-`de-ja` | 260831
-`el-ja` | 44938
-`en-ja` | 420778
-`eo-ja` | 74026
-`es-ja` | 222147
-`et-ja` | 48477
-`eu-ja` | 54614
-`fa-ja` | 117247
-`ff-ja` | 192
-`fi-ja` | 128086
-`fr-ja` | 288787
-`ga-ja` | 17545
-`gan-ja` | 4841
-`gd-ja` | 9656
-`gu-ja` | 2837
-`gv-ja` | 3456
-`ha-ja` | 352
-`hak-ja` | 3119
-`haw-ja` | 655
-`he-ja` | 76830
-`hi-ja` | 20944
-`hr-ja` | 51455
-`ht-ja` | 8135
-`hu-ja` | 90934
-`hy-ja` | 33981
-`id-ja` | 82586
-`ig-ja` | 685
-`is-ja` | 19321
-`it-ja` | 240730
-`iu-ja` | 331
-`jbo-ja` | 1136
-`jv-ja` | 13561
-`ka-ja` | 35545
-`kg-ja` | 587
-`ki-ja` | 278
-`kl-ja` | 1428
-`km-ja` | 1512
-`ko-ja` | 153002
-`la-ja` | 45686
-`lg-ja` | 158
-`lo-ja` | 1096
-`lt-ja` | 53315
-`lv-ja` | 30748
-`mg-ja` | 14834
-`mi-ja` | 2074
-`mn-ja` | 10181
-`ms-ja` | 49547
-`mt-ja` | 1750
-`nah-ja` | 6095
-`ne-ja` | 5955
-`nl-ja` | 187925
-`nn-ja` | 37595
-`no-ja` | 117903
-`nv-ja` | 1336
-`ny-ja` | 104
-`oc-ja` | 26106
-`pa-ja` | 7101
-`pi-ja` | 2229
-`pl-ja` | 204394
-`ps-ja` | 2312
-`pt-ja` | 192076
-`qu-ja` | 9767
-`ro-ja` | 75817
-`ru-ja` | 224025
-`sa-ja` | 4038
-`se-ja` | 4105
-`sh-ja` | 71530
-`sk-ja` | 54501
-`sl-ja` | 41382
-`sn-ja` | 1429
-`so-ja` | 2217
-`sq-ja` | 18569
-`sr-ja` | 81098
-`sv-ja` | 158763
-`sw-ja` | 14516
-`ta-ja` | 19572
-`te-ja` | 6734
-`th-ja` | 46509
-`tl-ja` | 32889
-`tpi-ja` | 882
-`tr-ja` | 80124
-`ug-ja` | 2175
-`uk-ja` | 128071
-`ur-ja` | 19847
-`vi-ja` | 91203
-`wo-ja` | 835
-`wuu-ja` | 2350
-`xh-ja` | 241
-`yi-ja` | 6369
-`yo-ja` | 13694
-`za-ja` | 644
-`zh-ja` | 225652
-`zh_classical-ja` | 3140
-`zh_min_nan-ja` | 10669
-`zh_yue-ja` | 19693
-`zu-ja` | 520
+`af-ru` | 22103
+`am-ru` | 5654
+`ang-ru` | 2328
+`ar-ru` | 117691
+`arc-ru` | 1311
+`bg-ru` | 108412
+`bi-ru` | 451
+`bn-ru` | 19165
+`bo-ru` | 2629
+`br-ru` | 32330
+`bs-ru` | 33331
+`ca-ru` | 175715
+`cdo-ru` | 1970
+`chr-ru` | 459
+`chy-ru` | 564
+`cr-ru` | 94
+`cs-ru` | 146517
+`cy-ru` | 24170
+`da-ru` | 93247
+`de-ru` | 419832
+`el-ru` | 55319
+`en-ru` | 628522
+`eo-ru` | 117080
+`es-ru` | 343844
+`et-ru` | 64649
+`eu-ru` | 83491
+`fa-ru` | 147974
+`ff-ru` | 198
+`fi-ru` | 169724
+`fr-ru` | 435978
+`ga-ru` | 20548
+`gan-ru` | 4461
+`gd-ru` | 10464
+`gu-ru` | 3915
+`gv-ru` | 3911
+`ha-ru` | 386
+`hak-ru` | 2492
+`haw-ru` | 1836
+`he-ru` | 93640
+`hi-ru` | 24541
+`hr-ru` | 67685
+`ht-ru` | 10893
+`hu-ru` | 123444
+`hy-ru` | 92615
+`id-ru` | 96919
+`ig-ru` | 727
+`is-ru` | 21176
+`it-ru` | 383559
+`iu-ru` | 340
+`ja-ru` | 224129
+`jbo-ru` | 1152
+`jv-ru` | 15638
+`ka-ru` | 54145
+`kg-ru` | 802
+`ki-ru` | 295
+`kl-ru` | 1549
+`km-ru` | 1587
+`ko-ru` | 126028
+`la-ru` | 66391
+`lg-ru` | 159
+`lo-ru` | 1083
+`lt-ru` | 76351
+`lv-ru` | 41839
+`mg-ru` | 28109
+`mi-ru` | 2141
+`mn-ru` | 11262
+`ms-ru` | 86030
+`mt-ru` | 2197
+`nah-ru` | 6911
+`ne-ru` | 6955
+`nl-ru` | 315264
+`nn-ru` | 48733
+`no-ru` | 160516
+`nv-ru` | 1585
+`ny-ru` | 95
+`oc-ru` | 51284
+`pa-ru` | 8202
+`pi-ru` | 2203
+`pl-ru` | 372401
+`ps-ru` | 2748
+`pt-ru` | 302078
+`qu-ru` | 10903
+`ro-ru` | 137094
+`sa-ru` | 4956
+`se-ru` | 5151
+`sh-ru` | 100925
+`sk-ru` | 95665
+`sl-ru` | 52331
+`sn-ru` | 1478
+`so-ru` | 2317
+`sq-ru` | 24569
+`sr-ru` | 122060
+`sv-ru` | 237970
+`sw-ru` | 16095
+`ta-ru` | 22016
+`te-ru` | 8087
+`th-ru` | 47694
+`tl-ru` | 31312
+`tpi-ru` | 1262
+`tr-ru` | 114464
+`ug-ru` | 2239
+`uk-ru` | 310596
+`ur-ru` | 26705
+`vi-ru` | 144734
+`wo-ru` | 890
+`wuu-ru` | 2041
+`xh-ru` | 254
+`yi-ru` | 7203
+`yo-ru` | 13433
+`za-ru` | 616
+`zh-ru` | 234289
+`zh_classical-ru` | 2271
+`zh_min_nan-ru` | 10040
+`zh_yue-ru` | 17169
+`zu-ru` | 549
 
 ### Top ten dictionaries by number of entries
 
 Language pair | # of entries
 ------------- | ------------
-`en-ja` | 420778
-`fr-ja` | 288787
-`de-ja` | 260831
-`it-ja` | 240730
-`zh-ja` | 225652
-`ru-ja` | 224025
-`es-ja` | 222147
-`pl-ja` | 204394
-`pt-ja` | 192076
-`nl-ja` | 187925
+`en-ru` | 628522
+`fr-ru` | 435978
+`de-ru` | 419832
+`it-ru` | 383559
+`pl-ru` | 372401
+`es-ru` | 343844
+`nl-ru` | 315264
+`uk-ru` | 310596
+`pt-ru` | 302078
+`sv-ru` | 237970
 
 ## License
 
